@@ -1,0 +1,24 @@
+# analysis / scoring
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+openpyxl>=3.1
+tabulate>=0.9
+spacy>=3.7            # + python -m spacy download en_core_web_sm
+# hazm 0.10.0 dependencies (its own numpy==1.24.3 pin is skipped, see setup.sh)
+nltk>=3.8
+flashtext>=2.7
+scikit-learn>=1.2
+python-crfsuite>=0.9
+gensim>=4.3
+fasttext-wheel>=0.9.2
+pytest>=7
+lingua-language-detector>=2.0   # response_language.py (optional)
+# hazm==0.10.0 is installed by setup.sh with --no-deps: it pins numpy==1.24.3, which breaks
+# modern pandas, but its Lemmatizer works with any numpy. Other hazm versions lemmatise
+# Persian differently and change 2 Iran items (see VERIFY.md).
+# inference only
+openai>=1.40
+google-genai>=1.0

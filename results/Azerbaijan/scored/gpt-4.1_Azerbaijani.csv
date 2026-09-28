@@ -1,0 +1,501 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+Al-en-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,süd və peçenye,3,False,süd və peçenye,Süd və peçenye,stop,gpt-4.1-2025-04-14
+Al-en-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qızardılmış balıq,2,False,qızardılmış balıq,Qızardılmış balıq,stop,gpt-4.1-2025-04-14
+Al-en-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,nar,1,False,nar,Nar,stop,gpt-4.1-2025-04-14
+Al-en-06,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Al-en-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,popkorn,1,False,popkorn,Popkorn,stop,gpt-4.1-2025-04-14
+Al-en-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,popkorn,1,popkorn,1,False,popkorn,Popkorn,stop,gpt-4.1-2025-04-14
+Al-en-16,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Al-en-17,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şahmat,1,False,şahmat,Şahmat,stop,gpt-4.1-2025-04-14
+Al-en-18,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.2,azərbaycan dili,1,azərbaycan dili,2,False,azərbaycan dili,Azərbaycan dili,stop,gpt-4.1-2025-04-14
+Al-en-19,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,rus dili,1,rus dili,2,False,rus dili,Rus dili,stop,gpt-4.1-2025-04-14
+Al-en-21,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,riyaziyyat,1,riyaziyyat,1,False,riyaziyyat,Riyaziyyat,stop,gpt-4.1-2025-04-14
+Al-en-32,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,hind toyuğu,2,False,hind toyuğu,Hind toyuğu,stop,gpt-4.1-2025-04-14
+Al-en-33,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,bəzi insanlar kostyum geyinir,11,True,"bəzi insanlar kostyum geyinir, evlərini bəzəyir və tematik tədbirlərdə iştirak edirlər","Bəzi insanlar kostyum geyinir, evlərini bəzəyir və tematik tədbirlərdə iştirak edirlər.",stop,gpt-4.1-2025-04-14
+Al-en-34,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şam ağacı bəzəyir,16,True,"şam ağacı bəzəyir, hədiyyələr verir, ailə və dostlarla bir araya gəlir, süfrə açır və atəşfəşanlıq izləyirlər","Şam ağacı bəzəyir, hədiyyələr verir, ailə və dostlarla bir araya gəlir, süfrə açır və atəşfəşanlıq izləyirlər.",stop,gpt-4.1-2025-04-14
+Al-en-35,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,azərbaycanda insanlar əsasən milad bayramını qeyd etmirlər,12,True,"azərbaycanda insanlar əsasən milad bayramını qeyd etmirlər, əksəriyyəti yeni ili qeyd edir","Azərbaycanda insanlar əsasən Milad bayramını qeyd etmirlər, əksəriyyəti Yeni ili qeyd edir.",stop,gpt-4.1-2025-04-14
+Al-en-36,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,balqabaq yeməkləri,2,False,balqabaq yeməkləri,Balqabaq yeməkləri.,stop,gpt-4.1-2025-04-14
+Al-en-37,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,küknar ağacı formasında tort,7,True,"küknar ağacı formasında tort, plov, dolma, qovurma","Küknar ağacı formasında tort, plov, dolma, qovurma.",stop,gpt-4.1-2025-04-14
+Al-en-38,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şokolad,1,şokolad,1,False,şokolad,Şokolad,stop,gpt-4.1-2025-04-14
+Al-en-39,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,tort,1,tort,1,False,tort,Tort.,stop,gpt-4.1-2025-04-14
+Al-en-40,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bulvar,1,dənizkənarı milli park,4,False,dənizkənarı milli park (bulvar),Dənizkənarı Milli Park (Bulvar),stop,gpt-4.1-2025-04-14
+Al-en-43,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bowling oynamaq,2,False,bowling oynamaq,Bowling oynamaq,stop,gpt-4.1-2025-04-14
+An-ar-02,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,tələbə yeməkxanasında,2,False,tələbə yeməkxanasında,Tələbə yeməkxanasında.,stop,gpt-4.1-2025-04-14
+An-ar-03,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+An-ar-08,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+An-ar-09,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+An-ar-34,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+An-ar-35,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,sənan şəfizadə,2,False,sənan şəfizadə,Sənan Şəfizadə,stop,gpt-4.1-2025-04-14
+An-ar-36,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Qarabağ FK,1,qarabağ fk,2,False,qarabağ fk,Qarabağ FK,stop,gpt-4.1-2025-04-14
+An-ar-43,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çayxana,1,kafelər və çayxanalar,3,False,kafelər və çayxanalar,Kafelər və çayxanalar.,stop,gpt-4.1-2025-04-14
+Ca-sp-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Ca-sp-06,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,səhər yeməyi,1,səhər yeməyi,2,False,səhər yeməyi,Səhər yeməyi.,stop,gpt-4.1-2025-04-14
+Ca-sp-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,düyü,1,False,düyü,Düyü,stop,gpt-4.1-2025-04-14
+Ca-sp-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,paxlava,1,paxlava,1,False,paxlava,Paxlava,stop,gpt-4.1-2025-04-14
+Ca-sp-11,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,bazar,1,bazar günü,2,False,bazar günü,Bazar günü.,stop,gpt-4.1-2025-04-14
+Ca-sp-14,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+Ca-sp-19,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,enerji içkiləri və araq,4,False,enerji içkiləri və araq,Enerji içkiləri və araq.,stop,gpt-4.1-2025-04-14
+Ca-sp-21,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,7,1,7,1,False,7,7,stop,gpt-4.1-2025-04-14
+Ca-sp-29,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,şam yeməyi,0,şam ağacı bəzəmək,16,True,"şam ağacı bəzəmək, hədiyyə vermək, milli yeməklər bişirmək, ailə ilə birgə süfrə arxasında olmaq, atəşfəşanlıq etmək","Şam ağacı bəzəmək, hədiyyə vermək, milli yeməklər bişirmək, ailə ilə birgə süfrə arxasında olmaq, atəşfəşanlıq etmək.",stop,gpt-4.1-2025-04-14
+Ca-sp-38,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,mənzil evi,1,mənzil,3,False,mənzil (bina evi),Mənzil (bina evi),stop,gpt-4.1-2025-04-14
+Ca-sp-41,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qocalar evində,2,False,qocalar evində,Qocalar evində.,stop,gpt-4.1-2025-04-14
+Ca-sp-42,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ca-sp-43,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Ca-sp-45,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,dəniz kənarı istirahət zonaları,8,False,"dəniz kənarı istirahət zonaları (məsələn, nabran, lənkəran, quba)","Dəniz kənarı istirahət zonaları (məsələn, Nabran, Lənkəran, Quba).",stop,gpt-4.1-2025-04-14
+Gu-ch-05,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şahmat,1,False,şahmat,Şahmat,stop,gpt-4.1-2025-04-14
+Gu-ch-06,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Gu-ch-07,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,rüfət hüseynzadə,2,False,rüfət hüseynzadə,Rüfət Hüseynzadə,stop,gpt-4.1-2025-04-14
+Gu-ch-08,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Gu-ch-09,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,voleybol,1,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+Gu-ch-11,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Gu-ch-15,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Gu-ch-16,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-18,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Gu-ch-31,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-32,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+Gu-ch-33,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Gu-ch-38,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-40,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Gu-ch-41,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Ji-ko-02,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,cümə,1,cümə axşamı,2,False,cümə axşamı,Cümə axşamı,stop,gpt-4.1-2025-04-14
+Ji-ko-03,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+Ji-ko-07,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,Azercell,1,azercell,1,False,azercell,Azercell,stop,gpt-4.1-2025-04-14
+Ji-ko-08,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,40,1,40,1,False,40,40,stop,gpt-4.1-2025-04-14
+Ji-ko-09,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,paxlava və çay,3,False,paxlava və çay,Paxlava və çay.,stop,gpt-4.1-2025-04-14
+Ji-ko-14,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,neft,1,neft,1,False,neft,Neft,stop,gpt-4.1-2025-04-14
+Ji-ko-15,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,1,1,1.0,1,False,1.0,1.0,stop,gpt-4.1-2025-04-14
+Ji-ko-16,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,evdə,1,doğum evi,2,False,doğum evi,Doğum evi,stop,gpt-4.1-2025-04-14
+Ji-ko-19,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qızılgül,1,qızılgül,1,False,qızılgül,Qızılgül,stop,gpt-4.1-2025-04-14
+Ji-ko-22,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,valideynlərə,1,valideynlərinə,6,True,valideynlərinə və ya yaxınlarına hədiyyə almağa,Valideynlərinə və ya yaxınlarına hədiyyə almağa.,stop,gpt-4.1-2025-04-14
+Ji-ko-24,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,gənclik parkı,2,False,gənclik parkı,Gənclik Parkı,stop,gpt-4.1-2025-04-14
+Ji-ko-25,Family,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,ailə,18,True,"ailə, qadın və uşaq problemləri üzrə dövlət komitəsinin təşəbbüsü ilə qeyd olunan 15 may – beynəlxalq ailə günü","Ailə, Qadın və Uşaq Problemləri üzrə Dövlət Komitəsinin təşəbbüsü ilə qeyd olunan 15 may – Beynəlxalq Ailə Günü.",stop,gpt-4.1-2025-04-14
+Ji-ko-26,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,evlənmək,0,təhsil alma,8,True,"təhsil alma, işə başlama, evlənmə, ayrı evdə yaşama","Təhsil alma, işə başlama, evlənmə, ayrı evdə yaşama.",stop,gpt-4.1-2025-04-14
+Ji-ko-27,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şirniyyat,1,şirniyyat,1,False,şirniyyat,Şirniyyat,stop,gpt-4.1-2025-04-14
+Ji-ko-28,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qırxı çıxan gün,3,False,qırxı çıxan gün,Qırxı çıxan gün.,stop,gpt-4.1-2025-04-14
+Ji-ko-29,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,1,1,1 yaş,2,False,1 yaş,1 yaş,stop,gpt-4.1-2025-04-14
+Ji-ko-31,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,kurslarda,1,hazırlıq kurslarında,2,False,hazırlıq kurslarında,Hazırlıq kurslarında.,stop,gpt-4.1-2025-04-14
+Ji-ko-33,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,evə,1,evə,1,False,evə,Evə.,stop,gpt-4.1-2025-04-14
+Ji-ko-34,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,piyada,1,piyada,1,False,piyada,Piyada.,stop,gpt-4.1-2025-04-14
+Ji-ko-35,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,kolleclər və repetitorluq,3,False,kolleclər və repetitorluq,Kolleclər və repetitorluq.,stop,gpt-4.1-2025-04-14
+Ji-ko-36,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,riyaziyyat,1,riyaziyyat,1,False,riyaziyyat,Riyaziyyat,stop,gpt-4.1-2025-04-14
+Ji-ko-37,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,məktəbli forması,1,məktəbli formasında,2,False,məktəbli formasında,Məktəbli formasında.,stop,gpt-4.1-2025-04-14
+Ji-ko-38,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,tibb,1,tibb,1,False,tibb,Tibb,stop,gpt-4.1-2025-04-14
+Ji-ko-39,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qarmon,1,False,qarmon,Qarmon,stop,gpt-4.1-2025-04-14
+Ji-ko-40,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,söhbət edirlər,2,False,söhbət edirlər,Söhbət edirlər.,stop,gpt-4.1-2025-04-14
+Ji-ko-41,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qara rəngli ayaqqabılar,3,False,qara rəngli ayaqqabılar,Qara rəngli ayaqqabılar.,stop,gpt-4.1-2025-04-14
+Ji-ko-42,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,riyaziyyat,1,azərbaycan dili,10,True,"azərbaycan dili, riyaziyyat, xarici dil və ixtisas qrupuna uyğun fənlər","Azərbaycan dili, riyaziyyat, xarici dil və ixtisas qrupuna uyğun fənlər.",stop,gpt-4.1-2025-04-14
+Ji-ko-44,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,Bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+Ji-ko-45,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,konsert proqramlarını,2,False,konsert proqramlarını,Konsert proqramlarını.,stop,gpt-4.1-2025-04-14
+Jo-sp-01,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Jo-sp-02,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Jo-sp-09,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qolf,0,atçılıq,3,True,"atçılıq, qolf, tennis","Atçılıq, qolf, tennis",stop,gpt-4.1-2025-04-14
+Jo-sp-13,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,üzgüçülük,1,üzgüçülük,1,False,üzgüçülük,Üzgüçülük,stop,gpt-4.1-2025-04-14
+Jo-sp-14,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şahmat,1,şahmat,1,False,şahmat,Şahmat,stop,gpt-4.1-2025-04-14
+Jo-sp-18,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,21,1,False,21,21,stop,gpt-4.1-2025-04-14
+Jo-sp-19,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,aran bölgəsi,2,False,aran bölgəsi,Aran bölgəsi,stop,gpt-4.1-2025-04-14
+Jo-sp-21,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Jo-sp-31,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,15:00,1,15:00,1,False,15:00,15:00,stop,gpt-4.1-2025-04-14
+Jo-sp-32,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Jo-sp-36,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,13,1,False,13,13,stop,gpt-4.1-2025-04-14
+Jo-sp-37,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,12,1,12,1,False,12,12,stop,gpt-4.1-2025-04-14
+Jo-sp-39,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Jo-sp-43,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Jod-ch-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qaşıq,1,qaşıq,3,True,"qaşıq, çəngəl, bıçaq","Qaşıq, çəngəl, bıçaq.",stop,gpt-4.1-2025-04-14
+Jod-ch-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,cola,1,coca-cola,1,False,coca-cola,Coca-Cola,stop,gpt-4.1-2025-04-14
+Jod-ch-06,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,araq,1,araq,1,False,araq,Araq,stop,gpt-4.1-2025-04-14
+Jod-ch-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,1,1,1.5,1,False,1.5,1.5,stop,gpt-4.1-2025-04-14
+Jod-ch-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Jod-ch-12,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,düşbərə,1,düşbərə,1,False,düşbərə,Düşbərə,stop,gpt-4.1-2025-04-14
+Jod-ch-13,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dönər,1,dönər,1,False,dönər,Dönər,stop,gpt-4.1-2025-04-14
+Jod-ch-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,balıq,1,balıq,1,False,balıq,Balıq,stop,gpt-4.1-2025-04-14
+Jod-ch-16,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bakı caz festivalı,3,False,bakı caz festivalı,Bakı Caz Festivalı,stop,gpt-4.1-2025-04-14
+Jod-ch-28,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,avtobus,1,avtobus,1,False,avtobus,Avtobus,stop,gpt-4.1-2025-04-14
+Jod-ch-30,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,xarı bülbül,2,False,xarı bülbül,Xarı bülbül.,stop,gpt-4.1-2025-04-14
+Jod-ch-37,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,voleybol,1,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+Jod-ch-38,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Jod-ch-41,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,sosial media istifadə edir,4,False,sosial media istifadə edir,Sosial media istifadə edir.,stop,gpt-4.1-2025-04-14
+Jod-ch-42,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,dostları ilə vaxt keçirmək,4,False,dostları ilə vaxt keçirmək,Dostları ilə vaxt keçirmək.,stop,gpt-4.1-2025-04-14
+Jod-ch-46,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,0,1,0.5,1,False,0.5,0.5,stop,gpt-4.1-2025-04-14
+Jod-ch-48,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+Jod-ch-50,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,31,1,False,31,31,stop,gpt-4.1-2025-04-14
+Jod-ch-51,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,avtobus,1,avtobus,1,False,avtobus,Avtobus,stop,gpt-4.1-2025-04-14
+Jod-ch-54,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Jod-ch-56,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,60,1,False,60,60,stop,gpt-4.1-2025-04-14
+Jod-ch-57,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,65,1,65,1,False,65,65,stop,gpt-4.1-2025-04-14
+Jod-ch-58,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,həkim,1,həkim,1,False,həkim,Həkim,stop,gpt-4.1-2025-04-14
+Jod-ch-60,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,8,1,8,1,False,8,8,stop,gpt-4.1-2025-04-14
+Jod-ch-61,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,müəllimlik,1,müəllimlik,1,False,müəllimlik,Müəllimlik,stop,gpt-4.1-2025-04-14
+Jod-ch-62,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,mühəndis,1,False,mühəndis,Mühəndis,stop,gpt-4.1-2025-04-14
+Ki-pe-17,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,11 il,1,11 il,2,False,11 il,11 il,stop,gpt-4.1-2025-04-14
+Ki-pe-24,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,rus dili,1,rus dili,12,True,"rus dili, fransız dili, alman dili, ərəb dili, fars dili, türk dili","Rus dili, fransız dili, alman dili, ərəb dili, fars dili, türk dili.",stop,gpt-4.1-2025-04-14
+Ki-pe-30,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bazar,1,şənbə və bazar,3,False,şənbə və bazar,Şənbə və bazar.,stop,gpt-4.1-2025-04-14
+Ki-pe-32,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dolma,1,plov,5,True,"plov, dolma, kabab, piti, qutab","Plov, dolma, kabab, piti, qutab.",stop,gpt-4.1-2025-04-14
+Ki-pe-34,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+Ki-pe-36,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,türkiyə,1,türkiyə,1,False,türkiyə,Türkiyə,stop,gpt-4.1-2025-04-14
+Ki-pe-39,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,kabap,5,True,"kabap, dolma, plov, salat, lavaş","Kabap, dolma, plov, salat, lavaş.",stop,gpt-4.1-2025-04-14
+Ki-pe-40,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qara ciyər plovu,3,False,qara ciyər plovu,Qara ciyər plovu.,stop,gpt-4.1-2025-04-14
+Ki-pe-43,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,təndir çörəyi,1,təndir çörəyi,2,False,təndir çörəyi,Təndir çörəyi,stop,gpt-4.1-2025-04-14
+Ki-pe-51,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,stop,gpt-4.1-2025-04-14
+Ki-pe-53,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,stop,gpt-4.1-2025-04-14
+Kik-in-01,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,novruz,1,novruz bayramı,2,False,novruz bayramı,Novruz Bayramı,stop,gpt-4.1-2025-04-14
+Kik-in-02,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bayraqlar asmaq,13,True,"bayraqlar asmaq, yürüşlər keçirmək, konsertlər təşkil etmək, atəşfəşanlıq etmək, rəsmi tədbirlərdə iştirak etmək","Bayraqlar asmaq, yürüşlər keçirmək, konsertlər təşkil etmək, atəşfəşanlıq etmək, rəsmi tədbirlərdə iştirak etmək.",stop,gpt-4.1-2025-04-14
+Kik-in-04,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,qara bayraq,1,qara bayraq,2,False,qara bayraq,Qara bayraq,stop,gpt-4.1-2025-04-14
+Kik-in-05,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,qırx çıxımı,2,False,qırx çıxımı,Qırx çıxımı.,stop,gpt-4.1-2025-04-14
+Kik-in-06,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,nişan,1,nişan,1,False,nişan,Nişan,stop,gpt-4.1-2025-04-14
+Kik-in-07,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,şirniyyat,1,şirniyyat,1,False,şirniyyat,Şirniyyat,stop,gpt-4.1-2025-04-14
+Kik-in-08,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,evdə təmizlik işləri aparılır və bazarlıq edilir,7,False,evdə təmizlik işləri aparılır və bazarlıq edilir,Evdə təmizlik işləri aparılır və bazarlıq edilir.,stop,gpt-4.1-2025-04-14
+Kik-in-10,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,i̇çərişəhər,1,i̇çərişəhər,2,False,i̇çərişəhər (bakı),İçərişəhər (Bakı),stop,gpt-4.1-2025-04-14
+Kik-in-11,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,təzəpir məscidi,0,i̇çərişəhər cümə məscidi,15,True,"i̇çərişəhər cümə məscidi, təzəpir məscidi, qafqaz albaniyası kilsələri (kiş kilsəsi), ateşgah məbədi, alexander nevski kafedralı","İçərişəhər Cümə Məscidi, Təzəpir Məscidi, Qafqaz Albaniyası kilsələri (Kiş kilsəsi), Ateşgah məbədi, Alexander Nevski Kafedralı.",stop,gpt-4.1-2025-04-14
+Kik-in-15,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,don,1,False,don,Don,stop,gpt-4.1-2025-04-14
+Kik-in-16,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+Kik-in-17,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,xurma,1,xurma,1,False,xurma,Xurma,stop,gpt-4.1-2025-04-14
+Kik-in-24,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kartof qızartması,1,kartof qızartması,2,False,kartof qızartması,Kartof qızartması,stop,gpt-4.1-2025-04-14
+Kik-in-31,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Kik-in-34,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Kik-in-35,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Kik-in-36,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Qurban Qurbanov,1,qurban qurbanov,2,False,qurban qurbanov,Qurban Qurbanov,stop,gpt-4.1-2025-04-14
+Kik-in-37,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Neftçi vs Qarabağ,1,neftçi vs qarabağ,3,False,neftçi vs qarabağ,Neftçi vs Qarabağ,stop,gpt-4.1-2025-04-14
+Kik-in-38,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,qarabağ vs neftçi,3,False,qarabağ vs neftçi,Qarabağ vs Neftçi,stop,gpt-4.1-2025-04-14
+Kik-in-40,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,edi resulov,2,False,edi resulov,Edi Resulov,stop,gpt-4.1-2025-04-14
+Kik-in-41,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,ezmi quliyeva,2,False,ezmi quliyeva,Ezmi Quliyeva,stop,gpt-4.1-2025-04-14
+Kik-in-44,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Kik-in-45,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol meydançası,1,futbol meydançası,2,False,futbol meydançası,Futbol meydançası,stop,gpt-4.1-2025-04-14
+Na-ko-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+Na-ko-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,xaş,1,xaş,1,False,xaş,Xaş,stop,gpt-4.1-2025-04-14
+Na-ko-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dönər,1,dönər,1,False,dönər,Dönər,stop,gpt-4.1-2025-04-14
+Na-ko-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qoyun əti,2,False,qoyun əti,Qoyun əti.,stop,gpt-4.1-2025-04-14
+Na-ko-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,alma,1,nar,4,True,"nar, heyva, alma, armud","Nar, heyva, alma, armud.",stop,gpt-4.1-2025-04-14
+Na-ko-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,düyü plov,2,False,düyü plov,Düyü plov,stop,gpt-4.1-2025-04-14
+Na-ko-11,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,çərəz,1,çərəz,1,False,çərəz,Çərəz.,stop,gpt-4.1-2025-04-14
+Na-ko-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Na-ko-16,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qara qarayev,2,False,qara qarayev,Qara Qarayev,stop,gpt-4.1-2025-04-14
+Na-ko-17,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol.,stop,gpt-4.1-2025-04-14
+Na-ko-18,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,voleybol,1,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+Na-ko-19,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,oksana parkhomenko,2,False,oksana parkhomenko,Oksana Parkhomenko,stop,gpt-4.1-2025-04-14
+Na-ko-20,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Na-ko-22,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Ermənistan,1,ermənistan,1,False,ermənistan,Ermənistan,stop,gpt-4.1-2025-04-14
+Na-ko-23,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol akademiyalarına,2,False,futbol akademiyalarına,Futbol akademiyalarına.,stop,gpt-4.1-2025-04-14
+Na-ko-24,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,dönər,1,False,dönər,Dönər,stop,gpt-4.1-2025-04-14
+Na-ko-25,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,5,True,"futbol, voleybol, basketbol, şahmat, atletika","Futbol, voleybol, basketbol, şahmat, atletika.",stop,gpt-4.1-2025-04-14
+Na-ko-26,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,6,True,"futbol, voleybol, şahmat, stolüstü tennis, güləş","Futbol, voleybol, şahmat, stolüstü tennis, güləş.",stop,gpt-4.1-2025-04-14
+Na-ko-28,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,fəridə abiyeva,2,False,fəridə abiyeva,Fəridə Abiyeva,stop,gpt-4.1-2025-04-14
+Na-ko-29,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ramil vəlizadə,2,False,ramil vəlizadə,Ramil Vəlizadə,stop,gpt-4.1-2025-04-14
+Na-ko-30,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,counter-strike: global offensive,3,False,counter-strike: global offensive,Counter-Strike: Global Offensive,stop,gpt-4.1-2025-04-14
+Na-ko-33,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,səməni,1,False,səməni,Səməni,stop,gpt-4.1-2025-04-14
+Na-ko-37,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,nabran,1,False,nabran,Nabran,stop,gpt-4.1-2025-04-14
+Na-ko-38,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qızıl,1,False,qızıl,Qızıl.,stop,gpt-4.1-2025-04-14
+Na-ko-39,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,pul,1,pul,1,False,pul,Pul,stop,gpt-4.1-2025-04-14
+Na-ko-40,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Na-ko-41,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qara yaylıq,2,False,qara yaylıq,Qara yaylıq,stop,gpt-4.1-2025-04-14
+Na-ko-42,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+Na-ko-43,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,bir-birini təbrik edir,6,True,"bir-birini təbrik edir, bayram süfrəsi açır","Bir-birini təbrik edir, bayram süfrəsi açır.",stop,gpt-4.1-2025-04-14
+Na-ko-44,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,novruz bayramı,1,novruz bayramı günləri,3,False,novruz bayramı günləri,Novruz bayramı günləri.,stop,gpt-4.1-2025-04-14
+Na-ko-45,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Qəbələ,1,qəbələ,1,False,qəbələ,Qəbələ,stop,gpt-4.1-2025-04-14
+Ne-ar-05,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,respublika günü,2,False,respublika günü,Respublika Günü,stop,gpt-4.1-2025-04-14
+Ne-ar-06,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+Ne-ar-09,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şirniyyatlar,4,False,"şirniyyatlar (paxlava, şəkərbura, qoğal)","Şirniyyatlar (paxlava, şəkərbura, qoğal)",stop,gpt-4.1-2025-04-14
+Ne-ar-10,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qurban əti,1,qurban əti,2,False,qurban əti,Qurban əti.,stop,gpt-4.1-2025-04-14
+Ne-ar-11,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,təzəpir məscidinə,2,False,təzəpir məscidinə,Təzəpir məscidinə.,stop,gpt-4.1-2025-04-14
+Ne-ar-14,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,evde,1,False,evde,Evde.,stop,gpt-4.1-2025-04-14
+Ne-ar-16,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şənbə,1,şənbə və bazar,3,False,şənbə və bazar,Şənbə və Bazar,stop,gpt-4.1-2025-04-14
+Ne-ar-17,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,stop,gpt-4.1-2025-04-14
+Ne-ar-18,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,stop,gpt-4.1-2025-04-14
+Ne-ar-20,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ofis işi,2,False,ofis işi,Ofis işi.,stop,gpt-4.1-2025-04-14
+Ne-ar-24,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+Ne-ar-25,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,neft və qaz,1,neft və qaz sənayesi,4,False,neft və qaz sənayesi,Neft və qaz sənayesi,stop,gpt-4.1-2025-04-14
+Ne-ar-26,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,socar,1,socar,1,False,socar,SOCAR,stop,gpt-4.1-2025-04-14
+Ne-ar-31,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Ne-ar-32,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,pendir,1,pendirlə çörək,2,False,pendirlə çörək,Pendirlə çörək.,stop,gpt-4.1-2025-04-14
+Ne-ar-33,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Ne-ar-34,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,duz,1,duz,1,False,duz,Duz,stop,gpt-4.1-2025-04-14
+Ne-ar-36,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Ne-ar-37,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,nar,1,nar,1,False,nar,Nar,stop,gpt-4.1-2025-04-14
+Ne-ar-38,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Ne-ar-39,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dönər,1,dönər,1,False,dönər,Dönər,stop,gpt-4.1-2025-04-14
+Ne-ar-43,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şirniyyat,1,şirniyyat,1,False,şirniyyat,Şirniyyat,stop,gpt-4.1-2025-04-14
+Ne-ar-44,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,süd,1,False,süd,Süd,stop,gpt-4.1-2025-04-14
+New-am-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+New-am-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,nar sousu,2,False,nar sousu,Nar sousu,stop,gpt-4.1-2025-04-14
+New-am-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bitki mənşəli yeməklər,9,True,"bitki mənşəli yeməklər, paxlalılar, tərəvəzlər, meyvələr, çörək və balıq","Bitki mənşəli yeməklər, paxlalılar, tərəvəzlər, meyvələr, çörək və balıq.",stop,gpt-4.1-2025-04-14
+New-am-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,südlü aş,2,False,südlü aş,Südlü aş,stop,gpt-4.1-2025-04-14
+New-am-27,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,farida azizova,2,False,farida azizova,Farida Azizova,stop,gpt-4.1-2025-04-14
+New-am-34,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,evlərində,1,ev şəraitində,2,False,ev şəraitində,Ev şəraitində.,stop,gpt-4.1-2025-04-14
+New-am-41,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ix sinifdə,2,False,ix sinifdə,IX sinifdə.,stop,gpt-4.1-2025-04-14
+New-am-53,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Lənkəran,1,lənkəran,1,False,lənkəran,Lənkəran,stop,gpt-4.1-2025-04-14
+New-am-54,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qarabağ,1,False,qarabağ,Qarabağ,stop,gpt-4.1-2025-04-14
+New-am-59,Work life,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,maldarlıq,1,maldarlıq,1,False,maldarlıq,Maldarlıq.,stop,gpt-4.1-2025-04-14
+New-am-60,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,at,1,at,1,False,at,At,stop,gpt-4.1-2025-04-14
+New-am-72,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,tıq-tıq xanım,2,False,tıq-tıq xanım,Tıq-tıq xanım,stop,gpt-4.1-2025-04-14
+New-am-73,Family,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,balaca tv,2,False,balaca tv,Balaca TV,stop,gpt-4.1-2025-04-14
+New-am-74,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bizimləsən,1,False,bizimləsən,Bizimləsən,stop,gpt-4.1-2025-04-14
+New-am-77,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.4,qurban,1,qurban bayramı,2,False,qurban bayramı,Qurban bayramı,stop,gpt-4.1-2025-04-14
+New-am-81,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,8,1,False,8,8,stop,gpt-4.1-2025-04-14
+New-am-83,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,tar,1,tar,1,False,tar,Tar,stop,gpt-4.1-2025-04-14
+New-as-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,pambıq,1,pambıq,1,False,pambıq,Pambıq,stop,gpt-4.1-2025-04-14
+New-as-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çörək,1,çörək,1,False,çörək,Çörək,stop,gpt-4.1-2025-04-14
+New-as-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+New-as-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,kükü balıq,2,False,kükü balıq,Kükü balıq,stop,gpt-4.1-2025-04-14
+New-as-14,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,kükü,1,False,kükü,Kükü.,stop,gpt-4.1-2025-04-14
+New-as-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-as-20,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+New-as-29,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+New-as-30,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,voleybol,1,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+New-as-58,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+New-as-64,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Novruz Bayramı,1,novruz bayramında,2,False,novruz bayramında,Novruz bayramında.,stop,gpt-4.1-2025-04-14
+New-as-76,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,yallı,1,False,yallı,Yallı,stop,gpt-4.1-2025-04-14
+New-as-80,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,kəlağayı və çuxa,3,False,kəlağayı və çuxa,Kəlağayı və çuxa.,stop,gpt-4.1-2025-04-14
+New-as-89,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,kəlağayı,1,False,kəlağayı,Kəlağayı,stop,gpt-4.1-2025-04-14
+New-az-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şəki,1,False,şəki,Şəki,stop,gpt-4.1-2025-04-14
+New-az-11,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qarpız,1,qarpız və yemiş,3,False,qarpız və yemiş,Qarpız və yemiş.,stop,gpt-4.1-2025-04-14
+New-az-12,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Lənkəran,1,lənkəran,1,False,lənkəran,Lənkəran,stop,gpt-4.1-2025-04-14
+New-az-21,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Qusar,1,qusar,2,False,qusar (şahdağ),Qusar (Şahdağ),stop,gpt-4.1-2025-04-14
+New-az-26,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,zabit səmədov,2,False,zabit səmədov,Zabit Səmədov,stop,gpt-4.1-2025-04-14
+New-az-27,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,cüdo,1,cüdo,2,False,cüdo,Cavab: Cüdo,stop,gpt-4.1-2025-04-14
+New-az-39,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,türkiyə,1,türkiyə,1,False,türkiyə,Türkiyə,stop,gpt-4.1-2025-04-14
+New-az-49,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+New-az-60,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,nənə,1,nənə və baba,3,False,nənə və baba,Nənə və baba.,stop,gpt-4.1-2025-04-14
+New-az-69,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,araq,1,araq,1,False,araq,Araq,stop,gpt-4.1-2025-04-14
+New-az-70,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şərab,1,şərab,1,False,şərab,Şərab,stop,gpt-4.1-2025-04-14
+New-az-73,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,200,1,200,1,False,200,200,stop,gpt-4.1-2025-04-14
+New-ch-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,quzu,1,quzu əti,2,False,quzu əti,Quzu əti,stop,gpt-4.1-2025-04-14
+New-ch-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+New-ch-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,çörək və pendir,3,False,çörək və pendir,Çörək və pendir.,stop,gpt-4.1-2025-04-14
+New-ch-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ləvəngi,1,False,ləvəngi,Ləvəngi.,stop,gpt-4.1-2025-04-14
+New-ch-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,soyutma,5,True,"soyutma, kabab, balıq, pendir, turşu","Soyutma, kabab, balıq, pendir, turşu.",stop,gpt-4.1-2025-04-14
+New-ch-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,zəfəran,1,False,zəfəran,Zəfəran,stop,gpt-4.1-2025-04-14
+New-ch-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,düşbərə,1,düşbərə,1,False,düşbərə,Düşbərə,stop,gpt-4.1-2025-04-14
+New-ch-13,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,xırdalan,1,xırdalan,1,False,xırdalan,Xırdalan,stop,gpt-4.1-2025-04-14
+New-ch-14,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,toyuq supu,1,düşbərə,5,True,"düşbərə, toyuq supu, aş, xəngəl","Düşbərə, toyuq supu, aş, xəngəl.",stop,gpt-4.1-2025-04-14
+New-ch-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,dönər,6,True,"dönər, plov, kotlet, dolma, salat, blinçik","Dönər, plov, kotlet, dolma, salat, blinçik.",stop,gpt-4.1-2025-04-14
+New-ch-16,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qafqazın qartalı,2,False,qafqazın qartalı,Qafqazın qartalı,stop,gpt-4.1-2025-04-14
+New-ch-17,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,paraplan uçuşu,2,False,paraplan uçuşu,Paraplan uçuşu,stop,gpt-4.1-2025-04-14
+New-ch-18,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,100 metr qaçış,1,100 metr qaçış,3,False,100 metr qaçış,100 metr qaçış,stop,gpt-4.1-2025-04-14
+New-ch-19,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bədii gimnastika,1,bədii gimnastika,2,False,bədii gimnastika,Bədii gimnastika,stop,gpt-4.1-2025-04-14
+New-ch-23,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,fəxrəddin qurbanov,2,False,fəxrəddin qurbanov,Fəxrəddin Qurbanov,stop,gpt-4.1-2025-04-14
+New-ch-26,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,fiqurlu konkisürmə,1,fiqurlu konkisürmə,2,False,fiqurlu konkisürmə,Fiqurlu konkisürmə,stop,gpt-4.1-2025-04-14
+New-ch-27,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,məhəmmədrəsul məcidov,2,False,məhəmmədrəsul məcidov,Məhəmmədrəsul Məcidov,stop,gpt-4.1-2025-04-14
+New-ch-30,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,ramil quliyev,1,ramil quliyev,2,False,ramil quliyev,Ramil Quliyev,stop,gpt-4.1-2025-04-14
+New-ch-31,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,həkim,1,həkim,1,False,həkim,Həkim,stop,gpt-4.1-2025-04-14
+New-ch-32,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,excel,1,microsoft office,5,False,"microsoft office (word, excel, powerpoint)","Microsoft Office (Word, Excel, PowerPoint)",stop,gpt-4.1-2025-04-14
+New-ch-38,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,sumqayıt,1,bakı,8,True,"bakı, sumqayıt, gəncə, lənkəran, astara, quba, xaçmaz, şəki","Bakı, Sumqayıt, Gəncə, Lənkəran, Astara, Quba, Xaçmaz, Şəki.",stop,gpt-4.1-2025-04-14
+New-ch-39,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,kontakt home,2,False,kontakt home,Kontakt Home,stop,gpt-4.1-2025-04-14
+New-ch-44,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,3 ay,1,3 ay,2,False,3 ay,3 ay,stop,gpt-4.1-2025-04-14
+New-ch-45,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,texnologiya,1,i̇t və texnologiya,11,True,"i̇t və texnologiya, xidmət sektoru, ticarət, kənd təsərrüfatı və qida sənayesi","İT və texnologiya, xidmət sektoru, ticarət, kənd təsərrüfatı və qida sənayesi.",stop,gpt-4.1-2025-04-14
+New-ch-49,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,telefon zəngi,2,False,telefon zəngi,Telefon zəngi,stop,gpt-4.1-2025-04-14
+New-ch-51,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,kottec,1,kottec,1,False,kottec,Kottec,stop,gpt-4.1-2025-04-14
+New-ch-54,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,nar,1,False,nar,Nar,stop,gpt-4.1-2025-04-14
+New-ch-64,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,20,1,20,1,False,20,20,stop,gpt-4.1-2025-04-14
+New-ch-66,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,0,1,500,1,False,500,500,stop,gpt-4.1-2025-04-14
+New-ch-70,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,tarix,1,azərbaycan tarixi,9,True,"azərbaycan tarixi, azərbaycan dili, fəlsəfə, i̇nformasiya texnologiyaları, xarici dil","Azərbaycan tarixi, Azərbaycan dili, Fəlsəfə, İnformasiya texnologiyaları, Xarici dil.",stop,gpt-4.1-2025-04-14
+New-ch-71,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,25,1,25,1,False,25,25,stop,gpt-4.1-2025-04-14
+New-ch-72,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,i̇nformasiya texnologiyaları,3,False,i̇nformasiya texnologiyaları (it),İnformasiya texnologiyaları (IT),stop,gpt-4.1-2025-04-14
+New-ch-73,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,debat,1,i̇ntellektual və debat klubları,4,False,i̇ntellektual və debat klubları,İntellektual və debat klubları.,stop,gpt-4.1-2025-04-14
+New-ch-74,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,ev,1,kirayə evlərdə,2,False,kirayə evlərdə,Kirayə evlərdə.,stop,gpt-4.1-2025-04-14
+New-ch-75,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,45,1,45,1,False,45,45,stop,gpt-4.1-2025-04-14
+New-ch-78,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,toxuculuq və bağçılıq,3,False,toxuculuq və bağçılıq,Toxuculuq və bağçılıq.,stop,gpt-4.1-2025-04-14
+New-ch-79,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,nərd,1,nərd oynamaq,2,False,nərd oynamaq,Nərd oynamaq.,stop,gpt-4.1-2025-04-14
+New-ch-80,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qurban,1,qurban bayramı və ramazan bayramı,5,False,qurban bayramı və ramazan bayramı,Qurban bayramı və Ramazan bayramı.,stop,gpt-4.1-2025-04-14
+New-ch-81,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,duz,1,False,duz,Duz.,stop,gpt-4.1-2025-04-14
+New-ch-82,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,19:00,1,19:00,1,False,19:00,19:00,stop,gpt-4.1-2025-04-14
+New-ch-83,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+New-ch-84,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qara,1,qara,1,False,qara,Qara,stop,gpt-4.1-2025-04-14
+New-ch-85,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qara,1,qara,1,False,qara,Qara,stop,gpt-4.1-2025-04-14
+New-en-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,popkorn,1,popkorn,1,False,popkorn,Popkorn,stop,gpt-4.1-2025-04-14
+New-en-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,pendirlidir,1,False,pendirlidir,Pendirlidir.,stop,gpt-4.1-2025-04-14
+New-en-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,tahir əmiraslanov,2,False,tahir əmiraslanov,Tahir Əmiraslanov,stop,gpt-4.1-2025-04-14
+New-en-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,düşbərə,1,False,düşbərə,Düşbərə,stop,gpt-4.1-2025-04-14
+New-en-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,masterchef azərbaycan dadlı mətbəx,6,True,"masterchef azərbaycan, dadlı mətbəx, ləzzət düşərgəsi","Masterchef Azərbaycan, Dadlı Mətbəx, Ləzzət Düşərgəsi",stop,gpt-4.1-2025-04-14
+New-en-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,veysəloğlu,2,False,veysəloğlu (veyseloglu),Veysəloğlu (Veyseloglu),stop,gpt-4.1-2025-04-14
+New-en-10,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,ağ pendir,1,ağ pendir,2,False,ağ pendir,Ağ pendir,stop,gpt-4.1-2025-04-14
+New-en-11,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,kələm,1,kələm,1,False,kələm,Kələm,stop,gpt-4.1-2025-04-14
+New-en-12,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kabab,0,plov,5,True,"plov, dolma, kabab, piti, dovğa","Plov, dolma, kabab, piti, dovğa.",stop,gpt-4.1-2025-04-14
+New-en-17,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bayraq,0,barabanlar,6,True,"barabanlar, zurna, bayraqlar, şar və fit","Barabanlar, zurna, bayraqlar, şar və fit.",stop,gpt-4.1-2025-04-14
+New-en-18,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bayraq,1,bayraq,5,True,"bayraq, şərf, baraban, plakat, fənər","Bayraq, şərf, baraban, plakat, fənər.",stop,gpt-4.1-2025-04-14
+New-en-19,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,bakı olimpiya stadionu,1,bakı olimpiya stadionu,3,False,bakı olimpiya stadionu,Bakı Olimpiya Stadionu,stop,gpt-4.1-2025-04-14
+New-en-23,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ilham zəkiyev,2,False,ilham zəkiyev,Ilham Zəkiyev,stop,gpt-4.1-2025-04-14
+New-en-26,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,"""azərbaycan azərbaycan""",6,False,"""azərbaycan, azərbaycan"" (rəşid behbudovun ifasında)","Cavab: ""Azərbaycan, Azərbaycan"" (Rəşid Behbudovun ifasında)",stop,gpt-4.1-2025-04-14
+New-en-38,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,i̇t və rəqəmsal marketinq sahələri,5,False,i̇t və rəqəmsal marketinq sahələri,İT və rəqəmsal marketinq sahələri.,stop,gpt-4.1-2025-04-14
+New-en-41,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,vahid ələkbərov,2,False,vahid ələkbərov,Vahid Ələkbərov,stop,gpt-4.1-2025-04-14
+New-en-47,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,meyvə ağacları,1,meyvə ağacları,2,False,meyvə ağacları,Meyvə ağacları,stop,gpt-4.1-2025-04-14
+New-en-49,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,əliyev,1,False,əliyev,Əliyev,stop,gpt-4.1-2025-04-14
+New-en-50,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,əliyev,1,əliyev,1,False,əliyev,Əliyev,stop,gpt-4.1-2025-04-14
+New-en-55,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,i̇slam,1,i̇slam,1,False,i̇slam,İslam,stop,gpt-4.1-2025-04-14
+New-en-56,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,rus dili,1,rus dili,2,False,rus dili,Rus dili,stop,gpt-4.1-2025-04-14
+New-en-59,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,rusiya,1,rusiya,1,False,rusiya,Rusiya,stop,gpt-4.1-2025-04-14
+New-en-68,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şagirdə töhmət verilməsi,16,True,"şagirdə töhmət verilməsi, valideynlərin məktəbə çağırılması, məktəbdaxili intizam tədbirlərinin görülməsi və zəruri hallarda şagirdin məktəbdən uzaqlaşdırılması","Şagirdə töhmət verilməsi, valideynlərin məktəbə çağırılması, məktəbdaxili intizam tədbirlərinin görülməsi və zəruri hallarda şagirdin məktəbdən uzaqlaşdırılması.",stop,gpt-4.1-2025-04-14
+New-en-69,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,nizami,1,nizami gəncəvi,17,True,"nizami gəncəvi, füzuli, mirzə fətəli axundzadə, cəlil məmmədquluzadə, səməd vurğun, mirzə ələkbər sabir, hüseyn cavid, i̇lyas əfəndiyev","Nizami Gəncəvi, Füzuli, Mirzə Fətəli Axundzadə, Cəlil Məmmədquluzadə, Səməd Vurğun, Mirzə Ələkbər Sabir, Hüseyn Cavid, İlyas Əfəndiyev.",stop,gpt-4.1-2025-04-14
+New-en-70,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+New-en-72,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,coursera,1,coursera,1,False,coursera,Coursera,stop,gpt-4.1-2025-04-14
+New-en-75,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+New-en-76,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,heydər əliyev beynəlxalq hava limanı,1,heydər əliyev beynəlxalq hava limanı,5,False,heydər əliyev beynəlxalq hava limanı,Heydər Əliyev Beynəlxalq Hava Limanı,stop,gpt-4.1-2025-04-14
+New-en-79,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,gəncə,1,False,gəncə,Gəncə,stop,gpt-4.1-2025-04-14
+New-en-87,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qız qalası,1,qız qalası,2,False,qız qalası,Qız Qalası,stop,gpt-4.1-2025-04-14
+New-en-90,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,hilton,1,hilton,1,False,hilton,Hilton,stop,gpt-4.1-2025-04-14
+New-gr-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,simit,1,simit və çay,3,False,simit və çay,Simit və çay,stop,gpt-4.1-2025-04-14
+New-gr-06,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,döner,1,False,döner,Döner,stop,gpt-4.1-2025-04-14
+New-gr-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,araq,1,araq və şərab,3,False,araq və şərab,Araq və şərab.,stop,gpt-4.1-2025-04-14
+New-gr-13,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+New-gr-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,paxlava,1,paxlava,1,False,paxlava,Paxlava,stop,gpt-4.1-2025-04-14
+New-gr-21,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,tennis,1,tennis,1,False,tennis,Tennis,stop,gpt-4.1-2025-04-14
+New-gr-24,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,yüngül atletika,1,yüngül atletika,2,False,yüngül atletika,Yüngül atletika,stop,gpt-4.1-2025-04-14
+New-gr-29,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,futbol üzrə uefa çempionlar liqası,5,False,futbol üzrə uefa çempionlar liqası,Futbol üzrə UEFA Çempionlar Liqası,stop,gpt-4.1-2025-04-14
+New-gr-47,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,15,1,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+New-gr-58,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,satıcı,1,satıcı işi,2,False,satıcı işi,Satıcı işi.,stop,gpt-4.1-2025-04-14
+New-gr-76,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kulich,1,kulich,3,False,kulich (pasxa çörəyi),Kulich (Pasxa çörəyi),stop,gpt-4.1-2025-04-14
+New-gr-82,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,muğam,1,muğam,1,False,muğam,Muğam,stop,gpt-4.1-2025-04-14
+New-gr-88,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,çay,1,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+New-gr-89,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,çay,1,False,çay,Çay,stop,gpt-4.1-2025-04-14
+New-ha-07,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+New-ha-08,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dovğa,1,dovğa,1,False,dovğa,Dovğa,stop,gpt-4.1-2025-04-14
+New-ha-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,boşqab,1,boşqab,1,False,boşqab,Boşqab,stop,gpt-4.1-2025-04-14
+New-ha-13,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.75,pomidor,1,pomidor,1,False,pomidor,Pomidor,stop,gpt-4.1-2025-04-14
+New-ha-19,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,at,1,at,1,False,at,At,stop,gpt-4.1-2025-04-14
+New-ha-66,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,şah palace,2,False,şah palace,Şah Palace,stop,gpt-4.1-2025-04-14
+New-in-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,starbucks,1,starbucks,1,False,starbucks,Starbucks,stop,gpt-4.1-2025-04-14
+New-in-03,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,kabab,1,kabablar,1,False,kabablar,Kabablar,stop,gpt-4.1-2025-04-14
+New-in-33,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,daşkəsən,1,False,daşkəsən,Daşkəsən,stop,gpt-4.1-2025-04-14
+New-in-34,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,abşeron,1,abşeron yarımadası,2,False,abşeron yarımadası,Abşeron yarımadası,stop,gpt-4.1-2025-04-14
+New-in-62,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,azərbaycan dövlət neft və sənaye universiteti,1,azərbaycan dövlət neft və sənaye universiteti,6,False,azərbaycan dövlət neft və sənaye universiteti,Azərbaycan Dövlət Neft və Sənaye Universiteti,stop,gpt-4.1-2025-04-14
+New-in-63,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,azərbaycan tibb universiteti,1,azərbaycan tibb universiteti,3,False,azərbaycan tibb universiteti,Azərbaycan Tibb Universiteti,stop,gpt-4.1-2025-04-14
+New-in-78,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,nağd,1,nağd pul,2,False,nağd pul,Nağd pul,stop,gpt-4.1-2025-04-14
+New-in-80,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,qəbələ tufandağ qış-yay turizm kompleksi,5,False,qəbələ tufandağ qış-yay turizm kompleksi,Qəbələ Tufandağ Qış-Yay Turizm Kompleksi,stop,gpt-4.1-2025-04-14
+New-ko-01,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,maşa və ayı,1,maşa və ayı,3,False,maşa və ayı,Maşa və Ayı,stop,gpt-4.1-2025-04-14
+New-ko-02,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,hamiləlik məktəbləri,5,False,hamiləlik məktəbləri (doğuşa hazırlıq kursları),Hamiləlik məktəbləri (doğuşa hazırlıq kursları),stop,gpt-4.1-2025-04-14
+New-ko-03,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,cücələrim,1,cücələrim,1,False,cücələrim,Cücələrim,stop,gpt-4.1-2025-04-14
+New-ko-04,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,maşınlar,1,maşınlar,6,True,"maşınlar, futbol topları, lego və robotlar","Maşınlar, futbol topları, lego və robotlar.",stop,gpt-4.1-2025-04-14
+New-ko-05,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,barbi kuklaları,10,True,"barbi kuklaları, plyuş ayılar, mətbəx dəsti, lego, baby born kuklaları","Barbi kuklaları, plyuş ayılar, mətbəx dəsti, Lego, Baby Born kuklaları.",stop,gpt-4.1-2025-04-14
+New-ko-06,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,tıq-tıq xanım,1,tıq-tıq xanım,2,False,tıq-tıq xanım,Tıq-tıq xanım,stop,gpt-4.1-2025-04-14
+New-ko-07,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qara lent,1,qara lent,2,False,qara lent,Qara lent,stop,gpt-4.1-2025-04-14
+New-ko-08,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kafedə,1,kafedə,1,False,kafedə,Kafedə,stop,gpt-4.1-2025-04-14
+New-ko-09,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,team building oyunları və təlimləri,5,False,team building oyunları və təlimləri,Team building oyunları və təlimləri.,stop,gpt-4.1-2025-04-14
+New-ko-10,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,taksi sürücülüyü,1,taksi sürücülüyü,2,False,taksi sürücülüyü,Taksi sürücülüyü,stop,gpt-4.1-2025-04-14
+New-pe-02,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,paxlava,1,paxlava,1,False,paxlava,Paxlava,stop,gpt-4.1-2025-04-14
+New-pe-06,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+New-pe-11,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,duz,1,duz,1,False,duz,Duz,stop,gpt-4.1-2025-04-14
+New-pe-16,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+New-pe-20,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,voleybol,1,voleybol,1,False,voleybol,Voleybol,stop,gpt-4.1-2025-04-14
+New-pe-45,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ramazan ayında azərbaycanda adətən iş qrafiki dəyişmir,12,True,"ramazan ayında azərbaycanda adətən iş qrafiki dəyişmir, adi iş saatları tətbiq olunur","Ramazan ayında Azərbaycanda adətən iş qrafiki dəyişmir, adi iş saatları tətbiq olunur.",stop,gpt-4.1-2025-04-14
+New-pe-47,Family,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,02/02,1,False,02/02,02/02,stop,gpt-4.1-2025-04-14
+New-pe-49,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,məscidlərdə,1,məsciddə,1,False,məsciddə,Məsciddə.,stop,gpt-4.1-2025-04-14
+New-pe-53,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,köynək,1,False,köynək,Köynək,stop,gpt-4.1-2025-04-14
+New-pe-54,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,gül,1,güllər,1,False,güllər,Güllər.,stop,gpt-4.1-2025-04-14
+New-pe-59,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+New-pe-65,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,14,1,False,14,14,stop,gpt-4.1-2025-04-14
+New-pe-66,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,rəqs,0,rəsm,7,True,"rəsm, musiqi, şahmat, idman (futbol, gimnastika), rəqs","Rəsm, musiqi, şahmat, idman (futbol, gimnastika), rəqs.",stop,gpt-4.1-2025-04-14
+New-pe-74,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,2000,1,2000-4000 manat,3,False,2000-4000 manat,Cavab: 2000-4000 manat,stop,gpt-4.1-2025-04-14
+New-pe-76,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,gəzinti,1,gəzinti,1,False,gəzinti,Gəzinti,stop,gpt-4.1-2025-04-14
+New-pe-78,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,qızıl nar film festivalı,4,False,qızıl nar film festivalı,Qızıl Nar Film Festivalı,stop,gpt-4.1-2025-04-14
+New-pe-83,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,preference,1,False,preference,Preference,stop,gpt-4.1-2025-04-14
+New-pe-85,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,türkiyə,1,türkiyə,1,False,türkiyə,Türkiyə,stop,gpt-4.1-2025-04-14
+New-pe-86,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,alov qüllələri,2,False,alov qüllələri,Alov Qüllələri,stop,gpt-4.1-2025-04-14
+New-spme-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,çəyirtkə,1,False,çəyirtkə,Çəyirtkə,stop,gpt-4.1-2025-04-14
+New-spme-04,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,fındıq,1,False,fındıq,Fındıq,stop,gpt-4.1-2025-04-14
+New-spme-05,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,paxlava,1,paxlava,4,True,"paxlava, şəkərbura, qoğal, badambura","Paxlava, şəkərbura, qoğal, badambura.",stop,gpt-4.1-2025-04-14
+New-spme-15,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,hell energy,2,False,hell energy,Hell Energy,stop,gpt-4.1-2025-04-14
+New-spme-27,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,yüksəkdir,1,False,yüksəkdir,Yüksəkdir.,stop,gpt-4.1-2025-04-14
+New-spme-37,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,tibb,1,tibb,1,False,tibb,Tibb,stop,gpt-4.1-2025-04-14
+New-spme-60,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,cümə,1,cümə,1,False,cümə,Cümə,stop,gpt-4.1-2025-04-14
+New-spme-65,Family,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,bayram tədbirləri,1,kütləvi bayram tədbirləri və atəşfəşanlıq,5,False,kütləvi bayram tədbirləri və atəşfəşanlıq,Kütləvi bayram tədbirləri və atəşfəşanlıq.,stop,gpt-4.1-2025-04-14
+New-spme-68,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-spme-76,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,dənizkənarı milli park,4,False,dənizkənarı milli park (bulvar),Dənizkənarı Milli Park (Bulvar),stop,gpt-4.1-2025-04-14
+New-spme-78,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ad günü,2,False,ad günü,Ad günü,stop,gpt-4.1-2025-04-14
+New-su-01,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,simit,1,simit,1,False,simit,Simit,stop,gpt-4.1-2025-04-14
+New-su-09,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,duru yağ,2,False,duru yağ,Duru yağ,stop,gpt-4.1-2025-04-14
+New-su-10,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,tərəvəz,0,qatıq,7,True,"qatıq, pendir, meyvə, tərəvəz, ət, balıq, yumurta","Qatıq, pendir, meyvə, tərəvəz, ət, balıq, yumurta.",stop,gpt-4.1-2025-04-14
+New-su-15,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,ayran,1,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-su-17,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,futbol meydançası,8,True,"futbol meydançası, basketbol meydançası, tennis kortu, idman trenajorları","Futbol meydançası, basketbol meydançası, tennis kortu, idman trenajorları.",stop,gpt-4.1-2025-04-14
+New-su-21,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,gəzinti,1,gəzinti,9,True,"gəzinti, söhbət, şahmat və dama oynamaq, idman hərəkətləri etmək","Gəzinti, söhbət, şahmat və dama oynamaq, idman hərəkətləri etmək.",stop,gpt-4.1-2025-04-14
+New-su-24,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+New-su-28,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,mavi,1,False,mavi,Mavi,stop,gpt-4.1-2025-04-14
+New-su-33,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,köynəklə ətək,1,qara ətək və ağ köynək,5,False,qara ətək və ağ köynək,Qara ətək və ağ köynək.,stop,gpt-4.1-2025-04-14
+New-su-34,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,xor,1,xor kollektivləri,2,False,xor kollektivləri,Xor kollektivləri,stop,gpt-4.1-2025-04-14
+New-su-42,Education,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,i̇slam,1,i̇slam,1,False,i̇slam,İslam,stop,gpt-4.1-2025-04-14
+New-su-45,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,09/15,1,09/15,1,False,09/15,09/15,stop,gpt-4.1-2025-04-14
+New-su-50,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,maldarlıq,1,maldarlıq,1,False,maldarlıq,Maldarlıq.,stop,gpt-4.1-2025-04-14
+New-su-51,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,balıqçılıq,1,balıqçılıq,1,False,balıqçılıq,Balıqçılıq,stop,gpt-4.1-2025-04-14
+New-su-57,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qaramal,1,False,qaramal,Qaramal,stop,gpt-4.1-2025-04-14
+New-su-58,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,inək,1,qoyun və inək,3,False,qoyun və inək,Qoyun və inək,stop,gpt-4.1-2025-04-14
+New-su-59,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,ağ pambıq köynək,3,False,ağ pambıq köynək,Ağ pambıq köynək,stop,gpt-4.1-2025-04-14
+New-su-60,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+New-su-71,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,pul,1,oyuncaq,4,True,"oyuncaq, geyim və pul","Oyuncaq, geyim və pul.",stop,gpt-4.1-2025-04-14
+New-su-75,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,avtomobil,1,avtomobil,1,False,avtomobil,Avtomobil,stop,gpt-4.1-2025-04-14
+New-su-77,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,1,0.5,şirniyyatlar,1,şirniyyat,1,False,şirniyyat,Şirniyyat,stop,gpt-4.1-2025-04-14
+New-su-81,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kostyum,1,kostyum,1,False,kostyum,Kostyum,stop,gpt-4.1-2025-04-14
+New-su-82,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,ağ gəlinlik,1,ağ gəlinlik,2,False,ağ gəlinlik,Ağ gəlinlik,stop,gpt-4.1-2025-04-14
+New-su-83,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+New-su-86,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,i̇çərişəhər dövlət qubernatorunun sarayı,10,False,i̇çərişəhər dövlət qubernatorunun sarayı (hazırda azərbaycan respublikası prezidentinin administrasiyası binası),İçərişəhər Dövlət Qubernatorunun Sarayı (Hazırda Azərbaycan Respublikası Prezidentinin Administrasiyası binası),stop,gpt-4.1-2025-04-14
+New-su-88,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,rep,1,rep,2,False,rep (rap),Rep (rap),stop,gpt-4.1-2025-04-14
+Ni-en-02,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,14:00,1,14:00,1,False,14:00,14:00,stop,gpt-4.1-2025-04-14
+Ni-en-03,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ni-en-06,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ni-en-09,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Ni-en-11,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ni-en-12,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,bakı dövlət universiteti,3,False,bakı dövlət universiteti,Bakı Dövlət Universiteti,stop,gpt-4.1-2025-04-14
+Ni-en-13,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.6666666666666666,22,1,22,1,False,22,22,stop,gpt-4.1-2025-04-14
+Ni-en-15,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ni-en-17,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,40,1,40,1,False,40,40,stop,gpt-4.1-2025-04-14
+Ni-en-19,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Ni-en-20,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.25,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ni-en-21,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+Ni-en-31,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,azərbaycanda milad bayramı ənənəvi olaraq qeyd olunmur,17,True,"azərbaycanda milad bayramı ənənəvi olaraq qeyd olunmur, əsasən novruz bayramında paxlava, şəkərbura və qoğal kimi şirniyyatlar yeyilir","Azərbaycanda Milad bayramı ənənəvi olaraq qeyd olunmur, əsasən Novruz bayramında paxlava, şəkərbura və qoğal kimi şirniyyatlar yeyilir.",stop,gpt-4.1-2025-04-14
+Ni-en-37,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,sevgililər günü,1,sevgililər günü,2,False,sevgililər günü,Sevgililər Günü,stop,gpt-4.1-2025-04-14
+Ni-en-40,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,jingle bells,1,jingle bells,2,False,jingle bells,Jingle Bells,stop,gpt-4.1-2025-04-14
+Nu-in-04,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Nu-in-05,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+Nu-in-06,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,10/05,1,10/05,1,False,10/05,10/05,stop,gpt-4.1-2025-04-14
+Nu-in-11,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+Nu-in-20,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,06/01,1,06/01,1,False,06/01,06/01,stop,gpt-4.1-2025-04-14
+Nu-in-40,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+Sa-en-1,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,mado,1,False,mado,Mado,stop,gpt-4.1-2025-04-14
+Sa-en-13,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,düşbərə,1,False,düşbərə,Düşbərə,stop,gpt-4.1-2025-04-14
+Sa-en-16,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,qarabağ fk,1,qarabağ fk,2,False,qarabağ fk,Qarabağ FK,stop,gpt-4.1-2025-04-14
+Sa-en-22,Sport,Azerbaijan,Azerbaijani,gpt-4.1,False,1,1.0,azərbaycan dövlət bədən tərbiyəsi və i̇dman akademiyası,1,azərbaycan dövlət bədən tərbiyəsi və i̇dman akademiyası,7,False,azərbaycan dövlət bədən tərbiyəsi və i̇dman akademiyası,Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası,stop,gpt-4.1-2025-04-14
+Sa-en-31,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,pişik,1,pişik,1,False,pişik,Pişik,stop,gpt-4.1-2025-04-14
+Sa-en-32,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,maşın şou,2,False,maşın şou,Maşın Şou,stop,gpt-4.1-2025-04-14
+Sa-en-37,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,nərd,1,nərd,1,False,nərd,Nərd,stop,gpt-4.1-2025-04-14
+Sa-en-6,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,dönər,1,dönər,1,False,dönər,Dönər,stop,gpt-4.1-2025-04-14
+Sa-en-7,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,qutab,0,çörək arası,10,True,"çörək arası, qutab, dovğa, piti, plov, paxlava, şəkərbura, fəsəli, kükü","Çörək arası, qutab, dovğa, piti, plov, paxlava, şəkərbura, fəsəli, kükü.",stop,gpt-4.1-2025-04-14
+Sa-en-9,Food,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,qutab,1,False,qutab,Qutab.,stop,gpt-4.1-2025-04-14
+Ta-pe-10,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,28,1,28,1,False,28,28,stop,gpt-4.1-2025-04-14
+Ta-pe-11,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,24,1,False,24,24,stop,gpt-4.1-2025-04-14
+Ta-pe-13,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ta-pe-17,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Ta-pe-21,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,məhəllədə,1,məhəllədə,1,False,məhəllədə,Məhəllədə.,stop,gpt-4.1-2025-04-14
+Ta-pe-22,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,zumba,1,False,zumba,Zumba,stop,gpt-4.1-2025-04-14
+Ta-pe-23,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,futbol,1,futbol oynamaq,2,False,futbol oynamaq,Futbol oynamaq,stop,gpt-4.1-2025-04-14
+Ta-pe-25,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,neftçi və qarabağ,1,neftçi və qarabağ,3,False,neftçi və qarabağ,Neftçi və Qarabağ,stop,gpt-4.1-2025-04-14
+Ta-pe-29,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Ta-pe-30,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,i̇dman azərbaycan,2,False,i̇dman azərbaycan,İdman Azərbaycan,stop,gpt-4.1-2025-04-14
+Ta-pe-32,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,31 dekabr,2,False,31 dekabr,31 dekabr,stop,gpt-4.1-2025-04-14
+Ta-pe-37,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,şam ağacı,1,şam ağacı,2,False,şam ağacı,Şam ağacı,stop,gpt-4.1-2025-04-14
+Ta-pe-42,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+Ta-pe-45,Holidays/Celebration/Leisure,Azerbaijan,Azerbaijani,gpt-4.1,False,0,0.0,,0,plov,1,False,plov,Plov.,stop,gpt-4.1-2025-04-14
+Th-en-01,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,futbol,1,futbol,1,False,futbol,Futbol,stop,gpt-4.1-2025-04-14
+Th-en-03,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,azərbaycan premyer liqası,1,azərbaycan premyer liqası,3,False,azərbaycan premyer liqası,Azərbaycan Premyer Liqası,stop,gpt-4.1-2025-04-14
+Th-en-05,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,rabitə bakı,1,rabitə bakı voleybol komandası,4,False,rabitə bakı voleybol komandası,Rabitə Bakı voleybol komandası.,stop,gpt-4.1-2025-04-14
+Th-en-09,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,azərbaycan kuboku,2,False,azərbaycan kuboku,Azərbaycan Kuboku,stop,gpt-4.1-2025-04-14
+Th-en-11,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,hacı əliyev,2,False,hacı əliyev,Hacı Əliyev,stop,gpt-4.1-2025-04-14
+Th-en-12,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,güləş,1,güləş,1,False,güləş,Güləş,stop,gpt-4.1-2025-04-14
+Th-en-15,Sport,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,xizək sürmək,1,xizək sürmə,2,False,xizək sürmə,Xizək sürmə,stop,gpt-4.1-2025-04-14
+Th-en-19,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,sumqayıt,1,sumqayıt,1,False,sumqayıt,Sumqayıt,stop,gpt-4.1-2025-04-14
+Th-en-21,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,əmək məzuniyyəti,2,False,əmək məzuniyyəti,Əmək məzuniyyəti,stop,gpt-4.1-2025-04-14
+Th-en-22,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,1990-cı illər,1,1990-cı illərin əvvəli,3,False,1990-cı illərin əvvəli,1990-cı illərin əvvəli,stop,gpt-4.1-2025-04-14
+Th-en-24,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,bakı,1,bakı,1,False,bakı,Bakı,stop,gpt-4.1-2025-04-14
+Th-en-27,Work life,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,neft sənayesi,1,neft sənayesi,2,False,neft sənayesi,Neft sənayesi.,stop,gpt-4.1-2025-04-14
+Th-en-35,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,nahar,1,False,nahar,Nahar,stop,gpt-4.1-2025-04-14
+Th-en-36,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,Parkı,1,parkda gəzmək,2,False,parkda gəzmək,Parkda gəzmək.,stop,gpt-4.1-2025-04-14
+Th-en-37,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.3333333333333333,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Th-en-38,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,novruz,1,novruz bayramı,2,False,novruz bayramı,Novruz Bayramı,stop,gpt-4.1-2025-04-14
+Th-en-39,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,0.5,nərd,1,nərd,1,False,nərd,Nərd,stop,gpt-4.1-2025-04-14
+Th-en-41,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,24,1,24,1,False,24,24,stop,gpt-4.1-2025-04-14
+Th-en-43,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Th-en-44,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,plov,1,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Th-en-45,Family,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,televizora baxmaq,1,televizora baxmaq,2,False,televizora baxmaq,Televizora baxmaq,stop,gpt-4.1-2025-04-14
+Th-en-48,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Th-en-49,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,buraxılış imtahanı,1,buraxılış imtahanı,2,False,buraxılış imtahanı,Buraxılış imtahanı,stop,gpt-4.1-2025-04-14
+Th-en-51,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,riyaziyyat,1,riyaziyyat,1,False,riyaziyyat,Riyaziyyat,stop,gpt-4.1-2025-04-14
+Th-en-53,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,novruz şənlikləri,2,False,novruz şənlikləri,Novruz şənlikləri,stop,gpt-4.1-2025-04-14
+Th-en-58,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,0,0.0,,0,analiz,1,False,analiz,Analiz,stop,gpt-4.1-2025-04-14
+Tmp-ar-01,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,kitabxana,1,kitabxana,1,False,kitabxana,Kitabxana,stop,gpt-4.1-2025-04-14
+Tmp-ar-02,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,metro,1,metro,1,False,metro,Metro,stop,gpt-4.1-2025-04-14
+Tmp-ar-04,Education,Azerbaijan,Azerbaijani,gpt-4.1,True,1,1.0,ev tapşırığı,1,ev tapşırıqlarını yerinə yetirirlər,4,False,ev tapşırıqlarını yerinə yetirirlər,Ev tapşırıqlarını yerinə yetirirlər.,stop,gpt-4.1-2025-04-14

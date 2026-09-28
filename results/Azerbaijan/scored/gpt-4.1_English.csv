@@ -1,0 +1,501 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+Al-en-01,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,shekerbura,1,False,shekerbura,Shekerbura,stop,gpt-4.1-2025-04-14
+Al-en-02,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,qutab,1,False,qutab,Qutab,stop,gpt-4.1-2025-04-14
+Al-en-04,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+Al-en-06,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov,3,False,plov (rice pilaf),Plov (rice pilaf),stop,gpt-4.1-2025-04-14
+Al-en-08,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,döner kebab,0,baklava,9,True,"baklava, pakhlava, shekerbura, qutab, döner kebab, and sunflower seeds","Baklava, pakhlava, shekerbura, qutab, döner kebab, and sunflower seeds.",stop,gpt-4.1-2025-04-14
+Al-en-09,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,sandwich,1,kukü sandwiches,4,False,kukü (herb omelette) sandwiches,Kukü (herb omelette) sandwiches,stop,gpt-4.1-2025-04-14
+Al-en-16,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Al-en-17,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Al-en-18,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Al-en-19,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,russian,1,russian,1,False,russian,Russian,stop,gpt-4.1-2025-04-14
+Al-en-21,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Al-en-32,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,thanksgiving is not traditionally celebrated in azerbaijan,17,True,"thanksgiving is not traditionally celebrated in azerbaijan, so there is no main dish for thanksgiving in azerbaijan","Thanksgiving is not traditionally celebrated in Azerbaijan, so there is no main dish for Thanksgiving in Azerbaijan.",stop,gpt-4.1-2025-04-14
+Al-en-33,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,party,0,people in azerbaijan especially in urban areas like baku,34,True,"people in azerbaijan, especially in urban areas like baku, celebrate halloween by attending costume parties, decorating venues, and participating in themed events at clubs, cafes, and schools, though it is not a traditional holiday","People in Azerbaijan, especially in urban areas like Baku, celebrate Halloween by attending costume parties, decorating venues, and participating in themed events at clubs, cafes, and schools, though it is not a traditional holiday.",stop,gpt-4.1-2025-04-14
+Al-en-34,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,people in azerbaijan celebrate new year's day with family gatherings,21,True,"people in azerbaijan celebrate new year's day with family gatherings, festive meals, decorating new year trees, exchanging gifts, and watching fireworks","People in Azerbaijan celebrate New Year's Day with family gatherings, festive meals, decorating New Year trees, exchanging gifts, and watching fireworks.",stop,gpt-4.1-2025-04-14
+Al-en-35,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,in azerbaijan christmas is mainly celebrated by the small christian communities,43,True,"in azerbaijan, christmas is mainly celebrated by the small christian communities, such as orthodox and catholic christians, who attend church services, pray, and gather with family, while the majority of the population does not widely celebrate christmas due to the country's muslim majority","In Azerbaijan, Christmas is mainly celebrated by the small Christian communities, such as Orthodox and Catholic Christians, who attend church services, pray, and gather with family, while the majority of the population does not widely celebrate Christmas due to the country's Muslim majority.",stop,gpt-4.1-2025-04-14
+Al-en-36,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate.,stop,gpt-4.1-2025-04-14
+Al-en-37,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,plov,3,False,plov (rice pilaf),Plov (rice pilaf),stop,gpt-4.1-2025-04-14
+Al-en-38,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,chocolate,1,chocolate,1,False,chocolate,Chocolate,stop,gpt-4.1-2025-04-14
+Al-en-39,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,cake,1,birthday cake,2,False,birthday cake,Birthday cake.,stop,gpt-4.1-2025-04-14
+Al-en-40,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,boulevard,1,baku boulevard,5,False,baku boulevard (seaside national park),Baku Boulevard (Seaside National Park),stop,gpt-4.1-2025-04-14
+Al-en-43,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,board games,2,False,board games,Board games.,stop,gpt-4.1-2025-04-14
+An-ar-02,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,university cafeteria,1,university students in azerbaijan typically have lunch in university cafeterias,15,True,university students in azerbaijan typically have lunch in university cafeterias or nearby restaurants and cafes,University students in Azerbaijan typically have lunch in university cafeterias or nearby restaurants and cafes.,stop,gpt-4.1-2025-04-14
+An-ar-03,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+An-ar-08,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+An-ar-09,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+An-ar-34,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+An-ar-35,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,rövşən binnətli,2,False,rövşən binnətli,Rövşən Binnətli,stop,gpt-4.1-2025-04-14
+An-ar-36,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,neftçi pfk,2,False,neftçi pfk,Neftçi PFK,stop,gpt-4.1-2025-04-14
+An-ar-43,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,teahouse,0,cafés,8,True,"cafés, sports bars, teahouses (çayxana), and public squares","Cafés, sports bars, teahouses (çayxana), and public squares.",stop,gpt-4.1-2025-04-14
+Ca-sp-05,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Ca-sp-06,Food,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,breakfast,1,breakfast,1,False,breakfast,Breakfast,stop,gpt-4.1-2025-04-14
+Ca-sp-08,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,rice,1,False,rice,Rice,stop,gpt-4.1-2025-04-14
+Ca-sp-09,Food,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,baklava,1,baklava,1,False,baklava,Baklava.,stop,gpt-4.1-2025-04-14
+Ca-sp-11,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,sunday,1,sunday,1,False,sunday,Sunday,stop,gpt-4.1-2025-04-14
+Ca-sp-14,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+Ca-sp-19,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,cocktail,1,cocktails and energy drinks,4,False,cocktails and energy drinks,Cocktails and energy drinks.,stop,gpt-4.1-2025-04-14
+Ca-sp-21,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Ca-sp-29,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,firework,0,in azerbaijan it is traditional to celebrate new year's eve with family gatherings,26,True,"in azerbaijan, it is traditional to celebrate new year's eve (yeni i̇l) with family gatherings, festive meals, fireworks, and the decoration of a new year tree","In Azerbaijan, it is traditional to celebrate New Year's Eve (Yeni İl) with family gatherings, festive meals, fireworks, and the decoration of a New Year tree.",stop,gpt-4.1-2025-04-14
+Ca-sp-38,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,detached house,2,False,detached house,Detached house,stop,gpt-4.1-2025-04-14
+Ca-sp-41,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,with their family,1,with their families,3,False,with their families,With their families.,stop,gpt-4.1-2025-04-14
+Ca-sp-42,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ca-sp-43,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ca-sp-45,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,gabala,1,False,gabala,Gabala,stop,gpt-4.1-2025-04-14
+Gu-ch-05,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,chess and backgammon,3,False,chess and backgammon,Chess and backgammon.,stop,gpt-4.1-2025-04-14
+Gu-ch-06,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Gu-ch-07,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,rashad shakirzadeh,2,False,rashad shakirzadeh,Rashad Shakirzadeh,stop,gpt-4.1-2025-04-14
+Gu-ch-08,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Gu-ch-09,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Gu-ch-11,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Gu-ch-15,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Gu-ch-16,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-18,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Gu-ch-31,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-32,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+Gu-ch-33,Education,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,7,1,7,1,False,7,7,stop,gpt-4.1-2025-04-14
+Gu-ch-38,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Gu-ch-40,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Gu-ch-41,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Ji-ko-02,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,friday,1,friday,1,False,friday,Friday,stop,gpt-4.1-2025-04-14
+Ji-ko-03,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+Ji-ko-07,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,socar,7,False,socar (state oil company of azerbaijan republic),SOCAR (State Oil Company of Azerbaijan Republic),stop,gpt-4.1-2025-04-14
+Ji-ko-08,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,40,1,40,1,False,40,40,stop,gpt-4.1-2025-04-14
+Ji-ko-09,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,people typically eat kebabs,16,True,"people typically eat kebabs, plov (pilaf), dolma, salads, and various pastries during company get-togethers in azerbaijan","People typically eat kebabs, plov (pilaf), dolma, salads, and various pastries during company get-togethers in Azerbaijan.",stop,gpt-4.1-2025-04-14
+Ji-ko-14,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,oil,1,oil,2,False,oil (petroleum),Oil (petroleum),stop,gpt-4.1-2025-04-14
+Ji-ko-15,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,1,1,1.0,1,False,1.0,1.0,stop,gpt-4.1-2025-04-14
+Ji-ko-16,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,hospital,0,qonaq otağı,9,True,qonaq otağı (guest room) or doğum evi (maternity hospital),Qonaq otağı (guest room) or doğum evi (maternity hospital).,stop,gpt-4.1-2025-04-14
+Ji-ko-19,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,carnation,1,False,carnation,Carnation,stop,gpt-4.1-2025-04-14
+Ji-ko-22,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,parents,1,people in azerbaijan often spend their first salary on gifts for their parents,16,True,people in azerbaijan often spend their first salary on gifts for their parents or family members,People in Azerbaijan often spend their first salary on gifts for their parents or family members.,stop,gpt-4.1-2025-04-14
+Ji-ko-24,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,playgrounds,1,False,playgrounds,Playgrounds,stop,gpt-4.1-2025-04-14
+Ji-ko-25,Family,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,international women's day,17,True,"international women's day (march 8), international children's day (june 1), and international day of families (may 15)","International Women's Day (March 8), International Children's Day (June 1), and International Day of Families (May 15).",stop,gpt-4.1-2025-04-14
+Ji-ko-26,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,marriage,0,key milestones include starting school,21,True,"key milestones include starting school, completing secondary education, entering university or vocational training, beginning employment, marriage, and establishing a separate household","Key milestones include starting school, completing secondary education, entering university or vocational training, beginning employment, marriage, and establishing a separate household.",stop,gpt-4.1-2025-04-14
+Ji-ko-27,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,fruit,1,sweets and fruit,8,False,sweets (such as pakhlava or shekerbura) and fruit,Sweets (such as pakhlava or shekerbura) and fruit.,stop,gpt-4.1-2025-04-14
+Ji-ko-28,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the seventh day after birth,5,False,the seventh day after birth,The seventh day after birth.,stop,gpt-4.1-2025-04-14
+Ji-ko-29,Family,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,1,1,the 1st birthday,3,False,the 1st birthday,The 1st birthday.,stop,gpt-4.1-2025-04-14
+Ji-ko-31,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,home,1,at home in private tutoring centers,8,False,at home or in private tutoring centers (kurslar),At home or in private tutoring centers (kurslar).,stop,gpt-4.1-2025-04-14
+Ji-ko-33,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,they usually go for a walk,13,True,they usually go for a walk or spend time with friends and family,They usually go for a walk or spend time with friends and family.,stop,gpt-4.1-2025-04-14
+Ji-ko-34,Education,Azerbaijan,English,gpt-4.1,True,1,0.25,public transport,0,most elementary school students in azerbaijan go to school on foot,15,True,most elementary school students in azerbaijan go to school on foot or by public transportation,Most elementary school students in Azerbaijan go to school on foot or by public transportation.,stop,gpt-4.1-2025-04-14
+Ji-ko-35,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,private tutor,1,private tutoring,9,False,"private tutoring (also known as ""preparation courses"" or ""kurslar"")","Private tutoring (also known as ""preparation courses"" or ""kurslar"")",stop,gpt-4.1-2025-04-14
+Ji-ko-36,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Ji-ko-37,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,school uniform,1,middle and high school students in azerbaijan typically wear school uniforms,11,False,middle and high school students in azerbaijan typically wear school uniforms,Middle and high school students in Azerbaijan typically wear school uniforms.,stop,gpt-4.1-2025-04-14
+Ji-ko-38,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,medicine,1,medicine,1,False,medicine,Medicine,stop,gpt-4.1-2025-04-14
+Ji-ko-39,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,piano,1,piano,1,False,piano,Piano,stop,gpt-4.1-2025-04-14
+Ji-ko-40,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,high school students in azerbaijan typically socialize with friends,16,True,"high school students in azerbaijan typically socialize with friends, eat snacks, and relax during break time","High school students in Azerbaijan typically socialize with friends, eat snacks, and relax during break time.",stop,gpt-4.1-2025-04-14
+Ji-ko-41,Education,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,school shoes,1,students in azerbaijan typically wear black dress shoes as part of their school uniform,14,False,students in azerbaijan typically wear black dress shoes as part of their school uniform,Students in Azerbaijan typically wear black dress shoes as part of their school uniform.,stop,gpt-4.1-2025-04-14
+Ji-ko-42,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,7,True,"mathematics, azerbaijani language, and a foreign language","Mathematics, Azerbaijani language, and a foreign language.",stop,gpt-4.1-2025-04-14
+Ji-ko-44,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,yasamal,1,yasamal district in baku,4,False,yasamal district in baku,Yasamal district in Baku.,stop,gpt-4.1-2025-04-14
+Ji-ko-45,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,music performance,1,people look forward to live music performances the most at university festivals in azerbaijan,14,False,people look forward to live music performances the most at university festivals in azerbaijan,People look forward to live music performances the most at university festivals in Azerbaijan.,stop,gpt-4.1-2025-04-14
+Jo-sp-01,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Jo-sp-02,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Jo-sp-09,Sport,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,horse riding,0,equestrian sports,7,True,"equestrian sports (horse riding), polo, and chess","Equestrian sports (horse riding), polo, and chess.",stop,gpt-4.1-2025-04-14
+Jo-sp-13,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,windsurfing,1,False,windsurfing,Windsurfing,stop,gpt-4.1-2025-04-14
+Jo-sp-14,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,chess,1,chess,1,False,chess,Chess,stop,gpt-4.1-2025-04-14
+Jo-sp-18,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,21,1,False,21,21,stop,gpt-4.1-2025-04-14
+Jo-sp-19,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the aran region,3,False,the aran region,The Aran region.,stop,gpt-4.1-2025-04-14
+Jo-sp-21,Work life,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Jo-sp-31,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,15:00,1,15:00,1,False,15:00,15:00,stop,gpt-4.1-2025-04-14
+Jo-sp-32,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Jo-sp-36,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,13,1,False,13,13,stop,gpt-4.1-2025-04-14
+Jo-sp-37,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,12,1,12,1,False,12,12,stop,gpt-4.1-2025-04-14
+Jo-sp-39,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Jo-sp-43,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Jod-ch-01,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,spoon,1,forks,4,True,"forks, knives, and spoons","Forks, knives, and spoons.",stop,gpt-4.1-2025-04-14
+Jod-ch-04,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+Jod-ch-06,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,wine,1,False,wine,Wine,stop,gpt-4.1-2025-04-14
+Jod-ch-07,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2.0,1,False,2.0,2.0,stop,gpt-4.1-2025-04-14
+Jod-ch-09,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,19:00,1,False,19:00,19:00,stop,gpt-4.1-2025-04-14
+Jod-ch-12,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,dovga,1,False,dovga,Dovga,stop,gpt-4.1-2025-04-14
+Jod-ch-13,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,kebabs,1,False,kebabs,Kebabs,stop,gpt-4.1-2025-04-14
+Jod-ch-15,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,people from azerbaijan like to eat sturgeon and caviar,9,False,people from azerbaijan like to eat sturgeon and caviar,People from Azerbaijan like to eat sturgeon and caviar.,stop,gpt-4.1-2025-04-14
+Jod-ch-16,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,novruz,1,novruz bayram,2,False,novruz bayram,Novruz Bayram,stop,gpt-4.1-2025-04-14
+Jod-ch-28,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,bus,1,bus,1,False,bus,Bus,stop,gpt-4.1-2025-04-14
+Jod-ch-30,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,samani,0,the pomegranate,21,True,"the pomegranate, fire motifs, and sprouting wheat (samani) are specific decorations or symbols associated with novruz, the biggest festival in azerbaijan","The pomegranate, fire motifs, and sprouting wheat (samani) are specific decorations or symbols associated with Novruz, the biggest festival in Azerbaijan.",stop,gpt-4.1-2025-04-14
+Jod-ch-37,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Jod-ch-38,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Jod-ch-41,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,shop,1,shopping,1,False,shopping,Shopping,stop,gpt-4.1-2025-04-14
+Jod-ch-42,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,playing football,3,False,playing football (soccer),Playing football (soccer),stop,gpt-4.1-2025-04-14
+Jod-ch-46,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,0,1,1.0,1,False,1.0,1.0,stop,gpt-4.1-2025-04-14
+Jod-ch-48,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,soup,0,people in azerbaijan typically eat dishes such as plov,28,True,"people in azerbaijan typically eat dishes such as plov (rice pilaf), kebabs, dolma (stuffed vegetables), soups like dovga or piti, salads, and bread for lunch during working days","People in Azerbaijan typically eat dishes such as plov (rice pilaf), kebabs, dolma (stuffed vegetables), soups like dovga or piti, salads, and bread for lunch during working days.",stop,gpt-4.1-2025-04-14
+Jod-ch-50,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,34,1,False,34,34,stop,gpt-4.1-2025-04-14
+Jod-ch-51,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,car,1,car,1,False,car,Car,stop,gpt-4.1-2025-04-14
+Jod-ch-54,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Jod-ch-56,Work life,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,65,1,65,1,False,65,65,stop,gpt-4.1-2025-04-14
+Jod-ch-57,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,65,1,65,1,False,65,65,stop,gpt-4.1-2025-04-14
+Jod-ch-58,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,stop,gpt-4.1-2025-04-14
+Jod-ch-60,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,8,1,8,1,False,8,8,stop,gpt-4.1-2025-04-14
+Jod-ch-61,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,teaching,1,teaching,1,False,teaching,Teaching,stop,gpt-4.1-2025-04-14
+Jod-ch-62,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,engineering,1,engineering,1,False,engineering,Engineering,stop,gpt-4.1-2025-04-14
+Ki-pe-17,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,high school,2,False,high school,High school,stop,gpt-4.1-2025-04-14
+Ki-pe-24,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,russian,1,russian,1,False,russian,Russian,stop,gpt-4.1-2025-04-14
+Ki-pe-30,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,sunday,1,saturday and sunday,3,False,saturday and sunday,Saturday and Sunday,stop,gpt-4.1-2025-04-14
+Ki-pe-32,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+Ki-pe-34,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,1,False,tea,Tea,stop,gpt-4.1-2025-04-14
+Ki-pe-36,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,turkey,1,False,turkey,Turkey,stop,gpt-4.1-2025-04-14
+Ki-pe-39,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,kebab,1,kebabs are usually prepared for a family picnic in azerbaijan,11,False,kebabs (shashlik) are usually prepared for a family picnic in azerbaijan,Kebabs (shashlik) are usually prepared for a family picnic in Azerbaijan.,stop,gpt-4.1-2025-04-14
+Ki-pe-40,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,khash,1,khash,1,False,khash,Khash.,stop,gpt-4.1-2025-04-14
+Ki-pe-43,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,tandir bread,4,False,tandir bread (təndir çörəyi),Tandir bread (Təndir çörəyi),stop,gpt-4.1-2025-04-14
+Ki-pe-51,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,stop,gpt-4.1-2025-04-14
+Ki-pe-53,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,stop,gpt-4.1-2025-04-14
+Kik-in-01,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,novruz,1,novruz bayram,4,False,novruz bayram (novruz holiday),Novruz Bayram (Novruz Holiday),stop,gpt-4.1-2025-04-14
+Kik-in-02,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,flag,0,common activities people from azerbaijan do to celebrate independence day include attending official ceremonies,34,True,"common activities people from azerbaijan do to celebrate independence day include attending official ceremonies, watching fireworks, participating in concerts and cultural events, displaying the national flag, and enjoying public festivities with family and friends","Common activities people from Azerbaijan do to celebrate Independence Day include attending official ceremonies, watching fireworks, participating in concerts and cultural events, displaying the national flag, and enjoying public festivities with family and friends.",stop,gpt-4.1-2025-04-14
+Kik-in-04,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,a black ribbon,3,False,a black ribbon,A black ribbon.,stop,gpt-4.1-2025-04-14
+Kik-in-05,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,during the seventh month of pregnancy,6,False,during the seventh month of pregnancy,During the seventh month of pregnancy.,stop,gpt-4.1-2025-04-14
+Kik-in-06,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,henna,0,kina gecesi,4,False,kina gecesi (henna night),Kina gecesi (henna night),stop,gpt-4.1-2025-04-14
+Kik-in-07,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,sweets,1,sweets and money,3,False,sweets and money,Sweets and money,stop,gpt-4.1-2025-04-14
+Kik-in-08,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,cleaning homes,13,True,"cleaning homes, preparing traditional foods, shopping for groceries, and visiting graves of relatives","Cleaning homes, preparing traditional foods, shopping for groceries, and visiting graves of relatives.",stop,gpt-4.1-2025-04-14
+Kik-in-10,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,old city,1,the old city in baku,6,False,the old city (icherisheher) in baku,The Old City (Icherisheher) in Baku.,stop,gpt-4.1-2025-04-14
+Kik-in-11,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,ateshgah,1,the most popular religious site for tourism in azerbaijan is the ateshgah fire temple,14,False,the most popular religious site for tourism in azerbaijan is the ateshgah fire temple,The most popular religious site for tourism in Azerbaijan is the Ateshgah Fire Temple.,stop,gpt-4.1-2025-04-14
+Kik-in-15,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,women usually wear formal dresses,20,True,"women usually wear formal dresses or skirts and blouses, often with academic gowns and caps if provided by the institution","Women usually wear formal dresses or skirts and blouses, often with academic gowns and caps if provided by the institution.",stop,gpt-4.1-2025-04-14
+Kik-in-16,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+Kik-in-17,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,dates,1,dates,1,False,dates,Dates,stop,gpt-4.1-2025-04-14
+Kik-in-24,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,rice,1,False,rice,Rice,stop,gpt-4.1-2025-04-14
+Kik-in-31,Sport,Azerbaijan,English,gpt-4.1,True,1,0.25,judo,1,judo,1,False,judo,Judo,stop,gpt-4.1-2025-04-14
+Kik-in-34,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,7,True,"football (soccer), wrestling, judo, boxing, and chess","Football (soccer), wrestling, judo, boxing, and chess.",stop,gpt-4.1-2025-04-14
+Kik-in-35,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,16,True,"football (soccer), wrestling, chess, and basketball were popular among people from azerbaijan during the covid-19 pandemic","Football (soccer), wrestling, chess, and basketball were popular among people from Azerbaijan during the COVID-19 pandemic.",stop,gpt-4.1-2025-04-14
+Kik-in-36,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,gurban gurbanov,1,gurban gurbanov,2,False,gurban gurbanov,Gurban Gurbanov,stop,gpt-4.1-2025-04-14
+Kik-in-37,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,neftçi baku vs qarabağ,4,False,neftçi baku vs qarabağ,Neftçi Baku vs Qarabağ,stop,gpt-4.1-2025-04-14
+Kik-in-38,Sport,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,khazar vs neftchi,3,False,khazar vs neftchi,Khazar vs Neftchi,stop,gpt-4.1-2025-04-14
+Kik-in-40,Sport,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,edi reski dwi dwicahyo,4,False,edi reski dwi dwicahyo,Edi Reski Dwi Dwicahyo,stop,gpt-4.1-2025-04-14
+Kik-in-41,Sport,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,adeva mammadova,2,False,adeva mammadova,Adeva Mammadova,stop,gpt-4.1-2025-04-14
+Kik-in-44,Sport,Azerbaijan,English,gpt-4.1,True,1,0.25,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Kik-in-45,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,football field,1,football fields,10,True,"football fields, basketball courts, volleyball courts, and sometimes athletics tracks","Football fields, basketball courts, volleyball courts, and sometimes athletics tracks.",stop,gpt-4.1-2025-04-14
+Na-ko-02,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+Na-ko-04,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,khash,1,khash,1,False,khash,Khash,stop,gpt-4.1-2025-04-14
+Na-ko-05,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+Na-ko-07,Food,Azerbaijan,English,gpt-4.1,True,1,0.25,lamb,1,lamb,1,False,lamb,Lamb,stop,gpt-4.1-2025-04-14
+Na-ko-08,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+Na-ko-09,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,fresh herbs,4,False,"fresh herbs (called ""goy"")","Fresh herbs (called ""goy"")",stop,gpt-4.1-2025-04-14
+Na-ko-11,Food,Azerbaijan,English,gpt-4.1,True,1,0.25,sunflower seed,1,sunflower seeds,2,False,sunflower seeds,Sunflower seeds.,stop,gpt-4.1-2025-04-14
+Na-ko-15,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+Na-ko-16,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,vagif javadov,2,False,vagif javadov,Vagif Javadov,stop,gpt-4.1-2025-04-14
+Na-ko-17,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,male students in azerbaijan often enjoy playing football during lunch time at school,14,False,male students in azerbaijan often enjoy playing football (soccer) during lunch time at school,Male students in Azerbaijan often enjoy playing football (soccer) during lunch time at school.,stop,gpt-4.1-2025-04-14
+Na-ko-18,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Na-ko-19,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,valeriya mammadova,2,False,valeriya mammadova,Valeriya Mammadova,stop,gpt-4.1-2025-04-14
+Na-ko-20,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Na-ko-22,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,armenia,1,armenia,1,False,armenia,Armenia,stop,gpt-4.1-2025-04-14
+Na-ko-23,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,football,1,football academies,2,False,football academies,Football academies,stop,gpt-4.1-2025-04-14
+Na-ko-24,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,sunflower seeds,2,False,sunflower seeds,Sunflower seeds,stop,gpt-4.1-2025-04-14
+Na-ko-25,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,0,typical sports played in azerbaijan's school sports day include athletics,20,True,"typical sports played in azerbaijan's school sports day include athletics (running races, long jump), football (soccer), volleyball, basketball, and tug-of-war","Typical sports played in Azerbaijan's school sports day include athletics (running races, long jump), football (soccer), volleyball, basketball, and tug-of-war.",stop,gpt-4.1-2025-04-14
+Na-ko-26,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,15,True,"football (soccer), wrestling, chess, and volleyball are popular sports among the middle-aged population in azerbaijan","Football (soccer), wrestling, chess, and volleyball are popular sports among the middle-aged population in Azerbaijan.",stop,gpt-4.1-2025-04-14
+Na-ko-28,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,gaia bassani antivari,3,False,gaia bassani antivari,Gaia Bassani Antivari,stop,gpt-4.1-2025-04-14
+Na-ko-29,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,maksym shemberev,2,False,maksym shemberev,Maksym Shemberev,stop,gpt-4.1-2025-04-14
+Na-ko-30,Sport,Azerbaijan,English,gpt-4.1,False,1,1.0,cs:go,0,counter-strike: global offensive,4,False,counter-strike: global offensive (cs:go),Counter-Strike: Global Offensive (CS:GO),stop,gpt-4.1-2025-04-14
+Na-ko-33,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,samani,3,False,samani (sprouted wheat),Samani (sprouted wheat),stop,gpt-4.1-2025-04-14
+Na-ko-37,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,gabala,1,the most popular domestic vacation spot for people from azerbaijan is the city of gabala,15,False,the most popular domestic vacation spot for people from azerbaijan is the city of gabala,The most popular domestic vacation spot for people from Azerbaijan is the city of Gabala.,stop,gpt-4.1-2025-04-14
+Na-ko-38,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,gold jewelry,1,gold jewelry,2,False,gold jewelry,Gold jewelry,stop,gpt-4.1-2025-04-14
+Na-ko-39,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,money,1,money,6,False,money (often given in an envelope),Money (often given in an envelope),stop,gpt-4.1-2025-04-14
+Na-ko-40,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Na-ko-41,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,flower,1,flowers,1,False,flowers,Flowers.,stop,gpt-4.1-2025-04-14
+Na-ko-42,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.25,halva,1,halva,1,False,halva,Halva,stop,gpt-4.1-2025-04-14
+Na-ko-43,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,they jump over water to wash away the old year’s troubles and start the new year fresh,17,False,they jump over water to wash away the old year’s troubles and start the new year fresh,They jump over water to wash away the old year’s troubles and start the new year fresh.,stop,gpt-4.1-2025-04-14
+Na-ko-44,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the first day of the school year,9,False,the first day of the school year (september 15),The first day of the school year (September 15).,stop,gpt-4.1-2025-04-14
+Na-ko-45,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,gabala,1,gabala,1,False,gabala,Gabala,stop,gpt-4.1-2025-04-14
+Ne-ar-05,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,republic day,4,False,republic day (may 28),Republic Day (May 28),stop,gpt-4.1-2025-04-14
+Ne-ar-06,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,pilaf,0,people from azerbaijan typically eat dishes such as plov,29,True,"people from azerbaijan typically eat dishes such as plov (pilaf), piti (lamb stew), dolma (stuffed grape leaves), kebabs, fresh bread, fruits, and sweets like pakhlava and shekerbura during ramadan","People from Azerbaijan typically eat dishes such as plov (pilaf), piti (lamb stew), dolma (stuffed grape leaves), kebabs, fresh bread, fruits, and sweets like pakhlava and shekerbura during Ramadan.",stop,gpt-4.1-2025-04-14
+Ne-ar-09,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,people from azerbaijan typically eat plov,19,True,"people from azerbaijan typically eat plov (pilaf), dolma, kebabs, pakhlava (baklava), shekerbura, and various sweets during eid ul fitr","People from Azerbaijan typically eat plov (pilaf), dolma, kebabs, pakhlava (baklava), shekerbura, and various sweets during Eid ul Fitr.",stop,gpt-4.1-2025-04-14
+Ne-ar-10,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,lamb,0,people from azerbaijan typically eat dishes such as plov,22,True,"people from azerbaijan typically eat dishes such as plov (pilaf), various kebabs, dolma, and lamb or beef dishes during eid ul adha","People from Azerbaijan typically eat dishes such as plov (pilaf), various kebabs, dolma, and lamb or beef dishes during Eid ul Adha.",stop,gpt-4.1-2025-04-14
+Ne-ar-11,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,home,1,people from azerbaijan typically celebrate new year's day at home with family and friends,27,True,"people from azerbaijan typically celebrate new year's day at home with family and friends, or in public squares and city centers such as fountains square in baku","People from Azerbaijan typically celebrate New Year's Day at home with family and friends, or in public squares and city centers such as Fountains Square in Baku.",stop,gpt-4.1-2025-04-14
+Ne-ar-14,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,home,1,at home,2,False,at home,At home.,stop,gpt-4.1-2025-04-14
+Ne-ar-16,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,saturday,1,saturday and sunday,3,False,saturday and sunday,Saturday and Sunday,stop,gpt-4.1-2025-04-14
+Ne-ar-17,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,stop,gpt-4.1-2025-04-14
+Ne-ar-18,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,stop,gpt-4.1-2025-04-14
+Ne-ar-20,Work life,Azerbaijan,English,gpt-4.1,True,1,0.5,government job,1,a government job is considered to be a secure job in azerbaijan,12,False,a government job is considered to be a secure job in azerbaijan,A government job is considered to be a secure job in Azerbaijan.,stop,gpt-4.1-2025-04-14
+Ne-ar-24,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+Ne-ar-25,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,oil and gas,1,oil and gas industry,4,False,oil and gas industry,Oil and gas industry,stop,gpt-4.1-2025-04-14
+Ne-ar-26,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,state oil company of azerbaijan,1,socar,7,False,socar (state oil company of azerbaijan republic),SOCAR (State Oil Company of Azerbaijan Republic),stop,gpt-4.1-2025-04-14
+Ne-ar-31,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov,1,False,plov,Plov,stop,gpt-4.1-2025-04-14
+Ne-ar-32,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,cheese,0,people in azerbaijan usually have breakfast with black tea,21,True,"people in azerbaijan usually have breakfast with black tea, bread, cheese, butter, honey, jam, eggs, and sometimes fresh herbs and tomatoes","People in Azerbaijan usually have breakfast with black tea, bread, cheese, butter, honey, jam, eggs, and sometimes fresh herbs and tomatoes.",stop,gpt-4.1-2025-04-14
+Ne-ar-33,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Ne-ar-34,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,bread,1,False,bread,Bread,stop,gpt-4.1-2025-04-14
+Ne-ar-36,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov with lamb,14,True,"plov (rice pilaf) with lamb or chicken, served with various side dishes and salads","Plov (rice pilaf) with lamb or chicken, served with various side dishes and salads.",stop,gpt-4.1-2025-04-14
+Ne-ar-37,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,jam,7,False,jam (often cherry or other fruit jam),Jam (often cherry or other fruit jam),stop,gpt-4.1-2025-04-14
+Ne-ar-38,Food,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,pilaf,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+Ne-ar-39,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,doner kebab,1,doner kebab,3,False,doner kebab (shawarma),Doner kebab (shawarma),stop,gpt-4.1-2025-04-14
+Ne-ar-43,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,sweets,1,sweets and jam,3,False,sweets and jam,Sweets and jam.,stop,gpt-4.1-2025-04-14
+Ne-ar-44,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,sweets,1,sweets,7,True,"sweets, such as pakhlava or turkish delight","Sweets, such as pakhlava or Turkish delight.",stop,gpt-4.1-2025-04-14
+New-am-02,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+New-am-04,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,narsharab,3,False,narsharab (pomegranate sauce),Narsharab (pomegranate sauce),stop,gpt-4.1-2025-04-14
+New-am-08,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,kutab,11,False,"kutab (a type of stuffed flatbread, often with greens or pumpkin)","Kutab (a type of stuffed flatbread, often with greens or pumpkin)",stop,gpt-4.1-2025-04-14
+New-am-15,Food,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,qatlama is usually prepared when mothers give birth in azerbaijan,15,False,qatlama (a type of layered pastry) is usually prepared when mothers give birth in azerbaijan,Qatlama (a type of layered pastry) is usually prepared when mothers give birth in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-am-27,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,farida azizova,2,False,farida azizova,Farida Azizova,stop,gpt-4.1-2025-04-14
+New-am-34,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,home,1,at home,2,False,at home,At home.,stop,gpt-4.1-2025-04-14
+New-am-41,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,grade 9,2,False,grade 9,Grade 9,stop,gpt-4.1-2025-04-14
+New-am-53,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,lankaran,1,lankaran,1,False,lankaran,Lankaran,stop,gpt-4.1-2025-04-14
+New-am-54,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,karabakh,1,False,karabakh,Karabakh,stop,gpt-4.1-2025-04-14
+New-am-59,Work life,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,animal herding,6,False,animal herding (mainly sheep and goats),Animal herding (mainly sheep and goats),stop,gpt-4.1-2025-04-14
+New-am-60,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,horse,1,horse,1,False,horse,Horse,stop,gpt-4.1-2025-04-14
+New-am-72,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,molla nasreddin,2,False,molla nasreddin,Molla Nasreddin,stop,gpt-4.1-2025-04-14
+New-am-73,Family,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,balaca tv,2,False,balaca tv,Balaca TV,stop,gpt-4.1-2025-04-14
+New-am-74,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,danışır karvan,2,False,danışır karvan,Danışır Karvan,stop,gpt-4.1-2025-04-14
+New-am-77,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,novruz bayram,2,False,novruz bayram,Novruz Bayram,stop,gpt-4.1-2025-04-14
+New-am-81,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+New-am-83,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,tar,1,tar,1,False,tar,Tar,stop,gpt-4.1-2025-04-14
+New-as-01,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,cotton,1,cotton,1,False,cotton,Cotton,stop,gpt-4.1-2025-04-14
+New-as-02,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,bread,1,bread,2,False,bread (chorek),Bread (chorek),stop,gpt-4.1-2025-04-14
+New-as-05,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+New-as-07,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,kutum baliği,6,False,kutum baliği (stuffed caspian white fish),Kutum baliği (stuffed Caspian white fish),stop,gpt-4.1-2025-04-14
+New-as-14,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,khingal,2,False,khingal (xingal),Khingal (Xingal).,stop,gpt-4.1-2025-04-14
+New-as-15,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-as-20,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+New-as-29,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+New-as-30,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+New-as-58,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+New-as-64,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,novruz,1,novruz bayram,4,False,novruz bayram (novruz holiday),Novruz Bayram (Novruz Holiday),stop,gpt-4.1-2025-04-14
+New-as-76,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,backgammon,0,nard,6,True,"nard (backgammon), chovgan, and ashik games","Nard (backgammon), chovgan, and ashik games.",stop,gpt-4.1-2025-04-14
+New-as-80,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,traditional clothing,1,"people from azerbaijan wear traditional clothing such as the ""chokha"" for men and ""kelaghayi"" and colorful dresses with embroidery for women during traditional festivals",26,False,"people from azerbaijan wear traditional clothing such as the ""chokha"" for men and ""kelaghayi"" (silk headscarf) and colorful dresses with embroidery for women during traditional festivals","People from Azerbaijan wear traditional clothing such as the ""chokha"" for men and ""kelaghayi"" (silk headscarf) and colorful dresses with embroidery for women during traditional festivals.",stop,gpt-4.1-2025-04-14
+New-as-89,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,ornate jewelry,0,"people from azerbaijan traditionally wear colorful national costumes such as the ""chokha",20,True,"people from azerbaijan traditionally wear colorful national costumes such as the ""chokha,"" ""arkhalig,"" silk scarves, and ornate jewelry during festivals","People from Azerbaijan traditionally wear colorful national costumes such as the ""chokha,"" ""arkhalig,"" silk scarves, and ornate jewelry during festivals.",stop,gpt-4.1-2025-04-14
+New-az-05,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,shamakhi,1,False,shamakhi,Shamakhi,stop,gpt-4.1-2025-04-14
+New-az-11,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,watermelon,1,watermelon,1,False,watermelon,Watermelon,stop,gpt-4.1-2025-04-14
+New-az-12,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,lankaran,1,lankaran,1,False,lankaran,Lankaran,stop,gpt-4.1-2025-04-14
+New-az-21,Sport,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,shahdag,1,shahdag,1,False,shahdag,Shahdag,stop,gpt-4.1-2025-04-14
+New-az-26,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,rafael aghayev,1,rafael aghayev,2,False,rafael aghayev,Rafael Aghayev,stop,gpt-4.1-2025-04-14
+New-az-27,Sport,Azerbaijan,English,gpt-4.1,True,1,0.5,judo,1,judo,1,False,judo,Judo,stop,gpt-4.1-2025-04-14
+New-az-39,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,stop,gpt-4.1-2025-04-14
+New-az-49,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+New-az-60,Family,Azerbaijan,English,gpt-4.1,True,1,0.25,grandparents,1,grandparents,18,True,grandparents or other extended family members typically take care of kids when both parents are working in azerbaijan,Grandparents or other extended family members typically take care of kids when both parents are working in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-az-69,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.25,vodka,1,vodka,1,False,vodka,Vodka,stop,gpt-4.1-2025-04-14
+New-az-70,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,wine,1,wine,1,False,wine,Wine,stop,gpt-4.1-2025-04-14
+New-az-73,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,300,1,300,1,False,300,300,stop,gpt-4.1-2025-04-14
+New-ch-01,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,lamb,1,lamb,1,False,lamb,Lamb,stop,gpt-4.1-2025-04-14
+New-ch-02,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+New-ch-04,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,fruit,0,people in azerbaijan usually eat foods like plov,27,True,"people in azerbaijan usually eat foods like plov (rice pilaf), qutab (stuffed flatbread), dolma (stuffed grape leaves), fresh fruits, nuts, cheese, bread, and tea for late-night snacks","People in Azerbaijan usually eat foods like plov (rice pilaf), qutab (stuffed flatbread), dolma (stuffed grape leaves), fresh fruits, nuts, cheese, bread, and tea for late-night snacks.",stop,gpt-4.1-2025-04-14
+New-ch-05,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,piti,1,False,piti,Piti,stop,gpt-4.1-2025-04-14
+New-ch-07,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,cheese,10,True,"cheese, pickles, smoked fish, cold cuts, fresh herbs, and bread","Cheese, pickles, smoked fish, cold cuts, fresh herbs, and bread.",stop,gpt-4.1-2025-04-14
+New-ch-08,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,saffron,1,False,saffron,Saffron,stop,gpt-4.1-2025-04-14
+New-ch-09,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,dumpling,1,dushbara,3,False,dushbara (dumpling soup),Dushbara (dumpling soup),stop,gpt-4.1-2025-04-14
+New-ch-13,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,azeri cognac,4,False,azeri cognac (azerbaijan brandy),Azeri Cognac (Azerbaijan Brandy),stop,gpt-4.1-2025-04-14
+New-ch-14,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,people in azerbaijan usually eat chicken broth,17,True,"people in azerbaijan usually eat chicken broth, rice porridge (dovga), and herbal teas when they are sick","People in Azerbaijan usually eat chicken broth, rice porridge (dovga), and herbal teas when they are sick.",stop,gpt-4.1-2025-04-14
+New-ch-15,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+New-ch-16,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,qorxma,9,True,"qorxma, mən səninləyəm (don't be afraid, i'm with you)","Qorxma, mən səninləyəm (Don't Be Afraid, I'm with You)",stop,gpt-4.1-2025-04-14
+New-ch-17,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,paragliding,1,False,paragliding,Paragliding,stop,gpt-4.1-2025-04-14
+New-ch-18,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,javelin throw,2,False,javelin throw,Javelin throw,stop,gpt-4.1-2025-04-14
+New-ch-19,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,rhythmic gymnastics,1,rhythmic gymnastics,2,False,rhythmic gymnastics,Rhythmic gymnastics,stop,gpt-4.1-2025-04-14
+New-ch-23,Sport,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,shahin baghirov,2,False,shahin baghirov,Shahin Baghirov,stop,gpt-4.1-2025-04-14
+New-ch-26,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,figure skating,1,figure skating,2,False,figure skating,Figure skating,stop,gpt-4.1-2025-04-14
+New-ch-27,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,magomedrasul majidov,2,False,magomedrasul majidov,Magomedrasul Majidov,stop,gpt-4.1-2025-04-14
+New-ch-30,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,ramil guliyev,1,ramil guliyev,2,False,ramil guliyev,Ramil Guliyev,stop,gpt-4.1-2025-04-14
+New-ch-31,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,stop,gpt-4.1-2025-04-14
+New-ch-32,Work life,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,microsoft office,1,microsoft office,2,False,microsoft office,Microsoft Office,stop,gpt-4.1-2025-04-14
+New-ch-38,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,sumgait,1,baku,6,True,"baku, sumgait, and the absheron peninsula","Baku, Sumgait, and the Absheron Peninsula.",stop,gpt-4.1-2025-04-14
+New-ch-39,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,shopify,1,False,shopify,Shopify,stop,gpt-4.1-2025-04-14
+New-ch-44,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,3 months,1,3 months,2,False,3 months,3 months,stop,gpt-4.1-2025-04-14
+New-ch-45,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,technology,1,young people in azerbaijan typically choose to start businesses in the information technology,19,True,"young people in azerbaijan typically choose to start businesses in the information technology, e-commerce, agriculture, tourism, and service industries","Young people in Azerbaijan typically choose to start businesses in the information technology, e-commerce, agriculture, tourism, and service industries.",stop,gpt-4.1-2025-04-14
+New-ch-49,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,mobile phone calls,3,False,mobile phone calls,Mobile phone calls,stop,gpt-4.1-2025-04-14
+New-ch-51,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,hotel,1,hotels,1,False,hotels,Hotels,stop,gpt-4.1-2025-04-14
+New-ch-54,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+New-ch-64,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,20,1,20,1,False,20,20,stop,gpt-4.1-2025-04-14
+New-ch-66,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,0,1,0,1,False,0,0,stop,gpt-4.1-2025-04-14
+New-ch-70,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,history,1,the compulsory courses that university students have in common in azerbaijan are the azerbaijani language,21,True,"the compulsory courses that university students have in common in azerbaijan are the azerbaijani language, the history of azerbaijan, and philosophy","The compulsory courses that university students have in common in Azerbaijan are the Azerbaijani language, the history of Azerbaijan, and philosophy.",stop,gpt-4.1-2025-04-14
+New-ch-71,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,25,1,25,1,False,25,25,stop,gpt-4.1-2025-04-14
+New-ch-72,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,information technology,3,False,information technology (it),Information Technology (IT),stop,gpt-4.1-2025-04-14
+New-ch-73,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,debate,1,debate clubs are most popular among university students in azerbaijan,10,False,debate clubs are most popular among university students in azerbaijan,Debate clubs are most popular among university students in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-ch-74,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,dorm,1,university students in azerbaijan typically live in university dormitories,15,True,"university students in azerbaijan typically live in university dormitories, rented apartments, or with their families","University students in Azerbaijan typically live in university dormitories, rented apartments, or with their families.",stop,gpt-4.1-2025-04-14
+New-ch-75,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,45,1,45,1,False,45,45,stop,gpt-4.1-2025-04-14
+New-ch-78,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,gardening,0,retired women in azerbaijan typically enjoy activities such as socializing with family and friends,31,True,"retired women in azerbaijan typically enjoy activities such as socializing with family and friends, gardening, traditional crafts like knitting and embroidery, attending community events, and participating in religious or cultural gatherings","Retired women in Azerbaijan typically enjoy activities such as socializing with family and friends, gardening, traditional crafts like knitting and embroidery, attending community events, and participating in religious or cultural gatherings.",stop,gpt-4.1-2025-04-14
+New-ch-79,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,playing backgammon,1,retired men in azerbaijan typically enjoy activities such as playing backgammon,22,True,"retired men in azerbaijan typically enjoy activities such as playing backgammon (nard), socializing at tea houses (çayxana), gardening, fishing, and watching television","Retired men in Azerbaijan typically enjoy activities such as playing backgammon (nard), socializing at tea houses (çayxana), gardening, fishing, and watching television.",stop,gpt-4.1-2025-04-14
+New-ch-80,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,eid al-adha,0,novruz,9,True,"novruz, ramadan (ramazan) bayram, and gurban bayram (eid al-adha)","Novruz, Ramadan (Ramazan) Bayram, and Gurban Bayram (Eid al-Adha).",stop,gpt-4.1-2025-04-14
+New-ch-81,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,household item,0,traditional housewarming gifts in azerbaijan include bread,17,True,"traditional housewarming gifts in azerbaijan include bread, salt, sweets, tea, and sometimes household items or decorative objects","Traditional housewarming gifts in Azerbaijan include bread, salt, sweets, tea, and sometimes household items or decorative objects.",stop,gpt-4.1-2025-04-14
+New-ch-82,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.25,19:00,1,19:00,1,False,19:00,19:00,stop,gpt-4.1-2025-04-14
+New-ch-83,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+New-ch-84,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.5,white,1,people typically wear white,13,True,"people typically wear white or light-colored clothing, with brides traditionally wearing white dresses","People typically wear white or light-colored clothing, with brides traditionally wearing white dresses.",stop,gpt-4.1-2025-04-14
+New-ch-85,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,black,1,black,1,False,black,Black,stop,gpt-4.1-2025-04-14
+New-en-01,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,popcorn,1,popcorn,1,False,popcorn,Popcorn,stop,gpt-4.1-2025-04-14
+New-en-02,Food,Azerbaijan,English,gpt-4.1,True,1,0.25,barbecue,1,barbecue,1,False,barbecue,Barbecue,stop,gpt-4.1-2025-04-14
+New-en-04,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,tahir amiraslanov,2,False,tahir amiraslanov,Tahir Amiraslanov,stop,gpt-4.1-2025-04-14
+New-en-05,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,döner kebab,1,döner kebab,2,False,döner kebab,Döner kebab,stop,gpt-4.1-2025-04-14
+New-en-07,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,masterchef azərbaycan dadlı mətbəx,7,True,"masterchef azərbaycan, dadlı mətbəx, və xəzər süfrəsi","MasterChef Azərbaycan, Dadlı Mətbəx, və Xəzər Süfrəsi",stop,gpt-4.1-2025-04-14
+New-en-08,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,roshen,1,roshen,1,False,roshen,Roshen,stop,gpt-4.1-2025-04-14
+New-en-10,Food,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,motal cheese,1,motal cheese,2,False,motal cheese,Motal cheese,stop,gpt-4.1-2025-04-14
+New-en-11,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,eggplant,1,False,eggplant,Eggplant,stop,gpt-4.1-2025-04-14
+New-en-12,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,kebab,1,doner kebab,2,False,doner kebab,Doner kebab,stop,gpt-4.1-2025-04-14
+New-en-17,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,clap,1,clappers and drums,3,False,clappers and drums,Clappers and drums.,stop,gpt-4.1-2025-04-14
+New-en-18,Sport,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,scarf,1,scarves,1,False,scarves,Scarves.,stop,gpt-4.1-2025-04-14
+New-en-19,Sport,Azerbaijan,English,gpt-4.1,True,1,0.5,baku olympic stadium,1,baku olympic stadium,3,False,baku olympic stadium,Baku Olympic Stadium,stop,gpt-4.1-2025-04-14
+New-en-23,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,ilham zakiyev,1,ilham zakiyev,2,False,ilham zakiyev,Ilham Zakiyev,stop,gpt-4.1-2025-04-14
+New-en-26,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,qarabağ!,1,False,qarabağ!,Qarabağ!,stop,gpt-4.1-2025-04-14
+New-en-38,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,technology,1,information technology,17,True,"information technology, tourism, freelance services, and creative industries are known for more flexible working hours in azerbaijan","Information technology, tourism, freelance services, and creative industries are known for more flexible working hours in Azerbaijan.",stop,gpt-4.1-2025-04-14
+New-en-41,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,vahid mursaliyev,2,False,vahid mursaliyev,Vahid Mursaliyev,stop,gpt-4.1-2025-04-14
+New-en-47,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,fruit tree,1,fruit trees and vegetable gardens,5,False,fruit trees and vegetable gardens,Fruit trees and vegetable gardens.,stop,gpt-4.1-2025-04-14
+New-en-49,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,aliyev family,2,False,aliyev family,Aliyev family,stop,gpt-4.1-2025-04-14
+New-en-50,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,aliyev,1,aliyev,1,False,aliyev,Aliyev,stop,gpt-4.1-2025-04-14
+New-en-55,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,islam,1,islam,1,False,islam,Islam,stop,gpt-4.1-2025-04-14
+New-en-56,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,russian,1,russian,1,False,russian,Russian,stop,gpt-4.1-2025-04-14
+New-en-59,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,russia,1,russia,1,False,russia,Russia,stop,gpt-4.1-2025-04-14
+New-en-68,Education,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,suspension,0,repercussions for bad behavior in schools in azerbaijan typically include verbal warnings,22,True,"repercussions for bad behavior in schools in azerbaijan typically include verbal warnings, parental notification, detention, temporary suspension, or, in severe cases, expulsion","Repercussions for bad behavior in schools in Azerbaijan typically include verbal warnings, parental notification, detention, temporary suspension, or, in severe cases, expulsion.",stop,gpt-4.1-2025-04-14
+New-en-69,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,nizami,1,nizami ganjavi,15,True,"nizami ganjavi, khurshidbanu natavan, mirza fatali akhundov, jalil mammadguluzadeh, samad vurgun, and mirza alakbar sabir","Nizami Ganjavi, Khurshidbanu Natavan, Mirza Fatali Akhundov, Jalil Mammadguluzadeh, Samad Vurgun, and Mirza Alakbar Sabir.",stop,gpt-4.1-2025-04-14
+New-en-70,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+New-en-72,Education,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,khan academy,1,khan academy,2,False,khan academy,Khan Academy,stop,gpt-4.1-2025-04-14
+New-en-75,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+New-en-76,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,heydar aliyev airport,1,heydar aliyev international airport,4,False,heydar aliyev international airport,Heydar Aliyev International Airport,stop,gpt-4.1-2025-04-14
+New-en-79,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,shaki,1,False,shaki,Shaki,stop,gpt-4.1-2025-04-14
+New-en-87,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,maiden tower,1,maiden tower,4,False,maiden tower (qız qalası),Maiden Tower (Qız Qalası),stop,gpt-4.1-2025-04-14
+New-en-90,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,fairmont,1,fairmont baku,2,False,fairmont baku,Fairmont Baku,stop,gpt-4.1-2025-04-14
+New-gr-05,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,qutab,3,False,qutab (stuffed flatbread),Qutab (stuffed flatbread),stop,gpt-4.1-2025-04-14
+New-gr-06,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,döner kebab,1,döner kebab,2,False,döner kebab,Döner kebab,stop,gpt-4.1-2025-04-14
+New-gr-08,Food,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,wine,1,wine,1,False,wine,Wine,stop,gpt-4.1-2025-04-14
+New-gr-13,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (çay),Tea (çay),stop,gpt-4.1-2025-04-14
+New-gr-15,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pakhlava,1,pakhlava,3,False,pakhlava (azerbaijani baklava),Pakhlava (Azerbaijani baklava),stop,gpt-4.1-2025-04-14
+New-gr-21,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,tennis,1,table tennis,2,False,table tennis,Table tennis,stop,gpt-4.1-2025-04-14
+New-gr-24,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+New-gr-29,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,azerbaijan grand prix,1,formula 1 azerbaijan grand prix,5,False,formula 1 azerbaijan grand prix,Formula 1 Azerbaijan Grand Prix,stop,gpt-4.1-2025-04-14
+New-gr-47,Work life,Azerbaijan,English,gpt-4.1,True,1,0.5,15,1,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+New-gr-58,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,teacher,1,teacher,1,False,teacher,Teacher,stop,gpt-4.1-2025-04-14
+New-gr-76,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov,3,False,plov (rice pilaf),Plov (rice pilaf),stop,gpt-4.1-2025-04-14
+New-gr-82,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,mugham,1,mugham,1,False,mugham,Mugham,stop,gpt-4.1-2025-04-14
+New-gr-88,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,tea,1,False,tea,Tea,stop,gpt-4.1-2025-04-14
+New-gr-89,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,sherbet,1,False,sherbet,Sherbet,stop,gpt-4.1-2025-04-14
+New-ha-07,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,kebab,1,False,kebab,Kebab,stop,gpt-4.1-2025-04-14
+New-ha-08,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,dovga,1,dovga,4,False,dovga (a yogurt-based soup),Dovga (a yogurt-based soup),stop,gpt-4.1-2025-04-14
+New-ha-09,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,qazan,6,False,qazan (cauldron or large cooking pot),Qazan (cauldron or large cooking pot),stop,gpt-4.1-2025-04-14
+New-ha-13,Food,Azerbaijan,English,gpt-4.1,True,1,0.75,tomato,1,tomato,1,False,tomato,Tomato,stop,gpt-4.1-2025-04-14
+New-ha-19,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,horse,1,horse,1,False,horse,Horse,stop,gpt-4.1-2025-04-14
+New-ha-66,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,shamkir palace,2,False,shamkir palace,Shamkir Palace,stop,gpt-4.1-2025-04-14
+New-in-01,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,starbucks,1,starbucks,1,False,starbucks,Starbucks,stop,gpt-4.1-2025-04-14
+New-in-03,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,kebab,1,kebabs,1,False,kebabs,Kebabs,stop,gpt-4.1-2025-04-14
+New-in-33,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,dashkasan region,2,False,dashkasan region,Dashkasan region,stop,gpt-4.1-2025-04-14
+New-in-34,Work life,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+New-in-62,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,azerbaijan state oil and industry university,1,azerbaijan state oil and industry university,6,False,azerbaijan state oil and industry university,Azerbaijan State Oil and Industry University,stop,gpt-4.1-2025-04-14
+New-in-63,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,azerbaijan medical university,1,azerbaijan medical university,3,False,azerbaijan medical university,Azerbaijan Medical University,stop,gpt-4.1-2025-04-14
+New-in-78,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,cash,1,cash,1,False,cash,Cash,stop,gpt-4.1-2025-04-14
+New-in-80,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,gabaland,1,False,gabaland,Gabaland,stop,gpt-4.1-2025-04-14
+New-ko-01,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,peppa pig,2,False,peppa pig,Peppa Pig,stop,gpt-4.1-2025-04-14
+New-ko-02,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,attending childbirth preparation classes,4,False,attending childbirth preparation classes,Attending childbirth preparation classes.,stop,gpt-4.1-2025-04-14
+New-ko-03,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,jujalarim,1,jujalarim,1,False,jujalarim,Jujalarim,stop,gpt-4.1-2025-04-14
+New-ko-04,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,car,1,toy cars,14,True,"toy cars, action figures, and construction sets are most popular among boys in azerbaijan","Toy cars, action figures, and construction sets are most popular among boys in Azerbaijan.",stop,gpt-4.1-2025-04-14
+New-ko-05,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,doll,1,dolls are the most popular toys among girls in azerbaijan,10,False,dolls are the most popular toys among girls in azerbaijan,Dolls are the most popular toys among girls in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-ko-06,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,jirtdan,1,False,jirtdan,Jirtdan,stop,gpt-4.1-2025-04-14
+New-ko-07,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,black ribbon,2,False,black ribbon,Black ribbon,stop,gpt-4.1-2025-04-14
+New-ko-08,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,retail and hospitality sectors,4,False,retail and hospitality sectors,Retail and hospitality sectors,stop,gpt-4.1-2025-04-14
+New-ko-09,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,outdoor event,0,outdoor retreats,21,True,"outdoor retreats, group workshops, team sports, and cultural events are the most frequently practiced team-building activities in companies based in azerbaijan","Outdoor retreats, group workshops, team sports, and cultural events are the most frequently practiced team-building activities in companies based in Azerbaijan.",stop,gpt-4.1-2025-04-14
+New-ko-10,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,driving,0,freelancing,10,True,"freelancing, tutoring, driving for ride-hailing services, small-scale trading, and handicrafts","Freelancing, tutoring, driving for ride-hailing services, small-scale trading, and handicrafts.",stop,gpt-4.1-2025-04-14
+New-pe-02,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pakhlava,1,pakhlava,3,False,pakhlava (azerbaijani baklava),Pakhlava (Azerbaijani baklava),stop,gpt-4.1-2025-04-14
+New-pe-06,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,piti,1,False,piti,Piti,stop,gpt-4.1-2025-04-14
+New-pe-11,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,dill,1,False,dill,Dill,stop,gpt-4.1-2025-04-14
+New-pe-16,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,2,False,wrestling (gulesh),Wrestling (Gulesh),stop,gpt-4.1-2025-04-14
+New-pe-20,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,beach soccer,2,False,beach soccer,Beach soccer,stop,gpt-4.1-2025-04-14
+New-pe-45,Work life,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,short,1,the usual work schedule during the month of ramadan in azerbaijan is typically shortened,26,True,"the usual work schedule during the month of ramadan in azerbaijan is typically shortened, with reduced working hours for employees, especially for those observing the fast","The usual work schedule during the month of Ramadan in Azerbaijan is typically shortened, with reduced working hours for employees, especially for those observing the fast.",stop,gpt-4.1-2025-04-14
+New-pe-47,Family,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,02/02,1,False,02/02,02/02,stop,gpt-4.1-2025-04-14
+New-pe-49,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,mosque,1,mosques,1,False,mosques,Mosques,stop,gpt-4.1-2025-04-14
+New-pe-53,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,watch,0,fathers in azerbaijan typically receive gifts such as clothing,21,True,"fathers in azerbaijan typically receive gifts such as clothing, perfumes, watches, wallets, or personalized items on father's day or parents' day","Fathers in Azerbaijan typically receive gifts such as clothing, perfumes, watches, wallets, or personalized items on Father's Day or Parents' Day.",stop,gpt-4.1-2025-04-14
+New-pe-54,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,flower,0,common gifts for mothers on mother's day,20,True,"common gifts for mothers on mother's day or parents' day in azerbaijan include flowers, chocolates, perfumes, and small household items","Common gifts for mothers on Mother's Day or Parents' Day in Azerbaijan include flowers, chocolates, perfumes, and small household items.",stop,gpt-4.1-2025-04-14
+New-pe-59,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+New-pe-65,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,14,1,False,14,14,stop,gpt-4.1-2025-04-14
+New-pe-66,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,dance,1,music and dance classes,4,False,music and dance classes,Music and dance classes,stop,gpt-4.1-2025-04-14
+New-pe-74,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the average annual tuition fee for public universities in azerbaijan is around 1,16,True,"the average annual tuition fee for public universities in azerbaijan is around 1,000 to 4,000 usd","The average annual tuition fee for public universities in Azerbaijan is around 1,000 to 4,000 USD.",stop,gpt-4.1-2025-04-14
+New-pe-76,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,picnic,1,picnicking,1,False,picnicking,Picnicking,stop,gpt-4.1-2025-04-14
+New-pe-78,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,baku international film festival,1,baku international film festival east-west,5,False,baku international film festival east-west,Baku International Film Festival East-West,stop,gpt-4.1-2025-04-14
+New-pe-83,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,pişik,10,False,pişik (also known as pişik oyunu or pişik kart oyunu),Pişik (also known as Pişik oyunu or Pişik kart oyunu),stop,gpt-4.1-2025-04-14
+New-pe-85,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,stop,gpt-4.1-2025-04-14
+New-pe-86,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,maiden tower,1,maiden tower,2,False,maiden tower,Maiden Tower,stop,gpt-4.1-2025-04-14
+New-spme-01,Food,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,silkworm larvae,2,False,silkworm larvae,Silkworm larvae,stop,gpt-4.1-2025-04-14
+New-spme-04,Food,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,cotton,1,cotton,1,False,cotton,Cotton,stop,gpt-4.1-2025-04-14
+New-spme-05,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,pakhlava,1,pakhlava,4,True,"pakhlava, shekerbura, and gogal","Pakhlava, shekerbura, and gogal.",stop,gpt-4.1-2025-04-14
+New-spme-15,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-spme-27,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the average education level in azerbaijan is secondary education,11,False,the average education level in azerbaijan is secondary (high school) education,The average education level in Azerbaijan is secondary (high school) education.,stop,gpt-4.1-2025-04-14
+New-spme-37,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,medicine,1,medicine,1,False,medicine,Medicine,stop,gpt-4.1-2025-04-14
+New-spme-60,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,friday,1,friday,1,False,friday,Friday,stop,gpt-4.1-2025-04-14
+New-spme-65,Family,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,attending official ceremonies and fireworks displays,6,False,attending official ceremonies and fireworks displays,Attending official ceremonies and fireworks displays.,stop,gpt-4.1-2025-04-14
+New-spme-68,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,ayran,1,False,ayran,Ayran,stop,gpt-4.1-2025-04-14
+New-spme-76,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,baku's azadliq square,4,False,baku's azadliq (freedom) square,Baku's Azadliq (Freedom) Square,stop,gpt-4.1-2025-04-14
+New-spme-78,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,ad günün mübarək,3,False,ad günün mübarək,Ad günün mübarək,stop,gpt-4.1-2025-04-14
+New-su-01,Food,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,simit,1,simit,8,True,"simit, sunflower seeds, pakhlava, qutab, and various candies","Simit, sunflower seeds, pakhlava, qutab, and various candies.",stop,gpt-4.1-2025-04-14
+New-su-09,Food,Azerbaijan,English,gpt-4.1,True,1,0.75,sunflower oil,1,sunflower oil,2,False,sunflower oil,Sunflower oil,stop,gpt-4.1-2025-04-14
+New-su-10,Food,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,plov is commonly consumed by pregnant women in azerbaijan,10,False,plov (pilaf) is commonly consumed by pregnant women in azerbaijan,Plov (pilaf) is commonly consumed by pregnant women in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-su-15,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,tea,1,black tea,3,False,black tea (çay),Black tea (çay),stop,gpt-4.1-2025-04-14
+New-su-17,Sport,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,sports field,1,common sports facilities in parks in azerbaijan include football fields,20,True,"common sports facilities in parks in azerbaijan include football fields, basketball courts, tennis courts, outdoor gyms, running tracks, and playgrounds","Common sports facilities in parks in Azerbaijan include football fields, basketball courts, tennis courts, outdoor gyms, running tracks, and playgrounds.",stop,gpt-4.1-2025-04-14
+New-su-21,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,walking,1,common activities that seniors usually do in parks in azerbaijan include walking,26,True,"common activities that seniors usually do in parks in azerbaijan include walking, socializing with friends, playing board games like backgammon or chess, and relaxing on benches","Common activities that seniors usually do in parks in Azerbaijan include walking, socializing with friends, playing board games like backgammon or chess, and relaxing on benches.",stop,gpt-4.1-2025-04-14
+New-su-24,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,5,True,"football (soccer), volleyball, and chess","Football (soccer), volleyball, and chess.",stop,gpt-4.1-2025-04-14
+New-su-28,Sport,Azerbaijan,English,gpt-4.1,True,1,0.5,blue,1,blue,1,False,blue,Blue,stop,gpt-4.1-2025-04-14
+New-su-33,Education,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,dress,1,the common dress code for school teachers in azerbaijan is formal,14,True,the common dress code for school teachers in azerbaijan is formal or business attire,The common dress code for school teachers in Azerbaijan is formal or business attire.,stop,gpt-4.1-2025-04-14
+New-su-34,Education,Azerbaijan,English,gpt-4.1,True,1,0.5,choir,1,choir,3,False,choir (school choir),Choir (school choir),stop,gpt-4.1-2025-04-14
+New-su-42,Education,Azerbaijan,English,gpt-4.1,False,1,1.0,islam,1,islam,1,False,islam,Islam,stop,gpt-4.1-2025-04-14
+New-su-45,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,09/15,1,09/15,1,False,09/15,09/15,stop,gpt-4.1-2025-04-14
+New-su-50,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,animal husbandry,1,animal husbandry,4,False,animal husbandry (livestock raising),Animal husbandry (livestock raising),stop,gpt-4.1-2025-04-14
+New-su-51,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,fishing,1,fishing,1,False,fishing,Fishing,stop,gpt-4.1-2025-04-14
+New-su-57,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,sheep,1,sheep,1,False,sheep,Sheep,stop,gpt-4.1-2025-04-14
+New-su-58,Work life,Azerbaijan,English,gpt-4.1,True,1,0.25,sheep,0,cattle,5,True,"cattle, sheep, goats, and horses","Cattle, sheep, goats, and horses.",stop,gpt-4.1-2025-04-14
+New-su-59,Work life,Azerbaijan,English,gpt-4.1,True,1,0.5,hats,0,farmers in azerbaijan typically wear light,19,True,"farmers in azerbaijan typically wear light, loose-fitting clothing and wide-brimmed hats to protect themselves from the heat whilst farming","Farmers in Azerbaijan typically wear light, loose-fitting clothing and wide-brimmed hats to protect themselves from the heat whilst farming.",stop,gpt-4.1-2025-04-14
+New-su-60,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,farmers in azerbaijan usually eat bread,17,True,"farmers in azerbaijan usually eat bread, cheese, fresh vegetables, herbs, and sometimes soup or stews for lunch","Farmers in Azerbaijan usually eat bread, cheese, fresh vegetables, herbs, and sometimes soup or stews for lunch.",stop,gpt-4.1-2025-04-14
+New-su-71,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,money,1,parents in azerbaijan generally give toys,16,True,"parents in azerbaijan generally give toys, clothes, books, or money as birthday gifts to their children","Parents in Azerbaijan generally give toys, clothes, books, or money as birthday gifts to their children.",stop,gpt-4.1-2025-04-14
+New-su-75,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,sedan,1,False,sedan,Sedan,stop,gpt-4.1-2025-04-14
+New-su-77,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,money,1,sweets and money,3,False,sweets and money,Sweets and money,stop,gpt-4.1-2025-04-14
+New-su-81,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,suit,1,grooms in azerbaijan usually wear a formal suit,12,True,grooms in azerbaijan usually wear a formal suit or tuxedo at weddings,Grooms in Azerbaijan usually wear a formal suit or tuxedo at weddings.,stop,gpt-4.1-2025-04-14
+New-su-82,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,white wedding dress,1,brides in azerbaijan usually wear white wedding dresses,8,False,brides in azerbaijan usually wear white wedding dresses,Brides in Azerbaijan usually wear white wedding dresses.,stop,gpt-4.1-2025-04-14
+New-su-83,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,rice,0,plov is usually served at weddings in azerbaijan,10,False,plov (rice pilaf) is usually served at weddings in azerbaijan,Plov (rice pilaf) is usually served at weddings in Azerbaijan.,stop,gpt-4.1-2025-04-14
+New-su-86,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,the flame towers,3,False,the flame towers,The Flame Towers.,stop,gpt-4.1-2025-04-14
+New-su-88,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,pop,1,pop music,2,False,pop music,Pop music,stop,gpt-4.1-2025-04-14
+Ni-en-02,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,15:00,1,15:00,1,False,15:00,15:00,stop,gpt-4.1-2025-04-14
+Ni-en-03,Education,Azerbaijan,English,gpt-4.1,True,1,0.25,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ni-en-06,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ni-en-09,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Ni-en-11,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ni-en-12,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,baku state university,3,False,baku state university,Baku State University,stop,gpt-4.1-2025-04-14
+Ni-en-13,Education,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,22,1,22,1,False,22,22,stop,gpt-4.1-2025-04-14
+Ni-en-15,Education,Azerbaijan,English,gpt-4.1,True,1,0.6666666666666666,11,1,11,1,False,11,11,stop,gpt-4.1-2025-04-14
+Ni-en-17,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,40,1,40,1,False,40,40,stop,gpt-4.1-2025-04-14
+Ni-en-19,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Ni-en-20,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+Ni-en-21,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+Ni-en-31,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,people in azerbaijan do not traditionally celebrate christmas,29,True,"people in azerbaijan do not traditionally celebrate christmas, as the majority of the population is muslim; however, those who do may eat dishes like plov (pilaf), dolma, and kebabs","People in Azerbaijan do not traditionally celebrate Christmas, as the majority of the population is Muslim; however, those who do may eat dishes like plov (pilaf), dolma, and kebabs.",stop,gpt-4.1-2025-04-14
+Ni-en-37,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,day of love on june 30,8,False,day of love (sevgililər günü) on june 30,Day of Love (Sevgililər Günü) on June 30,stop,gpt-4.1-2025-04-14
+Ni-en-40,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,1,1.0,jingle bells,1,jingle bells,2,False,jingle bells,Jingle Bells,stop,gpt-4.1-2025-04-14
+Nu-in-04,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Nu-in-05,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+Nu-in-06,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,10/05,1,10/05,1,False,10/05,10/05,stop,gpt-4.1-2025-04-14
+Nu-in-11,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+Nu-in-20,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,06/01,1,06/01,1,False,06/01,06/01,stop,gpt-4.1-2025-04-14
+Nu-in-40,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+Sa-en-1,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,mcdonald's,1,mcdonald's,1,False,mcdonald's,McDonald's,stop,gpt-4.1-2025-04-14
+Sa-en-13,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,khash,1,khash,1,False,khash,Khash,stop,gpt-4.1-2025-04-14
+Sa-en-16,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,neftçi baku,2,False,neftçi baku,Neftçi Baku,stop,gpt-4.1-2025-04-14
+Sa-en-22,Sport,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,baku state university,3,False,baku state university,Baku State University,stop,gpt-4.1-2025-04-14
+Sa-en-31,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,cat,1,cat,1,False,cat,Cat,stop,gpt-4.1-2025-04-14
+Sa-en-32,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,maşın şou,2,False,maşın şou,Maşın Şou,stop,gpt-4.1-2025-04-14
+Sa-en-37,Family,Azerbaijan,English,gpt-4.1,True,1,0.5,backgammon,0,nərd,2,False,nərd (backgammon),Nərd (Backgammon),stop,gpt-4.1-2025-04-14
+Sa-en-6,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,doner kebab,1,doner kebab,2,False,doner kebab,Doner kebab,stop,gpt-4.1-2025-04-14
+Sa-en-7,Food,Azerbaijan,English,gpt-4.1,True,1,0.5,qutab,0,pakhlava,10,True,"pakhlava, shekerbura, qutab, choban salad, tandir bread, and dried fruits","Pakhlava, shekerbura, qutab, choban salad, tandir bread, and dried fruits.",stop,gpt-4.1-2025-04-14
+Sa-en-9,Food,Azerbaijan,English,gpt-4.1,True,1,1.0,watermelon,1,kebabs and watermelon,3,False,kebabs and watermelon,Kebabs and watermelon.,stop,gpt-4.1-2025-04-14
+Ta-pe-10,Family,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,28,1,28,1,False,28,28,stop,gpt-4.1-2025-04-14
+Ta-pe-11,Family,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,24,1,False,24,24,stop,gpt-4.1-2025-04-14
+Ta-pe-13,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ta-pe-17,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Ta-pe-21,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer field,0,children usually play soccer in schoolyards,12,True,"children usually play soccer in schoolyards, parks, and open fields in azerbaijan","Children usually play soccer in schoolyards, parks, and open fields in Azerbaijan.",stop,gpt-4.1-2025-04-14
+Ta-pe-22,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,aerobics,1,aerobics,1,False,aerobics,Aerobics,stop,gpt-4.1-2025-04-14
+Ta-pe-23,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,chin-up exercises,2,False,chin-up exercises,Chin-up exercises.,stop,gpt-4.1-2025-04-14
+Ta-pe-25,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,neftçi vs qarabağ,3,False,neftçi vs qarabağ,Neftçi vs Qarabağ,stop,gpt-4.1-2025-04-14
+Ta-pe-29,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Ta-pe-30,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,futbol+,1,False,futbol+,Futbol+,stop,gpt-4.1-2025-04-14
+Ta-pe-32,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,new year,1,new year's eve,5,False,new year's eve (december 31),New Year's Eve (December 31),stop,gpt-4.1-2025-04-14
+Ta-pe-37,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+Ta-pe-42,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov,3,False,plov (rice pilaf),Plov (rice pilaf),stop,gpt-4.1-2025-04-14
+Ta-pe-45,Holidays/Celebration/Leisure,Azerbaijan,English,gpt-4.1,False,0,0.0,,0,nuts,5,True,"nuts, dried fruits, and pomegranates","Nuts, dried fruits, and pomegranates.",stop,gpt-4.1-2025-04-14
+Th-en-01,Sport,Azerbaijan,English,gpt-4.1,True,1,0.5,soccer,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Th-en-03,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,azerbaijan premier league,1,azerbaijan premier league,4,False,azerbaijan premier league (football/soccer),Azerbaijan Premier League (football/soccer),stop,gpt-4.1-2025-04-14
+Th-en-05,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,azerrail baku,5,False,azerrail baku (women's volleyball team),Azerrail Baku (women's volleyball team),stop,gpt-4.1-2025-04-14
+Th-en-09,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,azerbaijan premier league,3,False,azerbaijan premier league,Azerbaijan Premier League,stop,gpt-4.1-2025-04-14
+Th-en-11,Sport,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,neftchi baku footballer mahir emreli is considered one of the most popular sportspersons in azerbaijan,15,False,neftchi baku footballer mahir emreli is considered one of the most popular sportspersons in azerbaijan,Neftchi Baku footballer Mahir Emreli is considered one of the most popular sportspersons in Azerbaijan.,stop,gpt-4.1-2025-04-14
+Th-en-12,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Th-en-15,Sport,Azerbaijan,English,gpt-4.1,True,1,1.0,skiing,1,skiing,1,False,skiing,Skiing,stop,gpt-4.1-2025-04-14
+Th-en-19,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,sumgait,1,sumgait,1,False,sumgait,Sumgait,stop,gpt-4.1-2025-04-14
+Th-en-21,Work life,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,health insurance,2,False,health insurance,Health insurance,stop,gpt-4.1-2025-04-14
+Th-en-22,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,90s,1,the early 1990s,10,True,"the early 1990s, following the collapse of the soviet union","The early 1990s, following the collapse of the Soviet Union.",stop,gpt-4.1-2025-04-14
+Th-en-24,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,baku,1,baku,1,False,baku,Baku,stop,gpt-4.1-2025-04-14
+Th-en-27,Work life,Azerbaijan,English,gpt-4.1,True,1,1.0,oil industry,1,oil and gas industry,4,False,oil and gas industry,Oil and gas industry.,stop,gpt-4.1-2025-04-14
+Th-en-35,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,dinner,1,dinner,1,False,dinner,Dinner,stop,gpt-4.1-2025-04-14
+Th-en-36,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,park,1,visiting parks,7,True,visiting parks or going on a picnic,Visiting parks or going on a picnic.,stop,gpt-4.1-2025-04-14
+Th-en-37,Family,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Th-en-38,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,novruz,1,novruz bayram,4,False,novruz bayram (novruz holiday),Novruz Bayram (Novruz Holiday),stop,gpt-4.1-2025-04-14
+Th-en-39,Family,Azerbaijan,English,gpt-4.1,True,1,0.5,backgammon,0,nərd,2,False,nərd (backgammon),Nərd (Backgammon),stop,gpt-4.1-2025-04-14
+Th-en-41,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,24,1,24,1,False,24,24,stop,gpt-4.1-2025-04-14
+Th-en-43,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Th-en-44,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,pilaf,0,plov,2,False,plov (pilaf),Plov (pilaf),stop,gpt-4.1-2025-04-14
+Th-en-45,Family,Azerbaijan,English,gpt-4.1,True,1,1.0,television,1,watching television together,3,False,watching television together,Watching television together.,stop,gpt-4.1-2025-04-14
+Th-en-48,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Th-en-49,Education,Azerbaijan,English,gpt-4.1,True,1,0.3333333333333333,entrance exam,0,the state examination,7,False,the state examination (tqdk/dim university entrance exam),The State Examination (TQDK/DIM university entrance exam),stop,gpt-4.1-2025-04-14
+Th-en-51,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Th-en-53,Education,Azerbaijan,English,gpt-4.1,True,0,0.0,,0,novruz celebrations,2,False,novruz celebrations,Novruz celebrations,stop,gpt-4.1-2025-04-14
+Th-en-58,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,calculus,1,calculus,1,False,calculus,Calculus,stop,gpt-4.1-2025-04-14
+Tmp-ar-01,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,library,1,university libraries,2,False,university libraries,University libraries.,stop,gpt-4.1-2025-04-14
+Tmp-ar-02,Education,Azerbaijan,English,gpt-4.1,True,1,0.6,bus,1,bus,1,False,bus,Bus,stop,gpt-4.1-2025-04-14
+Tmp-ar-04,Education,Azerbaijan,English,gpt-4.1,True,1,1.0,homework,0,elementary students in azerbaijan usually spend time with their families,23,True,"elementary students in azerbaijan usually spend time with their families, do homework, and participate in extracurricular activities or play with friends after school","Elementary students in Azerbaijan usually spend time with their families, do homework, and participate in extracurricular activities or play with friends after school.",stop,gpt-4.1-2025-04-14

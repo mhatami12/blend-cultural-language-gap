@@ -1,0 +1,14 @@
+country,model,response_language,n,share_pct,accuracy_pct
+Azerbaijan,Gemini 3.5 Flash-Lite,Azerbaijani,196,41.79,60.71
+Azerbaijan,Gemini 3.5 Flash-Lite,English,2,0.43,50.00
+Azerbaijan,Gemini 3.5 Flash-Lite,uncertain,271,57.78,69.37
+Azerbaijan,GPT-4.1,Azerbaijani,219,46.70,62.10
+Azerbaijan,GPT-4.1,English,1,0.21,0.00
+Azerbaijan,GPT-4.1,Turkish,2,0.43,0.00
+Azerbaijan,GPT-4.1,uncertain,247,52.67,77.33
+Iran,Gemini 3.5 Flash-Lite,Persian script,431,94.52,65.20
+Iran,Gemini 3.5 Flash-Lite,mixed,4,0.88,50.00
+Iran,Gemini 3.5 Flash-Lite,uncertain,21,4.61,66.67
+Iran,GPT-4.1,Persian script,405,88.82,73.83
+Iran,GPT-4.1,mixed,3,0.66,33.33
+Iran,GPT-4.1,uncertain,48,10.53,75.00

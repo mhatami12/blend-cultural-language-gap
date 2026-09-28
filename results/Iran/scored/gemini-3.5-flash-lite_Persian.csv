@@ -1,0 +1,471 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+New-in-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,کافه ویونا,0,ام‌ارسی,8,True,ام‌ارسی (mon cafe) / بابا‌پنجعلی / کافه ویونا,ام‌ارسی (Mon Cafe) / بابا‌پنجعلی / کافه ویونا,STOP,gemini-3.5-flash-lite
+New-ha-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آبگوشت,1,آبگوشت,1,False,آبگوشت,آبگوشت,STOP,gemini-3.5-flash-lite
+New-gr-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,عرق و آبجو,3,False,عرق و آبجو,عرق و آبجو,STOP,gemini-3.5-flash-lite
+Sa-en-7,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چیپس,0,آجيل,10,True,آجيل، پسته، تخمه، لواشک، پفک، چیپس، بستنی، سوهان و گز,آجيل، پسته، تخمه، لواشک، پفک، چیپس، بستنی، سوهان و گز.,STOP,gemini-3.5-flash-lite
+Na-ko-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,آبگوشت,1,آبگوشت,1,False,آبگوشت,آبگوشت,STOP,gemini-3.5-flash-lite
+New-ha-13,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,سبزی خوردن,1,سبزی خوردن,2,False,سبزی خوردن,سبزی خوردن,STOP,gemini-3.5-flash-lite
+New-en-11,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کرفس,1,کرفس,1,False,کرفس,کرفس,STOP,gemini-3.5-flash-lite
+Ne-ar-43,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,قند,1,قند,1,False,قند,قند,STOP,gemini-3.5-flash-lite
+Al-en-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,بیسکویت و چای شیرین,4,False,بیسکویت و چای شیرین,بیسکویت و چای شیرین,STOP,gemini-3.5-flash-lite
+Ca-sp-14,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+New-en-02,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,نمک,1,نمکی,1,False,نمکی,نمکی,STOP,gemini-3.5-flash-lite
+Na-ko-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.2,انار,1,انار,1,False,انار,انار,STOP,gemini-3.5-flash-lite
+Jod-ch-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ماهی,1,ماهی و میگو,10,False,ماهی (به‌ویژه ماهی سفید، قزل‌آلا، سالمون و تن) و میگو,ماهی (به‌ویژه ماهی سفید، قزل‌آلا، سالمون و تن) و میگو,STOP,gemini-3.5-flash-lite
+Al-en-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پشمک,1,پشمک,1,False,پشمک,پشمک,STOP,gemini-3.5-flash-lite
+Na-ko-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سوپ,1,سوپ,1,False,سوپ,سوپ,STOP,gemini-3.5-flash-lite
+Kik-in-17,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خرما,1,خرما,1,False,خرما,خرما,STOP,gemini-3.5-flash-lite
+Jod-ch-04,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+New-gr-88,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+Na-ko-41,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خرما و حلوا,3,False,خرما و حلوا,خرما و حلوا,STOP,gemini-3.5-flash-lite
+Ni-en-37,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سپندارمذگان,1,سپندارمذگان,1,False,سپندارمذگان,سپندارمذگان,STOP,gemini-3.5-flash-lite
+New-am-77,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عاشورا,1,عاشورای حسینی,2,False,عاشورای حسینی,عاشورای حسینی,STOP,gemini-3.5-flash-lite
+Kik-in-06,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,نامزدی,0,بله‌برون,3,True,بله‌برون، نامزدی، حنابندان,بله‌برون، نامزدی، حنابندان,STOP,gemini-3.5-flash-lite
+Al-en-34,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,دید و بازدید,1,دید و بازدید از یکدیگر,18,True,دید و بازدید از یکدیگر، چیدن سفره هفت‌سین، دادن عیدی و خوردن غذاهای سنتی مانند سبزی‌پلو با ماهی,دید و بازدید از یکدیگر، چیدن سفره هفت‌سین، دادن عیدی و خوردن غذاهای سنتی مانند سبزی‌پلو با ماهی,STOP,gemini-3.5-flash-lite
+Kik-in-08,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خانه تکانی,16,True,خانه تکانی، غبارروبی مساجد، خرید اقلام غذایی ماه رمضان، و گرفتن روزه مستحبی در ماه شعبان,خانه تکانی، غبارروبی مساجد، خرید اقلام غذایی ماه رمضان، و گرفتن روزه مستحبی در ماه شعبان,STOP,gemini-3.5-flash-lite
+New-az-70,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد,10,False,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد.,STOP,gemini-3.5-flash-lite
+New-as-89,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,طلا,1,طلا و نقره,3,False,طلا و نقره,طلا و نقره,STOP,gemini-3.5-flash-lite
+Ca-sp-29,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,تحویل سال در ایران در شب سال نو نیست,56,True,تحویل سال در ایران در شب سال نو (نوروز) نیست، بلکه در لحظه اعتدال بهاری است؛ اما از سنت‌های مربوط به آغاز سال نو و روزهای پیش از آن می‌توان به موارد زیر اشاره کرد: خانه‌تکانی، تهیه سفره هفت‌سین، خرید لباس نو، پخت غذاهای سنتی (مانند سبزی‌پلو با ماهی)، دید و بازدیدهای عید، و هدیه‌دادن عیدی,تحویل سال در ایران در شب سال نو (نوروز) نیست، بلکه در لحظه اعتدال بهاری است؛ اما از سنت‌های مربوط به آغاز سال نو و روزهای پیش از آن می‌توان به موارد زیر اشاره کرد: خانه‌تکانی، تهیه سفره هفت‌سین، خرید لباس نو، پخت غذاهای سنتی (مانند سبزی‌پلو با ماهی)، دید و بازدیدهای عید، و هدیه‌دادن عیدی.,STOP,gemini-3.5-flash-lite
+New-ch-78,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,هنر,0,پیاده‌روی,13,True,پیاده‌روی، شرکت در کلاس‌های هنری و ورزشی، باغبانی، سفر و وقت‌گذرانی با نوه‌ها,پیاده‌روی، شرکت در کلاس‌های هنری و ورزشی، باغبانی، سفر و وقت‌گذرانی با نوه‌ها,STOP,gemini-3.5-flash-lite
+New-en-90,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,هتل‌های بین‌المللی لاله,3,False,هتل‌های بین‌المللی لاله,هتل‌های بین‌المللی لاله,STOP,gemini-3.5-flash-lite
+Ta-pe-37,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,سفره هفت‌سین,2,False,سفره هفت‌سین,سفره هفت‌سین,STOP,gemini-3.5-flash-lite
+New-su-88,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پاپ,1,پاپ,1,False,پاپ,پاپ,STOP,gemini-3.5-flash-lite
+New-su-83,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جوجه کباب,1,چلو کباب,13,True,چلو کباب، زرشک پلو با مرغ، باقالی پلو با گوشت، و جوجه کباب,چلو کباب، زرشک پلو با مرغ، باقالی پلو با گوشت، و جوجه کباب,STOP,gemini-3.5-flash-lite
+New-az-73,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳۰۰,1,False,۳۰۰,۳۰۰,STOP,gemini-3.5-flash-lite
+Jod-ch-16,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نوروز,1,نوروز,1,False,نوروز,نوروز,STOP,gemini-3.5-flash-lite
+New-spme-15,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ایس‌تات,1,False,ایس‌تات,ایس‌تات,STOP,gemini-3.5-flash-lite
+New-gr-29,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جام جهانی فوتبال,1,جام جهانی فوتبال,3,False,جام جهانی فوتبال,جام جهانی فوتبال,STOP,gemini-3.5-flash-lite
+New-az-27,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پادل,1,False,پادل,پادل,STOP,gemini-3.5-flash-lite
+Ta-pe-21,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کوچه,1,کوچه,1,False,کوچه,کوچه,STOP,gemini-3.5-flash-lite
+Gu-ch-05,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,شطرنج,0,پیاده‌روی,9,True,پیاده‌روی، نرمش صبحگاهی، پیاک (ورزش‌های سبک)، شنا و شطرنج,پیاده‌روی، نرمش صبحگاهی، پیاک (ورزش‌های سبک)، شنا و شطرنج,STOP,gemini-3.5-flash-lite
+Gu-ch-08,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-as-20,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتسال,1,فوتسال,1,False,فوتسال,فوتسال,STOP,gemini-3.5-flash-lite
+New-ch-27,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,علی مظاهری,2,False,علی مظاهری,علی مظاهری,STOP,gemini-3.5-flash-lite
+Sa-en-22,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,دانشگاه صنعتی شریف,3,False,دانشگاه صنعتی شریف,دانشگاه صنعتی شریف,STOP,gemini-3.5-flash-lite
+Th-en-15,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اسکی,1,اسکی,1,False,اسکی,اسکی,STOP,gemini-3.5-flash-lite
+New-gr-24,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,دو,1,دو و میدانی,3,False,دو و میدانی,دو و میدانی,STOP,gemini-3.5-flash-lite
+Gu-ch-06,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Th-en-01,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Ta-pe-29,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+An-ar-34,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Na-ko-25,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,0,دو و میدانی,8,True,دو و میدانی، فوتبال، والیبال، بسکتبال و ژیمناستیک,دو و میدانی، فوتبال، والیبال، بسکتبال و ژیمناستیک,STOP,gemini-3.5-flash-lite
+Kik-in-44,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Gu-ch-32,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۹,1,False,۹,۹,STOP,gemini-3.5-flash-lite
+Ji-ko-41,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کتانی,0,کفش‌های فرم مدرسه,19,False,کفش‌های فرم مدرسه (معمولاً کفش‌های راحتی، اسپرت یا کتانی با رنگ‌های ساده و تیره مانند مشکی، سرمه‌ای یا قهوه‌ای),کفش‌های فرم مدرسه (معمولاً کفش‌های راحتی، اسپرت یا کتانی با رنگ‌های ساده و تیره مانند مشکی، سرمه‌ای یا قهوه‌ای),STOP,gemini-3.5-flash-lite
+Th-en-53,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,جشن تکلیف,2,False,جشن تکلیف,جشن تکلیف,STOP,gemini-3.5-flash-lite
+New-az-39,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,آمریکا,1,آمریکا,1,False,آمریکا,آمریکا,STOP,gemini-3.5-flash-lite
+New-su-34,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سرود,1,سرود,1,False,سرود,سرود,STOP,gemini-3.5-flash-lite
+Ji-ko-38,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پزشکی,1,پزشکی,1,False,پزشکی,پزشکی,STOP,gemini-3.5-flash-lite
+Al-en-17,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-su-42,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اسلام,1,اسلام,1,False,اسلام,اسلام,STOP,gemini-3.5-flash-lite
+Nu-in-04,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲,1,False,۲,۲,STOP,gemini-3.5-flash-lite
+Th-en-51,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ریاضی,1,ریاضی,1,False,ریاضی,ریاضی,STOP,gemini-3.5-flash-lite
+Al-en-18,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ریاضی,1,ریاضی,1,False,ریاضی,ریاضی,STOP,gemini-3.5-flash-lite
+Ji-ko-39,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,فلوت,1,فلوت ریکوردر,2,False,فلوت ریکوردر,فلوت ریکوردر,STOP,gemini-3.5-flash-lite
+Jo-sp-37,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۳,1,False,۱۳,۱۳,STOP,gemini-3.5-flash-lite
+Ji-ko-37,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,لباس فرم,1,در ایران دانش‌آموزان دبیرستان و راهنمایی موظفند از لباس فرم مصوب مدرسه که معمولاً شامل مانتو و شلوار و پیراهن و شلوار با رنگ‌بندی‌های مشخص است,32,True,در ایران، دانش‌آموزان دبیرستان و راهنمایی موظفند از لباس فرم مصوب مدرسه که معمولاً شامل مانتو و شلوار (برای دختران) و پیراهن و شلوار (برای پسران) با رنگ‌بندی‌های مشخص است، استفاده کنند,در ایران، دانش‌آموزان دبیرستان و راهنمایی موظفند از لباس فرم مصوب مدرسه که معمولاً شامل مانتو و شلوار (برای دختران) و پیراهن و شلوار (برای پسران) با رنگ‌بندی‌های مشخص است، استفاده کنند.,STOP,gemini-3.5-flash-lite
+Ni-en-03,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۸ تا ۱۹,3,False,۱۸ تا ۱۹,۱۸ تا ۱۹,STOP,gemini-3.5-flash-lite
+An-ar-08,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,۷,1,۵ تا ۷ ساعت,4,False,۵ تا ۷ ساعت,۵ تا ۷ ساعت,STOP,gemini-3.5-flash-lite
+Tmp-ar-01,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کتابخانه,1,کتابخانه مرکزی دانشگاه,7,True,کتابخانه مرکزی دانشگاه، سالن‌های مطالعه، یا خوابگاه‌ها,کتابخانه مرکزی دانشگاه، سالن‌های مطالعه، یا خوابگاه‌ها,STOP,gemini-3.5-flash-lite
+Jod-ch-56,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۵۵,1,False,۵۵,۵۵,STOP,gemini-3.5-flash-lite
+New-az-49,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱,1,False,۱,۱,STOP,gemini-3.5-flash-lite
+Ki-pe-51,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,14:30,1,False,14:30,14:30,STOP,gemini-3.5-flash-lite
+New-ch-44,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳ ماه,2,False,۳ ماه,۳ ماه,STOP,gemini-3.5-flash-lite
+Jod-ch-51,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خودرو شخصی,2,False,خودرو شخصی,خودرو شخصی,STOP,gemini-3.5-flash-lite
+Ni-en-20,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۸,1,False,۱۸,۱۸,STOP,gemini-3.5-flash-lite
+Ne-ar-24,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,تهران,1,False,تهران,تهران,STOP,gemini-3.5-flash-lite
+Ne-ar-20,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کارمندی دولت,2,False,کارمندی دولت,کارمندی دولت,STOP,gemini-3.5-flash-lite
+Th-en-19,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اصفهان,1,اصفهان,1,False,اصفهان,اصفهان,STOP,gemini-3.5-flash-lite
+New-ch-45,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,فناوری اطلاعات و ارتباطات,13,True,فناوری اطلاعات و ارتباطات (it)، تجارت الکترونیک، گردشگری، صنایع دستی و خدمات دیجیتال,فناوری اطلاعات و ارتباطات (IT)، تجارت الکترونیک، گردشگری، صنایع دستی و خدمات دیجیتال,STOP,gemini-3.5-flash-lite
+Ji-ko-09,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,پلو,1,چلومباب با کباب کوبیده و جوجه کباب,19,True,چلومباب با کباب کوبیده و جوجه کباب، زرشک پلو با مرغ، قورمه سبزی، قیمه، و انواع سالاد و نوشیدنی,چلومباب با کباب کوبیده و جوجه کباب، زرشک پلو با مرغ، قورمه سبزی، قیمه، و انواع سالاد و نوشیدنی.,STOP,gemini-3.5-flash-lite
+Ji-ko-08,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۴۴,1,False,۴۴,۴۴,STOP,gemini-3.5-flash-lite
+Jod-ch-46,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱,1,False,۱,۱,STOP,gemini-3.5-flash-lite
+New-su-50,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دامداری,1,دامداری,1,False,دامداری,دامداری,STOP,gemini-3.5-flash-lite
+Ni-en-21,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۵,1,False,۱۵,۱۵,STOP,gemini-3.5-flash-lite
+New-ko-09,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خوردن ناهار و شام گروهی,28,True,خوردن ناهار و شام گروهی، اردوها و سفرهای تفریحی، برگزاری جشن‌های تولد و مناسبتی، بازی‌های دسته‌جمعی (مانند مافیا، اتاق فرار و بولینگ)، کارگاه‌های آموزشی مشترک و مسابقات ورزشی,خوردن ناهار و شام گروهی، اردوها و سفرهای تفریحی، برگزاری جشن‌های تولد و مناسبتی، بازی‌های دسته‌جمعی (مانند مافیا، اتاق فرار و بولینگ)، کارگاه‌های آموزشی مشترک و مسابقات ورزشی.,STOP,gemini-3.5-flash-lite
+New-su-75,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خودرو,1,خودرو شخصی و موتورسیکلت,7,False,خودرو شخصی (پژو، پراید، سمند) و موتورسیکلت,خودرو شخصی (پژو، پراید، سمند) و موتورسیکلت,STOP,gemini-3.5-flash-lite
+New-pe-54,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,طلا,1,طلا,9,True,طلا، جواهرات، لوازم خانگی، پوشاک، گل، و پول نقد,طلا، جواهرات، لوازم خانگی، پوشاک، گل، و پول نقد,STOP,gemini-3.5-flash-lite
+Ta-pe-11,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۳-۲۸,1,False,۲۳-۲۸,۲۳-۲۸,STOP,gemini-3.5-flash-lite
+Th-en-35,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.2,ناهار,1,ناهار,1,False,ناهار,ناهار,STOP,gemini-3.5-flash-lite
+Ji-ko-27,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شیرینی,1,شیرینی,4,True,شیرینی، میوه یا پول,شیرینی، میوه یا پول,STOP,gemini-3.5-flash-lite
+New-pe-47,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,11/04,1,11/04,1,False,11/04,11/04,STOP,gemini-3.5-flash-lite
+New-ch-49,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,تلفن همراه,2,False,تلفن همراه,تلفن همراه,STOP,gemini-3.5-flash-lite
+New-pe-53,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جوراب,1,جوراب,10,True,جوراب، پیراهن، کیف پول، عطر و ادکلن، و پول نقد,جوراب، پیراهن، کیف پول، عطر و ادکلن، و پول نقد,STOP,gemini-3.5-flash-lite
+Ta-pe-10,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۷ تا ۳۰,3,False,۲۷ تا ۳۰,۲۷ تا ۳۰,STOP,gemini-3.5-flash-lite
+New-en-55,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اسلام,1,اسلام,1,False,اسلام,اسلام,STOP,gemini-3.5-flash-lite
+New-am-72,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,تن‌تن و میلو,3,False,تن‌تن و میلو,تن‌تن و میلو,STOP,gemini-3.5-flash-lite
+Sa-en-37,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,منچ,1,منچ و مارپله,3,False,منچ و مارپله,منچ و مارپله,STOP,gemini-3.5-flash-lite
+New-ko-03,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,توپ سفید,2,False,توپ سفید,توپ سفید,STOP,gemini-3.5-flash-lite
+New-pe-59,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱ تا ۳,3,False,۱ تا ۳,۱ تا ۳,STOP,gemini-3.5-flash-lite
+New-ko-06,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کدو قلقله‌زن,2,False,کدو قلقله‌زن,کدو قلقله‌زن,STOP,gemini-3.5-flash-lite
+Ji-ko-29,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,یک‌سالگی,1,False,یک‌سالگی,یک‌سالگی,STOP,gemini-3.5-flash-lite
+Ki-pe-39,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کباب,1,جوجه‌کباب,6,True,جوجه‌کباب، کتلت، استانبولی، الویه و املت,جوجه‌کباب، کتلت، استانبولی، الویه و املت,STOP,gemini-3.5-flash-lite
+New-az-11,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,هندوانه,1,هندوانه,1,False,هندوانه,هندوانه,STOP,gemini-3.5-flash-lite
+New-spme-04,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پسته,1,پسته,1,False,پسته,پسته,STOP,gemini-3.5-flash-lite
+Ne-ar-38,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,آش نذری,2,False,آش نذری,آش نذری,STOP,gemini-3.5-flash-lite
+New-en-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,فرم,3,True,فرم؛ مینو؛ پارمیس,فرم؛ مینو؛ پارمیس,STOP,gemini-3.5-flash-lite
+Jod-ch-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,21:00,1,21:00,1,False,21:00,21:00,STOP,gemini-3.5-flash-lite
+New-en-10,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پنیر فتا,2,False,پنیر فتا,پنیر فتا,STOP,gemini-3.5-flash-lite
+New-su-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,روغن آفتابگردان,0,روغن مایع و روغن نیمه جامد,12,False,روغن مایع (مانند روغن آفتابگردان، ذرت و سویا) و روغن نیمه جامد,روغن مایع (مانند روغن آفتابگردان، ذرت و سویا) و روغن نیمه جامد,STOP,gemini-3.5-flash-lite
+Ca-sp-11,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پنج‌شنبه,1,False,پنج‌شنبه,پنج‌شنبه,STOP,gemini-3.5-flash-lite
+Ne-ar-37,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خیار,1,False,خیار,خیار,STOP,gemini-3.5-flash-lite
+Jod-ch-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,قاشق,1,قاشق و چنگال,3,False,قاشق و چنگال,قاشق و چنگال,STOP,gemini-3.5-flash-lite
+New-am-04,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ماست و خیار,3,False,ماست و خیار,ماست و خیار,STOP,gemini-3.5-flash-lite
+New-ch-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,گوسفند,1,گوسفند,1,False,گوسفند,گوسفند,STOP,gemini-3.5-flash-lite
+Na-ko-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,کباب,1,چلو کباب,2,False,چلو کباب,چلو کباب,STOP,gemini-3.5-flash-lite
+New-gr-06,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پیتزا,0,فست‌فود,4,False,فست‌فود (پیتزا و همبرگر),فست‌فود (پیتزا و همبرگر),STOP,gemini-3.5-flash-lite
+New-en-12,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پیتزا,1,فست فود,25,True,فست فود (مانند پیتزا، همبرگر، سوخاری)، غذاهای ایرانی (مانند چلوکباب، جوجه‌کباب، خورش‌ها)، پاستا، ساندویچ، سالاد و غذاهای ملل (مانند سوشی و غذاهای مکزیکی یا ایتالیایی),فست فود (مانند پیتزا، همبرگر، سوخاری)، غذاهای ایرانی (مانند چلوکباب، جوجه‌کباب، خورش‌ها)، پاستا، ساندویچ، سالاد و غذاهای ملل (مانند سوشی و غذاهای مکزیکی یا ایتالیایی).,STOP,gemini-3.5-flash-lite
+Ca-sp-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳,1,False,۳,۳,STOP,gemini-3.5-flash-lite
+New-am-02,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,قورمه‌سبزی,1,False,قورمه‌سبزی,قورمه‌سبزی,STOP,gemini-3.5-flash-lite
+New-as-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+Ne-ar-32,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نان,1,چای,22,True,چای، پنیر، نان (مانند بربری، سنگک یا لواش)، کره، مربا، عسل و گردو (گاهی اوقات تخم‌مرغ، حلیم یا عدسی هم خورده می‌شود),چای، پنیر، نان (مانند بربری، سنگک یا لواش)، کره، مربا، عسل و گردو (گاهی اوقات تخم‌مرغ، حلیم یا عدسی هم خورده می‌شود).,STOP,gemini-3.5-flash-lite
+Jod-ch-12,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سوپ جو,1,سوپ جو,2,False,سوپ جو,سوپ جو,STOP,gemini-3.5-flash-lite
+New-as-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,گندم,1,گندم,1,False,گندم,گندم,STOP,gemini-3.5-flash-lite
+Ne-ar-31,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,چلو کباب,1,چلو کبابی,2,False,چلو کبابی,چلو کبابی,STOP,gemini-3.5-flash-lite
+Ca-sp-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,برنج,1,برنج,1,False,برنج,برنج,STOP,gemini-3.5-flash-lite
+Sa-en-1,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پيلاويچ,1,False,پيلاويچ,پيلاويچ,STOP,gemini-3.5-flash-lite
+Kik-in-24,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,سیزم‌زمینی سرخ‌کرده,2,False,سیزم‌زمینی سرخ‌کرده,سیزم‌زمینی سرخ‌کرده,STOP,gemini-3.5-flash-lite
+Ki-pe-32,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,مرغ,1,چلو کباب,12,True,چلو کباب، قورمه سبزی، قیمه، زرشک پلو با مرغ و جوجه کباب,چلو کباب، قورمه سبزی، قیمه، زرشک پلو با مرغ و جوجه کباب,STOP,gemini-3.5-flash-lite
+New-ha-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,گاز,1,اجاق گاز,2,False,اجاق گاز,اجاق گاز,STOP,gemini-3.5-flash-lite
+Kik-in-16,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+New-su-10,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,سوپ,0,آبگوشت,17,True,آبگوشت، سوپ مرغ، فرنی، شیربرنج، انواع آش‌ها، کباب، و میوه‌ها و مغزهای مغذی مانند گردو و بادام,آبگوشت، سوپ مرغ، فرنی، شیربرنج، انواع آش‌ها، کباب، و میوه‌ها و مغزهای مغذی مانند گردو و بادام.,STOP,gemini-3.5-flash-lite
+Jod-ch-06,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,عرق,1,عرق کشمش,2,False,عرق کشمش,عرق کشمش,STOP,gemini-3.5-flash-lite
+Ki-pe-43,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بربری,1,بربری,1,False,بربری,بربری,STOP,gemini-3.5-flash-lite
+Al-en-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,بستنی,1,پفیلا و بستنی,3,False,پفیلا و بستنی,پفیلا و بستنی,STOP,gemini-3.5-flash-lite
+Jod-ch-13,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فلافل,1,فلافل,14,True,فلافل، سمبوسه، بلال، لشک، آش رشته، جگرکی، سیب‌زمینی سرخ‌کرده، ساندویچ بندری و آش دوغ,فلافل، سمبوسه، بلال، لشک، آش رشته، جگرکی، سیب‌زمینی سرخ‌کرده، ساندویچ بندری و آش دوغ,STOP,gemini-3.5-flash-lite
+Ne-ar-36,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,مرغ,1,چلو باقالی با گوشت و مرغ,6,False,چلو باقالی با گوشت و مرغ,چلو باقالی با گوشت و مرغ,STOP,gemini-3.5-flash-lite
+Ca-sp-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,بستنی سنتی و فالوده,4,False,بستنی سنتی و فالوده,بستنی سنتی و فالوده,STOP,gemini-3.5-flash-lite
+New-gr-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فالوده,1,فالوده,1,False,فالوده,فالوده,STOP,gemini-3.5-flash-lite
+Ca-sp-06,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ناهار,1,ناهار,1,False,ناهار,ناهار,STOP,gemini-3.5-flash-lite
+New-ch-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,ساندویچ,0,چیپس,16,True,چیپس، پفک، بیسکویت، کیک، نوشابه، دوغ، کنسرو تن ماهی، لوبیا، ماکارونی آماده و انواع ساندویچ‌های سرد,چیپس، پفک، بیسکویت، کیک، نوشابه، دوغ، کنسرو تن ماهی، لوبیا، ماکارونی آماده و انواع ساندویچ‌های سرد.,STOP,gemini-3.5-flash-lite
+Ne-ar-33,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,13:30,1,False,13:30,13:30,STOP,gemini-3.5-flash-lite
+New-pe-11,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.75,زعفران,1,زعفران,1,False,زعفران,زعفران,STOP,gemini-3.5-flash-lite
+New-ch-02,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,07:30,1,False,07:30,07:30,STOP,gemini-3.5-flash-lite
+Sa-en-9,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جوجه,1,چای و جوجه کباب,4,False,چای و جوجه کباب,چای و جوجه کباب,STOP,gemini-3.5-flash-lite
+New-az-12,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جنوب,1,جنوب ایران,8,False,جنوب ایران (یا خوزستان / بوشهر / هرمزگان),جنوب ایران (یا خوزستان / بوشهر / هرمزگان),STOP,gemini-3.5-flash-lite
+Ne-ar-44,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,شکلات,1,شکلات,1,False,شکلات,شکلات,STOP,gemini-3.5-flash-lite
+New-as-07,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,ماهی,1,قلیه ماهی,2,False,قلیه ماهی,قلیه ماهی,STOP,gemini-3.5-flash-lite
+New-en-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,فلافل,1,فلافل,1,False,فلافل,فلافل,STOP,gemini-3.5-flash-lite
+New-am-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کاچی,1,کاچی,1,False,کاچی,کاچی,STOP,gemini-3.5-flash-lite
+New-en-07,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,دست پخت,15,True,دست پخت، بوی خوش آشپزی، به خانه برمی‌گردیم، دستپخت خودمه و خندان شو (مسابقه آشپزی),دست پخت، بوی خوش آشپزی، به خانه برمی‌گردیم، دستپخت خودمه و خندان شو (مسابقه آشپزی).,STOP,gemini-3.5-flash-lite
+New-ch-14,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سوپ,1,سوپ مرغ,11,True,سوپ مرغ، سوپ جو، فرنی، شیربرنج، سوپ سبزیجات و آب‌میوه‌های طبیعی,سوپ مرغ، سوپ جو، فرنی، شیربرنج، سوپ سبزیجات و آب‌میوه‌های طبیعی,STOP,gemini-3.5-flash-lite
+Sa-en-6,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,چلوکباب,1,چلوکباب,1,False,چلوکباب,چلوکباب,STOP,gemini-3.5-flash-lite
+New-ha-07,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کباب,1,کباب,1,False,کباب,کباب,STOP,gemini-3.5-flash-lite
+Ne-ar-39,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فلافل,1,فلافل,1,False,فلافل,فلافل,STOP,gemini-3.5-flash-lite
+New-ch-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,قلیه ماهی,1,قلیه ماهی,2,False,قلیه ماهی,قلیه ماهی,STOP,gemini-3.5-flash-lite
+New-as-02,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نان,1,نان,1,False,نان,نان,STOP,gemini-3.5-flash-lite
+New-pe-06,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,قورمه‌سبزی,1,False,قورمه‌سبزی,قورمه‌سبزی,STOP,gemini-3.5-flash-lite
+New-ch-04,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,میوه,0,آجیل,15,True,آجیل، میوه، چای و بیسکویت، نان و پنیر و سبزی، و گاهی آش یا حلیم,آجیل، میوه، چای و بیسکویت، نان و پنیر و سبزی، و گاهی آش یا حلیم.,STOP,gemini-3.5-flash-lite
+Na-ko-11,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تخمه,1,ت تخمه,2,False,ت تخمه,ت تخمه,STOP,gemini-3.5-flash-lite
+New-su-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+New-ch-08,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,نمک,1,نمک,1,False,نمک,نمک,STOP,gemini-3.5-flash-lite
+New-en-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,چیپس,0,پفییل,9,True,پفییل (ذرت مکزیکی)، چیپس، پفک، تخمه، لواشک و نوشابه,پفییل (ذرت مکزیکی)، چیپس، پفک، تخمه، لواشک و نوشابه,STOP,gemini-3.5-flash-lite
+New-in-03,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کباب,1,چلوکباب,1,False,چلوکباب,چلوکباب,STOP,gemini-3.5-flash-lite
+Ne-ar-34,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,برنج,1,برنج,1,False,برنج,برنج,STOP,gemini-3.5-flash-lite
+Na-ko-07,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,مرغ,1,گوشت مرغ,2,False,گوشت مرغ,گوشت مرغ,STOP,gemini-3.5-flash-lite
+Al-en-04,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,هندوانه,1,False,هندوانه,هندوانه,STOP,gemini-3.5-flash-lite
+New-as-15,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,دوغ,1,دوغ,1,False,دوغ,دوغ,STOP,gemini-3.5-flash-lite
+Ki-pe-36,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ایتالیا,1,ایتالیا,1,False,ایتالیا,ایتالیا,STOP,gemini-3.5-flash-lite
+New-pe-83,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,حکم,1,حکم,1,False,حکم,حکم,STOP,gemini-3.5-flash-lite
+Kik-in-15,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,مانتو و مقنعه,1,مانتو و شلوار رسمی به همراه مقنعه,20,True,مانتو و شلوار رسمی به همراه مقنعه یا روسری (که اغلب در زیر لباس فارغ‌التحصیلی و کلاه مخصوص پوشیده می‌شود),مانتو و شلوار رسمی به همراه مقنعه یا روسری (که اغلب در زیر لباس فارغ‌التحصیلی و کلاه مخصوص پوشیده می‌شود),STOP,gemini-3.5-flash-lite
+Na-ko-45,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کیش,1,کیش,1,False,کیش,کیش,STOP,gemini-3.5-flash-lite
+Kik-in-07,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عیدی,1,عیدی,1,False,عیدی,عیدی,STOP,gemini-3.5-flash-lite
+New-gr-82,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سنتی,1,موسیقی سنتی ایرانی,3,False,موسیقی سنتی ایرانی,موسیقی سنتی ایرانی,STOP,gemini-3.5-flash-lite
+Na-ko-37,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,مشهد,1,False,مشهد,مشهد,STOP,gemini-3.5-flash-lite
+Na-ko-40,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳,1,False,۳,۳,STOP,gemini-3.5-flash-lite
+New-su-86,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پلاسکو,1,False,پلاسکو,پلاسکو,STOP,gemini-3.5-flash-lite
+New-az-69,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد,10,False,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد.,STOP,gemini-3.5-flash-lite
+New-as-80,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,لباس‌های محلی و سنتی رنگارنگ,5,False,لباس‌های محلی و سنتی رنگارنگ,لباس‌های محلی و سنتی رنگارنگ,STOP,gemini-3.5-flash-lite
+New-ch-81,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,پول,1,پول نقد,8,True,پول نقد، طلا، و ظروف نقره یا کریستال,پول نقد، طلا، و ظروف نقره یا کریستال.,STOP,gemini-3.5-flash-lite
+Jod-ch-30,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,سفره هفت‌سین,2,False,سفره هفت‌سین,سفره هفت‌سین,STOP,gemini-3.5-flash-lite
+New-su-81,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کت و شلوار,1,کت و شلوار,3,False,کت و شلوار,کت و شلوار,STOP,gemini-3.5-flash-lite
+Ne-ar-11,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خانه همدیگر,2,False,خانه همدیگر,خانه همدیگر,STOP,gemini-3.5-flash-lite
+Ta-pe-32,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,چهارشنبه‌سوری,1,False,چهارشنبه‌سوری,چهارشنبه‌سوری,STOP,gemini-3.5-flash-lite
+Na-ko-44,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پیش از نوروز,1,چهارشنبه پیش از نوروز,4,False,چهارشنبه پیش از نوروز,چهارشنبه پیش از نوروز,STOP,gemini-3.5-flash-lite
+Ne-ar-06,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آش,1,آش,14,True,آش، شله زرد، حلیم، فرنی، زولبیا و بامیه، نان سنگک، پنیر و سبزی خوردن,آش، شله زرد، حلیم، فرنی، زولبیا و بامیه، نان سنگک، پنیر و سبزی خوردن,STOP,gemini-3.5-flash-lite
+New-pe-78,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جشنواره فیلم فجر,1,جشنواره فیلم فجر,3,False,جشنواره فیلم فجر,جشنواره فیلم فجر,STOP,gemini-3.5-flash-lite
+New-ch-79,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پارک,0,باغداری,20,True,باغداری، پیاده‌روی در پارک، معاشرت با دوستان در قهوه‌خانه‌ها یا پارک‌ها، وقت‌گذرانی با نوه‌ها، و بازی شطرنج یا تخته نرد,باغداری، پیاده‌روی در پارک، معاشرت با دوستان در قهوه‌خانه‌ها یا پارک‌ها، وقت‌گذرانی با نوه‌ها، و بازی شطرنج یا تخته نرد.,STOP,gemini-3.5-flash-lite
+Al-en-43,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,سینما رفتن,1,سینما رفتن,2,False,سینما رفتن,سینما رفتن,STOP,gemini-3.5-flash-lite
+New-ch-82,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,20:00,1,False,20:00,20:00,STOP,gemini-3.5-flash-lite
+Na-ko-38,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سکه طلا,1,سکه طلا,2,False,سکه طلا,سکه طلا,STOP,gemini-3.5-flash-lite
+Jod-ch-28,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اتوبوس,1,اتوبوس,1,False,اتوبوس,اتوبوس,STOP,gemini-3.5-flash-lite
+New-ch-80,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ایام فاطمیه و نوروز,4,False,ایام فاطمیه و نوروز,ایام فاطمیه و نوروز,STOP,gemini-3.5-flash-lite
+Ne-ar-05,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نوروز,1,نوروز,1,False,نوروز,نوروز,STOP,gemini-3.5-flash-lite
+New-en-87,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,برج آزادی,2,False,برج آزادی,برج آزادی,STOP,gemini-3.5-flash-lite
+New-gr-89,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+Jod-ch-41,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کافه,1,کافه گردی,2,False,کافه گردی,کافه گردی,STOP,gemini-3.5-flash-lite
+Jod-ch-42,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,قلیان کشیدن,2,False,قلیان کشیدن,قلیان کشیدن,STOP,gemini-3.5-flash-lite
+Ne-ar-14,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خانه,1,خانه بزرگ‌ترها,2,False,خانه بزرگ‌ترها,خانه بزرگ‌ترها,STOP,gemini-3.5-flash-lite
+New-in-78,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کارت,1,کارت به کارت,3,False,کارت به کارت,کارت به کارت,STOP,gemini-3.5-flash-lite
+Na-ko-42,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,خرما,1,حلوا و خرما,3,False,حلوا و خرما,حلوا و خرما,STOP,gemini-3.5-flash-lite
+Kik-in-04,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پارچه سیاه,1,پارچه سیاه,2,False,پارچه سیاه,پارچه سیاه,STOP,gemini-3.5-flash-lite
+New-ch-84,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,رنگ‌های شاد و روشن,4,False,رنگ‌های شاد و روشن,رنگ‌های شاد و روشن,STOP,gemini-3.5-flash-lite
+New-as-76,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,وسطی,0,پنج‌شنبه‌بازار,7,True,پنج‌شنبه‌بازار، شاهنامه‌خوانی، الک‌دولک، منچ، وسطی، و پانتومیم,پنج‌شنبه‌بازار، شاهنامه‌خوانی، الک‌دولک، منچ، وسطی، و پانتومیم.,STOP,gemini-3.5-flash-lite
+Ca-sp-21,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,8,1,False,8,8,STOP,gemini-3.5-flash-lite
+New-spme-78,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تولدت مبارک,1,تولدت مبارک,2,False,تولدت مبارک,تولدت مبارک,STOP,gemini-3.5-flash-lite
+Al-en-40,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پارک,1,پارک,1,False,پارک,پارک,STOP,gemini-3.5-flash-lite
+New-pe-76,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پیک‌نیک,1,False,پیک‌نیک,پیک‌نیک,STOP,gemini-3.5-flash-lite
+New-am-81,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶,1,False,۶,۶,STOP,gemini-3.5-flash-lite
+New-ch-83,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,تهران,1,False,تهران,تهران,STOP,gemini-3.5-flash-lite
+Al-en-39,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کیک,1,کیک تولد,2,False,کیک تولد,کیک تولد,STOP,gemini-3.5-flash-lite
+Na-ko-43,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دید و بازدید,0,مردم در روز عید نوروز معمولاً صبح زود از خواب بیدار شده,52,True,مردم در روز عید نوروز معمولاً صبح زود از خواب بیدار شده، لباس‌های نو می‌پوشند، خانه را با عود و اسپند معطر می‌کنند، دور سفره هفت‌سین جمع می‌شوند، به خواندن دعا و تبریک سال نو به یکدیگر می‌پردازند و بزرگترها به کوچکترها عیدی می‌دهند. سپس دید و بازدیدهای عید (عیددیدنی) آغاز می‌شود,مردم در روز عید نوروز معمولاً صبح زود از خواب بیدار شده، لباس‌های نو می‌پوشند، خانه را با عود و اسپند معطر می‌کنند، دور سفره هفت‌سین جمع می‌شوند، به خواندن دعا و تبریک سال نو به یکدیگر می‌پردازند و بزرگترها به کوچکترها عیدی می‌دهند. سپس دید و بازدیدهای عید (عیددیدنی) آغاز می‌شود.,STOP,gemini-3.5-flash-lite
+Kik-in-01,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نوروز,1,نوروز,1,False,نوروز,نوروز,STOP,gemini-3.5-flash-lite
+Ta-pe-45,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,انار,1,انار و هندوانه,3,False,انار و هندوانه,انار و هندوانه,STOP,gemini-3.5-flash-lite
+New-en-76,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.4,مهرآباد,1,فرودگاه بین‌المللی مهرآباد,3,False,فرودگاه بین‌المللی مهرآباد,فرودگاه بین‌المللی مهرآباد,STOP,gemini-3.5-flash-lite
+New-pe-85,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ترکیه,1,ترکیه,1,False,ترکیه,ترکیه,STOP,gemini-3.5-flash-lite
+New-am-83,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,تار,1,تار,1,False,تار,تار,STOP,gemini-3.5-flash-lite
+Ta-pe-42,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سبزی پلو با ماهی,1,سبزی پلو با ماهی,4,False,سبزی پلو با ماهی,سبزی پلو با ماهی,STOP,gemini-3.5-flash-lite
+Ne-ar-10,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کباب,0,گوشت قربانی,6,False,گوشت قربانی (معمولاً آبگوشت یا کباب),گوشت قربانی (معمولاً آبگوشت یا کباب),STOP,gemini-3.5-flash-lite
+New-su-77,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,عیدی,1,عیدی,1,False,عیدی,عیدی,STOP,gemini-3.5-flash-lite
+New-ko-07,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,0.75,تاج گل,1,تاج گل,2,False,تاج گل,تاج گل,STOP,gemini-3.5-flash-lite
+Kik-in-11,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,امام رضا,1,۱. حرم امام رضا ۲. حرم حضرت معصومه ۳. شاهچراغ ۴. کلیسای وانک ۵. قره‌کلیسا,43,True,"۱. حرم امام رضا (مشهد)
+۲. حرم حضرت معصومه (قم)
+۳. شاهچراغ (شیراز)
+۴. کلیسای وانک (اصفهان)
+۵. قره‌کلیسا یا کلیسای تادئوس مقدس (آذربایجان غربی)
+۶. آتشکده زرتشتیان (یزد)
+۷. آرامگاه دانیال نبی (شوش)
+۸. تخت صهی و کلیسای همتایان (ارمنستان/آذربایجان غربی -","۱. حرم امام رضا (مشهد)
+۲. حرم حضرت معصومه (قم)
+۳. شاهچراغ (شیراز)
+۴. کلیسای وانک (اصفهان)
+۵. قره‌کلیسا یا کلیسای تادئوس مقدس (آذربایجان غربی)
+۶. آتشکده زرتشتیان (یزد)
+۷. آرامگاه دانیال نبی (شوش)
+۸. تخت صهی و کلیسای همتایان (ارمنستان/آذربایجان غربی -",MAX_TOKENS,gemini-3.5-flash-lite
+New-en-79,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,تئاتر شهر,2,False,تئاتر شهر,تئاتر شهر,STOP,gemini-3.5-flash-lite
+Kik-in-10,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تخت جمشید,1,تخت جمشید,2,False,تخت جمشید,تخت جمشید,STOP,gemini-3.5-flash-lite
+New-in-80,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پارک ارم,1,پارک ارم,2,False,پارک ارم,پارک ارم,STOP,gemini-3.5-flash-lite
+Na-ko-39,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پول,1,پول,1,False,پول,پول,STOP,gemini-3.5-flash-lite
+New-ch-85,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,مشکی,1,مشکی,1,False,مشکی,مشکی,STOP,gemini-3.5-flash-lite
+New-pe-86,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,میلاد,1,برج میلاد,2,False,برج میلاد,برج میلاد,STOP,gemini-3.5-flash-lite
+New-su-82,Holidays/Celebration/Leisure,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,لباس سفید,1,لباس عروس سفید,3,False,لباس عروس سفید,لباس عروس سفید,STOP,gemini-3.5-flash-lite
+Kik-in-45,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,زمین والیبال,0,زمین فوتبال چمنی,20,True,زمین فوتبال چمنی یا خاکی، زمین‌های چندمنظوره برای والیبال و بسکتبال، میز تنیس روی میز (پینگ‌پنگ) و دروازه فوتبال دستی,زمین فوتبال چمنی یا خاکی، زمین‌های چندمنظوره برای والیبال و بسکتبال، میز تنیس روی میز (پینگ‌پنگ) و دروازه فوتبال دستی.,STOP,gemini-3.5-flash-lite
+Th-en-12,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,وزنه‌برداری,1,False,وزنه‌برداری,وزنه‌برداری,STOP,gemini-3.5-flash-lite
+Jo-sp-14,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شطرنج,1,شطرنج,1,False,شطرنج,شطرنج,STOP,gemini-3.5-flash-lite
+Na-ko-16,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,علی دایی,1,علی دایی,2,False,علی دایی,علی دایی,STOP,gemini-3.5-flash-lite
+Jod-ch-38,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Na-ko-17,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-ch-16,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,بچه‌های آسمان,2,False,بچه‌های آسمان,بچه‌های آسمان,STOP,gemini-3.5-flash-lite
+New-ch-17,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پاراگلایدر,1,False,پاراگلایدر,پاراگلایدر,STOP,gemini-3.5-flash-lite
+New-en-17,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بوق,1,بوق و پرچم,3,False,بوق و پرچم,بوق و پرچم,STOP,gemini-3.5-flash-lite
+New-as-29,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Na-ko-22,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,عربستان سعودی,2,False,عربستان سعودی,عربستان سعودی,STOP,gemini-3.5-flash-lite
+Jo-sp-09,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تنیس,0,گلف,10,True,گلف، سوارکاری، تنیس، اسکی، پولو (چوگان)، اسکواش و قایقرانی بادبانی,گلف، سوارکاری، تنیس، اسکی، پولو (چوگان)، اسکواش و قایقرانی بادبانی,STOP,gemini-3.5-flash-lite
+New-az-21,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دیزین,1,دیزین,1,False,دیزین,دیزین,STOP,gemini-3.5-flash-lite
+Th-en-09,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,لیگ برتر فوتبال,1,لیگ برتر فوتبال ایران,7,False,لیگ برتر فوتبال ایران (جام خلیج فارس),لیگ برتر فوتبال ایران (جام خلیج فارس),STOP,gemini-3.5-flash-lite
+Ta-pe-30,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نود,1,نود,1,False,نود,نود,STOP,gemini-3.5-flash-lite
+Gu-ch-07,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,حامد حدادی,1,حامد حدادی,2,False,حامد حدادی,حامد حدادی,STOP,gemini-3.5-flash-lite
+New-en-18,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پرچم,1,False,پرچم,پرچم,STOP,gemini-3.5-flash-lite
+Na-ko-26,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,0,پیاده‌روی,7,True,پیاده‌روی، کوهنوردی، فوتبال دستی، شنا و شطرنج,پیاده‌روی، کوهنوردی، فوتبال دستی، شنا و شطرنج,STOP,gemini-3.5-flash-lite
+Th-en-11,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,علی دایی,1,علی دایی,2,False,علی دایی,علی دایی,STOP,gemini-3.5-flash-lite
+Gu-ch-11,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کشتی,1,کشتی,1,False,کشتی,کشتی,STOP,gemini-3.5-flash-lite
+New-su-28,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سفید,1,سفید,1,False,سفید,سفید,STOP,gemini-3.5-flash-lite
+Jo-sp-01,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,فوتبال دستی,2,False,فوتبال دستی,فوتبال دستی,STOP,gemini-3.5-flash-lite
+An-ar-36,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پرسپولیس,1,پرسپولیس,1,False,پرسپولیس,پرسپولیس,STOP,gemini-3.5-flash-lite
+Jo-sp-02,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کشتی,1,کشتی,1,False,کشتی,کشتی,STOP,gemini-3.5-flash-lite
+Ta-pe-17,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,کشتی,1,کشتی,1,False,کشتی,کشتی,STOP,gemini-3.5-flash-lite
+New-en-23,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سیامند رحمان,1,سیامند رحمان,2,False,سیامند رحمان,سیامند رحمان,STOP,gemini-3.5-flash-lite
+Na-ko-18,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,والیبال,1,والیبال,1,False,والیبال,والیبال,STOP,gemini-3.5-flash-lite
+New-gr-21,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.75,تنیس,1,تنیس روی میز,4,False,تنیس روی میز (پینگ‌پنگ),تنیس روی میز (پینگ‌پنگ),STOP,gemini-3.5-flash-lite
+New-en-19,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آزادی,1,ورزشگاه آزادی,2,False,ورزشگاه آزادی,ورزشگاه آزادی,STOP,gemini-3.5-flash-lite
+Jod-ch-37,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال و والیبال,3,False,فوتبال و والیبال,فوتبال و والیبال,STOP,gemini-3.5-flash-lite
+Ta-pe-25,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,استقلال در مقابل پرسپولیس,1,استقلال در مقابل پرسپولیس,4,False,استقلال در مقابل پرسپولیس,استقلال در مقابل پرسپولیس,STOP,gemini-3.5-flash-lite
+Sa-en-16,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پرسپولیس,1,پرسپولیس,1,False,پرسپولیس,پرسپولیس,STOP,gemini-3.5-flash-lite
+New-en-26,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پرسپولیس پیروزی,2,False,پرسپولیس پیروزی,پرسپولیس پیروزی,STOP,gemini-3.5-flash-lite
+New-su-21,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,ورزش,0,پیاده‌روی,22,True,پیاده‌روی، ورزش صبحگاهی با دستگاه‌های بدنسازی پارکی، شطرنج و تخته‌نرد بازی کردن، نشستن روبروی هم و صحبت کردن، و دسته‌جمعی چای خوردن,پیاده‌روی، ورزش صبحگاهی با دستگاه‌های بدنسازی پارکی، شطرنج و تخته‌نرد بازی کردن، نشستن روبروی هم و صحبت کردن، و دسته‌جمعی چای خوردن.,STOP,gemini-3.5-flash-lite
+Gu-ch-09,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,والیبال,1,والیبال,6,True,والیبال، بدنسازی، فوتسال، شنا و ایروبیک,والیبال، بدنسازی، فوتسال، شنا و ایروبیک,STOP,gemini-3.5-flash-lite
+Kik-in-31,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تکواندو,1,کشتی,7,True,کشتی، تکواندو، کاراته، کاراته، بوشبیدو و کونگ‌فو,کشتی، تکواندو، کاراته، کاراته، بوشبیدو و کونگ‌فو,STOP,gemini-3.5-flash-lite
+Na-ko-23,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-az-26,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,امیرعلی اکبری,2,False,امیرعلی اکبری,امیرعلی اکبری,STOP,gemini-3.5-flash-lite
+New-su-24,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پیاده‌روی و کوهنوردی,3,False,پیاده‌روی و کوهنوردی,پیاده‌روی و کوهنوردی,STOP,gemini-3.5-flash-lite
+Gu-ch-15,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Na-ko-24,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,تخمه,1,تخمه,1,False,تخمه,تخمه,STOP,gemini-3.5-flash-lite
+Kik-in-34,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,3,True,فوتبال، والیبال، کشتی,فوتبال، والیبال، کشتی,STOP,gemini-3.5-flash-lite
+Kik-in-36,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کارلوس کی‌روش,2,False,کارلوس کی‌روش,کارلوس کی‌روش,STOP,gemini-3.5-flash-lite
+Na-ko-20,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-am-27,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کیمیا علیزاده,2,False,کیمیا علیزاده,کیمیا علیزاده,STOP,gemini-3.5-flash-lite
+New-as-30,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-pe-16,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کشتی,0,ورزش باستانی,5,False,ورزش باستانی (یا کشتی پهلوانی),ورزش باستانی (یا کشتی پهلوانی),STOP,gemini-3.5-flash-lite
+Jo-sp-13,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شنا,1,شنا,1,False,شنا,شنا,STOP,gemini-3.5-flash-lite
+An-ar-35,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عادل فردوسی‌پور,1,عادل فردوسی‌پور,2,False,عادل فردوسی‌پور,عادل فردوسی‌پور,STOP,gemini-3.5-flash-lite
+New-pe-20,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,والیبال,1,والیبال ساحلی,2,False,والیبال ساحلی,والیبال ساحلی,STOP,gemini-3.5-flash-lite
+Ta-pe-23,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بدنسازی,1,بدنسازی,1,False,بدنسازی,بدنسازی,STOP,gemini-3.5-flash-lite
+Ta-pe-22,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پیاده‌روی,1,False,پیاده‌روی,پیاده‌روی,STOP,gemini-3.5-flash-lite
+Kik-in-37,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پرسپولیس در مقابل استقلال,1,پرسپولیس در مقابل استقلال,4,False,پرسپولیس در مقابل استقلال,پرسپولیس در مقابل استقلال,STOP,gemini-3.5-flash-lite
+New-ha-19,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اسب,1,اسب,1,False,اسب,اسب,STOP,gemini-3.5-flash-lite
+Kik-in-38,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,استقلال در مقابل پرسپولیس,1,پرسپولیس در مقابل استقلال,4,False,پرسپولیس در مقابل استقلال,پرسپولیس در مقابل استقلال,STOP,gemini-3.5-flash-lite
+Th-en-03,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,لیگ برتر خلیج فارس,4,False,لیگ برتر خلیج فارس,لیگ برتر خلیج فارس,STOP,gemini-3.5-flash-lite
+An-ar-43,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کافه,1,ورزشگاه‌ها,5,True,ورزشگاه‌ها، کافه‌ها، قهوه‌خانه‌ها و پارک‌ها,ورزشگاه‌ها، کافه‌ها، قهوه‌خانه‌ها و پارک‌ها,STOP,gemini-3.5-flash-lite
+New-su-17,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بدنسازی,1,وسایل بدنسازی پارکی,20,True,وسایل بدنسازی پارکی، زمین‌های چمن مصنوعی یا آسفالت برای فوتبال و والیبال، پیست‌های دوچرخه‌سواری و پیاده‌روی، میزهای پینگ‌پنگ و شطرنج,وسایل بدنسازی پارکی، زمین‌های چمن مصنوعی یا آسفالت برای فوتبال و والیبال، پیست‌های دوچرخه‌سواری و پیاده‌روی، میزهای پینگ‌پنگ و شطرنج.,STOP,gemini-3.5-flash-lite
+New-ch-23,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,نکاح‌خواه,1,False,نکاح‌خواه,نکاح‌خواه,STOP,gemini-3.5-flash-lite
+Na-ko-30,Sport,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پابجی موبایل,2,False,پابجی موبایل,پابجی موبایل,STOP,gemini-3.5-flash-lite
+Kik-in-35,Sport,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,یوگا,0,پیاده‌روی انفرادی,12,True,پیاده‌روی انفرادی، دوچرخه‌سواری، ورزش در خانه (بدنسازی و یوگا) و کوهنوردی انفرادی,پیاده‌روی انفرادی، دوچرخه‌سواری، ورزش در خانه (بدنسازی و یوگا) و کوهنوردی انفرادی,STOP,gemini-3.5-flash-lite
+New-en-75,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۶,1,False,۱۶,۱۶,STOP,gemini-3.5-flash-lite
+New-en-72,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شاد,0,سایت‌های آموزشی مانند پادرس,13,True,سایت‌های آموزشی مانند پادرس، گاما، همکلاس، فرادرس، مکتب‌خونه، آپارات و اپلیکیشن‌هایی مانند شاد,سایت‌های آموزشی مانند پادرس، گاما، همکلاس، فرادرس، مکتب‌خونه، آپارات و اپلیکیشن‌هایی مانند شاد.,STOP,gemini-3.5-flash-lite
+An-ar-02,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سلف دانشگاه,1,سلف سرویس دانشگاه,3,False,سلف سرویس دانشگاه,سلف سرویس دانشگاه,STOP,gemini-3.5-flash-lite
+New-ch-66,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۰,1,False,۰,۰,STOP,gemini-3.5-flash-lite
+Ki-pe-24,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عربی,0,فرانسوی,3,True,فرانسوی، آلمانی، عربی,فرانسوی، آلمانی، عربی,STOP,gemini-3.5-flash-lite
+New-ch-73,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ورزشی,4,True,ورزشی، علمی و فرهنگی-هنری,ورزشی، علمی و فرهنگی-هنری,STOP,gemini-3.5-flash-lite
+Ji-ko-44,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دانشگاه,1,دانشگاه صنعتی شریف,3,False,دانشگاه صنعتی شریف,دانشگاه صنعتی شریف,STOP,gemini-3.5-flash-lite
+New-en-70,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳,1,False,۳,۳,STOP,gemini-3.5-flash-lite
+Al-en-16,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۵,1,False,۵,۵,STOP,gemini-3.5-flash-lite
+New-in-62,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دانشگاه صنعتی شریف,1,دانشگاه صنعتی شریف,3,False,دانشگاه صنعتی شریف,دانشگاه صنعتی شریف,STOP,gemini-3.5-flash-lite
+New-su-33,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کت و شلوار,0,فرم رسمی و پوشش اسلامی,21,False,فرم رسمی و پوشش اسلامی (مانتو و شلوار مقنعه برای زنان، کت و شلوار یا پیراهن و شلوار رسمی برای مردان),فرم رسمی و پوشش اسلامی (مانتو و شلوار مقنعه برای زنان، کت و شلوار یا پیراهن و شلوار رسمی برای مردان),STOP,gemini-3.5-flash-lite
+Gu-ch-31,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶,1,False,۶,۶,STOP,gemini-3.5-flash-lite
+Jo-sp-36,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۲,1,False,۱۲,۱۲,STOP,gemini-3.5-flash-lite
+Ji-ko-36,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ریاضی,1,ریاضی,1,False,ریاضی,ریاضی,STOP,gemini-3.5-flash-lite
+Jo-sp-31,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,14:00,1,14:00,1,False,14:00,14:00,STOP,gemini-3.5-flash-lite
+New-ch-71,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۵ تا ۳۰,3,False,۲۵ تا ۳۰,۲۵ تا ۳۰,STOP,gemini-3.5-flash-lite
+New-en-69,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,حافظ,10,True,حافظ، سعدی، فردوسی، مولوی، نظامی، پروین اعتصامی و نیما یوشیج,حافظ، سعدی، فردوسی، مولوی، نظامی، پروین اعتصامی و نیما یوشیج,STOP,gemini-3.5-flash-lite
+Th-en-58,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,حسابان,1,حسابان,1,False,حسابان,حسابان,STOP,gemini-3.5-flash-lite
+Jo-sp-32,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,فوتبال,1,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+New-in-63,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی تهران,8,False,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی تهران,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی تهران,STOP,gemini-3.5-flash-lite
+Nu-in-11,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,07:30,1,07:30,1,False,07:30,07:30,STOP,gemini-3.5-flash-lite
+Ni-en-12,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.75,دانشگاه تهران,1,دانشگاه تهران,2,False,دانشگاه تهران,دانشگاه تهران,STOP,gemini-3.5-flash-lite
+Ni-en-06,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶,1,False,۶,۶,STOP,gemini-3.5-flash-lite
+Ji-ko-34,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سرویس مدرسه,0,با پیاده‌روی,9,True,با پیاده‌روی، سرویس مدرسه، اتوبوس، خودروی شخصی یا موتورسیكلت,با پیاده‌روی، سرویس مدرسه، اتوبوس، خودروی شخصی یا موتورسیكلت,STOP,gemini-3.5-flash-lite
+New-ch-75,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,90,1,90,1,False,90,90,STOP,gemini-3.5-flash-lite
+Gu-ch-40,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Tmp-ar-04,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,انجام تکالیف,0,استراحت,11,True,استراحت، ناهار خوردن، تماشای تلویزیون، بازی کردن و انجام تکالیف مدرسه,استراحت، ناهار خوردن، تماشای تلویزیون، بازی کردن و انجام تکالیف مدرسه,STOP,gemini-3.5-flash-lite
+New-ch-70,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,زبان فارسی,0,معارف اسلامی,18,True,معارف اسلامی (مانند اندیشه اسلامی، اخلاق اسلامی، انقلاب اسلامی و تاریخ اسلام)، زبان فارسی و زبان انگلیسی عمومی,معارف اسلامی (مانند اندیشه اسلامی، اخلاق اسلامی، انقلاب اسلامی و تاریخ اسلام)، زبان فارسی و زبان انگلیسی عمومی,STOP,gemini-3.5-flash-lite
+Gu-ch-33,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۷,1,False,۷,۷,STOP,gemini-3.5-flash-lite
+New-pe-74,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,رایگان,0,صفر,10,False,صفر (تحصیل در دوره‌های روزانه دانشگاه‌های دولتی ایران رایگان است),صفر (تحصیل در دوره‌های روزانه دانشگاه‌های دولتی ایران رایگان است).,STOP,gemini-3.5-flash-lite
+New-ch-74,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خوابگاه,1,خوابگاه‌های دانشجویی و خانه‌های اجاره‌ای,5,False,خوابگاه‌های دانشجویی و خانه‌های اجاره‌ای,خوابگاه‌های دانشجویی و خانه‌های اجاره‌ای,STOP,gemini-3.5-flash-lite
+An-ar-03,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶,1,False,۶,۶,STOP,gemini-3.5-flash-lite
+Ni-en-02,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,14:00,1,14:00,1,False,14:00,14:00,STOP,gemini-3.5-flash-lite
+Th-en-48,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۰,1,False,۲۰,۲۰,STOP,gemini-3.5-flash-lite
+New-pe-66,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,فوتبال,1,False,فوتبال,فوتبال,STOP,gemini-3.5-flash-lite
+Ji-ko-40,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بازی,0,خوردن خوراکی,13,True,خوردن خوراکی، صحبت با دوستان، قدم زدن در حیاط مدرسه و بازی کردن,خوردن خوراکی، صحبت با دوستان، قدم زدن در حیاط مدرسه و بازی کردن.,STOP,gemini-3.5-flash-lite
+Jo-sp-43,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۰,1,False,۰,۰,STOP,gemini-3.5-flash-lite
+New-am-41,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ششم,1,False,ششم,ششم,STOP,gemini-3.5-flash-lite
+New-ch-72,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پزشکی,1,پزشکی,1,False,پزشکی,پزشکی,STOP,gemini-3.5-flash-lite
+Nu-in-06,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,02/12,1,02/12,1,False,02/12,02/12,STOP,gemini-3.5-flash-lite
+New-spme-27,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,دیپلم,1,دیپلم,1,False,دیپلم,دیپلم,STOP,gemini-3.5-flash-lite
+Tmp-ar-02,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اتوبوس,1,اتوبوس,1,False,اتوبوس,اتوبوس,STOP,gemini-3.5-flash-lite
+Ni-en-15,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Al-en-21,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ریاضی,1,ریاضی,1,False,ریاضی,ریاضی,STOP,gemini-3.5-flash-lite
+New-ch-64,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳۰,1,False,۳۰,۳۰,STOP,gemini-3.5-flash-lite
+Ji-ko-35,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,معلم خصوصی,0,تدریس خصوصی,4,False,تدریس خصوصی (معلم خصوصی),تدریس خصوصی (معلم خصوصی),STOP,gemini-3.5-flash-lite
+Ni-en-11,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲,1,False,۲,۲,STOP,gemini-3.5-flash-lite
+Ji-ko-42,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عربی,1,ادبیات فارسی,12,True,ادبیات فارسی، زبان عربی، دین و زندگی (معارف اسلامی) و زبان انگلیسی,ادبیات فارسی، زبان عربی، دین و زندگی (معارف اسلامی) و زبان انگلیسی,STOP,gemini-3.5-flash-lite
+Ki-pe-30,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جمعه,1,جمعه,1,False,جمعه,جمعه,STOP,gemini-3.5-flash-lite
+Gu-ch-38,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۴,1,False,۴,۴,STOP,gemini-3.5-flash-lite
+Nu-in-05,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۷,1,False,۷,۷,STOP,gemini-3.5-flash-lite
+An-ar-09,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,۲,1,۲,1,False,۲,۲,STOP,gemini-3.5-flash-lite
+New-en-68,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اخراج,0,تنبیه انضباطی,9,True,تنبیه انضباطی، اخطار کتبی، تعلیق و اخراج از مدرسه,تنبیه انضباطی، اخطار کتبی، تعلیق و اخراج از مدرسه,STOP,gemini-3.5-flash-lite
+New-spme-37,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,مهندسی,1,فنی و مهندسی,3,False,فنی و مهندسی,فنی و مهندسی,STOP,gemini-3.5-flash-lite
+New-pe-65,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۰,1,False,۱۰,۱۰,STOP,gemini-3.5-flash-lite
+Gu-ch-41,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۰,1,False,۰,۰,STOP,gemini-3.5-flash-lite
+Ni-en-09,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۵,1,False,۵,۵,STOP,gemini-3.5-flash-lite
+Ji-ko-31,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خانه,1,خانه,1,False,خانه,خانه,STOP,gemini-3.5-flash-lite
+Ni-en-13,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۲,1,False,۲۲,۲۲,STOP,gemini-3.5-flash-lite
+New-am-34,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,خانه,1,خانه,1,False,خانه,خانه,STOP,gemini-3.5-flash-lite
+New-su-45,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,02/02,1,False,02/02,02/02,STOP,gemini-3.5-flash-lite
+Ki-pe-17,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,دبیرستان,1,دبیرستان,1,False,دبیرستان,دبیرستان,STOP,gemini-3.5-flash-lite
+Al-en-19,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,انگلیسی,1,انگلیسی,1,False,انگلیسی,انگلیسی,STOP,gemini-3.5-flash-lite
+Jo-sp-39,Education,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶,1,False,۶,۶,STOP,gemini-3.5-flash-lite
+Th-en-49,Education,Iran,Persian,gemini-3.5-flash-lite,True,1,0.25,نهایی,1,امتحانات نهایی,2,False,امتحانات نهایی,امتحانات نهایی,STOP,gemini-3.5-flash-lite
+Jo-sp-21,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Jo-sp-18,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۶,1,False,۲۶,۲۶,STOP,gemini-3.5-flash-lite
+Ne-ar-18,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,17:00,1,17:00,1,False,17:00,17:00,STOP,gemini-3.5-flash-lite
+Ji-ko-15,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Ni-en-19,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۵,1,False,۵,۵,STOP,gemini-3.5-flash-lite
+New-ch-38,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چابهار,1,بندرعباس,11,True,بندرعباس، بوشهر، خرمشهر، آبادان، کیش، قشم، چابهار، مرز بازرگان، اینچه برون,بندرعباس، بوشهر، خرمشهر، آبادان، کیش، قشم، چابهار، مرز بازرگان، اینچه برون,STOP,gemini-3.5-flash-lite
+New-gr-58,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کارگر ساختمانی,2,False,کارگر ساختمانی,کارگر ساختمانی,STOP,gemini-3.5-flash-lite
+New-ko-08,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کف‌سابی و نماشویی,3,False,کف‌سابی و نماشویی,کف‌سابی و نماشویی,STOP,gemini-3.5-flash-lite
+Ji-ko-02,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پنج‌شنبه,1,پنج‌شنبه,1,False,پنج‌شنبه,پنج‌شنبه,STOP,gemini-3.5-flash-lite
+Th-en-24,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,تهران,10,False,تهران (به‌ویژه منطقه فناوری دره شریف یا ناحیه نوآوری شریف),تهران (به‌ویژه منطقه فناوری دره شریف یا ناحیه نوآوری شریف),STOP,gemini-3.5-flash-lite
+Jod-ch-60,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۸,1,False,۸,۸,STOP,gemini-3.5-flash-lite
+New-su-51,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ماهیگیری,1,ماهیگیری,1,False,ماهیگیری,ماهیگیری,STOP,gemini-3.5-flash-lite
+Ki-pe-53,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+Th-en-27,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نفت,1,نفت و گاز,3,False,نفت و گاز,نفت و گاز,STOP,gemini-3.5-flash-lite
+Ni-en-17,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۴۴,1,False,۴۴,۴۴,STOP,gemini-3.5-flash-lite
+Th-en-21,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,بیمه,1,بیمه درمان تکمیلی,3,False,بیمه درمان تکمیلی,بیمه درمان تکمیلی,STOP,gemini-3.5-flash-lite
+New-su-60,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نان و پنیر,1,نان و پنیر,3,False,نان و پنیر,نان و پنیر,STOP,gemini-3.5-flash-lite
+New-ch-32,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آفیس,1,مجموعه نرم‌افزاری مایکروسافت آفیس به ویژه نرم‌افزارهای ورد,33,True,مجموعه نرم‌افزاری مایکروسافت آفیس (microsoft office) به ویژه نرم‌افزارهای ورد (word)، اکسل (excel) و پاورپوینت (powerpoint)، و در کنار آن مجموعه‌های جایگزین مانند لیبره‌آفیس (libreoffice) و نرم‌افزارهای ایرانی مانند تایپو یا اداری‌سازهای بومی,مجموعه نرم‌افزاری مایکروسافت آفیس (Microsoft Office) به ویژه نرم‌افزارهای ورد (Word)، اکسل (Excel) و پاورپوینت (PowerPoint)، و در کنار آن مجموعه‌های جایگزین مانند لیبره‌آفیس (LibreOffice) و نرم‌افزارهای ایرانی مانند تایپو یا اداری‌سازهای بومی.,STOP,gemini-3.5-flash-lite
+Ne-ar-26,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شرکت نفت,1,شرکت ملی نفت ایران,4,False,شرکت ملی نفت ایران,شرکت ملی نفت ایران,STOP,gemini-3.5-flash-lite
+Ji-ko-03,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,تهران,1,False,تهران,تهران,STOP,gemini-3.5-flash-lite
+Jod-ch-50,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۴۰,1,False,۴۰,۴۰,STOP,gemini-3.5-flash-lite
+New-en-38,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,فناوری اطلاعات و استارتاپ‌ها,4,False,فناوری اطلاعات و استارتاپ‌ها,فناوری اطلاعات و استارتاپ‌ها,STOP,gemini-3.5-flash-lite
+New-in-33,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کویر مرکزی,2,False,کویر مرکزی,کویر مرکزی,STOP,gemini-3.5-flash-lite
+New-su-57,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,گوسفند,1,گوسفند,1,False,گوسفند,گوسفند,STOP,gemini-3.5-flash-lite
+Ne-ar-17,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+New-pe-45,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ساعات کاری ادارات و سازمان‌ها در ماه رمضان در ایران معمولاً کاهش می‌یابد و کارmمندان کار خود را دیرتر آغاز کرده,54,True,ساعات کاری ادارات و سازمان‌ها در ماه رمضان در ایران معمولاً کاهش می‌یابد و کارmمندان کار خود را دیرتر آغاز کرده یا زودتر به پایان می‌برند تا با ساعات روزه‌داری تناسب داشته باشد. همچنین، رستوران‌ها و غذاخوری‌ها در طول روز بسته هستند یا با محدودیت‌های قانونی برای عدم سرو غذا در ملاءعام فعالیت می‌کنند,ساعات کاری ادارات و سازمان‌ها در ماه رمضان در ایران معمولاً کاهش می‌یابد و کارMمندان کار خود را دیرتر آغاز کرده یا زودتر به پایان می‌برند تا با ساعات روزه‌داری تناسب داشته باشد. همچنین، رستوران‌ها و غذاخوری‌ها در طول روز بسته هستند یا با محدودیت‌های قانونی برای عدم سرو غذا در ملاءعام فعالیت می‌کنند.,STOP,gemini-3.5-flash-lite
+New-su-58,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,گاو,1,گاو,8,True,گاو، گوسفند، بز، اسب، الاغ، قاطر و شتر,گاو، گوسفند، بز، اسب، الاغ، قاطر و شتر,STOP,gemini-3.5-flash-lite
+New-ko-10,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تاکسی,1,رانندگی در تاکسی‌های اینترنتی,25,True,رانندگی در تاکسی‌های اینترنتی (اسنپ و تپسی)، خرید و فروش (دلالی و تجارت خرد)، تدریس خصوصی، و فعالیت در بازارهای مالی (بورس و ارزهای دیجیتال),رانندگی در تاکسی‌های اینترنتی (اسنپ و تپسی)، خرید و فروش (دلالی و تجارت خرد)، تدریس خصوصی، و فعالیت در بازارهای مالی (بورس و ارزهای دیجیتال).,STOP,gemini-3.5-flash-lite
+New-am-54,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,عشایر ایل شاهسون,9,False,عشایر ایل شاهسون (یا استان اردبیل / عشایر مغان),عشایر ایل شاهسون (یا استان اردبیل / عشایر مغان),STOP,gemini-3.5-flash-lite
+Jod-ch-57,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۶۰,1,False,۶۰,۶۰,STOP,gemini-3.5-flash-lite
+New-ch-31,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پزشکی,1,پزشکی,1,False,پزشکی,پزشکی,STOP,gemini-3.5-flash-lite
+Ne-ar-16,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جمعه,1,پنجشنبه و جمعه,3,False,پنجشنبه و جمعه,پنجشنبه و جمعه,STOP,gemini-3.5-flash-lite
+New-am-60,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.2,اسب,1,اسب,1,False,اسب,اسب,STOP,gemini-3.5-flash-lite
+New-as-58,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+Jo-sp-19,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,گیلان,1,False,گیلان,گیلان,STOP,gemini-3.5-flash-lite
+Ji-ko-07,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,دیجی‌کالا,1,False,دیجی‌کالا,دیجی‌کالا,STOP,gemini-3.5-flash-lite
+New-in-34,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,خوزستان,1,False,خوزستان,خوزستان,STOP,gemini-3.5-flash-lite
+Jod-ch-58,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پزشکی,1,پزشکی,1,False,پزشکی,پزشکی,STOP,gemini-3.5-flash-lite
+Ne-ar-25,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نفت و گاز,1,پتروشیمی و نفت و گاز,5,False,پتروشیمی و نفت و گاز,پتروشیمی و نفت و گاز,STOP,gemini-3.5-flash-lite
+New-am-53,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,لاهیجان,1,لاهیجان,1,False,لاهیجان,لاهیجان,STOP,gemini-3.5-flash-lite
+Jod-ch-48,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,کباب,1,چلو کباب,14,True,چلو کباب، خورش (مانند قورمه‌سبزی یا قیمه)، یا غذاهای خانگی مانند استانبولی و کوکو,چلو کباب، خورش (مانند قورمه‌سبزی یا قیمه)، یا غذاهای خانگی مانند استانبولی و کوکو,STOP,gemini-3.5-flash-lite
+Jod-ch-61,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,معلم,1,معلمی,1,False,معلمی,معلمی,STOP,gemini-3.5-flash-lite
+Jod-ch-62,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,آزاد,1,False,آزاد,آزاد,STOP,gemini-3.5-flash-lite
+Nu-in-40,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تهران,1,تهران,1,False,تهران,تهران,STOP,gemini-3.5-flash-lite
+New-su-59,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,کلاه,1,کلاه حصیری,2,False,کلاه حصیری,کلاه حصیری,STOP,gemini-3.5-flash-lite
+New-gr-47,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۵,1,False,۱۵,۱۵,STOP,gemini-3.5-flash-lite
+Ji-ko-14,Work life,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پسته,1,پسته,1,False,پسته,پسته,STOP,gemini-3.5-flash-lite
+Th-en-22,Work life,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,دهه ۱۳۹۰,11,False,دهه ۱۳۹۰ (رکود بزرگ اقتصادی ناشی از تحریم‌ها و تورم بالا),دهه ۱۳۹۰ (رکود بزرگ اقتصادی ناشی از تحریم‌ها و تورم بالا),STOP,gemini-3.5-flash-lite
+New-spme-60,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,جمعه,1,جمعه,1,False,جمعه,جمعه,STOP,gemini-3.5-flash-lite
+New-ko-04,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,ماشین,1,ماشین اسباب‌بازی,10,True,ماشین اسباب‌بازی، تفنگ اسباب‌بازی، لگو، اکشن فیگور و اسباب‌بازی‌های کنترلی,ماشین اسباب‌بازی، تفنگ اسباب‌بازی، لگو، اکشن فیگور و اسباب‌بازی‌های کنترلی,STOP,gemini-3.5-flash-lite
+New-ha-66,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,تالار,1,باغ تالار,2,False,باغ تالار,باغ تالار,STOP,gemini-3.5-flash-lite
+Ji-ko-24,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,شهربازی‌ها,6,True,شهربازی‌ها، پارگ‌ها و مراکز بازی سرپوشیده,شهربازی‌ها، پارگ‌ها و مراکز بازی سرپوشیده,STOP,gemini-3.5-flash-lite
+Ji-ko-25,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,روز پدر و روز مادر,5,False,روز پدر و روز مادر,روز پدر و روز مادر,STOP,gemini-3.5-flash-lite
+New-ch-51,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,هتل,1,هتل آپارتمان,2,False,هتل آپارتمان,هتل آپارتمان,STOP,gemini-3.5-flash-lite
+New-en-47,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,درخت,3,True,درخت، گل، حوض,درخت، گل، حوض,STOP,gemini-3.5-flash-lite
+New-spme-68,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,شیر,1,شیر کاکائو,2,False,شیر کاکائو,شیر کاکائو,STOP,gemini-3.5-flash-lite
+New-am-74,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,تلگرام,1,False,تلگرام,تلگرام,STOP,gemini-3.5-flash-lite
+New-en-49,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,هاشمی,1,هاشمی رفسنجانی,2,False,هاشمی رفسنجانی,هاشمی رفسنجانی,STOP,gemini-3.5-flash-lite
+Th-en-44,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.3333333333333333,کباب,1,چلو کباب,2,False,چلو کباب,چلو کباب,STOP,gemini-3.5-flash-lite
+New-en-56,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,انگلیسی,1,انگلیسی,1,False,انگلیسی,انگلیسی,STOP,gemini-3.5-flash-lite
+New-spme-65,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,ایران روز استقلال ندارد,4,False,ایران روز استقلال ندارد,ایران روز استقلال ندارد.,STOP,gemini-3.5-flash-lite
+Gu-ch-16,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳.۳,1,False,۳.۳,۳.۳,STOP,gemini-3.5-flash-lite
+New-ch-54,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,هندوانه,1,False,هندوانه,هندوانه,STOP,gemini-3.5-flash-lite
+Ca-sp-43,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲,1,False,۲,۲,STOP,gemini-3.5-flash-lite
+Ca-sp-45,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,شمال,1,شهرهای شمالی کشور,3,False,شهرهای شمالی کشور,شهرهای شمالی کشور,STOP,gemini-3.5-flash-lite
+New-az-60,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پدربزرگ‌ها و مادربزرگ‌ها,5,True,پدربزرگ‌ها و مادربزرگ‌ها یا مهدکودک‌ها,پدربزرگ‌ها و مادربزرگ‌ها یا مهدکودک‌ها,STOP,gemini-3.5-flash-lite
+New-ko-05,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,عروسک,1,عروسک‌,9,True,عروسک‌، خانه بازی، وسایل خاله بازی، باربی و لگو,عروسک‌، خانه بازی، وسایل خاله بازی، باربی و لگو,STOP,gemini-3.5-flash-lite
+Ca-sp-42,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۳۶,1,False,۳۶,۳۶,STOP,gemini-3.5-flash-lite
+Ca-sp-38,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آپارتمان,1,آپارتمان,1,False,آپارتمان,آپارتمان,STOP,gemini-3.5-flash-lite
+New-pe-49,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,مسجد,1,مسجد,1,False,مسجد,مسجد,STOP,gemini-3.5-flash-lite
+New-ko-01,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پهلوانان,1,False,پهلوانان,پهلوانان,STOP,gemini-3.5-flash-lite
+Ji-ko-22,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,اجاره خانه,1,اجاره خانه و مواد غذایی,5,False,اجاره خانه و مواد غذایی,اجاره خانه و مواد غذایی,STOP,gemini-3.5-flash-lite
+Sa-en-31,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سگ,1,سگ,1,False,سگ,سگ,STOP,gemini-3.5-flash-lite
+New-su-71,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,پول,1,پول,5,True,پول، طلا، اسباب‌بازی و پوشاک,پول، طلا، اسباب‌بازی و پوشاک,STOP,gemini-3.5-flash-lite
+Th-en-39,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پارتی بازی,2,False,پارتی بازی,پارتی بازی,STOP,gemini-3.5-flash-lite
+Th-en-38,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,نوروز,1,False,نوروز,نوروز,STOP,gemini-3.5-flash-lite
+Ca-sp-41,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.5,خانه,1,در خانه و توسط خانواده,5,False,در خانه و توسط خانواده,در خانه و توسط خانواده,STOP,gemini-3.5-flash-lite
+Nu-in-20,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,10/08,1,False,10/08,10/08,STOP,gemini-3.5-flash-lite
+New-en-59,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.6666666666666666,کانادا,1,کانادا,1,False,کانادا,کانادا,STOP,gemini-3.5-flash-lite
+Sa-en-32,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,عصر جدید,2,False,عصر جدید,عصر جدید,STOP,gemini-3.5-flash-lite
+Ta-pe-13,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۵,1,False,۵,۵,STOP,gemini-3.5-flash-lite
+Th-en-43,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱,1,False,۱,۱,STOP,gemini-3.5-flash-lite
+Th-en-37,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱۸ تا ۲۵,3,False,۱۸ تا ۲۵,۱۸ تا ۲۵,STOP,gemini-3.5-flash-lite
+New-en-50,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,محمدی,1,محمدی,1,False,محمدی,محمدی,STOP,gemini-3.5-flash-lite
+New-as-64,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نوروز,1,نوروز,1,False,نوروز,نوروز,STOP,gemini-3.5-flash-lite
+Th-en-36,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,پارک رفتن,1,رفتن به پارک و پیک‌نیک,5,False,رفتن به پارک و پیک‌نیک,رفتن به پارک و پیک‌نیک,STOP,gemini-3.5-flash-lite
+Th-en-41,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲۹ سال,2,False,۲۹ سال,۲۹ سال,STOP,gemini-3.5-flash-lite
+Ji-ko-19,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,میخک,1,False,میخک,میخک,STOP,gemini-3.5-flash-lite
+Th-en-45,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,پارک رفتن,2,False,پارک رفتن,پارک رفتن,STOP,gemini-3.5-flash-lite
+Gu-ch-18,Family,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۲,1,False,۲,۲,STOP,gemini-3.5-flash-lite
+Ji-ko-16,Family,Iran,Persian,gemini-3.5-flash-lite,True,1,0.75,منزل,1,منزل,1,False,منزل,منزل,STOP,gemini-3.5-flash-lite
+New-as-14,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آش,1,آش و سوپ,3,False,آش و سوپ,آش و سوپ,STOP,gemini-3.5-flash-lite
+Ki-pe-34,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+New-su-01,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چیپس,1,پفک,16,True,پفک، چیپس، لواشک، آلوچه، پاستیل، بیسکویت، کیک، ساندویچ‌های آماده (مثل فلافل یا هات‌داگ)، نوشمک و یخمک,پفک، چیپس، لواشک، آلوچه، پاستیل، بیسکویت، کیک، ساندویچ‌های آماده (مثل فلافل یا هات‌داگ)، نوشمک و یخمک.,STOP,gemini-3.5-flash-lite
+Sa-en-13,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کله‌پچه,1,False,کله‌پچه,کله‌پچه,STOP,gemini-3.5-flash-lite
+New-gr-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,نان و پنیر,1,نان و پنیر و چای,5,False,نان و پنیر و چای,نان و پنیر و چای,STOP,gemini-3.5-flash-lite
+New-gr-13,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,چای,1,چای,1,False,چای,چای,STOP,gemini-3.5-flash-lite
+Ki-pe-40,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,کله‌پچه,1,False,کله‌پچه,کله‌پچه,STOP,gemini-3.5-flash-lite
+New-spme-05,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,زبان,1,باقلوا,12,True,باقلوا، قطاب، حاجی‌بادام، گز، سوهان، کلمپه، نان برنجی، شیرینی زبان و پشمک,باقلوا، قطاب، حاجی‌بادام، گز، سوهان، کلمپه، نان برنجی، شیرینی زبان و پشمک,STOP,gemini-3.5-flash-lite
+New-pe-02,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,سوهان,1,سوهان,1,False,سوهان,سوهان,STOP,gemini-3.5-flash-lite
+Jod-ch-07,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,۱.۵,1,False,۱.۵,۱.۵,STOP,gemini-3.5-flash-lite
+New-ch-09,Food,Iran,Persian,gemini-3.5-flash-lite,True,1,1.0,آش,1,آبگوشت,5,True,آبگوشت، آش، قورمه‌سبزی و عدسی,آبگوشت، آش، قورمه‌سبزی و عدسی,STOP,gemini-3.5-flash-lite
+Al-en-06,Food,Iran,Persian,gemini-3.5-flash-lite,True,0,0.0,,0,چای و کیک,3,False,چای و کیک,چای و کیک,STOP,gemini-3.5-flash-lite

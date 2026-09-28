@@ -1,0 +1,920 @@
+model_key,id,topic,response_raw,response_language,binary_score
+gemini-3.5-flash-lite,New-in-01,Food,ام‌ارسی (Mon Cafe) / بابا‌پنجعلی / کافه ویونا,mixed,1
+gemini-3.5-flash-lite,New-ha-08,Food,آبگوشت,Persian script,1
+gemini-3.5-flash-lite,New-gr-08,Food,عرق و آبجو,Persian script,0
+gemini-3.5-flash-lite,Sa-en-7,Food,آجيل، پسته، تخمه، لواشک، پفک، چیپس، بستنی، سوهان و گز.,Persian script,1
+gemini-3.5-flash-lite,Na-ko-15,Food,آبگوشت,Persian script,1
+gemini-3.5-flash-lite,New-ha-13,Food,سبزی خوردن,Persian script,1
+gemini-3.5-flash-lite,New-en-11,Food,کرفس,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-43,Food,قند,Persian script,1
+gemini-3.5-flash-lite,Al-en-01,Food,بیسکویت و چای شیرین,Persian script,0
+gemini-3.5-flash-lite,Ca-sp-14,Food,چای,Persian script,1
+gemini-3.5-flash-lite,New-en-02,Food,نمکی,Persian script,1
+gemini-3.5-flash-lite,Na-ko-08,Food,انار,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-15,Food,ماهی (به‌ویژه ماهی سفید، قزل‌آلا، سالمون و تن) و میگو,Persian script,1
+gemini-3.5-flash-lite,Al-en-09,Food,پشمک,Persian script,1
+gemini-3.5-flash-lite,Na-ko-09,Food,سوپ,Persian script,1
+gemini-3.5-flash-lite,Kik-in-17,Food,خرما,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-04,Food,چای,Persian script,0
+gemini-3.5-flash-lite,New-gr-88,Holidays/Celebration/Leisure,چای,Persian script,1
+gemini-3.5-flash-lite,Na-ko-41,Holidays/Celebration/Leisure,خرما و حلوا,Persian script,0
+gemini-3.5-flash-lite,Ni-en-37,Holidays/Celebration/Leisure,سپندارمذگان,Persian script,1
+gemini-3.5-flash-lite,New-am-77,Holidays/Celebration/Leisure,عاشورای حسینی,Persian script,1
+gemini-3.5-flash-lite,Kik-in-06,Holidays/Celebration/Leisure,بله‌برون، نامزدی، حنابندان,Persian script,1
+gemini-3.5-flash-lite,Al-en-34,Holidays/Celebration/Leisure,دید و بازدید از یکدیگر، چیدن سفره هفت‌سین، دادن عیدی و خوردن غذاهای سنتی مانند سبزی‌پلو با ماهی,Persian script,1
+gemini-3.5-flash-lite,Kik-in-08,Holidays/Celebration/Leisure,خانه تکانی، غبارروبی مساجد، خرید اقلام غذایی ماه رمضان، و گرفتن روزه مستحبی در ماه شعبان,Persian script,0
+gemini-3.5-flash-lite,New-az-70,Holidays/Celebration/Leisure,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد.,Persian script,0
+gemini-3.5-flash-lite,New-as-89,Holidays/Celebration/Leisure,طلا و نقره,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-29,Holidays/Celebration/Leisure,تحویل سال در ایران در شب سال نو (نوروز) نیست، بلکه در لحظه اعتدال بهاری است؛ اما از سنت‌های مربوط به آغاز سال نو و روزهای پیش از آن می‌توان به موارد زیر اشاره کرد: خانه‌تکانی، تهیه سفره هفت‌سین، خرید لباس نو، پخت غذاهای سنتی (مانند سبزی‌پلو با ماهی)، دید و بازدیدهای عید، و هدیه‌دادن عیدی.,Persian script,0
+gemini-3.5-flash-lite,New-ch-78,Holidays/Celebration/Leisure,پیاده‌روی، شرکت در کلاس‌های هنری و ورزشی، باغبانی، سفر و وقت‌گذرانی با نوه‌ها,Persian script,1
+gemini-3.5-flash-lite,New-en-90,Holidays/Celebration/Leisure,هتل‌های بین‌المللی لاله,Persian script,0
+gemini-3.5-flash-lite,Ta-pe-37,Holidays/Celebration/Leisure,سفره هفت‌سین,Persian script,0
+gemini-3.5-flash-lite,New-su-88,Holidays/Celebration/Leisure,پاپ,Persian script,1
+gemini-3.5-flash-lite,New-su-83,Holidays/Celebration/Leisure,چلو کباب، زرشک پلو با مرغ، باقالی پلو با گوشت، و جوجه کباب,Persian script,1
+gemini-3.5-flash-lite,New-az-73,Holidays/Celebration/Leisure,۳۰۰,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-16,Holidays/Celebration/Leisure,نوروز,Persian script,1
+gemini-3.5-flash-lite,New-spme-15,Sport,ایس‌تات,Persian script,0
+gemini-3.5-flash-lite,New-gr-29,Sport,جام جهانی فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-az-27,Sport,پادل,Persian script,0
+gemini-3.5-flash-lite,Ta-pe-21,Sport,کوچه,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-05,Sport,پیاده‌روی، نرمش صبحگاهی، پیاک (ورزش‌های سبک)، شنا و شطرنج,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-08,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-as-20,Sport,فوتسال,Persian script,1
+gemini-3.5-flash-lite,New-ch-27,Sport,علی مظاهری,Persian script,0
+gemini-3.5-flash-lite,Sa-en-22,Sport,دانشگاه صنعتی شریف,Persian script,0
+gemini-3.5-flash-lite,Th-en-15,Sport,اسکی,Persian script,1
+gemini-3.5-flash-lite,New-gr-24,Sport,دو و میدانی,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-06,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Th-en-01,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-29,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,An-ar-34,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Na-ko-25,Sport,دو و میدانی، فوتبال، والیبال، بسکتبال و ژیمناستیک,Persian script,1
+gemini-3.5-flash-lite,Kik-in-44,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-32,Education,۹,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-41,Education,کفش‌های فرم مدرسه (معمولاً کفش‌های راحتی، اسپرت یا کتانی با رنگ‌های ساده و تیره مانند مشکی، سرمه‌ای یا قهوه‌ای),Persian script,1
+gemini-3.5-flash-lite,Th-en-53,Education,جشن تکلیف,Persian script,0
+gemini-3.5-flash-lite,New-az-39,Education,آمریکا,Persian script,1
+gemini-3.5-flash-lite,New-su-34,Education,سرود,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-38,Education,پزشکی,Persian script,1
+gemini-3.5-flash-lite,Al-en-17,Education,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-su-42,Education,اسلام,Persian script,1
+gemini-3.5-flash-lite,Nu-in-04,Education,۲,Persian script,0
+gemini-3.5-flash-lite,Th-en-51,Education,ریاضی,Persian script,1
+gemini-3.5-flash-lite,Al-en-18,Education,ریاضی,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-39,Education,فلوت ریکوردر,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-37,Education,۱۳,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-37,Education,در ایران، دانش‌آموزان دبیرستان و راهنمایی موظفند از لباس فرم مصوب مدرسه که معمولاً شامل مانتو و شلوار (برای دختران) و پیراهن و شلوار (برای پسران) با رنگ‌بندی‌های مشخص است، استفاده کنند.,Persian script,1
+gemini-3.5-flash-lite,Ni-en-03,Education,۱۸ تا ۱۹,Persian script,0
+gemini-3.5-flash-lite,An-ar-08,Education,۵ تا ۷ ساعت,Persian script,1
+gemini-3.5-flash-lite,Tmp-ar-01,Education,کتابخانه مرکزی دانشگاه، سالن‌های مطالعه، یا خوابگاه‌ها,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-56,Work life,۵۵,Persian script,0
+gemini-3.5-flash-lite,New-az-49,Work life,۱,Persian script,0
+gemini-3.5-flash-lite,Ki-pe-51,Work life,14:30,uncertain,0
+gemini-3.5-flash-lite,New-ch-44,Work life,۳ ماه,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-51,Work life,خودرو شخصی,Persian script,0
+gemini-3.5-flash-lite,Ni-en-20,Work life,۱۸,Persian script,0
+gemini-3.5-flash-lite,Ne-ar-24,Work life,تهران,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-20,Work life,کارمندی دولت,Persian script,0
+gemini-3.5-flash-lite,Th-en-19,Work life,اصفهان,Persian script,1
+gemini-3.5-flash-lite,New-ch-45,Work life,فناوری اطلاعات و ارتباطات (IT)، تجارت الکترونیک، گردشگری، صنایع دستی و خدمات دیجیتال,mixed,0
+gemini-3.5-flash-lite,Ji-ko-09,Work life,چلومباب با کباب کوبیده و جوجه کباب، زرشک پلو با مرغ، قورمه سبزی، قیمه، و انواع سالاد و نوشیدنی.,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-08,Work life,۴۴,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-46,Work life,۱,Persian script,0
+gemini-3.5-flash-lite,New-su-50,Work life,دامداری,Persian script,1
+gemini-3.5-flash-lite,Ni-en-21,Work life,۱۵,Persian script,0
+gemini-3.5-flash-lite,New-ko-09,Work life,خوردن ناهار و شام گروهی، اردوها و سفرهای تفریحی، برگزاری جشن‌های تولد و مناسبتی، بازی‌های دسته‌جمعی (مانند مافیا، اتاق فرار و بولینگ)، کارگاه‌های آموزشی مشترک و مسابقات ورزشی.,Persian script,0
+gemini-3.5-flash-lite,New-su-75,Family,خودرو شخصی (پژو، پراید، سمند) و موتورسیکلت,Persian script,1
+gemini-3.5-flash-lite,New-pe-54,Family,طلا، جواهرات، لوازم خانگی، پوشاک، گل، و پول نقد,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-11,Family,۲۳-۲۸,Persian script,0
+gemini-3.5-flash-lite,Th-en-35,Family,ناهار,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-27,Family,شیرینی، میوه یا پول,Persian script,1
+gemini-3.5-flash-lite,New-pe-47,Family,11/04,uncertain,1
+gemini-3.5-flash-lite,New-ch-49,Family,تلفن همراه,Persian script,0
+gemini-3.5-flash-lite,New-pe-53,Family,جوراب، پیراهن، کیف پول، عطر و ادکلن، و پول نقد,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-10,Family,۲۷ تا ۳۰,Persian script,0
+gemini-3.5-flash-lite,New-en-55,Family,اسلام,Persian script,1
+gemini-3.5-flash-lite,New-am-72,Family,تن‌تن و میلو,Persian script,0
+gemini-3.5-flash-lite,Sa-en-37,Family,منچ و مارپله,Persian script,1
+gemini-3.5-flash-lite,New-ko-03,Family,توپ سفید,Persian script,0
+gemini-3.5-flash-lite,New-pe-59,Family,۱ تا ۳,Persian script,0
+gemini-3.5-flash-lite,New-ko-06,Family,کدو قلقله‌زن,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-29,Family,یک‌سالگی,Persian script,0
+gemini-3.5-flash-lite,Ki-pe-39,Food,جوجه‌کباب، کتلت، استانبولی، الویه و املت,Persian script,1
+gemini-3.5-flash-lite,New-az-11,Food,هندوانه,Persian script,1
+gemini-3.5-flash-lite,New-spme-04,Food,پسته,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-38,Food,آش نذری,Persian script,0
+gemini-3.5-flash-lite,New-en-08,Food,فرم؛ مینو؛ پارمیس,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-09,Food,21:00,uncertain,1
+gemini-3.5-flash-lite,New-en-10,Food,پنیر فتا,Persian script,0
+gemini-3.5-flash-lite,New-su-09,Food,روغن مایع (مانند روغن آفتابگردان، ذرت و سویا) و روغن نیمه جامد,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-11,Food,پنج‌شنبه,Persian script,0
+gemini-3.5-flash-lite,Ne-ar-37,Food,خیار,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-01,Food,قاشق و چنگال,Persian script,1
+gemini-3.5-flash-lite,New-am-04,Food,ماست و خیار,Persian script,0
+gemini-3.5-flash-lite,New-ch-01,Food,گوسفند,Persian script,1
+gemini-3.5-flash-lite,Na-ko-05,Food,چلو کباب,Persian script,1
+gemini-3.5-flash-lite,New-gr-06,Food,فست‌فود (پیتزا و همبرگر),Persian script,1
+gemini-3.5-flash-lite,New-en-12,Food,فست فود (مانند پیتزا، همبرگر، سوخاری)، غذاهای ایرانی (مانند چلوکباب، جوجه‌کباب، خورش‌ها)، پاستا، ساندویچ، سالاد و غذاهای ملل (مانند سوشی و غذاهای مکزیکی یا ایتالیایی).,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-05,Food,۳,Persian script,0
+gemini-3.5-flash-lite,New-am-02,Food,قورمه‌سبزی,Persian script,0
+gemini-3.5-flash-lite,New-as-05,Food,چای,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-32,Food,چای، پنیر، نان (مانند بربری، سنگک یا لواش)، کره، مربا، عسل و گردو (گاهی اوقات تخم‌مرغ، حلیم یا عدسی هم خورده می‌شود).,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-12,Food,سوپ جو,Persian script,1
+gemini-3.5-flash-lite,New-as-01,Food,گندم,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-31,Food,چلو کبابی,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-08,Food,برنج,Persian script,1
+gemini-3.5-flash-lite,Sa-en-1,Food,پيلاويچ,Persian script,0
+gemini-3.5-flash-lite,Kik-in-24,Food,سیزم‌زمینی سرخ‌کرده,Persian script,0
+gemini-3.5-flash-lite,Ki-pe-32,Food,چلو کباب، قورمه سبزی، قیمه، زرشک پلو با مرغ و جوجه کباب,Persian script,1
+gemini-3.5-flash-lite,New-ha-09,Food,اجاق گاز,Persian script,1
+gemini-3.5-flash-lite,Kik-in-16,Food,چای,Persian script,1
+gemini-3.5-flash-lite,New-su-10,Food,آبگوشت، سوپ مرغ، فرنی، شیربرنج، انواع آش‌ها، کباب، و میوه‌ها و مغزهای مغذی مانند گردو و بادام.,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-06,Food,عرق کشمش,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-43,Food,بربری,Persian script,1
+gemini-3.5-flash-lite,Al-en-08,Food,پفیلا و بستنی,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-13,Food,فلافل، سمبوسه، بلال، لشک، آش رشته، جگرکی، سیب‌زمینی سرخ‌کرده، ساندویچ بندری و آش دوغ,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-36,Food,چلو باقالی با گوشت و مرغ,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-09,Food,بستنی سنتی و فالوده,Persian script,0
+gemini-3.5-flash-lite,New-gr-15,Food,فالوده,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-06,Food,ناهار,Persian script,1
+gemini-3.5-flash-lite,New-ch-15,Food,چیپس، پفک، بیسکویت، کیک، نوشابه، دوغ، کنسرو تن ماهی، لوبیا، ماکارونی آماده و انواع ساندویچ‌های سرد.,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-33,Food,13:30,uncertain,0
+gemini-3.5-flash-lite,New-pe-11,Food,زعفران,Persian script,1
+gemini-3.5-flash-lite,New-ch-02,Food,07:30,uncertain,0
+gemini-3.5-flash-lite,Sa-en-9,Food,چای و جوجه کباب,Persian script,1
+gemini-3.5-flash-lite,New-az-12,Food,جنوب ایران (یا خوزستان / بوشهر / هرمزگان),Persian script,1
+gemini-3.5-flash-lite,Ne-ar-44,Food,شکلات,Persian script,1
+gemini-3.5-flash-lite,New-as-07,Food,قلیه ماهی,Persian script,1
+gemini-3.5-flash-lite,New-en-05,Food,فلافل,Persian script,1
+gemini-3.5-flash-lite,New-am-15,Food,کاچی,Persian script,1
+gemini-3.5-flash-lite,New-en-07,Food,دست پخت، بوی خوش آشپزی، به خانه برمی‌گردیم، دستپخت خودمه و خندان شو (مسابقه آشپزی).,Persian script,0
+gemini-3.5-flash-lite,New-ch-14,Food,سوپ مرغ، سوپ جو، فرنی، شیربرنج، سوپ سبزیجات و آب‌میوه‌های طبیعی,Persian script,1
+gemini-3.5-flash-lite,Sa-en-6,Food,چلوکباب,Persian script,1
+gemini-3.5-flash-lite,New-ha-07,Food,کباب,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-39,Food,فلافل,Persian script,1
+gemini-3.5-flash-lite,New-ch-05,Food,قلیه ماهی,Persian script,1
+gemini-3.5-flash-lite,New-as-02,Food,نان,Persian script,1
+gemini-3.5-flash-lite,New-pe-06,Food,قورمه‌سبزی,Persian script,0
+gemini-3.5-flash-lite,New-ch-04,Food,آجیل، میوه، چای و بیسکویت، نان و پنیر و سبزی، و گاهی آش یا حلیم.,Persian script,1
+gemini-3.5-flash-lite,Na-ko-11,Food,ت تخمه,Persian script,1
+gemini-3.5-flash-lite,New-su-15,Food,چای,Persian script,0
+gemini-3.5-flash-lite,New-ch-08,Food,نمک,Persian script,1
+gemini-3.5-flash-lite,New-en-01,Food,پفییل (ذرت مکزیکی)، چیپس، پفک، تخمه، لواشک و نوشابه,Persian script,1
+gemini-3.5-flash-lite,New-in-03,Food,چلوکباب,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-34,Food,برنج,Persian script,1
+gemini-3.5-flash-lite,Na-ko-07,Food,گوشت مرغ,Persian script,1
+gemini-3.5-flash-lite,Al-en-04,Food,هندوانه,Persian script,0
+gemini-3.5-flash-lite,New-as-15,Food,دوغ,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-36,Food,ایتالیا,Persian script,1
+gemini-3.5-flash-lite,New-pe-83,Holidays/Celebration/Leisure,حکم,Persian script,1
+gemini-3.5-flash-lite,Kik-in-15,Holidays/Celebration/Leisure,مانتو و شلوار رسمی به همراه مقنعه یا روسری (که اغلب در زیر لباس فارغ‌التحصیلی و کلاه مخصوص پوشیده می‌شود),Persian script,1
+gemini-3.5-flash-lite,Na-ko-45,Holidays/Celebration/Leisure,کیش,Persian script,1
+gemini-3.5-flash-lite,Kik-in-07,Holidays/Celebration/Leisure,عیدی,Persian script,1
+gemini-3.5-flash-lite,New-gr-82,Holidays/Celebration/Leisure,موسیقی سنتی ایرانی,Persian script,1
+gemini-3.5-flash-lite,Na-ko-37,Holidays/Celebration/Leisure,مشهد,Persian script,0
+gemini-3.5-flash-lite,Na-ko-40,Holidays/Celebration/Leisure,۳,Persian script,0
+gemini-3.5-flash-lite,New-su-86,Holidays/Celebration/Leisure,پلاسکو,Persian script,0
+gemini-3.5-flash-lite,New-az-69,Holidays/Celebration/Leisure,اطلاعات رسمی و آماری دقیقی در این زمینه وجود ندارد.,Persian script,0
+gemini-3.5-flash-lite,New-as-80,Holidays/Celebration/Leisure,لباس‌های محلی و سنتی رنگارنگ,Persian script,0
+gemini-3.5-flash-lite,New-ch-81,Holidays/Celebration/Leisure,پول نقد، طلا، و ظروف نقره یا کریستال.,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-30,Holidays/Celebration/Leisure,سفره هفت‌سین,Persian script,0
+gemini-3.5-flash-lite,New-su-81,Holidays/Celebration/Leisure,کت و شلوار,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-11,Holidays/Celebration/Leisure,خانه همدیگر,Persian script,0
+gemini-3.5-flash-lite,Ta-pe-32,Holidays/Celebration/Leisure,چهارشنبه‌سوری,Persian script,0
+gemini-3.5-flash-lite,Na-ko-44,Holidays/Celebration/Leisure,چهارشنبه پیش از نوروز,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-06,Holidays/Celebration/Leisure,آش، شله زرد، حلیم، فرنی، زولبیا و بامیه، نان سنگک، پنیر و سبزی خوردن,Persian script,1
+gemini-3.5-flash-lite,New-pe-78,Holidays/Celebration/Leisure,جشنواره فیلم فجر,Persian script,1
+gemini-3.5-flash-lite,New-ch-79,Holidays/Celebration/Leisure,باغداری، پیاده‌روی در پارک، معاشرت با دوستان در قهوه‌خانه‌ها یا پارک‌ها، وقت‌گذرانی با نوه‌ها، و بازی شطرنج یا تخته نرد.,Persian script,1
+gemini-3.5-flash-lite,Al-en-43,Holidays/Celebration/Leisure,سینما رفتن,Persian script,1
+gemini-3.5-flash-lite,New-ch-82,Holidays/Celebration/Leisure,20:00,uncertain,0
+gemini-3.5-flash-lite,Na-ko-38,Holidays/Celebration/Leisure,سکه طلا,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-28,Holidays/Celebration/Leisure,اتوبوس,Persian script,1
+gemini-3.5-flash-lite,New-ch-80,Holidays/Celebration/Leisure,ایام فاطمیه و نوروز,Persian script,0
+gemini-3.5-flash-lite,Ne-ar-05,Holidays/Celebration/Leisure,نوروز,Persian script,1
+gemini-3.5-flash-lite,New-en-87,Holidays/Celebration/Leisure,برج آزادی,Persian script,0
+gemini-3.5-flash-lite,New-gr-89,Holidays/Celebration/Leisure,چای,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-41,Holidays/Celebration/Leisure,کافه گردی,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-42,Holidays/Celebration/Leisure,قلیان کشیدن,Persian script,0
+gemini-3.5-flash-lite,Ne-ar-14,Holidays/Celebration/Leisure,خانه بزرگ‌ترها,Persian script,1
+gemini-3.5-flash-lite,New-in-78,Holidays/Celebration/Leisure,کارت به کارت,Persian script,1
+gemini-3.5-flash-lite,Na-ko-42,Holidays/Celebration/Leisure,حلوا و خرما,Persian script,1
+gemini-3.5-flash-lite,Kik-in-04,Holidays/Celebration/Leisure,پارچه سیاه,Persian script,1
+gemini-3.5-flash-lite,New-ch-84,Holidays/Celebration/Leisure,رنگ‌های شاد و روشن,Persian script,0
+gemini-3.5-flash-lite,New-as-76,Holidays/Celebration/Leisure,پنج‌شنبه‌بازار، شاهنامه‌خوانی، الک‌دولک، منچ، وسطی، و پانتومیم.,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-21,Holidays/Celebration/Leisure,8,uncertain,0
+gemini-3.5-flash-lite,New-spme-78,Holidays/Celebration/Leisure,تولدت مبارک,Persian script,1
+gemini-3.5-flash-lite,Al-en-40,Holidays/Celebration/Leisure,پارک,Persian script,1
+gemini-3.5-flash-lite,New-pe-76,Holidays/Celebration/Leisure,پیک‌نیک,Persian script,0
+gemini-3.5-flash-lite,New-am-81,Holidays/Celebration/Leisure,۶,Persian script,0
+gemini-3.5-flash-lite,New-ch-83,Holidays/Celebration/Leisure,تهران,Persian script,1
+gemini-3.5-flash-lite,Al-en-39,Holidays/Celebration/Leisure,کیک تولد,Persian script,1
+gemini-3.5-flash-lite,Na-ko-43,Holidays/Celebration/Leisure,مردم در روز عید نوروز معمولاً صبح زود از خواب بیدار شده، لباس‌های نو می‌پوشند، خانه را با عود و اسپند معطر می‌کنند، دور سفره هفت‌سین جمع می‌شوند، به خواندن دعا و تبریک سال نو به یکدیگر می‌پردازند و بزرگترها به کوچکترها عیدی می‌دهند. سپس دید و بازدیدهای عید (عیددیدنی) آغاز می‌شود.,Persian script,1
+gemini-3.5-flash-lite,Kik-in-01,Holidays/Celebration/Leisure,نوروز,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-45,Holidays/Celebration/Leisure,انار و هندوانه,Persian script,1
+gemini-3.5-flash-lite,New-en-76,Holidays/Celebration/Leisure,فرودگاه بین‌المللی مهرآباد,Persian script,1
+gemini-3.5-flash-lite,New-pe-85,Holidays/Celebration/Leisure,ترکیه,Persian script,1
+gemini-3.5-flash-lite,New-am-83,Holidays/Celebration/Leisure,تار,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-42,Holidays/Celebration/Leisure,سبزی پلو با ماهی,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-10,Holidays/Celebration/Leisure,گوشت قربانی (معمولاً آبگوشت یا کباب),Persian script,1
+gemini-3.5-flash-lite,New-su-77,Holidays/Celebration/Leisure,عیدی,Persian script,1
+gemini-3.5-flash-lite,New-ko-07,Holidays/Celebration/Leisure,تاج گل,Persian script,1
+gemini-3.5-flash-lite,Kik-in-11,Holidays/Celebration/Leisure,"۱. حرم امام رضا (مشهد)
+۲. حرم حضرت معصومه (قم)
+۳. شاهچراغ (شیراز)
+۴. کلیسای وانک (اصفهان)
+۵. قره‌کلیسا یا کلیسای تادئوس مقدس (آذربایجان غربی)
+۶. آتشکده زرتشتیان (یزد)
+۷. آرامگاه دانیال نبی (شوش)
+۸. تخت صهی و کلیسای همتایان (ارمنستان/آذربایجان غربی -",Persian script,1
+gemini-3.5-flash-lite,New-en-79,Holidays/Celebration/Leisure,تئاتر شهر,Persian script,0
+gemini-3.5-flash-lite,Kik-in-10,Holidays/Celebration/Leisure,تخت جمشید,Persian script,1
+gemini-3.5-flash-lite,New-in-80,Holidays/Celebration/Leisure,پارک ارم,Persian script,1
+gemini-3.5-flash-lite,Na-ko-39,Holidays/Celebration/Leisure,پول,Persian script,1
+gemini-3.5-flash-lite,New-ch-85,Holidays/Celebration/Leisure,مشکی,Persian script,1
+gemini-3.5-flash-lite,New-pe-86,Holidays/Celebration/Leisure,برج میلاد,Persian script,1
+gemini-3.5-flash-lite,New-su-82,Holidays/Celebration/Leisure,لباس عروس سفید,Persian script,1
+gemini-3.5-flash-lite,Kik-in-45,Sport,زمین فوتبال چمنی یا خاکی، زمین‌های چندمنظوره برای والیبال و بسکتبال، میز تنیس روی میز (پینگ‌پنگ) و دروازه فوتبال دستی.,Persian script,1
+gemini-3.5-flash-lite,Th-en-12,Sport,وزنه‌برداری,Persian script,0
+gemini-3.5-flash-lite,Jo-sp-14,Sport,شطرنج,Persian script,1
+gemini-3.5-flash-lite,Na-ko-16,Sport,علی دایی,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-38,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Na-ko-17,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-ch-16,Sport,بچه‌های آسمان,Persian script,0
+gemini-3.5-flash-lite,New-ch-17,Sport,پاراگلایدر,Persian script,0
+gemini-3.5-flash-lite,New-en-17,Sport,بوق و پرچم,Persian script,1
+gemini-3.5-flash-lite,New-as-29,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Na-ko-22,Sport,عربستان سعودی,Persian script,0
+gemini-3.5-flash-lite,Jo-sp-09,Sport,گلف، سوارکاری، تنیس، اسکی، پولو (چوگان)، اسکواش و قایقرانی بادبانی,Persian script,1
+gemini-3.5-flash-lite,New-az-21,Sport,دیزین,Persian script,1
+gemini-3.5-flash-lite,Th-en-09,Sport,لیگ برتر فوتبال ایران (جام خلیج فارس),Persian script,1
+gemini-3.5-flash-lite,Ta-pe-30,Sport,نود,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-07,Sport,حامد حدادی,Persian script,1
+gemini-3.5-flash-lite,New-en-18,Sport,پرچم,Persian script,0
+gemini-3.5-flash-lite,Na-ko-26,Sport,پیاده‌روی، کوهنوردی، فوتبال دستی، شنا و شطرنج,Persian script,1
+gemini-3.5-flash-lite,Th-en-11,Sport,علی دایی,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-11,Sport,کشتی,Persian script,1
+gemini-3.5-flash-lite,New-su-28,Sport,سفید,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-01,Sport,فوتبال دستی,Persian script,0
+gemini-3.5-flash-lite,An-ar-36,Sport,پرسپولیس,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-02,Sport,کشتی,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-17,Sport,کشتی,Persian script,1
+gemini-3.5-flash-lite,New-en-23,Sport,سیامند رحمان,Persian script,1
+gemini-3.5-flash-lite,Na-ko-18,Sport,والیبال,Persian script,1
+gemini-3.5-flash-lite,New-gr-21,Sport,تنیس روی میز (پینگ‌پنگ),Persian script,1
+gemini-3.5-flash-lite,New-en-19,Sport,ورزشگاه آزادی,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-37,Sport,فوتبال و والیبال,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-25,Sport,استقلال در مقابل پرسپولیس,Persian script,1
+gemini-3.5-flash-lite,Sa-en-16,Sport,پرسپولیس,Persian script,1
+gemini-3.5-flash-lite,New-en-26,Sport,پرسپولیس پیروزی,Persian script,0
+gemini-3.5-flash-lite,New-su-21,Sport,پیاده‌روی، ورزش صبحگاهی با دستگاه‌های بدنسازی پارکی، شطرنج و تخته‌نرد بازی کردن، نشستن روبروی هم و صحبت کردن، و دسته‌جمعی چای خوردن.,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-09,Sport,والیبال، بدنسازی، فوتسال، شنا و ایروبیک,Persian script,1
+gemini-3.5-flash-lite,Kik-in-31,Sport,کشتی، تکواندو، کاراته، کاراته، بوشبیدو و کونگ‌فو,Persian script,1
+gemini-3.5-flash-lite,Na-ko-23,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-az-26,Sport,امیرعلی اکبری,Persian script,0
+gemini-3.5-flash-lite,New-su-24,Sport,پیاده‌روی و کوهنوردی,Persian script,0
+gemini-3.5-flash-lite,Gu-ch-15,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,Na-ko-24,Sport,تخمه,Persian script,1
+gemini-3.5-flash-lite,Kik-in-34,Sport,فوتبال، والیبال، کشتی,Persian script,1
+gemini-3.5-flash-lite,Kik-in-36,Sport,کارلوس کی‌روش,Persian script,0
+gemini-3.5-flash-lite,Na-ko-20,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-am-27,Sport,کیمیا علیزاده,Persian script,0
+gemini-3.5-flash-lite,New-as-30,Sport,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-pe-16,Sport,ورزش باستانی (یا کشتی پهلوانی),Persian script,1
+gemini-3.5-flash-lite,Jo-sp-13,Sport,شنا,Persian script,1
+gemini-3.5-flash-lite,An-ar-35,Sport,عادل فردوسی‌پور,Persian script,1
+gemini-3.5-flash-lite,New-pe-20,Sport,والیبال ساحلی,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-23,Sport,بدنسازی,Persian script,1
+gemini-3.5-flash-lite,Ta-pe-22,Sport,پیاده‌روی,Persian script,0
+gemini-3.5-flash-lite,Kik-in-37,Sport,پرسپولیس در مقابل استقلال,Persian script,1
+gemini-3.5-flash-lite,New-ha-19,Sport,اسب,Persian script,1
+gemini-3.5-flash-lite,Kik-in-38,Sport,پرسپولیس در مقابل استقلال,Persian script,1
+gemini-3.5-flash-lite,Th-en-03,Sport,لیگ برتر خلیج فارس,Persian script,0
+gemini-3.5-flash-lite,An-ar-43,Sport,ورزشگاه‌ها، کافه‌ها، قهوه‌خانه‌ها و پارک‌ها,Persian script,1
+gemini-3.5-flash-lite,New-su-17,Sport,وسایل بدنسازی پارکی، زمین‌های چمن مصنوعی یا آسفالت برای فوتبال و والیبال، پیست‌های دوچرخه‌سواری و پیاده‌روی، میزهای پینگ‌پنگ و شطرنج.,Persian script,1
+gemini-3.5-flash-lite,New-ch-23,Sport,نکاح‌خواه,Persian script,0
+gemini-3.5-flash-lite,Na-ko-30,Sport,پابجی موبایل,Persian script,0
+gemini-3.5-flash-lite,Kik-in-35,Sport,پیاده‌روی انفرادی، دوچرخه‌سواری، ورزش در خانه (بدنسازی و یوگا) و کوهنوردی انفرادی,Persian script,1
+gemini-3.5-flash-lite,New-en-75,Education,۱۶,Persian script,0
+gemini-3.5-flash-lite,New-en-72,Education,سایت‌های آموزشی مانند پادرس، گاما، همکلاس، فرادرس، مکتب‌خونه، آپارات و اپلیکیشن‌هایی مانند شاد.,Persian script,1
+gemini-3.5-flash-lite,An-ar-02,Education,سلف سرویس دانشگاه,Persian script,1
+gemini-3.5-flash-lite,New-ch-66,Education,۰,Persian script,0
+gemini-3.5-flash-lite,Ki-pe-24,Education,فرانسوی، آلمانی، عربی,Persian script,1
+gemini-3.5-flash-lite,New-ch-73,Education,ورزشی، علمی و فرهنگی-هنری,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-44,Education,دانشگاه صنعتی شریف,Persian script,1
+gemini-3.5-flash-lite,New-en-70,Education,۳,Persian script,0
+gemini-3.5-flash-lite,Al-en-16,Education,۵,Persian script,0
+gemini-3.5-flash-lite,New-in-62,Education,دانشگاه صنعتی شریف,Persian script,1
+gemini-3.5-flash-lite,New-su-33,Education,فرم رسمی و پوشش اسلامی (مانتو و شلوار مقنعه برای زنان، کت و شلوار یا پیراهن و شلوار رسمی برای مردان),Persian script,1
+gemini-3.5-flash-lite,Gu-ch-31,Education,۶,Persian script,0
+gemini-3.5-flash-lite,Jo-sp-36,Education,۱۲,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-36,Education,ریاضی,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-31,Education,14:00,uncertain,1
+gemini-3.5-flash-lite,New-ch-71,Education,۲۵ تا ۳۰,Persian script,0
+gemini-3.5-flash-lite,New-en-69,Education,حافظ، سعدی، فردوسی، مولوی، نظامی، پروین اعتصامی و نیما یوشیج,Persian script,0
+gemini-3.5-flash-lite,Th-en-58,Education,حسابان,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-32,Education,فوتبال,Persian script,1
+gemini-3.5-flash-lite,New-in-63,Education,دانشگاه علوم پزشکی و خدمات بهداشتی درمانی تهران,Persian script,1
+gemini-3.5-flash-lite,Nu-in-11,Education,07:30,uncertain,1
+gemini-3.5-flash-lite,Ni-en-12,Education,دانشگاه تهران,Persian script,1
+gemini-3.5-flash-lite,Ni-en-06,Education,۶,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-34,Education,با پیاده‌روی، سرویس مدرسه، اتوبوس، خودروی شخصی یا موتورسیكلت,Persian script,1
+gemini-3.5-flash-lite,New-ch-75,Education,90,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-40,Education,13:00,uncertain,1
+gemini-3.5-flash-lite,Tmp-ar-04,Education,استراحت، ناهار خوردن، تماشای تلویزیون، بازی کردن و انجام تکالیف مدرسه,Persian script,1
+gemini-3.5-flash-lite,New-ch-70,Education,معارف اسلامی (مانند اندیشه اسلامی، اخلاق اسلامی، انقلاب اسلامی و تاریخ اسلام)، زبان فارسی و زبان انگلیسی عمومی,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-33,Education,۷,Persian script,0
+gemini-3.5-flash-lite,New-pe-74,Education,صفر (تحصیل در دوره‌های روزانه دانشگاه‌های دولتی ایران رایگان است).,Persian script,1
+gemini-3.5-flash-lite,New-ch-74,Education,خوابگاه‌های دانشجویی و خانه‌های اجاره‌ای,Persian script,1
+gemini-3.5-flash-lite,An-ar-03,Education,۶,Persian script,0
+gemini-3.5-flash-lite,Ni-en-02,Education,14:00,uncertain,1
+gemini-3.5-flash-lite,Th-en-48,Education,۲۰,Persian script,0
+gemini-3.5-flash-lite,New-pe-66,Education,فوتبال,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-40,Education,خوردن خوراکی، صحبت با دوستان، قدم زدن در حیاط مدرسه و بازی کردن.,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-43,Education,۰,Persian script,0
+gemini-3.5-flash-lite,New-am-41,Education,ششم,Persian script,0
+gemini-3.5-flash-lite,New-ch-72,Education,پزشکی,Persian script,1
+gemini-3.5-flash-lite,Nu-in-06,Education,02/12,uncertain,1
+gemini-3.5-flash-lite,New-spme-27,Education,دیپلم,Persian script,1
+gemini-3.5-flash-lite,Tmp-ar-02,Education,اتوبوس,Persian script,1
+gemini-3.5-flash-lite,Ni-en-15,Education,12,uncertain,1
+gemini-3.5-flash-lite,Al-en-21,Education,ریاضی,Persian script,1
+gemini-3.5-flash-lite,New-ch-64,Education,۳۰,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-35,Education,تدریس خصوصی (معلم خصوصی),Persian script,1
+gemini-3.5-flash-lite,Ni-en-11,Education,۲,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-42,Education,ادبیات فارسی، زبان عربی، دین و زندگی (معارف اسلامی) و زبان انگلیسی,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-30,Education,جمعه,Persian script,1
+gemini-3.5-flash-lite,Gu-ch-38,Education,۴,Persian script,0
+gemini-3.5-flash-lite,Nu-in-05,Education,۷,Persian script,0
+gemini-3.5-flash-lite,An-ar-09,Education,۲,Persian script,1
+gemini-3.5-flash-lite,New-en-68,Education,تنبیه انضباطی، اخطار کتبی، تعلیق و اخراج از مدرسه,Persian script,1
+gemini-3.5-flash-lite,New-spme-37,Education,فنی و مهندسی,Persian script,1
+gemini-3.5-flash-lite,New-pe-65,Education,۱۰,Persian script,0
+gemini-3.5-flash-lite,Gu-ch-41,Education,۰,Persian script,0
+gemini-3.5-flash-lite,Ni-en-09,Education,۵,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-31,Education,خانه,Persian script,1
+gemini-3.5-flash-lite,Ni-en-13,Education,۲۲,Persian script,0
+gemini-3.5-flash-lite,New-am-34,Education,خانه,Persian script,1
+gemini-3.5-flash-lite,New-su-45,Education,02/02,uncertain,0
+gemini-3.5-flash-lite,Ki-pe-17,Education,دبیرستان,Persian script,1
+gemini-3.5-flash-lite,Al-en-19,Education,انگلیسی,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-39,Education,۶,Persian script,0
+gemini-3.5-flash-lite,Th-en-49,Education,امتحانات نهایی,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-21,Work life,13:00,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-18,Work life,۲۶,Persian script,0
+gemini-3.5-flash-lite,Ne-ar-18,Work life,17:00,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-15,Work life,1,uncertain,1
+gemini-3.5-flash-lite,Ni-en-19,Work life,۵,Persian script,0
+gemini-3.5-flash-lite,New-ch-38,Work life,بندرعباس، بوشهر، خرمشهر، آبادان، کیش، قشم، چابهار، مرز بازرگان، اینچه برون,Persian script,1
+gemini-3.5-flash-lite,New-gr-58,Work life,کارگر ساختمانی,Persian script,0
+gemini-3.5-flash-lite,New-ko-08,Work life,کف‌سابی و نماشویی,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-02,Work life,پنج‌شنبه,Persian script,1
+gemini-3.5-flash-lite,Th-en-24,Work life,تهران (به‌ویژه منطقه فناوری دره شریف یا ناحیه نوآوری شریف),Persian script,1
+gemini-3.5-flash-lite,Jod-ch-60,Work life,۸,Persian script,0
+gemini-3.5-flash-lite,New-su-51,Work life,ماهیگیری,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-53,Work life,08:00,uncertain,1
+gemini-3.5-flash-lite,Th-en-27,Work life,نفت و گاز,Persian script,1
+gemini-3.5-flash-lite,Ni-en-17,Work life,۴۴,Persian script,0
+gemini-3.5-flash-lite,Th-en-21,Work life,بیمه درمان تکمیلی,Persian script,1
+gemini-3.5-flash-lite,New-su-60,Work life,نان و پنیر,Persian script,1
+gemini-3.5-flash-lite,New-ch-32,Work life,مجموعه نرم‌افزاری مایکروسافت آفیس (Microsoft Office) به ویژه نرم‌افزارهای ورد (Word)، اکسل (Excel) و پاورپوینت (PowerPoint)، و در کنار آن مجموعه‌های جایگزین مانند لیبره‌آفیس (LibreOffice) و نرم‌افزارهای ایرانی مانند تایپو یا اداری‌سازهای بومی.,mixed,1
+gemini-3.5-flash-lite,Ne-ar-26,Work life,شرکت ملی نفت ایران,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-03,Work life,تهران,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-50,Work life,۴۰,Persian script,0
+gemini-3.5-flash-lite,New-en-38,Work life,فناوری اطلاعات و استارتاپ‌ها,Persian script,0
+gemini-3.5-flash-lite,New-in-33,Work life,کویر مرکزی,Persian script,0
+gemini-3.5-flash-lite,New-su-57,Work life,گوسفند,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-17,Work life,08:00,uncertain,1
+gemini-3.5-flash-lite,New-pe-45,Work life,ساعات کاری ادارات و سازمان‌ها در ماه رمضان در ایران معمولاً کاهش می‌یابد و کارMمندان کار خود را دیرتر آغاز کرده یا زودتر به پایان می‌برند تا با ساعات روزه‌داری تناسب داشته باشد. همچنین، رستوران‌ها و غذاخوری‌ها در طول روز بسته هستند یا با محدودیت‌های قانونی برای عدم سرو غذا در ملاءعام فعالیت می‌کنند.,mixed,0
+gemini-3.5-flash-lite,New-su-58,Work life,گاو، گوسفند، بز، اسب، الاغ، قاطر و شتر,Persian script,1
+gemini-3.5-flash-lite,New-ko-10,Work life,رانندگی در تاکسی‌های اینترنتی (اسنپ و تپسی)، خرید و فروش (دلالی و تجارت خرد)، تدریس خصوصی، و فعالیت در بازارهای مالی (بورس و ارزهای دیجیتال).,Persian script,1
+gemini-3.5-flash-lite,New-am-54,Work life,عشایر ایل شاهسون (یا استان اردبیل / عشایر مغان),Persian script,0
+gemini-3.5-flash-lite,Jod-ch-57,Work life,۶۰,Persian script,0
+gemini-3.5-flash-lite,New-ch-31,Work life,پزشکی,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-16,Work life,پنجشنبه و جمعه,Persian script,1
+gemini-3.5-flash-lite,New-am-60,Work life,اسب,Persian script,1
+gemini-3.5-flash-lite,New-as-58,Work life,چای,Persian script,1
+gemini-3.5-flash-lite,Jo-sp-19,Work life,گیلان,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-07,Work life,دیجی‌کالا,Persian script,0
+gemini-3.5-flash-lite,New-in-34,Work life,خوزستان,Persian script,0
+gemini-3.5-flash-lite,Jod-ch-58,Work life,پزشکی,Persian script,1
+gemini-3.5-flash-lite,Ne-ar-25,Work life,پتروشیمی و نفت و گاز,Persian script,1
+gemini-3.5-flash-lite,New-am-53,Work life,لاهیجان,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-48,Work life,چلو کباب، خورش (مانند قورمه‌سبزی یا قیمه)، یا غذاهای خانگی مانند استانبولی و کوکو,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-61,Work life,معلمی,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-62,Work life,آزاد,Persian script,0
+gemini-3.5-flash-lite,Nu-in-40,Work life,تهران,Persian script,1
+gemini-3.5-flash-lite,New-su-59,Work life,کلاه حصیری,Persian script,1
+gemini-3.5-flash-lite,New-gr-47,Work life,۱۵,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-14,Work life,پسته,Persian script,1
+gemini-3.5-flash-lite,Th-en-22,Work life,دهه ۱۳۹۰ (رکود بزرگ اقتصادی ناشی از تحریم‌ها و تورم بالا),Persian script,0
+gemini-3.5-flash-lite,New-spme-60,Family,جمعه,Persian script,1
+gemini-3.5-flash-lite,New-ko-04,Family,ماشین اسباب‌بازی، تفنگ اسباب‌بازی، لگو، اکشن فیگور و اسباب‌بازی‌های کنترلی,Persian script,1
+gemini-3.5-flash-lite,New-ha-66,Family,باغ تالار,Persian script,1
+gemini-3.5-flash-lite,Ji-ko-24,Family,شهربازی‌ها، پارگ‌ها و مراکز بازی سرپوشیده,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-25,Family,روز پدر و روز مادر,Persian script,0
+gemini-3.5-flash-lite,New-ch-51,Family,هتل آپارتمان,Persian script,1
+gemini-3.5-flash-lite,New-en-47,Family,درخت، گل، حوض,Persian script,0
+gemini-3.5-flash-lite,New-spme-68,Family,شیر کاکائو,Persian script,1
+gemini-3.5-flash-lite,New-am-74,Family,تلگرام,Persian script,0
+gemini-3.5-flash-lite,New-en-49,Family,هاشمی رفسنجانی,Persian script,1
+gemini-3.5-flash-lite,Th-en-44,Family,چلو کباب,Persian script,1
+gemini-3.5-flash-lite,New-en-56,Family,انگلیسی,Persian script,1
+gemini-3.5-flash-lite,New-spme-65,Family,ایران روز استقلال ندارد.,Persian script,0
+gemini-3.5-flash-lite,Gu-ch-16,Family,۳.۳,Persian script,0
+gemini-3.5-flash-lite,New-ch-54,Family,هندوانه,Persian script,0
+gemini-3.5-flash-lite,Ca-sp-43,Family,۲,Persian script,0
+gemini-3.5-flash-lite,Ca-sp-45,Family,شهرهای شمالی کشور,Persian script,1
+gemini-3.5-flash-lite,New-az-60,Family,پدربزرگ‌ها و مادربزرگ‌ها یا مهدکودک‌ها,Persian script,0
+gemini-3.5-flash-lite,New-ko-05,Family,عروسک‌، خانه بازی، وسایل خاله بازی، باربی و لگو,Persian script,1
+gemini-3.5-flash-lite,Ca-sp-42,Family,۳۶,Persian script,0
+gemini-3.5-flash-lite,Ca-sp-38,Family,آپارتمان,Persian script,1
+gemini-3.5-flash-lite,New-pe-49,Family,مسجد,Persian script,1
+gemini-3.5-flash-lite,New-ko-01,Family,پهلوانان,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-22,Family,اجاره خانه و مواد غذایی,Persian script,1
+gemini-3.5-flash-lite,Sa-en-31,Family,سگ,Persian script,1
+gemini-3.5-flash-lite,New-su-71,Family,پول، طلا، اسباب‌بازی و پوشاک,Persian script,1
+gemini-3.5-flash-lite,Th-en-39,Family,پارتی بازی,Persian script,0
+gemini-3.5-flash-lite,Th-en-38,Family,نوروز,Persian script,0
+gemini-3.5-flash-lite,Ca-sp-41,Family,در خانه و توسط خانواده,Persian script,1
+gemini-3.5-flash-lite,Nu-in-20,Family,10/08,uncertain,0
+gemini-3.5-flash-lite,New-en-59,Family,کانادا,Persian script,1
+gemini-3.5-flash-lite,Sa-en-32,Family,عصر جدید,Persian script,0
+gemini-3.5-flash-lite,Ta-pe-13,Family,۵,Persian script,0
+gemini-3.5-flash-lite,Th-en-43,Family,۱,Persian script,0
+gemini-3.5-flash-lite,Th-en-37,Family,۱۸ تا ۲۵,Persian script,0
+gemini-3.5-flash-lite,New-en-50,Family,محمدی,Persian script,1
+gemini-3.5-flash-lite,New-as-64,Family,نوروز,Persian script,1
+gemini-3.5-flash-lite,Th-en-36,Family,رفتن به پارک و پیک‌نیک,Persian script,1
+gemini-3.5-flash-lite,Th-en-41,Family,۲۹ سال,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-19,Family,میخک,Persian script,0
+gemini-3.5-flash-lite,Th-en-45,Family,پارک رفتن,Persian script,0
+gemini-3.5-flash-lite,Gu-ch-18,Family,۲,Persian script,0
+gemini-3.5-flash-lite,Ji-ko-16,Family,منزل,Persian script,1
+gemini-3.5-flash-lite,New-as-14,Food,آش و سوپ,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-34,Food,چای,Persian script,1
+gemini-3.5-flash-lite,New-su-01,Food,پفک، چیپس، لواشک، آلوچه، پاستیل، بیسکویت، کیک، ساندویچ‌های آماده (مثل فلافل یا هات‌داگ)، نوشمک و یخمک.,Persian script,1
+gemini-3.5-flash-lite,Sa-en-13,Food,کله‌پچه,Persian script,0
+gemini-3.5-flash-lite,New-gr-05,Food,نان و پنیر و چای,Persian script,1
+gemini-3.5-flash-lite,New-gr-13,Food,چای,Persian script,1
+gemini-3.5-flash-lite,Ki-pe-40,Food,کله‌پچه,Persian script,0
+gemini-3.5-flash-lite,New-spme-05,Food,باقلوا، قطاب، حاجی‌بادام، گز، سوهان، کلمپه، نان برنجی، شیرینی زبان و پشمک,Persian script,1
+gemini-3.5-flash-lite,New-pe-02,Food,سوهان,Persian script,1
+gemini-3.5-flash-lite,Jod-ch-07,Food,۱.۵,Persian script,0
+gemini-3.5-flash-lite,New-ch-09,Food,آبگوشت، آش، قورمه‌سبزی و عدسی,Persian script,1
+gemini-3.5-flash-lite,Al-en-06,Food,چای و کیک,Persian script,0
+gpt-4.1,New-in-01,Food,"استارباکس در ایران شعبه رسمی ندارد، اما برند ""کافه ویونا"" یکی از محبوب‌ترین کافی‌شاپ‌های زنجیره‌ای در ایران است.",Persian script,1
+gpt-4.1,New-ha-08,Food,کله‌پاچه,Persian script,0
+gpt-4.1,New-gr-08,Food,عرق سگی,Persian script,0
+gpt-4.1,Sa-en-7,Food,آجیل، تخمه، پفک، چیپس، لواشک، آلوچه، باسلوق، نقل، کشمش، شکلات، بیسکویت، پاستیل، برگه زردآلو، نخودچی و کشمش.,Persian script,1
+gpt-4.1,Na-ko-15,Food,آبگوشت,Persian script,1
+gpt-4.1,New-ha-13,Food,جعفری,Persian script,1
+gpt-4.1,New-en-11,Food,کرفس,Persian script,1
+gpt-4.1,Ne-ar-43,Food,مردم معمولاً در ایران با چای، قند، نبات، شیرینی، بیسکویت یا خرما می‌خورند.,Persian script,1
+gpt-4.1,Al-en-01,Food,بیسکویت و شیر,Persian script,0
+gpt-4.1,Ca-sp-14,Food,چای,Persian script,1
+gpt-4.1,New-en-02,Food,نمکی,Persian script,1
+gpt-4.1,Na-ko-08,Food,انار,Persian script,1
+gpt-4.1,Jod-ch-15,Food,در ایران مردم معمولاً ماهی، میگو، ماهی دودی، ماهی شور، ماهی سفید، ماهی قزل‌آلا، ماهی کپور و خاویار را دوست دارند و غذاهایی مانند قلیه‌ماهی، میگو پلو، ماهی سرخ‌شده و ماهی شکم‌پر محبوب هستند.,Persian script,1
+gpt-4.1,Al-en-09,Food,ذرت مکزیکی,Persian script,0
+gpt-4.1,Na-ko-09,Food,زیتون پرورده,Persian script,0
+gpt-4.1,Kik-in-17,Food,خرما,Persian script,1
+gpt-4.1,Jod-ch-04,Food,دوغ,Persian script,1
+gpt-4.1,New-gr-88,Holidays/Celebration/Leisure,چای,Persian script,1
+gpt-4.1,Na-ko-41,Holidays/Celebration/Leisure,یک دسته گل یا تاج گل.,Persian script,1
+gpt-4.1,Ni-en-37,Holidays/Celebration/Leisure,سپندارمذگان,Persian script,1
+gpt-4.1,New-am-77,Holidays/Celebration/Leisure,عید نوروز,Persian script,0
+gpt-4.1,Kik-in-06,Holidays/Celebration/Leisure,بله‌برون، نامزدی، حنابندان,Persian script,1
+gpt-4.1,Al-en-34,Holidays/Celebration/Leisure,مردم در ایران برای جشن گرفتن روز سال نو (نوروز) خانه‌تکانی می‌کنند، سفره هفت‌سین می‌چینند، لباس نو می‌پوشند، به دید و بازدید اقوام و دوستان می‌روند و عیدی می‌گیرند.,Persian script,1
+gpt-4.1,Kik-in-08,Holidays/Celebration/Leisure,در ایران، در روزهای قبل از رمضان معمولاً خانه‌تکانی، خرید مواد غذایی و مایحتاج ماه رمضان، تهیه خرما و زولبیا و بامیه، زیارت اهل قبور و آماده‌سازی مساجد برای برگزاری مراسم مذهبی انجام می‌شود.,Persian script,0
+gpt-4.1,New-az-70,Holidays/Celebration/Leisure,آبجو,Persian script,1
+gpt-4.1,New-as-89,Holidays/Celebration/Leisure,مردم ایران در جشنواره‌ها زینت‌آلات سنتی مانند گوشواره، گردنبند، دستبند، انگشتر، سنجاق سر، پیشانی‌بند، خلخال و سینه‌ریز با طرح‌ها و نقش‌های محلی و قومی می‌پوشند.,Persian script,0
+gpt-4.1,Ca-sp-29,Holidays/Celebration/Leisure,در شب سال نو در ایران، مردم خانه‌تکانی می‌کنند، لباس نو می‌پوشند، سفره هفت‌سین می‌اندازند، سبزه می‌کارند، به دید و بازدید اقوام می‌روند، عیدی می‌دهند و می‌گیرند، و غذاهای سنتی مانند سبزی‌پلو با ماهی می‌خورند.,Persian script,0
+gpt-4.1,New-ch-78,Holidays/Celebration/Leisure,زنان بازنشسته در ایران معمولاً از فعالیت‌هایی مانند پیاده‌روی در پارک، شرکت در کلاس‌های هنری و ورزشی، سفرهای گروهی، دیدار با دوستان و خانواده، مطالعه کتاب، باغبانی و شرکت در مراسم فرهنگی و مذهبی لذت می‌برند.,Persian script,1
+gpt-4.1,New-en-90,Holidays/Celebration/Leisure,هتل پارسیان,Persian script,1
+gpt-4.1,Ta-pe-37,Holidays/Celebration/Leisure,آجیل,Persian script,0
+gpt-4.1,New-su-88,Holidays/Celebration/Leisure,پاپ,Persian script,1
+gpt-4.1,New-su-83,Holidays/Celebration/Leisure,زرشک پلو با مرغ، چلو گوشت، باقالی پلو با گوشت، جوجه کباب، کباب کوبیده، خورش فسنجان، خورش قیمه، سالاد، دسر و شیرینی.,Persian script,1
+gpt-4.1,New-az-73,Holidays/Celebration/Leisure,200,uncertain,1
+gpt-4.1,Jod-ch-16,Holidays/Celebration/Leisure,نوروز,Persian script,1
+gpt-4.1,New-spme-15,Sport,ایزوتونیک کوئیک (Quick Isotonic),mixed,0
+gpt-4.1,New-gr-29,Sport,جام جهانی فوتبال,Persian script,1
+gpt-4.1,New-az-27,Sport,پدل (Padel),mixed,0
+gpt-4.1,Ta-pe-21,Sport,در کوچه‌ها، پارک‌ها و زمین‌های خاکی.,Persian script,1
+gpt-4.1,Gu-ch-05,Sport,پیاده‌روی، نرمش‌های سبک، یوگا، شنا و ورزش‌های گروهی ملایم مانند شطرنج و بدمینتون.,Persian script,1
+gpt-4.1,Gu-ch-08,Sport,فوتبال,Persian script,1
+gpt-4.1,New-as-20,Sport,والیبال,Persian script,1
+gpt-4.1,New-ch-27,Sport,احمد نوری‌زاد,Persian script,0
+gpt-4.1,Sa-en-22,Sport,دانشگاه آزاد اسلامی,Persian script,1
+gpt-4.1,Th-en-15,Sport,اسکی,Persian script,1
+gpt-4.1,New-gr-24,Sport,دو ۱۰۰ متر,Persian script,1
+gpt-4.1,Gu-ch-06,Sport,فوتبال، والیبال، بسکتبال، کشتی، فوتسال، بدنسازی، تنیس روی میز، شنا.,Persian script,1
+gpt-4.1,Th-en-01,Sport,فوتبال,Persian script,1
+gpt-4.1,Ta-pe-29,Sport,فوتبال,Persian script,1
+gpt-4.1,An-ar-34,Sport,فوتبال,Persian script,1
+gpt-4.1,Na-ko-25,Sport,دویدن، فوتبال، والیبال، بسکتبال، ژیمناستیک، طناب‌زنی، حرکات کششی و نرمشی.,Persian script,1
+gpt-4.1,Kik-in-44,Sport,فوتبال,Persian script,1
+gpt-4.1,Gu-ch-32,Education,9,uncertain,1
+gpt-4.1,Ji-ko-41,Education,دانش‌آموزان در ایران معمولاً کفش‌های کتانی یا کفش‌های ساده و راحت به پا می‌کنند.,Persian script,1
+gpt-4.1,Th-en-53,Education,اردوهای دانش‌آموزی,Persian script,0
+gpt-4.1,New-az-39,Education,کانادا,Persian script,1
+gpt-4.1,New-su-34,Education,سرودخوانی گروهی,Persian script,1
+gpt-4.1,Ji-ko-38,Education,پزشکی,Persian script,1
+gpt-4.1,Al-en-17,Education,فوتبال,Persian script,1
+gpt-4.1,New-su-42,Education,اسلام,Persian script,1
+gpt-4.1,Nu-in-04,Education,2,uncertain,1
+gpt-4.1,Th-en-51,Education,ریاضی,Persian script,1
+gpt-4.1,Al-en-18,Education,ریاضی,Persian script,1
+gpt-4.1,Ji-ko-39,Education,فلوت ریکوردر (بلز هم رایج است، اما فلوت ریکوردر پرطرفدارتر است.),Persian script,1
+gpt-4.1,Jo-sp-37,Education,۱۲,Persian script,0
+gpt-4.1,Ji-ko-37,Education,دانش‌آموزان دبیرستان و راهنمایی در کشور من معمولاً یونیفرم یا لباس فرم مدرسه می‌پوشند.,Persian script,1
+gpt-4.1,Ni-en-03,Education,۱۸,Persian script,0
+gpt-4.1,An-ar-08,Education,۶,Persian script,1
+gpt-4.1,Tmp-ar-01,Education,کتابخانه دانشگاه,Persian script,1
+gpt-4.1,Jod-ch-56,Work life,۵۵,Persian script,0
+gpt-4.1,New-az-49,Work life,۲,Persian script,0
+gpt-4.1,Ki-pe-51,Work life,14:30,uncertain,0
+gpt-4.1,New-ch-44,Work life,حداکثر ۳ ماه.,Persian script,0
+gpt-4.1,Jod-ch-51,Work life,خودروی شخصی,Persian script,0
+gpt-4.1,Ni-en-20,Work life,22,uncertain,0
+gpt-4.1,Ne-ar-24,Work life,تهران,Persian script,1
+gpt-4.1,Ne-ar-20,Work life,شغل دولتی,Persian script,0
+gpt-4.1,Th-en-19,Work life,اصفهان,Persian script,1
+gpt-4.1,New-ch-45,Work life,فناوری اطلاعات و ارتباطات، صنایع غذایی، پوشاک و مد، گردشگری، خدمات آنلاین و استارتاپ‌ها.,Persian script,0
+gpt-4.1,Ji-ko-09,Work life,غذاهایی مانند جوجه‌کباب، کباب کوبیده، چلو مرغ، زرشک‌پلو با مرغ، سالاد الویه، کتلت، سمبوسه، پیتزا، فینگر فود، سالاد ماکارونی و انواع شیرینی و میوه.,Persian script,1
+gpt-4.1,Ji-ko-08,Work life,44,uncertain,0
+gpt-4.1,Jod-ch-46,Work life,3,uncertain,1
+gpt-4.1,New-su-50,Work life,دامداری و کشاورزی,Persian script,1
+gpt-4.1,Ni-en-21,Work life,15,uncertain,1
+gpt-4.1,New-ko-09,Work life,متداول‌ترین فعالیت‌های تیم‌سازی در شرکت‌های ایران شامل برگزاری کارگاه‌های آموزشی، اردوهای تفریحی، مسابقات ورزشی، جلسات گروهی حل مسئله، دورهمی‌های غیررسمی و بازی‌های گروهی است.,Persian script,0
+gpt-4.1,New-su-75,Family,در ایران اکثر خانواده‌ها معمولاً خودرو سواری شخصی مانند پراید، پژو یا سمند دارند.,Persian script,1
+gpt-4.1,New-pe-54,Family,در ایران مادران معمولاً در روز مادر هدایایی مانند گل، طلا و جواهرات، لوازم آرایشی، پوشاک، کیف و کفش، لوازم خانگی یا یادگاری‌های شخصی دریافت می‌کنند.,Persian script,1
+gpt-4.1,Ta-pe-11,Family,۲۳ تا ۲۷,Persian script,0
+gpt-4.1,Th-en-35,Family,ناهار و شام,Persian script,1
+gpt-4.1,Ji-ko-27,Family,گل یا شیرینی.,Persian script,1
+gpt-4.1,New-pe-47,Family,11/07,uncertain,0
+gpt-4.1,New-ch-49,Family,تلفن همراه,Persian script,0
+gpt-4.1,New-pe-53,Family,در ایران پدرها معمولاً در روز پدر هدایایی مانند پوشاک (پیراهن، کفش، کمربند)، ساعت، عطر، لوازم شخصی، وسایل الکترونیکی، و گاهی گل یا کارت تبریک دریافت می‌کنند.,Persian script,1
+gpt-4.1,Ta-pe-10,Family,۲۵ تا ۳۰,Persian script,0
+gpt-4.1,New-en-55,Family,اسلام,Persian script,1
+gpt-4.1,New-am-72,Family,تن‌تن و ماجراهایش,Persian script,0
+gpt-4.1,Sa-en-37,Family,منچ,Persian script,1
+gpt-4.1,New-ko-03,Family,آهنگ «عمو زنجیرباف»,Persian script,0
+gpt-4.1,New-pe-59,Family,۲,Persian script,0
+gpt-4.1,New-ko-06,Family,"قصه‌ی ""شنگول و منگول و حبه انگور""",Persian script,0
+gpt-4.1,Ji-ko-29,Family,۱۸ سالگی,Persian script,0
+gpt-4.1,Ki-pe-39,Food,کتلت، کوکو سبزی، کوکو سیب‌زمینی، جوجه کباب، کباب لقمه، سالاد الویه، نان و پنیر و سبزی، تخم‌مرغ آب‌پز، میوه، خیار و گوجه، دوغ و نوشیدنی‌های خنک.,Persian script,1
+gpt-4.1,New-az-11,Food,هندوانه,Persian script,1
+gpt-4.1,New-spme-04,Food,پسته,Persian script,1
+gpt-4.1,Ne-ar-38,Food,غذاهایی مانند برنج و خورشت (مثلاً قیمه یا قرمه‌سبزی)، آش، حلوا و نان.,Persian script,1
+gpt-4.1,New-en-08,Food,شونیز,Persian script,1
+gpt-4.1,Jod-ch-09,Food,20:30,uncertain,0
+gpt-4.1,New-en-10,Food,پنیر سفید ایرانی (پنیر صبحانه),Persian script,1
+gpt-4.1,New-su-09,Food,روغن نباتی (روغن مایع) و روغن کنجد,Persian script,0
+gpt-4.1,Ca-sp-11,Food,جمعه,Persian script,1
+gpt-4.1,Ne-ar-37,Food,خرما,Persian script,0
+gpt-4.1,Jod-ch-01,Food,در ایران مردم معمولاً از قاشق، چنگال و گاهی چاقو برای غذا خوردن استفاده می‌کنند و در برخی غذاها از دست نیز استفاده می‌شود.,Persian script,1
+gpt-4.1,New-am-04,Food,ماست موسیر,Persian script,1
+gpt-4.1,New-ch-01,Food,گوشت گوسفند,Persian script,1
+gpt-4.1,Na-ko-05,Food,پیتزا و کباب,Persian script,1
+gpt-4.1,New-gr-06,Food,پیتزا,Persian script,1
+gpt-4.1,New-en-12,Food,پیتزا، همبرگر، ساندویچ، مرغ سوخاری، کباب، جوجه‌کباب، فلافل، انواع پاستا، سالاد، غذاهای چینی و آسیایی، غذاهای ایرانی مانند قرمه‌سبزی و قیمه، سیب‌زمینی سرخ‌کرده، نوشیدنی‌های سرد و گرم، دسر و بستنی.,Persian script,1
+gpt-4.1,Ca-sp-05,Food,۳,Persian script,0
+gpt-4.1,New-am-02,Food,چلوکباب,Persian script,1
+gpt-4.1,New-as-05,Food,چای,Persian script,1
+gpt-4.1,Ne-ar-32,Food,نان، پنیر، چای، کره، مربا، عسل، تخم‌مرغ، خامه، گردو.,Persian script,1
+gpt-4.1,Jod-ch-12,Food,مردم در ایران معمولاً سوپ جو، آش رشته، سوپ مرغ و آش شله‌قلمکار را دوست دارند.,Persian script,1
+gpt-4.1,New-as-01,Food,گندم,Persian script,1
+gpt-4.1,Ne-ar-31,Food,کباب,Persian script,1
+gpt-4.1,Ca-sp-08,Food,نان,Persian script,1
+gpt-4.1,Sa-en-1,Food,هایدا,Persian script,1
+gpt-4.1,Kik-in-24,Food,سیب‌زمینی سرخ‌کرده,Persian script,0
+gpt-4.1,Ki-pe-32,Food,در ایران معمولاً میزبان‌ها غذاهایی مانند چلوکباب، جوجه کباب، قورمه سبزی، زرشک پلو با مرغ، فسنجان، باقلا پلو با گوشت، و انواع خورشت‌ها را برای مهمان‌ها تهیه می‌کنند.,Persian script,1
+gpt-4.1,New-ha-09,Food,اجاق گاز,Persian script,1
+gpt-4.1,Kik-in-16,Food,چای,Persian script,1
+gpt-4.1,New-su-10,Food,غذاهایی مانند آش جو، سوپ مرغ، خورش سبزیجات، عدسی، حلیم، میوه‌های تازه، لبنیات (ماست و شیر)، تخم‌مرغ آب‌پز، برنج با خورش‌های ملایم و مغزها معمولاً توسط زنان باردار در ایران خورده می‌شود.,Persian script,1
+gpt-4.1,Jod-ch-06,Food,عرق سگی,Persian script,1
+gpt-4.1,Ki-pe-43,Food,بربری,Persian script,1
+gpt-4.1,Al-en-08,Food,پاپ‌کورن، چیپس، پفک، بستنی، ذرت مکزیکی، آجیل و تخمه.,Persian script,1
+gpt-4.1,Jod-ch-13,Food,مردم در ایران غذاهای خیابانی مانند سمبوسه، فلافل، سیب‌زمینی سرخ‌کرده، ساندویچ کالباس، جگر، دل و قلوه، آش، بلال، باقالی، لبو و انواع بستنی و فالوده را دوست دارند.,Persian script,1
+gpt-4.1,Ne-ar-36,Food,زرشک پلو با مرغ,Persian script,1
+gpt-4.1,Ca-sp-09,Food,بستنی، فالوده، حلوا، شیرینی، فرنی، شله‌زرد، میوه.,Persian script,1
+gpt-4.1,New-gr-15,Food,بستنی سنتی ایرانی,Persian script,1
+gpt-4.1,Ca-sp-06,Food,ناهار,Persian script,1
+gpt-4.1,New-ch-15,Food,چیپس، پفک، بیسکویت، شکلات، نوشابه، آبمیوه، کیک، ساندویچ سرد، ماست، دوغ، بستنی، کنسرو، تن ماهی، نودل آماده، آجیل، خشکبار.,Persian script,1
+gpt-4.1,Ne-ar-33,Food,13:00,uncertain,1
+gpt-4.1,New-pe-11,Food,زردچوبه,Persian script,1
+gpt-4.1,New-ch-02,Food,07:30,uncertain,0
+gpt-4.1,Sa-en-9,Food,ماهی، میگو، کباب، باقالی، ذرت مکزیکی، فالوده، بستنی، لبو، آش، چای,Persian script,1
+gpt-4.1,New-az-12,Food,جنوب ایران (به‌ویژه استان‌های هرمزگان، بوشهر و خوزستان),Persian script,1
+gpt-4.1,Ne-ar-44,Food,شیرینی، کیک، بیسکویت، خرما، شکلات.,Persian script,1
+gpt-4.1,New-as-07,Food,سبزی پلو با ماهی,Persian script,1
+gpt-4.1,New-en-05,Food,ساندویچ فلافل,Persian script,1
+gpt-4.1,New-am-15,Food,کاچی,Persian script,1
+gpt-4.1,New-en-07,Food,"برنامه‌های آشپزی محبوب در ایران شامل ""به خانه برمی‌گردیم""، ""آشپزی با نیما""، ""دستپخت""، ""غذاهای رنگین""، و ""آشپزخانه خانواده"" هستند.",Persian script,0
+gpt-4.1,New-ch-14,Food,سوپ، آش، فرنی، شیربرنج، حریره، آبگوشت، برنج ساده با ماست یا ماست و خیار.,Persian script,1
+gpt-4.1,Sa-en-6,Food,پیتزا,Persian script,1
+gpt-4.1,New-ha-07,Food,کباب,Persian script,1
+gpt-4.1,Ne-ar-39,Food,فلافل,Persian script,1
+gpt-4.1,New-ch-05,Food,دلمه فلفل سبز,Persian script,0
+gpt-4.1,New-as-02,Food,نان,Persian script,1
+gpt-4.1,New-pe-06,Food,قرمه‌سبزی,Persian script,0
+gpt-4.1,New-ch-04,Food,در ایران مردم معمولاً به عنوان میان وعده‌های دیر وقت غذاهایی مانند نان و پنیر و گردو، میوه، آجیل، شیر و کیک، تخم مرغ آب‌پز، لقمه‌های ساده مثل ساندویچ سرد، یا خوراکی‌هایی مثل آش یا سوپ سبک می‌خورند.,Persian script,1
+gpt-4.1,Na-ko-11,Food,تخمه، چیپس، پفک، آجیل، پاپ‌کورن.,Persian script,1
+gpt-4.1,New-su-15,Food,دوغ,Persian script,1
+gpt-4.1,New-ch-08,Food,زردچوبه,Persian script,1
+gpt-4.1,New-en-01,Food,پاسخ: پاپ‌کورن، چیپس، پفک، تخمه، نوشابه، آب‌میوه، شکلات، آلوچه و لواشک.,Persian script,1
+gpt-4.1,New-in-03,Food,کباب کوبیده,Persian script,1
+gpt-4.1,Ne-ar-34,Food,نان,Persian script,1
+gpt-4.1,Na-ko-07,Food,گوشت مرغ,Persian script,1
+gpt-4.1,Al-en-04,Food,هندوانه,Persian script,0
+gpt-4.1,New-as-15,Food,دوغ,Persian script,1
+gpt-4.1,Ki-pe-36,Food,غذای ایتالیا,Persian script,1
+gpt-4.1,New-pe-83,Holidays/Celebration/Leisure,پاسور (ورق‌بازی),Persian script,0
+gpt-4.1,Kik-in-15,Holidays/Celebration/Leisure,زنان معمولاً مانتو و شلوار رسمی یا لباس مجلسی ساده همراه با مقنعه یا روسری و گاهی روبند فارغ‌التحصیلی (گَون) می‌پوشند.,Persian script,1
+gpt-4.1,Na-ko-45,Holidays/Celebration/Leisure,کیش,Persian script,1
+gpt-4.1,Kik-in-07,Holidays/Celebration/Leisure,عیدی (پول نقد)، شیرینی، شکلات، و گاهی اسباب‌بازی.,Persian script,1
+gpt-4.1,New-gr-82,Holidays/Celebration/Leisure,موسیقی سنتی ایرانی,Persian script,1
+gpt-4.1,Na-ko-37,Holidays/Celebration/Leisure,شمال ایران (شهرهای مازندران و گیلان),Persian script,1
+gpt-4.1,Na-ko-40,Holidays/Celebration/Leisure,3,uncertain,1
+gpt-4.1,New-su-86,Holidays/Celebration/Leisure,کاخ سعدآباد,Persian script,0
+gpt-4.1,New-az-69,Holidays/Celebration/Leisure,عرق سگی,Persian script,1
+gpt-4.1,New-as-80,Holidays/Celebration/Leisure,مردم ایران در جشن‌های سنتی لباس‌های محلی و سنتی مخصوص هر منطقه را می‌پوشند که معمولاً شامل لباس‌های رنگارنگ، جلیقه، شال، دامن‌های چین‌دار، پیراهن‌های بلند و روسری یا کلاه‌های سنتی است.,Persian script,0
+gpt-4.1,New-ch-81,Holidays/Celebration/Leisure,در ایران، هدایای معمول برای جشن پاگشا معمولاً شامل پول نقد (اسکناس)، شیرینی، گل، یا وسایل تزئینی منزل مانند ظروف، رومیزی یا وسایل آشپزخانه است.,Persian script,1
+gpt-4.1,Jod-ch-30,Holidays/Celebration/Leisure,در ایران، بزرگترین جشن نوروز است و تزئینات یا نمادهای خاص آن شامل سفره هفت‌سین، سبزه، سمنو، سیب، سیر، سکه، سنجد، سماق، ماهی قرمز، آینه و شمع است.,Persian script,0
+gpt-4.1,New-su-81,Holidays/Celebration/Leisure,دامادها معمولاً در عروسی‌ها کت و شلوار یا تاکسیدو رسمی می‌پوشند.,Persian script,1
+gpt-4.1,Ne-ar-11,Holidays/Celebration/Leisure,مردم در ایران برای جشن گرفتن روز سال نو (نوروز) معمولاً به خانه اقوام و دوستان، پارک‌ها، طبیعت و اماکن تاریخی می‌روند.,Persian script,1
+gpt-4.1,Ta-pe-32,Holidays/Celebration/Leisure,چهارشنبه‌سوری,Persian script,0
+gpt-4.1,Na-ko-44,Holidays/Celebration/Leisure,روز سیزدهم فروردین (سیزده‌بدر),Persian script,0
+gpt-4.1,Ne-ar-06,Holidays/Celebration/Leisure,در ایران مردم در ماه رمضان غذاهایی مانند آش، حلیم، شله‌زرد، زولبیا و بامیه، سوپ، خورشت، نان و پنیر و سبزی، خرما، انواع پلو و خوراکی‌های سنتی دیگر مصرف می‌کنند.,Persian script,1
+gpt-4.1,New-pe-78,Holidays/Celebration/Leisure,جشنواره فیلم فجر,Persian script,1
+gpt-4.1,New-ch-79,Holidays/Celebration/Leisure,مردان بازنشسته معمولاً از پیاده‌روی، باغبانی، دیدار با دوستان، بازی شطرنج یا تخته، سفرهای کوتاه، مطالعه و تماشای تلویزیون لذت می‌برند.,Persian script,0
+gpt-4.1,Al-en-43,Holidays/Celebration/Leisure,تماشای فیلم یا سریال در خانه.,Persian script,0
+gpt-4.1,New-ch-82,Holidays/Celebration/Leisure,19:00,uncertain,1
+gpt-4.1,Na-ko-38,Holidays/Celebration/Leisure,طلا,Persian script,1
+gpt-4.1,Jod-ch-28,Holidays/Celebration/Leisure,اتوبوس,Persian script,1
+gpt-4.1,New-ch-80,Holidays/Celebration/Leisure,در ایام نوروز، ماه رمضان، محرم، اربعین و سایر تعطیلات مذهبی و ملی.,Persian script,1
+gpt-4.1,Ne-ar-05,Holidays/Celebration/Leisure,عید نوروز,Persian script,1
+gpt-4.1,New-en-87,Holidays/Celebration/Leisure,تخت جمشید,Persian script,1
+gpt-4.1,New-gr-89,Holidays/Celebration/Leisure,شربت,Persian script,1
+gpt-4.1,Jod-ch-41,Holidays/Celebration/Leisure,رفتن به کافه، خرید کردن، گردش با دوستان، سینما رفتن، ورزش کردن (مثل پیاده‌روی یا باشگاه)، سفرهای کوتاه و شرکت در دورهمی‌های دوستانه.,Persian script,1
+gpt-4.1,Jod-ch-42,Holidays/Celebration/Leisure,تماشای فوتبال,Persian script,0
+gpt-4.1,Ne-ar-14,Holidays/Celebration/Leisure,در خانه بزرگ‌تر خانواده یا خانه پدربزرگ و مادربزرگ جمع می‌شوند.,Persian script,1
+gpt-4.1,New-in-78,Holidays/Celebration/Leisure,کارت به کارت,Persian script,1
+gpt-4.1,Na-ko-42,Holidays/Celebration/Leisure,عدس‌پلو,Persian script,0
+gpt-4.1,Kik-in-04,Holidays/Celebration/Leisure,پرده سیاه,Persian script,0
+gpt-4.1,New-ch-84,Holidays/Celebration/Leisure,در ایران مردم معمولاً لباس‌هایی با رنگ‌های روشن و شاد مانند سفید، صورتی، آبی، طلایی یا سبز را هنگام شرکت در مراسم عروسی می‌پوشند.,Persian script,1
+gpt-4.1,New-as-76,Holidays/Celebration/Leisure,بازی‌هایی مانند هفت‌سنگ، وسطی، قایم‌موشک، گل یا پوچ، اسم و فامیل، الک دولک و تخته‌نرد.,Persian script,1
+gpt-4.1,Ca-sp-21,Holidays/Celebration/Leisure,4،5،6،7،8,Persian script,0
+gpt-4.1,New-spme-78,Holidays/Celebration/Leisure,تولدت مبارک,Persian script,1
+gpt-4.1,Al-en-40,Holidays/Celebration/Leisure,پارک‌ها,Persian script,1
+gpt-4.1,New-pe-76,Holidays/Celebration/Leisure,پیاده‌روی,Persian script,0
+gpt-4.1,New-am-81,Holidays/Celebration/Leisure,6,uncertain,1
+gpt-4.1,New-ch-83,Holidays/Celebration/Leisure,تهران,Persian script,1
+gpt-4.1,Al-en-39,Holidays/Celebration/Leisure,معمولاً کیک تولد، شیرینی، میوه، آجیل و گاهی غذاهای ساده مثل پیتزا یا ساندویچ.,Persian script,1
+gpt-4.1,Na-ko-43,Holidays/Celebration/Leisure,مردم در کشور من صبح روز عید نوروز خانه‌تکانی می‌کنند، لباس نو می‌پوشند، سفره هفت‌سین می‌چینند، به دیدار بزرگ‌ترها می‌روند و به یکدیگر تبریک می‌گویند.,Persian script,0
+gpt-4.1,Kik-in-01,Holidays/Celebration/Leisure,تعطیلات نوروز,Persian script,1
+gpt-4.1,Ta-pe-45,Holidays/Celebration/Leisure,هندوانه، انار، آجیل,Persian script,1
+gpt-4.1,New-en-76,Holidays/Celebration/Leisure,فرودگاه بین‌المللی مهرآباد تهران,Persian script,1
+gpt-4.1,New-pe-85,Holidays/Celebration/Leisure,ترکیه,Persian script,1
+gpt-4.1,New-am-83,Holidays/Celebration/Leisure,تار,Persian script,1
+gpt-4.1,Ta-pe-42,Holidays/Celebration/Leisure,سبزی پلو با ماهی,Persian script,1
+gpt-4.1,Ne-ar-10,Holidays/Celebration/Leisure,در ایران مردم در عید قربان معمولاً غذاهایی مانند خورشت قیمه، کباب، آبگوشت و غذاهای تهیه‌شده با گوشت قربانی می‌خورند.,Persian script,1
+gpt-4.1,New-su-77,Holidays/Celebration/Leisure,عیدی (پول),Persian script,1
+gpt-4.1,New-ko-07,Holidays/Celebration/Leisure,پارچه مشکی,Persian script,0
+gpt-4.1,Kik-in-11,Holidays/Celebration/Leisure,حرم امام رضا (مشهد)، حرم حضرت معصومه (قم)، کلیسای وانک (اصفهان)، معبد آناهیتا (کنگاور)، کلیسای سنت استپانوس (جلفا)، مسجد نصیرالملک (شیراز)، مسجد جامع اصفهان، مسجد شاهچراغ (شیراز)، آتشکده یزد.,Persian script,1
+gpt-4.1,New-en-79,Holidays/Celebration/Leisure,تئاتر شهر تهران,Persian script,1
+gpt-4.1,Kik-in-10,Holidays/Celebration/Leisure,پرسپولیس (تخت جمشید),Persian script,1
+gpt-4.1,New-in-80,Holidays/Celebration/Leisure,شهربازی ارم (پارک ارم),Persian script,1
+gpt-4.1,Na-ko-39,Holidays/Celebration/Leisure,پول نقد یا کارت هدیه,Persian script,1
+gpt-4.1,New-ch-85,Holidays/Celebration/Leisure,سیاه,Persian script,1
+gpt-4.1,New-pe-86,Holidays/Celebration/Leisure,برج میلاد,Persian script,1
+gpt-4.1,New-su-82,Holidays/Celebration/Leisure,عروس‌ها معمولاً لباس سفید عروس می‌پوشند.,Persian script,1
+gpt-4.1,Kik-in-45,Sport,توپ فوتبال، دروازه فوتبال، حلقه بسکتبال، تور والیبال، توپ والیبال، طناب، میز پینگ‌پنگ، تشک ژیمناستیک، و گاهی وسایل دو و میدانی.,Persian script,1
+gpt-4.1,Th-en-12,Sport,کشتی,Persian script,1
+gpt-4.1,Jo-sp-14,Sport,شطرنج,Persian script,1
+gpt-4.1,Na-ko-16,Sport,علی دایی,Persian script,1
+gpt-4.1,Jod-ch-38,Sport,در ایران مردان بیشتر دوست دارند فوتبال، کشتی و والیبال را تماشا کنند.,Persian script,1
+gpt-4.1,Na-ko-17,Sport,فوتبال، والیبال، بسکتبال، پینگ‌پنگ و گاهی دویدن یا کشتی.,Persian script,1
+gpt-4.1,New-ch-16,Sport,شیرجه بزرگ,Persian script,0
+gpt-4.1,New-ch-17,Sport,فوتبال,Persian script,0
+gpt-4.1,New-en-17,Sport,پرچم، شال، بوق، طبل، دستک، و بادکنک.,Persian script,1
+gpt-4.1,New-as-29,Sport,فوتبال,Persian script,1
+gpt-4.1,Na-ko-22,Sport,ایران,Persian script,0
+gpt-4.1,Jo-sp-09,Sport,اسب‌سواری، گلف، تنیس، اسکی، سوارکاری، اتومبیل‌رانی، شنا در استخرهای خصوصی، و ورزش‌های آبی لوکس.,Persian script,1
+gpt-4.1,New-az-21,Sport,دیزین,Persian script,1
+gpt-4.1,Th-en-09,Sport,جام جهانی فوتبال,Persian script,1
+gpt-4.1,Ta-pe-30,Sport,برنامه نود,Persian script,1
+gpt-4.1,Gu-ch-07,Sport,حامد حدادی,Persian script,1
+gpt-4.1,New-en-18,Sport,پرچم، شال، لباس تیم، بوق، طبل، کلاه، پوستر بازیکنان، صورت نقاشی‌شده، پلاکارد و دست‌نوشته حمایتی.,Persian script,1
+gpt-4.1,Na-ko-26,Sport,پیاده‌روی، کوهنوردی، شنا، والیبال، فوتبال، دوچرخه‌سواری و بدنسازی از ورزش‌های محبوب در بین جمعیت میانسال ایران هستند.,Persian script,1
+gpt-4.1,Th-en-11,Sport,علی دایی,Persian script,1
+gpt-4.1,Gu-ch-11,Sport,کشتی آزاد,Persian script,1
+gpt-4.1,New-su-28,Sport,سفید,Persian script,1
+gpt-4.1,Jo-sp-01,Sport,والیبال,Persian script,1
+gpt-4.1,An-ar-36,Sport,پرسپولیس,Persian script,1
+gpt-4.1,Jo-sp-02,Sport,کشتی,Persian script,1
+gpt-4.1,Ta-pe-17,Sport,فوتبال,Persian script,0
+gpt-4.1,New-en-23,Sport,سیامند رحمان,Persian script,1
+gpt-4.1,Na-ko-18,Sport,والیبال,Persian script,1
+gpt-4.1,New-gr-21,Sport,تنیس روی میز (پینگ پنگ),Persian script,1
+gpt-4.1,New-en-19,Sport,ورزشگاه آزادی,Persian script,1
+gpt-4.1,Jod-ch-37,Sport,در ایران، زنان بیشتر به تماشای ورزش‌هایی مانند والیبال، فوتبال، بسکتبال و ژیمناستیک علاقه دارند.,Persian script,1
+gpt-4.1,Ta-pe-25,Sport,پرسپولیس در مقابل استقلال,Persian script,1
+gpt-4.1,Sa-en-16,Sport,پرسپولیس,Persian script,1
+gpt-4.1,New-en-26,Sport,ایران، ایران، ایران!,Persian script,0
+gpt-4.1,New-su-21,Sport,پیاده‌روی، نرمش صبحگاهی، گفتگو با دوستان، بازی شطرنج یا تخته‌نرد، ورزش‌های سبک مانند حرکات کششی، تماشای طبیعت و نشستن روی نیمکت‌ها.,Persian script,1
+gpt-4.1,Gu-ch-09,Sport,در ایران زنان بیشتر به ورزش‌هایی مانند والیبال، بسکتبال، فوتسال، بدمینتون، تنیس، شنا، دو و میدانی و یوگا علاقه دارند.,Persian script,1
+gpt-4.1,Kik-in-31,Sport,تکواندو، کاراته، جودو، ووشو، کشتی، بوکس، کونگ‌فو.,Persian script,1
+gpt-4.1,Na-ko-23,Sport,در ایران کودکان بیشتر به آکادمی‌های فوتبال، ژیمناستیک، شنا و کاراته می‌روند.,Persian script,1
+gpt-4.1,New-az-26,Sport,امیرعلی اکبری,Persian script,0
+gpt-4.1,New-su-24,Sport,پیاده‌روی، دوچرخه‌سواری، فوتبال، والیبال، بدمینتون و کوهنوردی.,Persian script,1
+gpt-4.1,Gu-ch-15,Sport,فوتبال، فوتسال، والیبال، بسکتبال و بدنسازی.,Persian script,1
+gpt-4.1,Na-ko-24,Sport,ساندویچ کالباس,Persian script,1
+gpt-4.1,Kik-in-34,Sport,فوتبال، والیبال، کشتی، بسکتبال، وزنه‌برداری، و گاهی ورزش‌های رزمی.,Persian script,1
+gpt-4.1,Kik-in-36,Sport,علی پروین,Persian script,0
+gpt-4.1,Na-ko-20,Sport,فوتبال,Persian script,1
+gpt-4.1,New-am-27,Sport,الهه منصوریان,Persian script,1
+gpt-4.1,New-as-30,Sport,فوتبال,Persian script,1
+gpt-4.1,New-pe-16,Sport,زورخانه‌ای (یا ورزش زورخانه‌ای),Persian script,0
+gpt-4.1,Jo-sp-13,Sport,شنا,Persian script,1
+gpt-4.1,An-ar-35,Sport,عادل فردوسی‌پور,Persian script,1
+gpt-4.1,New-pe-20,Sport,والیبال ساحلی,Persian script,1
+gpt-4.1,Ta-pe-23,Sport,پیاده‌روی,Persian script,0
+gpt-4.1,Ta-pe-22,Sport,پیاده‌روی,Persian script,0
+gpt-4.1,Kik-in-37,Sport,پرسپولیس در مقابل استقلال,Persian script,1
+gpt-4.1,New-ha-19,Sport,اسب,Persian script,1
+gpt-4.1,Kik-in-38,Sport,پرسپولیسی‌ها در مقابل استقلالی‌ها,Persian script,0
+gpt-4.1,Th-en-03,Sport,لیگ برتر فوتبال ایران (لیگ خلیج فارس),Persian script,1
+gpt-4.1,An-ar-43,Sport,افراد معمولاً در خانه، کافه‌ها، رستوران‌ها، باشگاه‌های ورزشی و گاهی در سالن‌های اجتماعات یا ورزشگاه‌ها برای تماشای برنامه‌های ورزشی جمع می‌شوند.,Persian script,1
+gpt-4.1,New-su-17,Sport,وسایل بدنسازی، زمین بازی کودکان، زمین فوتبال یا والیبال، میز پینگ‌پنگ، مسیر پیاده‌روی و دوچرخه‌سواری.,Persian script,1
+gpt-4.1,New-ch-23,Sport,نیما عالمیان,Persian script,1
+gpt-4.1,Na-ko-30,Sport,"محبوب‌ترین بازی کامپیوتری در ایران بازی ""فیفا"" است.",Persian script,1
+gpt-4.1,Kik-in-35,Sport,پیاده‌روی، دویدن، دوچرخه‌سواری، ورزش‌های خانگی مانند ایروبیک و یوگا.,Persian script,1
+gpt-4.1,New-en-75,Education,16,uncertain,1
+gpt-4.1,New-en-72,Education,دانش‌آموزان در ایران معمولاً از منابع آنلاینی مانند گاما، فرادرس، آلا، دیجی‌درس، آپارات، تلگرام، شاد و سایت‌های آموزشی مختلف برای درس خواندن استفاده می‌کنند.,Persian script,1
+gpt-4.1,An-ar-02,Education,دانشجویان دانشگاه در ایران معمولاً در سلف سرویس (سلف) دانشگاه ناهار می‌خورند.,Persian script,1
+gpt-4.1,New-ch-66,Education,۰,Persian script,0
+gpt-4.1,Ki-pe-24,Education,عربی، فرانسوی، آلمانی، روسی، ایتالیایی، اسپانیایی، چینی، ژاپنی,Persian script,1
+gpt-4.1,New-ch-73,Education,باشگاه‌های ورزشی، باشگاه‌های علمی و پژوهشی، باشگاه‌های فرهنگی و هنری، و باشگاه‌های کارآفرینی و استارتاپی بین دانشجویان دانشگاه‌های ایران محبوب‌تر هستند.,Persian script,0
+gpt-4.1,Ji-ko-44,Education,منطقه ۱ تهران (به ویژه حوالی دانشگاه تهران و خیابان انقلاب),Persian script,1
+gpt-4.1,New-en-70,Education,4,uncertain,0
+gpt-4.1,Al-en-16,Education,۵ یا ۶,Persian script,0
+gpt-4.1,New-in-62,Education,دانشگاه صنعتی شریف,Persian script,1
+gpt-4.1,New-su-33,Education,نوع لباس پوشیدن برای معلمان مدارس در ایران معمولاً رسمی و پوشیده است؛ معلمان مرد معمولاً پیراهن آستین‌دار و شلوار پارچه‌ای و کفش رسمی می‌پوشند و معلمان زن مانتو و شلوار یا چادر و روسری یا مقنعه استفاده می‌کنند.,Persian script,1
+gpt-4.1,Gu-ch-31,Education,6,uncertain,1
+gpt-4.1,Jo-sp-36,Education,۱۳,Persian script,0
+gpt-4.1,Ji-ko-36,Education,ریاضی و زبان انگلیسی,Persian script,1
+gpt-4.1,Jo-sp-31,Education,14:00,uncertain,1
+gpt-4.1,New-ch-71,Education,۳۰,Persian script,0
+gpt-4.1,New-en-69,Education,در کشور من، معمولا آثار نویسندگانی مانند سعدی، حافظ، فردوسی، مولوی، نظامی، خیام، صادق هدایت، جلال آل احمد، سیمین دانشور و نیما یوشیج در کلاس ادبیات مطالعه می‌شوند.,Persian script,1
+gpt-4.1,Th-en-58,Education,حسابان ۲,Persian script,1
+gpt-4.1,Jo-sp-32,Education,فوتبال,Persian script,1
+gpt-4.1,New-in-63,Education,دانشگاه علوم پزشکی تهران,Persian script,1
+gpt-4.1,Nu-in-11,Education,08:00,uncertain,1
+gpt-4.1,Ni-en-12,Education,دانشگاه تهران,Persian script,1
+gpt-4.1,Ni-en-06,Education,6,uncertain,1
+gpt-4.1,Ji-ko-34,Education,دانش‌آموزان دبستانی در ایران معمولاً پیاده، با سرویس مدرسه، یا با همراهی والدین با خودرو شخصی به مدرسه می‌روند.,Persian script,1
+gpt-4.1,New-ch-75,Education,45,uncertain,0
+gpt-4.1,Gu-ch-40,Education,13:00,uncertain,1
+gpt-4.1,Tmp-ar-04,Education,دانش‌آموزان دبستانی در ایران معمولاً بعد از مدرسه تکالیف خود را انجام می‌دهند، استراحت می‌کنند، تلویزیون تماشا می‌کنند، با دوستان یا خانواده بازی می‌کنند و گاهی در کلاس‌های فوق‌برنامه یا آموزشی شرکت می‌کنند.,Persian script,1
+gpt-4.1,New-ch-70,Education,دروس معارف اسلامی، زبان فارسی، زبان انگلیسی عمومی، تربیت بدنی، و انقلاب اسلامی و دفاع مقدس.,Persian script,1
+gpt-4.1,Gu-ch-33,Education,8,uncertain,0
+gpt-4.1,New-pe-74,Education,میانگین شهریه سالانه دانشگاه‌های دولتی در ایران (برای دوره‌های شبانه یا نوبت دوم) حدود ۱۰ تا ۳۰ میلیون تومان است.,Persian script,0
+gpt-4.1,New-ch-74,Education,در خوابگاه‌ها.,Persian script,1
+gpt-4.1,An-ar-03,Education,3,uncertain,1
+gpt-4.1,Ni-en-02,Education,14:00,uncertain,1
+gpt-4.1,Th-en-48,Education,۲۰,Persian script,0
+gpt-4.1,New-pe-66,Education,ورزش (به‌ویژه فوتبال),Persian script,0
+gpt-4.1,Ji-ko-40,Education,دانش‌آموزان دبیرستانی در ایران معمولاً در زنگ تفریح با دوستان خود صحبت می‌کنند، خوراکی می‌خورند، قدم می‌زنند، بازی می‌کنند یا استراحت می‌کنند.,Persian script,1
+gpt-4.1,Jo-sp-43,Education,2,uncertain,1
+gpt-4.1,New-am-41,Education,پایه نهم,Persian script,0
+gpt-4.1,New-ch-72,Education,رشته‌های علوم پزشکی (مانند پزشکی، پرستاری و داروسازی) بیشترین امکان اشتغال را در ایران فراهم می‌آورند.,Persian script,1
+gpt-4.1,Nu-in-06,Education,05/02,uncertain,0
+gpt-4.1,New-spme-27,Education,دیپلم,Persian script,1
+gpt-4.1,Tmp-ar-02,Education,اتوبوس,Persian script,1
+gpt-4.1,Ni-en-15,Education,۱۲,Persian script,0
+gpt-4.1,Al-en-21,Education,ریاضی,Persian script,1
+gpt-4.1,New-ch-64,Education,۱۵-۲۰,Persian script,0
+gpt-4.1,Ji-ko-35,Education,تدریس خصوصی دروس مدرسه (به‌ویژه ریاضی و زبان انگلیسی),Persian script,0
+gpt-4.1,Ni-en-11,Education,2,uncertain,1
+gpt-4.1,Ji-ko-42,Education,ادبیات فارسی، زبان عربی، دین و زندگی، زبان انگلیسی، ریاضیات (برای برخی رشته‌ها)، علوم تجربی (برای گروه تجربی)، علوم انسانی (برای گروه انسانی)، و دروس تخصصی مربوط به هر گروه آزمایشی.,Persian script,1
+gpt-4.1,Ki-pe-30,Education,در ایران مدارس معمولاً روزهای پنج‌شنبه و جمعه تعطیل هستند.,Persian script,1
+gpt-4.1,Gu-ch-38,Education,۴,Persian script,0
+gpt-4.1,Nu-in-05,Education,۶,Persian script,0
+gpt-4.1,An-ar-09,Education,2,uncertain,1
+gpt-4.1,New-en-68,Education,عواقب رفتار بد در مدارس ایران می‌تواند شامل تذکر شفاهی، اخطار کتبی، اطلاع به والدین، کسر نمره انضباط، محرومیت موقت از حضور در کلاس، انتقال به مدرسه دیگر و در موارد شدید اخراج از مدرسه باشد.,Persian script,1
+gpt-4.1,New-spme-37,Education,مهندسی، پزشکی، علوم کامپیوتر، مدیریت، و علوم پایه.,Persian script,1
+gpt-4.1,New-pe-65,Education,۱۲,Persian script,0
+gpt-4.1,Gu-ch-41,Education,۱,Persian script,0
+gpt-4.1,Ni-en-09,Education,6,uncertain,1
+gpt-4.1,Ji-ko-31,Education,در خانه یا کتابخانه.,Persian script,1
+gpt-4.1,Ni-en-13,Education,۲۲,Persian script,0
+gpt-4.1,New-am-34,Education,در خانه,Persian script,1
+gpt-4.1,New-su-45,Education,05/02,uncertain,0
+gpt-4.1,Ki-pe-17,Education,دبیرستان,Persian script,1
+gpt-4.1,Al-en-19,Education,انگلیسی,Persian script,1
+gpt-4.1,Jo-sp-39,Education,6,uncertain,1
+gpt-4.1,Th-en-49,Education,کنکور سراسری,Persian script,1
+gpt-4.1,Jo-sp-21,Work life,13:00,uncertain,1
+gpt-4.1,Jo-sp-18,Work life,۵۲,Persian script,0
+gpt-4.1,Ne-ar-18,Work life,17:00,uncertain,1
+gpt-4.1,Ji-ko-15,Work life,1.5,uncertain,1
+gpt-4.1,Ni-en-19,Work life,5,uncertain,1
+gpt-4.1,New-ch-38,Work life,بندرعباس، بوشهر، خرمشهر، آبادان، چابهار، مرز بازرگان، مرز دوغارون، منطقه آزاد کیش، منطقه آزاد قشم، منطقه آزاد اروند.,Persian script,1
+gpt-4.1,New-gr-58,Work life,کارگری ساختمانی,Persian script,1
+gpt-4.1,New-ko-08,Work life,دانشجویان دانشگاه در ایران بیشتر در کافی‌شاپ‌ها، رستوران‌ها، آموزشگاه‌های خصوصی، فروشگاه‌ها، شرکت‌های استارتاپی و به عنوان معلم خصوصی به کار پاره وقت می‌پردازند.,Persian script,0
+gpt-4.1,Ji-ko-02,Work life,چهارشنبه‌ها,Persian script,0
+gpt-4.1,Th-en-24,Work life,تهران,Persian script,1
+gpt-4.1,Jod-ch-60,Work life,8,uncertain,1
+gpt-4.1,New-su-51,Work life,ماهیگیری و فعالیت‌های مرتبط با دریا,Persian script,1
+gpt-4.1,Ki-pe-53,Work life,08:00,uncertain,1
+gpt-4.1,Th-en-27,Work life,نفت و گاز,Persian script,1
+gpt-4.1,Ni-en-17,Work life,44,uncertain,1
+gpt-4.1,Th-en-21,Work life,بیمه درمانی,Persian script,1
+gpt-4.1,New-su-60,Work life,کشاورزان در ایران معمولاً برای ناهار غذاهایی مانند نان، پنیر، سبزی، ماست، تخم‌مرغ، خورشت‌هایی مثل قورمه‌سبزی یا قیمه، آبگوشت و گاهی کباب یا عدسی می‌خورند.,Persian script,1
+gpt-4.1,New-ch-32,Work life,در ایران مردم معمولاً از نرم‌افزارهای Microsoft Office (مانند Word، Excel، PowerPoint)، نرم‌افزارهای اتوماسیون اداری داخلی (مانند دیدگاه، فراگستر، چارگون)، و گاهی Google Workspace استفاده می‌کنند.,mixed,1
+gpt-4.1,Ne-ar-26,Work life,شرکت ملی نفت ایران,Persian script,1
+gpt-4.1,Ji-ko-03,Work life,تهران,Persian script,1
+gpt-4.1,Jod-ch-50,Work life,۳۵,Persian script,0
+gpt-4.1,New-en-38,Work life,صنایع فناوری اطلاعات، استارتاپ‌ها، تبلیغات و رسانه، آموزش آنلاین، و برخی مشاغل هنری و فریلنسری.,Persian script,0
+gpt-4.1,New-in-33,Work life,استان کرمان,Persian script,1
+gpt-4.1,New-su-57,Work life,گاو,Persian script,1
+gpt-4.1,Ne-ar-17,Work life,08:00,uncertain,1
+gpt-4.1,New-pe-45,Work life,در ایران، در ماه رمضان ساعات کاری ادارات و مدارس معمولاً کاهش می‌یابد و کارها اغلب از صبح زودتر آغاز شده و زودتر از روزهای عادی پایان می‌یابد تا افراد بتوانند راحت‌تر روزه بگیرند.,Persian script,0
+gpt-4.1,New-su-58,Work life,گاو، گاومیش، الاغ، اسب، شتر.,Persian script,1
+gpt-4.1,New-ko-10,Work life,فروشندگی، رانندگی تاکسی اینترنتی (اسنپ و تپسی)، تدریس خصوصی، فعالیت در بازار بورس و ارز دیجیتال، تولید محتوا و مدیریت صفحات مجازی، مشاغل فریلنسری (مانند طراحی گرافیک و ترجمه)، و کارهای خدماتی مانند آرایشگری و تعمیرات.,Persian script,1
+gpt-4.1,New-am-54,Work life,استان چهارمحال و بختیاری,Persian script,0
+gpt-4.1,Jod-ch-57,Work life,60,uncertain,1
+gpt-4.1,New-ch-31,Work life,پزشکی,Persian script,1
+gpt-4.1,Ne-ar-16,Work life,پنج‌شنبه و جمعه,Persian script,1
+gpt-4.1,New-am-60,Work life,اسب، شتر، الاغ,Persian script,1
+gpt-4.1,New-as-58,Work life,چای,Persian script,1
+gpt-4.1,Jo-sp-19,Work life,دشت خوزستان,Persian script,1
+gpt-4.1,Ji-ko-07,Work life,اسنپ,Persian script,0
+gpt-4.1,New-in-34,Work life,خوزستان,Persian script,0
+gpt-4.1,Jod-ch-58,Work life,پزشکی,Persian script,1
+gpt-4.1,Ne-ar-25,Work life,صنعت نفت و گاز,Persian script,1
+gpt-4.1,New-am-53,Work life,شهر لاهیجان در استان گیلان,Persian script,1
+gpt-4.1,Jod-ch-48,Work life,در ایران، مردم در طول روزهای کاری معمولاً برای ناهار غذاهایی مانند چلوکباب، قرمه‌سبزی، قیمه، عدس‌پلو، لوبیاپلو، خوراک مرغ، کوکو سبزی، کتلت، یا ساندویچ‌هایی مثل فلافل و کباب لقمه می‌خورند.,Persian script,1
+gpt-4.1,Jod-ch-61,Work life,معلمی,Persian script,1
+gpt-4.1,Jod-ch-62,Work life,شغل‌های مهندسی و پزشکی.,Persian script,1
+gpt-4.1,Nu-in-40,Work life,تهران,Persian script,1
+gpt-4.1,New-su-59,Work life,کلاه حصیری و لباس‌های نخی و گشاد,Persian script,1
+gpt-4.1,New-gr-47,Work life,۱۵,Persian script,0
+gpt-4.1,Ji-ko-14,Work life,فرش,Persian script,1
+gpt-4.1,Th-en-22,Work life,دهه ۱۳۹۰ (۱۳۹۰ تا ۱۴۰۰),Persian script,0
+gpt-4.1,New-spme-60,Family,جمعه,Persian script,1
+gpt-4.1,New-ko-04,Family,ماشین‌های اسباب‌بازی، لگو، تفنگ‌های اسباب‌بازی، ربات‌ها و توپ فوتبال.,Persian script,1
+gpt-4.1,New-ha-66,Family,باغ تالارهای تهران,Persian script,1
+gpt-4.1,Ji-ko-24,Family,پارک‌ها، شهربازی‌ها، زمین‌های بازی، مراکز تفریحی سرپوشیده، و استخرهای شنا.,Persian script,1
+gpt-4.1,Ji-ko-25,Family,روز مادر، روز پدر، روز دختر، روز پسر، عید نوروز,Persian script,0
+gpt-4.1,New-ch-51,Family,هتل یا ویلا,Persian script,1
+gpt-4.1,New-en-47,Family,درخت، گل، سبزه، حوض، باغچه، صندلی، تاب، آلاچیق.,Persian script,0
+gpt-4.1,New-spme-68,Family,نوشابه,Persian script,0
+gpt-4.1,New-am-74,Family,خندوانه,Persian script,0
+gpt-4.1,New-en-49,Family,خانواده فاطمی,Persian script,0
+gpt-4.1,Th-en-44,Family,چلوکباب,Persian script,1
+gpt-4.1,New-en-56,Family,ترکی آذربایجانی,Persian script,1
+gpt-4.1,New-spme-65,Family,برگزاری مراسم رسمی، آذین‌بندی شهرها و شرکت در راهپیمایی‌ها.,Persian script,1
+gpt-4.1,Gu-ch-16,Family,3.3,uncertain,1
+gpt-4.1,New-ch-54,Family,سیب,Persian script,1
+gpt-4.1,Ca-sp-43,Family,2,uncertain,1
+gpt-4.1,Ca-sp-45,Family,شمال کشور (شهرهای ساحلی دریای خزر مانند رامسر، چالوس، انزلی),Persian script,1
+gpt-4.1,New-az-60,Family,معمولاً پدربزرگ و مادربزرگ، سایر اعضای خانواده، یا پرستار کودک از بچه‌ها مراقبت می‌کنند و گاهی هم بچه‌ها به مهدکودک سپرده می‌شوند.,Persian script,1
+gpt-4.1,New-ko-05,Family,عروسک‌ها، ست لوازم آشپزخانه، اسباب‌بازی‌های خانه‌داری، لگو و پازل، لوازم آرایشی اسباب‌بازی.,Persian script,1
+gpt-4.1,Ca-sp-42,Family,26,uncertain,1
+gpt-4.1,Ca-sp-38,Family,خانهٔ آپارتمانی یا خانهٔ ویلایی.,Persian script,1
+gpt-4.1,New-pe-49,Family,در مسجد.,Persian script,1
+gpt-4.1,New-ko-01,Family,کارتون باب اسفنجی,Persian script,1
+gpt-4.1,Ji-ko-22,Family,معمولاً اولین حقوق خود را صرف خرید پوشاک، لوازم شخصی، هدیه برای خانواده یا پس‌انداز می‌کنند.,Persian script,0
+gpt-4.1,Sa-en-31,Family,سگ و گربه,Persian script,1
+gpt-4.1,New-su-71,Family,در ایران والدین معمولاً برای تولد فرزندانشان هدایایی مانند اسباب‌بازی، لباس، پول، کتاب، لوازم تحریر، وسایل الکترونیکی یا زیورآلات می‌دهند.,Persian script,1
+gpt-4.1,Th-en-39,Family,اسم‌فامیل,Persian script,0
+gpt-4.1,Th-en-38,Family,عید نوروز,Persian script,1
+gpt-4.1,Ca-sp-41,Family,در خانه فرزندان یا خانواده خود زندگی می‌کنند.,Persian script,1
+gpt-4.1,Nu-in-20,Family,10/08,uncertain,0
+gpt-4.1,New-en-59,Family,کانادا,Persian script,1
+gpt-4.1,Sa-en-32,Family,خندوانه,Persian script,1
+gpt-4.1,Ta-pe-13,Family,۵,Persian script,0
+gpt-4.1,Th-en-43,Family,1,uncertain,1
+gpt-4.1,Th-en-37,Family,۱۸-۲۵,Persian script,0
+gpt-4.1,New-en-50,Family,محمدی,Persian script,1
+gpt-4.1,New-as-64,Family,عید نوروز,Persian script,1
+gpt-4.1,Th-en-36,Family,رفتن به پارک و پیک‌نیک کردن,Persian script,1
+gpt-4.1,Th-en-41,Family,۲۸,Persian script,0
+gpt-4.1,Ji-ko-19,Family,رز,Persian script,1
+gpt-4.1,Th-en-45,Family,تماشای تلویزیون,Persian script,1
+gpt-4.1,Gu-ch-18,Family,۲,Persian script,0
+gpt-4.1,Ji-ko-16,Family,در بیمارستان یا منزل.,Persian script,1
+gpt-4.1,New-as-14,Food,آش، سوپ، عدسی، لوبیا، کله‌پاچه، حلیم، املت، و خوراک‌های گرم مثل خورشت قیمه یا قرمه‌سبزی.,Persian script,1
+gpt-4.1,Ki-pe-34,Food,چای,Persian script,1
+gpt-4.1,New-su-01,Food,پفک، چیپس، لواشک، آلوچه، یخمک، بستنی، شکلات، آدامس، تخمه، بیسکویت، کیک، پاستیل.,Persian script,1
+gpt-4.1,Sa-en-13,Food,کله‌پاچه,Persian script,0
+gpt-4.1,New-gr-05,Food,نیمرو,Persian script,0
+gpt-4.1,New-gr-13,Food,چای,Persian script,1
+gpt-4.1,Ki-pe-40,Food,کالاپـاچه,Persian script,0
+gpt-4.1,New-spme-05,Food,باقلوا، زولبیا و بامیه، گز، سوهان، قطاب، پشمک، مسقطی، نان برنجی، نان نخودچی، شیرینی یزدی.,Persian script,1
+gpt-4.1,New-pe-02,Food,گز اصفهان,Persian script,1
+gpt-4.1,Jod-ch-07,Food,1.5,uncertain,1
+gpt-4.1,New-ch-09,Food,آش، سوپ، حلیم، شله‌زرد، عدسی، کله‌پاچه، آبگوشت، خوراک لوبیا، و آش رشته.,Persian script,1
+gpt-4.1,Al-en-06,Food,کتلت,Persian script,0

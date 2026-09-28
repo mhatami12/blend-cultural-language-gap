@@ -1,0 +1,509 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+Al-en-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,elma dilimleri,2,False,elma dilimleri,Elma dilimleri,STOP,gemini-3.5-flash-lite
+Al-en-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,snacks,0,qург,45,True,"qург (gurza) / smoked fish (qızardılmış balıq) / qurut (depending on region, but commonly) / chechil cheese (chor-chor) / dushbara. 
+
+*(most popularly in baku beer houses: **smoked fish** or **crayfish** / **rakı** style snacks).* 
+
+let's give the most direct, common one: **smoked fish** (or **fish**)","Qург (Gurza) / Smoked fish (Qızardılmış balıq) / Qurut (depending on region, but commonly) / Chechil cheese (Chor-chor) / Dushbara. 
+
+*(Most popularly in Baku beer houses: **Smoked fish** or **Crayfish** / **Rakı** style snacks).* 
+
+Let's give the most direct, common one: **Smoked fish** (or **Fish**).",STOP,gemini-3.5-flash-lite
+Al-en-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Al-en-06,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Al-en-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,simit,1,False,simit,Simit,STOP,gemini-3.5-flash-lite
+Al-en-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dondurma,1,False,dondurma,Dondurma,STOP,gemini-3.5-flash-lite
+Al-en-16,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+Al-en-17,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Al-en-18,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+Al-en-19,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,russian,1,russian,1,False,russian,Russian,STOP,gemini-3.5-flash-lite
+Al-en-21,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+Al-en-32,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,thanksgiving is not a traditional holiday in azerbaijan,16,True,"thanksgiving is not a traditional holiday in azerbaijan, so there is no main dish for it","Thanksgiving is not a traditional holiday in Azerbaijan, so there is no main dish for it.",STOP,gemini-3.5-flash-lite
+Al-en-33,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,not widely celebrated,3,False,not widely celebrated,Not widely celebrated,STOP,gemini-3.5-flash-lite
+Al-en-34,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,feast,1,False,feast,Feast,STOP,gemini-3.5-flash-lite
+Al-en-35,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,because christmas is not a major public holiday in predominantly secular azerbaijan,44,True,"because christmas (celebrated on january 7th according to the orthodox calendar) is not a major public holiday in predominantly secular azerbaijan, the local population primarily celebrates the new year with festive decorations, family gatherings, and gift-giving, while the small christian minority attends church services","Because Christmas (celebrated on January 7th according to the Orthodox calendar) is not a major public holiday in predominantly secular Azerbaijan, the local population primarily celebrates the New Year with festive decorations, family gatherings, and gift-giving, while the small Christian minority attends church services.",STOP,gemini-3.5-flash-lite
+Al-en-36,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,pumpkin,1,False,pumpkin,Pumpkin,STOP,gemini-3.5-flash-lite
+Al-en-37,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Al-en-38,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz gogali,2,False,novruz gogali,Novruz gogali,STOP,gemini-3.5-flash-lite
+Al-en-39,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,cake,1,birthday cake,2,False,birthday cake,Birthday cake,STOP,gemini-3.5-flash-lite
+Al-en-40,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,boulevard,1,baku boulevard,2,False,baku boulevard,Baku Boulevard,STOP,gemini-3.5-flash-lite
+Al-en-43,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea drinking,2,False,tea drinking,Tea drinking,STOP,gemini-3.5-flash-lite
+An-ar-02,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,university cafeteria,1,university cafeterias,2,False,university cafeterias,University cafeterias,STOP,gemini-3.5-flash-lite
+An-ar-03,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+An-ar-08,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+An-ar-09,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+An-ar-34,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+An-ar-35,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,elnur mammadli,2,False,elnur mammadli,Elnur Mammadli,STOP,gemini-3.5-flash-lite
+An-ar-36,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,qarabağ fk,2,False,qarabağ fk,Qarabağ FK,STOP,gemini-3.5-flash-lite
+An-ar-43,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,teahouse,1,teahouses,2,False,teahouses (chaikhana),Teahouses (Chaikhana),STOP,gemini-3.5-flash-lite
+Ca-sp-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+Ca-sp-06,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,lunch,1,False,lunch,Lunch,STOP,gemini-3.5-flash-lite
+Ca-sp-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+Ca-sp-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,baklava,1,baklava,1,False,baklava,Baklava,STOP,gemini-3.5-flash-lite
+Ca-sp-11,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,sunday,1,sunday,1,False,sunday,Sunday,STOP,gemini-3.5-flash-lite
+Ca-sp-14,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Ca-sp-19,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,alcohol,1,False,alcohol,Alcohol,STOP,gemini-3.5-flash-lite
+Ca-sp-21,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,7,1,7,1,False,7,7,STOP,gemini-3.5-flash-lite
+Ca-sp-29,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,making wishes,2,False,making wishes,Making wishes,STOP,gemini-3.5-flash-lite
+Ca-sp-38,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,apartment,1,apartment,1,False,apartment,Apartment,STOP,gemini-3.5-flash-lite
+Ca-sp-41,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,with their family,1,with their families,3,False,with their families,With their families,STOP,gemini-3.5-flash-lite
+Ca-sp-42,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,18,1,18,1,False,18,18,STOP,gemini-3.5-flash-lite
+Ca-sp-43,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Ca-sp-45,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,resort,1,False,resort,Resort,STOP,gemini-3.5-flash-lite
+Gu-ch-05,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,chess,1,False,chess,Chess,STOP,gemini-3.5-flash-lite
+Gu-ch-06,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Gu-ch-07,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,turgut bayramov,2,False,turgut bayramov,Turgut Bayramov,STOP,gemini-3.5-flash-lite
+Gu-ch-08,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Gu-ch-09,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,STOP,gemini-3.5-flash-lite
+Gu-ch-11,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Gu-ch-15,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Gu-ch-16,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,4,1,3.4,1,False,3.4,3.4,STOP,gemini-3.5-flash-lite
+Gu-ch-18,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Gu-ch-31,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,4,1,4,1,False,4,4,STOP,gemini-3.5-flash-lite
+Gu-ch-32,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,9,1,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+Gu-ch-33,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+Gu-ch-38,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,4,1,4,1,False,4,4,STOP,gemini-3.5-flash-lite
+Gu-ch-40,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Gu-ch-41,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Ji-ko-02,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+Ji-ko-03,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+Ji-ko-07,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,socar*,1,False,socar*,SOCAR*,STOP,gemini-3.5-flash-lite
+Ji-ko-08,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,40,1,40,1,False,40,40,STOP,gemini-3.5-flash-lite
+Ji-ko-09,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kebabs,1,False,kebabs,Kebabs,STOP,gemini-3.5-flash-lite
+Ji-ko-14,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,oil,1,crude oil,2,False,crude oil,Crude oil,STOP,gemini-3.5-flash-lite
+Ji-ko-15,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Ji-ko-16,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,home,1,mother's home,2,False,mother's home,Mother's home,STOP,gemini-3.5-flash-lite
+Ji-ko-19,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,carnation,1,False,carnation,Carnation,STOP,gemini-3.5-flash-lite
+Ji-ko-22,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,gifts,1,False,gifts,Gifts,STOP,gemini-3.5-flash-lite
+Ji-ko-24,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,amusement parks,2,False,amusement parks,Amusement parks,STOP,gemini-3.5-flash-lite
+Ji-ko-25,Family,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,republic day,2,False,republic day,Republic Day,STOP,gemini-3.5-flash-lite
+Ji-ko-26,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,marriage,1,marriage and employment,3,False,marriage and employment,Marriage and employment,STOP,gemini-3.5-flash-lite
+Ji-ko-27,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Ji-ko-28,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,chilla,1,False,chilla,Chilla,STOP,gemini-3.5-flash-lite
+Ji-ko-29,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,18,1,18th,1,False,18th,18th,STOP,gemini-3.5-flash-lite
+Ji-ko-31,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tutoring centers,2,False,tutoring centers,Tutoring centers,STOP,gemini-3.5-flash-lite
+Ji-ko-33,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,cafe,1,False,cafe,Cafe,STOP,gemini-3.5-flash-lite
+Ji-ko-34,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,walk,1,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+Ji-ko-35,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tutoring,1,False,tutoring,Tutoring,STOP,gemini-3.5-flash-lite
+Ji-ko-36,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+Ji-ko-37,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,uniform,1,False,uniform,Uniform,STOP,gemini-3.5-flash-lite
+Ji-ko-38,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,medicine,0,information technology and data analytics,9,True,information technology and data analytics (or it) / medicine,Information Technology and Data Analytics (or IT) / Medicine,STOP,gemini-3.5-flash-lite
+Ji-ko-39,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,saz,1,False,saz,Saz,STOP,gemini-3.5-flash-lite
+Ji-ko-40,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,socialize,1,False,socialize,Socialize,STOP,gemini-3.5-flash-lite
+Ji-ko-41,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,uniform shoes,2,False,uniform shoes,Uniform shoes,STOP,gemini-3.5-flash-lite
+Ji-ko-42,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,6,True,"mathematics, azerbaijani language, and foreign language","Mathematics, Azerbaijani Language, and Foreign Language",STOP,gemini-3.5-flash-lite
+Ji-ko-44,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,elmler akademiyasi,2,False,elmler akademiyasi,Elmler Akademiyasi,STOP,gemini-3.5-flash-lite
+Ji-ko-45,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,concerts,1,False,concerts,Concerts,STOP,gemini-3.5-flash-lite
+Jo-sp-01,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,chess,1,chess,1,False,chess,Chess,STOP,gemini-3.5-flash-lite
+Jo-sp-02,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Jo-sp-09,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,polo,1,False,polo,Polo,STOP,gemini-3.5-flash-lite
+Jo-sp-13,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kiteboarding,1,False,kiteboarding,Kiteboarding,STOP,gemini-3.5-flash-lite
+Jo-sp-14,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,chess,1,chess,1,False,chess,Chess,STOP,gemini-3.5-flash-lite
+Jo-sp-18,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Jo-sp-19,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,mugan,1,False,mugan,Mugan,STOP,gemini-3.5-flash-lite
+Jo-sp-21,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Jo-sp-31,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,15:00,1,15:00,1,False,15:00,15:00,STOP,gemini-3.5-flash-lite
+Jo-sp-32,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,association football,2,False,association football,Association football,STOP,gemini-3.5-flash-lite
+Jo-sp-36,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Jo-sp-37,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,10,1,False,10,10,STOP,gemini-3.5-flash-lite
+Jo-sp-39,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Jo-sp-43,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Jod-ch-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,spoon,1,fork,4,True,"fork, knife, and spoon","Fork, knife, and spoon",STOP,gemini-3.5-flash-lite
+Jod-ch-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Jod-ch-06,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,vodka,1,vodka,1,False,vodka,Vodka,STOP,gemini-3.5-flash-lite
+Jod-ch-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,1,1,1.5,1,False,1.5,1.5,STOP,gemini-3.5-flash-lite
+Jod-ch-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,20:00,1,False,20:00,20:00,STOP,gemini-3.5-flash-lite
+Jod-ch-12,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dovga,1,False,dovga,Dovga,STOP,gemini-3.5-flash-lite
+Jod-ch-13,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,qutab,1,False,qutab,Qutab,STOP,gemini-3.5-flash-lite
+Jod-ch-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,sturgeon,1,False,sturgeon,Sturgeon,STOP,gemini-3.5-flash-lite
+Jod-ch-16,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+Jod-ch-28,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,bus,1,bus,1,False,bus,Bus,STOP,gemini-3.5-flash-lite
+Jod-ch-30,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz gully,3,False,novruz gully (semeni),Novruz gully (Semeni),STOP,gemini-3.5-flash-lite
+Jod-ch-37,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Jod-ch-38,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Jod-ch-41,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,social media browsing,3,False,social media browsing,Social media browsing,STOP,gemini-3.5-flash-lite
+Jod-ch-42,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,soccer,1,False,soccer,Soccer,STOP,gemini-3.5-flash-lite
+Jod-ch-46,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,0,1,1.0,1,False,1.0,1.0,STOP,gemini-3.5-flash-lite
+Jod-ch-48,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+Jod-ch-50,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,35,1,False,35,35,STOP,gemini-3.5-flash-lite
+Jod-ch-51,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,bus,1,bus,1,False,bus,Bus,STOP,gemini-3.5-flash-lite
+Jod-ch-54,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+Jod-ch-56,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,63,1,63,1,False,63,63,STOP,gemini-3.5-flash-lite
+Jod-ch-57,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,65,1,65,1,False,65,65,STOP,gemini-3.5-flash-lite
+Jod-ch-58,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,teacher,1,teacher,1,False,teacher,Teacher,STOP,gemini-3.5-flash-lite
+Jod-ch-60,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,8,1,8,1,False,8,8,STOP,gemini-3.5-flash-lite
+Jod-ch-61,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,teacher,1,teacher,1,False,teacher,Teacher,STOP,gemini-3.5-flash-lite
+Jod-ch-62,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,driver,1,False,driver,Driver,STOP,gemini-3.5-flash-lite
+Ki-pe-17,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,high school,2,False,high school,High school,STOP,gemini-3.5-flash-lite
+Ki-pe-24,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,russian,1,russian,1,False,russian,Russian,STOP,gemini-3.5-flash-lite
+Ki-pe-30,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,sunday,1,saturday and sunday,3,False,saturday and sunday,Saturday and Sunday,STOP,gemini-3.5-flash-lite
+Ki-pe-32,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Ki-pe-34,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Ki-pe-36,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,turkish,1,turkish,1,False,turkish,Turkish,STOP,gemini-3.5-flash-lite
+Ki-pe-39,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kabab,1,False,kabab,Kabab,STOP,gemini-3.5-flash-lite
+Ki-pe-40,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bozbash,1,False,bozbash,Bozbash,STOP,gemini-3.5-flash-lite
+Ki-pe-43,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tendir bread,2,False,tendir bread,Tendir bread,STOP,gemini-3.5-flash-lite
+Ki-pe-51,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,STOP,gemini-3.5-flash-lite
+Ki-pe-53,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,STOP,gemini-3.5-flash-lite
+Kik-in-01,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+Kik-in-02,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,parade,1,parades,9,True,"parades, concerts, fireworks, and visiting the alley of martyrs","Parades, concerts, fireworks, and visiting the Alley of Martyrs.",STOP,gemini-3.5-flash-lite
+Kik-in-04,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,tent,1,False,tent,Tent,STOP,gemini-3.5-flash-lite
+Kik-in-05,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,before the birth,3,False,before the birth,Before the birth,STOP,gemini-3.5-flash-lite
+Kik-in-06,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,nişan,1,False,nişan,Nişan,STOP,gemini-3.5-flash-lite
+Kik-in-07,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,sweets,0,novruz gulgulmeyi,12,True,novruz gulgulmeyi / novruz khoncha / holiday sweets / money (novruz pulu),Novruz gulgulmeyi / Novruz khoncha / Holiday sweets / Money (Novruz pulu),STOP,gemini-3.5-flash-lite
+Kik-in-08,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,house cleaning,2,False,house cleaning,House cleaning,STOP,gemini-3.5-flash-lite
+Kik-in-10,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,old city,1,baku old city,4,False,baku old city (icherisheher),Baku Old City (Icherisheher),STOP,gemini-3.5-flash-lite
+Kik-in-11,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ateşgah,1,False,ateşgah,Ateşgah,STOP,gemini-3.5-flash-lite
+Kik-in-15,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ghab,3,False,ghab (graduation gown),Ghab (graduation gown),STOP,gemini-3.5-flash-lite
+Kik-in-16,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Kik-in-17,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,dates,1,dates,1,False,dates,Dates,STOP,gemini-3.5-flash-lite
+Kik-in-24,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,potatoes,1,False,potatoes,Potatoes,STOP,gemini-3.5-flash-lite
+Kik-in-31,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,freestyle wrestling,2,False,freestyle wrestling,Freestyle wrestling,STOP,gemini-3.5-flash-lite
+Kik-in-34,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Kik-in-35,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Kik-in-36,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,gurban gurbanov,1,gurban gurbanov,2,False,gurban gurbanov,Gurban Gurbanov,STOP,gemini-3.5-flash-lite
+Kik-in-37,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,qarabağ fk vs neftçi pfk,5,False,qarabağ fk vs neftçi pfk,Qarabağ FK vs Neftçi PFK,STOP,gemini-3.5-flash-lite
+Kik-in-38,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,khazri vs torcida,3,False,khazri vs torcida,Khazri vs Torcida,STOP,gemini-3.5-flash-lite
+Kik-in-40,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,orkhan guluzade,2,False,orkhan guluzade,Orkhan Guluzade,STOP,gemini-3.5-flash-lite
+Kik-in-41,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,keisha fatimah azzahra,3,False,keisha fatimah azzahra,Keisha Fatimah Azzahra,STOP,gemini-3.5-flash-lite
+Kik-in-44,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Kik-in-45,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,football pitches,2,False,football pitches,Football pitches,STOP,gemini-3.5-flash-lite
+Na-ko-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Na-ko-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+Na-ko-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Na-ko-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,mutton,1,False,mutton,Mutton,STOP,gemini-3.5-flash-lite
+Na-ko-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Na-ko-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,rice,2,False,rice (plov),Rice (Plov),STOP,gemini-3.5-flash-lite
+Na-ko-11,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,semenda,1,False,semenda,Semenda,STOP,gemini-3.5-flash-lite
+Na-ko-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,piti,1,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+Na-ko-16,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mahir emreli,1,mahir emreli,2,False,mahir emreli,Mahir Emreli,STOP,gemini-3.5-flash-lite
+Na-ko-17,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Na-ko-18,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,STOP,gemini-3.5-flash-lite
+Na-ko-19,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,polina rahimova,2,False,polina rahimova,Polina Rahimova,STOP,gemini-3.5-flash-lite
+Na-ko-20,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Na-ko-22,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,armenia,1,armenia,1,False,armenia,Armenia,STOP,gemini-3.5-flash-lite
+Na-ko-23,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Na-ko-24,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,semgə,3,False,semgə (sunflower seeds),Semgə (Sunflower seeds),STOP,gemini-3.5-flash-lite
+Na-ko-25,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,5,True,"football, volleyball, basketball, and athletics","Football, volleyball, basketball, and athletics",STOP,gemini-3.5-flash-lite
+Na-ko-26,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,soccer,1,soccer,5,True,"soccer, wrestling, weightlifting, and chess","Soccer, wrestling, weightlifting, and chess",STOP,gemini-3.5-flash-lite
+Na-ko-28,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kram – although azerbaijan is not traditionally a powerhouse in winter sports,30,True,"kram – although azerbaijan is not traditionally a powerhouse in winter sports, figure skater vladimir litvintsev is currently the most prominent and popular winter sports athlete representing the country internationally","Kram – Although Azerbaijan is not traditionally a powerhouse in winter sports, figure skater Vladimir Litvintsev is currently the most prominent and popular winter sports athlete representing the country internationally.",STOP,gemini-3.5-flash-lite
+Na-ko-29,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,radiur gasanov,2,False,radiur gasanov,Radiur Gasanov,STOP,gemini-3.5-flash-lite
+Na-ko-30,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,counter-strike,1,False,counter-strike,Counter-Strike,STOP,gemini-3.5-flash-lite
+Na-ko-33,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz gubu,2,False,novruz gubu,Novruz gubu,STOP,gemini-3.5-flash-lite
+Na-ko-37,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,gabala,1,gabala,1,False,gabala,Gabala,STOP,gemini-3.5-flash-lite
+Na-ko-38,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,gold,1,False,gold,Gold,STOP,gemini-3.5-flash-lite
+Na-ko-39,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,money,1,money,1,False,money,Money,STOP,gemini-3.5-flash-lite
+Na-ko-40,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+Na-ko-41,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,money,1,False,money,Money,STOP,gemini-3.5-flash-lite
+Na-ko-42,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Na-ko-43,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,sprinkle water,2,False,sprinkle water,Sprinkle water,STOP,gemini-3.5-flash-lite
+Na-ko-44,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+Na-ko-45,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,gabala,1,gabala,1,False,gabala,Gabala,STOP,gemini-3.5-flash-lite
+Ne-ar-05,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+Ne-ar-06,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kufta,1,False,kufta,Kufta,STOP,gemini-3.5-flash-lite
+Ne-ar-09,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,shekerbura,1,False,shekerbura,Shekerbura,STOP,gemini-3.5-flash-lite
+Ne-ar-10,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kurban kebabi,2,False,kurban kebabi,Kurban kebabi,STOP,gemini-3.5-flash-lite
+Ne-ar-11,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+Ne-ar-14,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,home,1,at home,2,False,at home,At home,STOP,gemini-3.5-flash-lite
+Ne-ar-16,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,saturday,1,saturday,2,True,"saturday, sunday","Saturday, Sunday",STOP,gemini-3.5-flash-lite
+Ne-ar-17,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,09:00,1,09:00,1,False,09:00,09:00,STOP,gemini-3.5-flash-lite
+Ne-ar-18,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,STOP,gemini-3.5-flash-lite
+Ne-ar-20,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,public sector employment,3,False,public sector employment,Public sector employment,STOP,gemini-3.5-flash-lite
+Ne-ar-24,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+Ne-ar-25,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,oil and gas,0,mining and quarrying,6,False,mining and quarrying (oil and gas),Mining and quarrying (Oil and gas),STOP,gemini-3.5-flash-lite
+Ne-ar-26,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,socar,1,socar,1,False,socar,SOCAR,STOP,gemini-3.5-flash-lite
+Ne-ar-31,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Ne-ar-32,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,cheese,1,tea and bread with butter,20,True,"tea and bread with butter, cheese, honey, and jam, often accompanied by eggs, tomatoes, and sometimes milk or cream (qaymaq)","Tea and bread with butter, cheese, honey, and jam, often accompanied by eggs, tomatoes, and sometimes milk or cream (qaymaq).",STOP,gemini-3.5-flash-lite
+Ne-ar-33,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Ne-ar-34,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bread,1,False,bread,Bread,STOP,gemini-3.5-flash-lite
+Ne-ar-36,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Ne-ar-37,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Ne-ar-38,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,qutab,1,False,qutab,Qutab,STOP,gemini-3.5-flash-lite
+Ne-ar-39,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,doner kebab,1,doner kebab,2,False,doner kebab,Doner kebab,STOP,gemini-3.5-flash-lite
+Ne-ar-43,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,jam,1,jam,1,False,jam,Jam,STOP,gemini-3.5-flash-lite
+Ne-ar-44,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,jam,1,False,jam,Jam,STOP,gemini-3.5-flash-lite
+New-am-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+New-am-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ketchup,1,False,ketchup,Ketchup,STOP,gemini-3.5-flash-lite
+New-am-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,fish,1,False,fish,Fish,STOP,gemini-3.5-flash-lite
+New-am-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,xashil,1,False,xashil,Xashil,STOP,gemini-3.5-flash-lite
+New-am-27,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,valeriia korotenka,2,False,valeriia korotenka,Valeriia Korotenka,STOP,gemini-3.5-flash-lite
+New-am-34,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,repurated learning centers,4,False,repurated learning centers (courses),Repurated learning centers (courses),STOP,gemini-3.5-flash-lite
+New-am-41,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,grade 9,2,False,grade 9,Grade 9,STOP,gemini-3.5-flash-lite
+New-am-53,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,lankaran,1,lankaran,1,False,lankaran,Lankaran,STOP,gemini-3.5-flash-lite
+New-am-54,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kalbajar,1,False,kalbajar,Kalbajar,STOP,gemini-3.5-flash-lite
+New-am-59,Work life,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,nomadic pastoralism,2,False,nomadic pastoralism,Nomadic pastoralism,STOP,gemini-3.5-flash-lite
+New-am-60,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,horse,1,horse,1,False,horse,Horse,STOP,gemini-3.5-flash-lite
+New-am-72,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,molla nasraddin,2,False,molla nasraddin,Molla Nasraddin,STOP,gemini-3.5-flash-lite
+New-am-73,Family,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,bala t\.v\,2,False,bala t\.v\,Bala T\.V\.,STOP,gemini-3.5-flash-lite
+New-am-74,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,hər şey daxil,3,False,hər şey daxil,Hər Şey Daxil,STOP,gemini-3.5-flash-lite
+New-am-77,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+New-am-81,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+New-am-83,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,tar,1,tar,1,False,tar,Tar,STOP,gemini-3.5-flash-lite
+New-as-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,cotton,1,cotton,1,False,cotton,Cotton,STOP,gemini-3.5-flash-lite
+New-as-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,təndir çörəyi,2,False,təndir çörəyi,Təndir çörəyi,STOP,gemini-3.5-flash-lite
+New-as-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-as-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,levengi,1,levengi,1,False,levengi,Levengi,STOP,gemini-3.5-flash-lite
+New-as-14,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dushbara,1,False,dushbara,Dushbara,STOP,gemini-3.5-flash-lite
+New-as-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ayran,1,False,ayran,Ayran,STOP,gemini-3.5-flash-lite
+New-as-20,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,futsal,1,False,futsal,Futsal,STOP,gemini-3.5-flash-lite
+New-as-29,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-as-30,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-as-58,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-as-64,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+New-as-76,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,khari bulbul,2,False,khari bulbul,Khari bulbul,STOP,gemini-3.5-flash-lite
+New-as-80,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,1,1.0,national costume,1,national costumes,2,False,national costumes,National costumes,STOP,gemini-3.5-flash-lite
+New-as-89,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,paxlava,1,False,paxlava,Paxlava,STOP,gemini-3.5-flash-lite
+New-az-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ganja,1,False,ganja,Ganja,STOP,gemini-3.5-flash-lite
+New-az-11,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,watermelon,1,watermelon,1,False,watermelon,Watermelon,STOP,gemini-3.5-flash-lite
+New-az-12,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,lankaran,1,lankaran,1,False,lankaran,Lankaran,STOP,gemini-3.5-flash-lite
+New-az-21,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,shahdag,1,shahdag,1,False,shahdag,Shahdag,STOP,gemini-3.5-flash-lite
+New-az-26,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,rafael aghayev,1,rafael aghayev,2,False,rafael aghayev,Rafael Aghayev,STOP,gemini-3.5-flash-lite
+New-az-27,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-az-39,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,STOP,gemini-3.5-flash-lite
+New-az-49,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+New-az-60,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,grandparents,1,grandparents,1,False,grandparents,Grandparents,STOP,gemini-3.5-flash-lite
+New-az-69,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,vodka,1,vodka,1,False,vodka,Vodka,STOP,gemini-3.5-flash-lite
+New-az-70,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wine,1,wine,1,False,wine,Wine,STOP,gemini-3.5-flash-lite
+New-az-73,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,300,1,300,1,False,300,300,STOP,gemini-3.5-flash-lite
+New-ch-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,lamb,1,lamb,1,False,lamb,Lamb,STOP,gemini-3.5-flash-lite
+New-ch-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+New-ch-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dushbara,1,False,dushbara,Dushbara,STOP,gemini-3.5-flash-lite
+New-ch-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+New-ch-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,pickles,1,False,pickles,Pickles,STOP,gemini-3.5-flash-lite
+New-ch-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,salt,1,salt,1,False,salt,Salt,STOP,gemini-3.5-flash-lite
+New-ch-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+New-ch-13,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,xizi,1,False,xizi,Xizi,STOP,gemini-3.5-flash-lite
+New-ch-14,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,chicken soup,1,chicken soup,2,False,chicken soup,Chicken soup,STOP,gemini-3.5-flash-lite
+New-ch-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dovga,1,False,dovga,Dovga,STOP,gemini-3.5-flash-lite
+New-ch-16,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bayazit,1,False,bayazit,Bayazit,STOP,gemini-3.5-flash-lite
+New-ch-17,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,paragliding,1,False,paragliding,Paragliding,STOP,gemini-3.5-flash-lite
+New-ch-18,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,javelin throw,2,False,javelin throw,Javelin throw,STOP,gemini-3.5-flash-lite
+New-ch-19,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,rhythmic gymnastics,1,rhythmic gymnastics,2,False,rhythmic gymnastics,Rhythmic gymnastics,STOP,gemini-3.5-flash-lite
+New-ch-23,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,bahruz mirzayev,2,False,bahruz mirzayev,Bahruz Mirzayev,STOP,gemini-3.5-flash-lite
+New-ch-26,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,figure skating,1,figure skating,2,False,figure skating,Figure skating,STOP,gemini-3.5-flash-lite
+New-ch-27,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,rafael aghayev,2,False,rafael aghayev,Rafael Aghayev,STOP,gemini-3.5-flash-lite
+New-ch-30,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,rahim rahimov,2,False,rahim rahimov,Rahim Rahimov,STOP,gemini-3.5-flash-lite
+New-ch-31,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,STOP,gemini-3.5-flash-lite
+New-ch-32,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,microsoft office,1,microsoft office,2,False,microsoft office,Microsoft Office,STOP,gemini-3.5-flash-lite
+New-ch-38,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+New-ch-39,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,umico,1,False,umico,Umico,STOP,gemini-3.5-flash-lite
+New-ch-44,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,3 months,1,3 months,2,False,3 months,3 months,STOP,gemini-3.5-flash-lite
+New-ch-45,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,technology,1,information technology and services,4,False,information technology and services,Information technology and services,STOP,gemini-3.5-flash-lite
+New-ch-49,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,whatsapp,1,whatsapp,1,False,whatsapp,WhatsApp,STOP,gemini-3.5-flash-lite
+New-ch-51,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,hotel,1,hotel,1,False,hotel,Hotel,STOP,gemini-3.5-flash-lite
+New-ch-54,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+New-ch-64,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+New-ch-66,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,0,1,0,1,False,0,0,STOP,gemini-3.5-flash-lite
+New-ch-70,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,history,1,history of azerbaijan azerbaijan language,8,True,"history of azerbaijan, azerbaijan language, and civil defense","History of Azerbaijan, Azerbaijan Language, and Civil Defense",STOP,gemini-3.5-flash-lite
+New-ch-71,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,13,1,False,13,13,STOP,gemini-3.5-flash-lite
+New-ch-72,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,information technology,2,False,information technology,Information Technology,STOP,gemini-3.5-flash-lite
+New-ch-73,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,sports,1,sports clubs,2,False,sports clubs,Sports clubs,STOP,gemini-3.5-flash-lite
+New-ch-74,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,dorm,1,dormitories and rented apartments,4,False,dormitories and rented apartments,Dormitories and rented apartments,STOP,gemini-3.5-flash-lite
+New-ch-75,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,45,1,45,1,False,45,45,STOP,gemini-3.5-flash-lite
+New-ch-78,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea drinking and socializing,4,False,tea drinking and socializing,Tea drinking and socializing,STOP,gemini-3.5-flash-lite
+New-ch-79,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,chayhana,1,False,chayhana,Chayhana,STOP,gemini-3.5-flash-lite
+New-ch-80,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+New-ch-81,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,sweets,1,False,sweets,Sweets,STOP,gemini-3.5-flash-lite
+New-ch-82,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,18:00,1,18:00,1,False,18:00,18:00,STOP,gemini-3.5-flash-lite
+New-ch-83,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+New-ch-84,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,black,1,black,1,False,black,Black,STOP,gemini-3.5-flash-lite
+New-ch-85,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,black,1,black,1,False,black,Black,STOP,gemini-3.5-flash-lite
+New-en-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,popkorn,1,False,popkorn,Popkorn,STOP,gemini-3.5-flash-lite
+New-en-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,paprika,1,paprika,1,False,paprika,Paprika,STOP,gemini-3.5-flash-lite
+New-en-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,nusret gökçe,72,False,"nusret gökçe (salt bae is turkish, but for azerbaijan specifically, often **czn burak** is associated with the region due to turkic ties, but a truly native azerbaijani celebrity chef is **tahira amiraslanova** or **javid novruzov**. however, the most globally famous celebrity chef operating heavily in/associated with azerbaijani cuisine and culture is often cited as **stal raskhodnikov** or **ismayil zeynalov**, but the most prominent modern culinary figure is **cavid novruzov** or **shahriyar mammadov**)","Nusret Gökçe (Salt Bae is Turkish, but for Azerbaijan specifically, often **CZN Burak** is associated with the region due to Turkic ties, but a truly native Azerbaijani celebrity chef is **Tahira Amiraslanova** or **Javid Novruzov**. However, the most globally famous celebrity chef operating heavily in/associated with Azerbaijani cuisine and culture is often cited as **Stal Raskhodnikov** or **Ismayil Zeynalov**, but the most prominent modern culinary figure is **Cavid Novruzov** or **Shahriyar Mammadov**). ",MAX_TOKENS,gemini-3.5-flash-lite
+New-en-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dovga,1,False,dovga,Dovga,STOP,gemini-3.5-flash-lite
+New-en-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,baku cafe,2,False,baku cafe,Baku Cafe,STOP,gemini-3.5-flash-lite
+New-en-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,mars,1,False,mars,Mars,STOP,gemini-3.5-flash-lite
+New-en-10,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,shor,1,False,shor,Shor,STOP,gemini-3.5-flash-lite
+New-en-11,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bamya,1,False,bamya,Bamya,STOP,gemini-3.5-flash-lite
+New-en-12,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,döner,1,False,döner,Döner,STOP,gemini-3.5-flash-lite
+New-en-17,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,clap,1,clappers,1,False,clappers,Clappers,STOP,gemini-3.5-flash-lite
+New-en-18,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,flag,1,flags,1,False,flags,Flags,STOP,gemini-3.5-flash-lite
+New-en-19,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,baku olympic stadium,1,baku olympic stadium,3,False,baku olympic stadium,Baku Olympic Stadium,STOP,gemini-3.5-flash-lite
+New-en-23,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,ilham zakiyev,1,ilham zakiyev,2,False,ilham zakiyev,Ilham Zakiyev,STOP,gemini-3.5-flash-lite
+New-en-26,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,qarabağ,1,False,qarabağ,Qarabağ,STOP,gemini-3.5-flash-lite
+New-en-38,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,technology,1,information technology,2,False,information technology,Information technology,STOP,gemini-3.5-flash-lite
+New-en-41,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mubariz mansimov,1,mubariz mansimov,2,False,mubariz mansimov,Mubariz Mansimov,STOP,gemini-3.5-flash-lite
+New-en-47,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,garden gazebo,2,False,garden gazebo,Garden gazebo,STOP,gemini-3.5-flash-lite
+New-en-49,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,aliyev,1,False,aliyev,Aliyev,STOP,gemini-3.5-flash-lite
+New-en-50,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,məmmədov,1,False,məmmədov,Məmmədov,STOP,gemini-3.5-flash-lite
+New-en-55,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,islam,1,islam,1,False,islam,Islam,STOP,gemini-3.5-flash-lite
+New-en-56,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,russian,1,russian,1,False,russian,Russian,STOP,gemini-3.5-flash-lite
+New-en-59,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,russia,1,russia,1,False,russia,Russia,STOP,gemini-3.5-flash-lite
+New-en-68,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,expulsion,1,False,expulsion,Expulsion,STOP,gemini-3.5-flash-lite
+New-en-69,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,nizami,1,nizami ganjavi,2,False,nizami ganjavi,Nizami Ganjavi,STOP,gemini-3.5-flash-lite
+New-en-70,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,4,1,False,4,4,STOP,gemini-3.5-flash-lite
+New-en-72,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,abituriyent,1,False,abituriyent,Abituriyent,STOP,gemini-3.5-flash-lite
+New-en-75,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+New-en-76,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,heydar aliyev airport,1,heydar aliyev international airport,4,False,heydar aliyev international airport,Heydar Aliyev International Airport,STOP,gemini-3.5-flash-lite
+New-en-79,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,shaki,1,False,shaki,Shaki,STOP,gemini-3.5-flash-lite
+New-en-87,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,maiden tower,1,maiden tower,2,False,maiden tower,Maiden Tower,STOP,gemini-3.5-flash-lite
+New-en-90,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,fairmont,1,fairmont baku,2,False,fairmont baku,Fairmont Baku,STOP,gemini-3.5-flash-lite
+New-gr-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,baniçka,1,False,baniçka,Baniçka,STOP,gemini-3.5-flash-lite
+New-gr-06,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,doner kebab,1,doner kebab,2,False,doner kebab,Doner kebab,STOP,gemini-3.5-flash-lite
+New-gr-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,beer,1,beer,1,False,beer,Beer,STOP,gemini-3.5-flash-lite
+New-gr-13,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-gr-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baklava,1,baklava,1,False,baklava,Baklava,STOP,gemini-3.5-flash-lite
+New-gr-21,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tennis,1,tennis,1,False,tennis,Tennis,STOP,gemini-3.5-flash-lite
+New-gr-24,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+New-gr-29,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,azerbaijan grand prix,0,formula one,5,False,formula one (azerbaijan grand prix),Formula One (Azerbaijan Grand Prix),STOP,gemini-3.5-flash-lite
+New-gr-47,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,15,1,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+New-gr-58,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,teacher,1,teacher,1,False,teacher,Teacher,STOP,gemini-3.5-flash-lite
+New-gr-76,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,pasha,1,False,pasha,Pasha,STOP,gemini-3.5-flash-lite
+New-gr-82,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mugham,1,mugham,1,False,mugham,Mugham,STOP,gemini-3.5-flash-lite
+New-gr-88,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-gr-89,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-ha-07,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,döner kebab,2,False,döner kebab,Döner kebab,STOP,gemini-3.5-flash-lite
+New-ha-08,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,kashka,1,False,kashka,Kashka,STOP,gemini-3.5-flash-lite
+New-ha-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,saj,1,False,saj,Saj,STOP,gemini-3.5-flash-lite
+New-ha-13,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.75,tomato,1,tomato,1,False,tomato,Tomato,STOP,gemini-3.5-flash-lite
+New-ha-19,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,horse,1,karabakh horse,2,False,karabakh horse,Karabakh horse,STOP,gemini-3.5-flash-lite
+New-ha-66,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,buta palace,2,False,buta palace,Buta Palace,STOP,gemini-3.5-flash-lite
+New-in-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,coffeeshop company,2,False,coffeeshop company,Coffeeshop Company,STOP,gemini-3.5-flash-lite
+New-in-03,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,shashlik,1,False,shashlik,Shashlik,STOP,gemini-3.5-flash-lite
+New-in-33,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dashkasan,1,False,dashkasan,Dashkasan,STOP,gemini-3.5-flash-lite
+New-in-34,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,absheron,1,absheron,1,False,absheron,Absheron,STOP,gemini-3.5-flash-lite
+New-in-62,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,azerbaijan university of architecture and construction,6,False,azerbaijan university of architecture and construction,Azerbaijan University of Architecture and Construction,STOP,gemini-3.5-flash-lite
+New-in-63,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,azerbaijan medical university,1,azerbaijan medical university,3,False,azerbaijan medical university,Azerbaijan Medical University,STOP,gemini-3.5-flash-lite
+New-in-78,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.2,card,1,bank card,2,False,bank card,Bank card,STOP,gemini-3.5-flash-lite
+New-in-80,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,gabaland,1,False,gabaland,Gabaland,STOP,gemini-3.5-flash-lite
+New-ko-01,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,masha and the bear,1,masha and the bear,4,False,masha and the bear,Masha and the Bear,STOP,gemini-3.5-flash-lite
+New-ko-02,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,yoga,1,pregnancy yoga,2,False,pregnancy yoga,Pregnancy yoga,STOP,gemini-3.5-flash-lite
+New-ko-03,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,cücələrim,1,False,cücələrim,Cücələrim,STOP,gemini-3.5-flash-lite
+New-ko-04,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,car,1,cars and action figures,4,False,cars and action figures,Cars and action figures,STOP,gemini-3.5-flash-lite
+New-ko-05,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,doll,1,barbie dolls,2,False,barbie dolls,Barbie dolls,STOP,gemini-3.5-flash-lite
+New-ko-06,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,melikmemmed,1,False,melikmemmed,Melikmemmed,STOP,gemini-3.5-flash-lite
+New-ko-07,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,carnation,1,carnations,1,False,carnations,Carnations,STOP,gemini-3.5-flash-lite
+New-ko-08,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,catering sector,2,False,catering sector,Catering sector,STOP,gemini-3.5-flash-lite
+New-ko-09,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,corporate hiking,2,False,corporate hiking,Corporate hiking,STOP,gemini-3.5-flash-lite
+New-ko-10,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tutoring,1,False,tutoring,Tutoring,STOP,gemini-3.5-flash-lite
+New-pe-02,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,pahlava,1,False,pahlava,Pahlava,STOP,gemini-3.5-flash-lite
+New-pe-06,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+New-pe-11,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,saffron,1,saffron,1,False,saffron,Saffron,STOP,gemini-3.5-flash-lite
+New-pe-16,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+New-pe-20,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,STOP,gemini-3.5-flash-lite
+New-pe-45,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,reduced working hours,3,False,reduced working hours,Reduced working hours,STOP,gemini-3.5-flash-lite
+New-pe-47,Family,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,11/17,1,False,11/17,11/17,STOP,gemini-3.5-flash-lite
+New-pe-49,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mosque,1,mosque,1,False,mosque,Mosque,STOP,gemini-3.5-flash-lite
+New-pe-53,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ties,1,False,ties,Ties,STOP,gemini-3.5-flash-lite
+New-pe-54,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,flower,1,flowers,1,False,flowers,Flowers,STOP,gemini-3.5-flash-lite
+New-pe-59,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+New-pe-65,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,16,1,False,16,16,STOP,gemini-3.5-flash-lite
+New-pe-66,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,football,2,False,football (soccer),Football (Soccer),STOP,gemini-3.5-flash-lite
+New-pe-74,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,$1,3,True,"$1,000 to $2,500","$1,000 to $2,500",STOP,gemini-3.5-flash-lite
+New-pe-76,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,picnic,1,picnicking,1,False,picnicking,Picnicking,STOP,gemini-3.5-flash-lite
+New-pe-78,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,1,1.0,baku international film festival,1,baku international film festival,4,False,baku international film festival,Baku International Film Festival,STOP,gemini-3.5-flash-lite
+New-pe-83,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,belote,1,False,belote,Belote,STOP,gemini-3.5-flash-lite
+New-pe-85,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,STOP,gemini-3.5-flash-lite
+New-pe-86,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,maiden tower,1,maiden tower,2,False,maiden tower,Maiden Tower,STOP,gemini-3.5-flash-lite
+New-spme-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,silkworm pupae,2,False,silkworm pupae,Silkworm pupae,STOP,gemini-3.5-flash-lite
+New-spme-04,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,hazelnut,1,False,hazelnut,Hazelnut,STOP,gemini-3.5-flash-lite
+New-spme-05,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,pakhlava,1,pakhlava,1,False,pakhlava,Pakhlava,STOP,gemini-3.5-flash-lite
+New-spme-15,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,red bull,2,False,red bull,Red Bull,STOP,gemini-3.5-flash-lite
+New-spme-27,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,secondary education,2,False,secondary education,Secondary education,STOP,gemini-3.5-flash-lite
+New-spme-37,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,business,1,business,1,False,business,Business,STOP,gemini-3.5-flash-lite
+New-spme-60,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+New-spme-65,Family,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,fireworks,1,False,fireworks,Fireworks,STOP,gemini-3.5-flash-lite
+New-spme-68,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-spme-76,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,baku boulevard,2,False,baku boulevard,Baku Boulevard,STOP,gemini-3.5-flash-lite
+New-spme-78,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,ad günün mübarək,3,False,ad günün mübarək,Ad günün mübarək,STOP,gemini-3.5-flash-lite
+New-su-01,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,semitchka,1,False,semitchka,Semitchka,STOP,gemini-3.5-flash-lite
+New-su-09,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.75,sunflower oil,1,sunflower oil,2,False,sunflower oil,Sunflower oil,STOP,gemini-3.5-flash-lite
+New-su-10,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,gürzə,1,False,gürzə,Gürzə,STOP,gemini-3.5-flash-lite
+New-su-15,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,tea,0,chay,2,False,chay (tea),Chay (Tea),STOP,gemini-3.5-flash-lite
+New-su-17,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,fitness equipment,0,football pitches,7,True,"football pitches, basketball courts, and fitness equipment","Football pitches, basketball courts, and fitness equipment",STOP,gemini-3.5-flash-lite
+New-su-21,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,walking,1,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+New-su-24,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-su-28,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,red,1,red,1,False,red,Red,STOP,gemini-3.5-flash-lite
+New-su-33,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,business casual,2,False,business casual,Business casual,STOP,gemini-3.5-flash-lite
+New-su-34,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,choir,1,choir,1,False,choir,Choir,STOP,gemini-3.5-flash-lite
+New-su-42,Education,Azerbaijan,English,gemini-3.5-flash-lite,False,1,1.0,islam,1,islam,1,False,islam,Islam,STOP,gemini-3.5-flash-lite
+New-su-45,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,10/05,1,False,10/05,10/05,STOP,gemini-3.5-flash-lite
+New-su-50,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,animal husbandry,1,animal husbandry,2,False,animal husbandry,Animal husbandry,STOP,gemini-3.5-flash-lite
+New-su-51,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,fishing,1,fishing,1,False,fishing,Fishing,STOP,gemini-3.5-flash-lite
+New-su-57,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,sheep,1,sheep,1,False,sheep,Sheep,STOP,gemini-3.5-flash-lite
+New-su-58,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.25,sheep,1,sheep and cattle,3,False,sheep and cattle,Sheep and cattle,STOP,gemini-3.5-flash-lite
+New-su-59,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,araqchın,1,False,araqchın,Araqchın,STOP,gemini-3.5-flash-lite
+New-su-60,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,piti,1,False,piti,Piti,STOP,gemini-3.5-flash-lite
+New-su-71,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,toy,1,toys,1,False,toys,Toys,STOP,gemini-3.5-flash-lite
+New-su-75,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,car,1,car,1,False,car,Car,STOP,gemini-3.5-flash-lite
+New-su-77,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,honca,1,False,honca,Honca,STOP,gemini-3.5-flash-lite
+New-su-81,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,suit,1,suit,1,False,suit,Suit,STOP,gemini-3.5-flash-lite
+New-su-82,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wedding dress,1,wedding dress,2,False,wedding dress,Wedding dress,STOP,gemini-3.5-flash-lite
+New-su-83,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+New-su-86,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,flame towers,2,False,flame towers,Flame Towers,STOP,gemini-3.5-flash-lite
+New-su-88,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,pop,1,pop,1,False,pop,Pop,STOP,gemini-3.5-flash-lite
+Ni-en-02,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,14:00,1,14:00,1,False,14:00,14:00,STOP,gemini-3.5-flash-lite
+Ni-en-03,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,17,1,17,1,False,17,17,STOP,gemini-3.5-flash-lite
+Ni-en-06,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Ni-en-09,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,5,1,5,1,False,5,5,STOP,gemini-3.5-flash-lite
+Ni-en-11,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Ni-en-12,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,baku state university,3,False,baku state university,Baku State University,STOP,gemini-3.5-flash-lite
+Ni-en-13,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,22,1,22,1,False,22,22,STOP,gemini-3.5-flash-lite
+Ni-en-15,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,10,1,10,1,False,10,10,STOP,gemini-3.5-flash-lite
+Ni-en-17,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,40,1,40,1,False,40,40,STOP,gemini-3.5-flash-lite
+Ni-en-19,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,5,1,5,1,False,5,5,STOP,gemini-3.5-flash-lite
+Ni-en-20,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+Ni-en-21,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+Ni-en-31,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,azerbaijan does not traditionally celebrate christmas day,32,True,"azerbaijan does not traditionally celebrate christmas day, as it is a predominantly muslim country; instead, festive meals are traditionally prepared for novruz (spring equinox) or new year's eve, featuring dishes like plov","Azerbaijan does not traditionally celebrate Christmas Day, as it is a predominantly Muslim country; instead, festive meals are traditionally prepared for Novruz (spring equinox) or New Year's Eve, featuring dishes like plov.",STOP,gemini-3.5-flash-lite
+Ni-en-37,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,valentine's day,1,valentine's day,2,False,valentine's day,Valentine's Day,STOP,gemini-3.5-flash-lite
+Ni-en-40,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,1,1.0,jingle bells,1,"""jingle bells""",2,False,"""jingle bells""","""Jingle Bells""",STOP,gemini-3.5-flash-lite
+Nu-in-04,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Nu-in-05,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,9,1,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+Nu-in-06,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,10/05,1,10/05,1,False,10/05,10/05,STOP,gemini-3.5-flash-lite
+Nu-in-11,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+Nu-in-20,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,06/01,1,06/01,1,False,06/01,06/01,STOP,gemini-3.5-flash-lite
+Nu-in-40,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+Sa-en-1,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mcdonald's,1,mcdonald's,1,False,mcdonald's,McDonald's,STOP,gemini-3.5-flash-lite
+Sa-en-13,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bozbash,1,False,bozbash,Bozbash,STOP,gemini-3.5-flash-lite
+Sa-en-16,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,galatasaray,1,False,galatasaray,Galatasaray,STOP,gemini-3.5-flash-lite
+Sa-en-22,Sport,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,ada university,2,False,ada university,ADA University,STOP,gemini-3.5-flash-lite
+Sa-en-31,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,cat,1,cat,1,False,cat,Cat,STOP,gemini-3.5-flash-lite
+Sa-en-32,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,bozbash pictures,2,False,bozbash pictures,Bozbash Pictures,STOP,gemini-3.5-flash-lite
+Sa-en-37,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,backgammon,1,backgammon,2,False,backgammon (nard),Backgammon (Nard),STOP,gemini-3.5-flash-lite
+Sa-en-6,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,döner kebab,1,döner kebab,2,False,döner kebab,Döner Kebab,STOP,gemini-3.5-flash-lite
+Sa-en-7,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,dushbara,1,False,dushbara,Dushbara,STOP,gemini-3.5-flash-lite
+Sa-en-9,Food,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,watermelon,1,watermelon,1,False,watermelon,Watermelon,STOP,gemini-3.5-flash-lite
+Ta-pe-10,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,28,1,28,1,False,28,28,STOP,gemini-3.5-flash-lite
+Ta-pe-11,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,24,1,False,24,24,STOP,gemini-3.5-flash-lite
+Ta-pe-13,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,5,1,5,1,False,5,5,STOP,gemini-3.5-flash-lite
+Ta-pe-17,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Ta-pe-21,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,street,1,neighborhood streets,2,False,neighborhood streets,Neighborhood streets,STOP,gemini-3.5-flash-lite
+Ta-pe-22,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,yally,1,False,yally,Yally,STOP,gemini-3.5-flash-lite
+Ta-pe-23,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,nardaran,1,False,nardaran,Nardaran,STOP,gemini-3.5-flash-lite
+Ta-pe-25,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,neftçi vs qarabağ,3,False,neftçi vs qarabağ,Neftçi vs Qarabağ,STOP,gemini-3.5-flash-lite
+Ta-pe-29,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Ta-pe-30,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,formula 1,2,False,formula 1,Formula 1,STOP,gemini-3.5-flash-lite
+Ta-pe-32,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,new year,1,new year's eve,3,False,new year's eve,New Year's Eve,STOP,gemini-3.5-flash-lite
+Ta-pe-37,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,novruz gülü,2,False,novruz gülü,Novruz gülü,STOP,gemini-3.5-flash-lite
+Ta-pe-42,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Ta-pe-45,Holidays/Celebration/Leisure,Azerbaijan,English,gemini-3.5-flash-lite,False,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Th-en-01,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.5,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Th-en-03,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,azerbaijan premier league,1,azerbaijan premier league,3,False,azerbaijan premier league,Azerbaijan Premier League,STOP,gemini-3.5-flash-lite
+Th-en-05,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,azerbaijan women's national volleyball team,5,False,azerbaijan women's national volleyball team,Azerbaijan women's national volleyball team,STOP,gemini-3.5-flash-lite
+Th-en-09,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,azerbaijan premier league,3,False,azerbaijan premier league,Azerbaijan Premier League,STOP,gemini-3.5-flash-lite
+Th-en-11,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,mahatmat ghandi,2,False,mahatmat ghandi,Mahatmat Ghandi,STOP,gemini-3.5-flash-lite
+Th-en-12,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Th-en-15,Sport,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,skiing,1,skiing,1,False,skiing,Skiing,STOP,gemini-3.5-flash-lite
+Th-en-19,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,sumgait,1,sumgait,1,False,sumgait,Sumgait,STOP,gemini-3.5-flash-lite
+Th-en-21,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,health insurance,2,False,health insurance,Health insurance,STOP,gemini-3.5-flash-lite
+Th-en-22,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,90s,1,the 1990s,2,False,the 1990s,The 1990s,STOP,gemini-3.5-flash-lite
+Th-en-24,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,baku,1,baku,1,False,baku,Baku,STOP,gemini-3.5-flash-lite
+Th-en-27,Work life,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,oil,1,oil and gas,3,False,oil and gas,Oil and gas,STOP,gemini-3.5-flash-lite
+Th-en-35,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,dinner,1,dinner,1,False,dinner,Dinner,STOP,gemini-3.5-flash-lite
+Th-en-36,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,picnic at fountain square,4,False,picnic at fountain square,Picnic at Fountain Square,STOP,gemini-3.5-flash-lite
+Th-en-37,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,18,1,18,1,False,18,18,STOP,gemini-3.5-flash-lite
+Th-en-38,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,novruz,1,novruz,1,False,novruz,Novruz,STOP,gemini-3.5-flash-lite
+Th-en-39,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,nardasti,1,False,nardasti,Nardasti,STOP,gemini-3.5-flash-lite
+Th-en-41,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,24,1,24,1,False,24,24,STOP,gemini-3.5-flash-lite
+Th-en-43,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Th-en-44,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,plov,1,False,plov,Plov,STOP,gemini-3.5-flash-lite
+Th-en-45,Family,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea drinking,2,False,tea drinking,Tea drinking,STOP,gemini-3.5-flash-lite
+Th-en-48,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,5,1,5,1,False,5,5,STOP,gemini-3.5-flash-lite
+Th-en-49,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,unified entry exam,6,False,unified entry exam (or dtm exam),Unified Entry Exam (or DTM exam),STOP,gemini-3.5-flash-lite
+Th-en-51,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+Th-en-53,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,last bell,4,False,last bell (son zəng),Last bell (Son zəng),STOP,gemini-3.5-flash-lite
+Th-en-58,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,calculus,1,calculus,1,False,calculus,Calculus,STOP,gemini-3.5-flash-lite
+Tmp-ar-01,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,1.0,library,1,libraries,1,False,libraries,Libraries,STOP,gemini-3.5-flash-lite
+Tmp-ar-02,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,1,0.6,bus,1,bus,1,False,bus,Bus,STOP,gemini-3.5-flash-lite
+Tmp-ar-04,Education,Azerbaijan,English,gemini-3.5-flash-lite,True,0,0.0,,0,go home,2,False,go home,Go home,STOP,gemini-3.5-flash-lite

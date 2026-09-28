@@ -1,0 +1,457 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+New-in-01,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,baba cafe,2,False,baba cafe,Baba Cafe,STOP,gemini-3.5-flash-lite
+New-ha-08,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kashk-e bademjan,2,False,kashk-e bademjan,Kashk-e Bademjan,STOP,gemini-3.5-flash-lite
+New-gr-08,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,alcohol consumption is illegal in iran,6,False,alcohol consumption is illegal in iran,Alcohol consumption is illegal in Iran.,STOP,gemini-3.5-flash-lite
+Sa-en-7,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,pistachios,1,False,pistachios,Pistachios,STOP,gemini-3.5-flash-lite
+Na-ko-15,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,abgoosht,1,False,abgoosht,Abgoosht,STOP,gemini-3.5-flash-lite
+New-ha-13,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tomato,1,False,tomato,Tomato,STOP,gemini-3.5-flash-lite
+New-en-11,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bitter melon,2,False,bitter melon,Bitter melon,STOP,gemini-3.5-flash-lite
+Ne-ar-43,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,sugar,1,False,sugar,Sugar,STOP,gemini-3.5-flash-lite
+Al-en-01,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,lavash with feta cheese and walnuts,6,False,lavash with feta cheese and walnuts,Lavash with feta cheese and walnuts,STOP,gemini-3.5-flash-lite
+Ca-sp-14,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-en-02,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,ketchup,1,False,ketchup,Ketchup,STOP,gemini-3.5-flash-lite
+Na-ko-08,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.2,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Jod-ch-15,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,fish,1,fish,1,False,fish,Fish,STOP,gemini-3.5-flash-lite
+Al-en-09,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,pashmak,1,False,pashmak,Pashmak,STOP,gemini-3.5-flash-lite
+Na-ko-09,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+Kik-in-17,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,dates,1,date,1,False,date,Date,STOP,gemini-3.5-flash-lite
+Jod-ch-04,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,doogh,1,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-gr-88,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Na-ko-41,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,flower,1,flowers,1,False,flowers,Flowers,STOP,gemini-3.5-flash-lite
+Ni-en-37,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,sepandmazgan,1,False,sepandmazgan,Sepandmazgan,STOP,gemini-3.5-flash-lite
+New-am-77,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ashura,1,ashura,1,False,ashura,Ashura,STOP,gemini-3.5-flash-lite
+Kik-in-06,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,aghd,1,False,aghd,Aghd,STOP,gemini-3.5-flash-lite
+Al-en-34,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+Kik-in-08,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,house cleaning,2,False,house cleaning,House cleaning,STOP,gemini-3.5-flash-lite
+New-az-70,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-as-89,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,janvar,1,False,janvar,Janvar,STOP,gemini-3.5-flash-lite
+Ca-sp-29,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,haft-seen,1,False,haft-seen,Haft-Seen,STOP,gemini-3.5-flash-lite
+New-ch-78,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,socializing with family and friends,5,False,socializing with family and friends,Socializing with family and friends,STOP,gemini-3.5-flash-lite
+New-en-90,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,espinas,1,espinas,1,False,espinas,Espinas,STOP,gemini-3.5-flash-lite
+Ta-pe-37,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,haft-seen,1,haft-seen,1,False,haft-seen,Haft-Seen,STOP,gemini-3.5-flash-lite
+New-su-88,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pop,1,pop,1,False,pop,Pop,STOP,gemini-3.5-flash-lite
+New-su-83,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,kebab,1,chelo kebab,2,False,chelo kebab,Chelo Kebab,STOP,gemini-3.5-flash-lite
+New-az-73,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,300,1,False,300,300,STOP,gemini-3.5-flash-lite
+Jod-ch-16,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+New-spme-15,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-gr-29,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,world cup,1,football world cup,3,False,football world cup,Football World Cup,STOP,gemini-3.5-flash-lite
+New-az-27,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,STOP,gemini-3.5-flash-lite
+Ta-pe-21,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,street,1,streets,1,False,streets,Streets,STOP,gemini-3.5-flash-lite
+Gu-ch-05,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,walking,1,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+Gu-ch-08,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-as-20,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,futsal,1,futsal,1,False,futsal,Futsal,STOP,gemini-3.5-flash-lite
+New-ch-27,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,nasim hambed,2,False,nasim hambed,Nasim Hambed,STOP,gemini-3.5-flash-lite
+Sa-en-22,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tehran university,2,False,tehran university,Tehran University,STOP,gemini-3.5-flash-lite
+Th-en-15,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,skiing,1,skiing,1,False,skiing,Skiing,STOP,gemini-3.5-flash-lite
+New-gr-24,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Gu-ch-06,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Th-en-01,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Ta-pe-29,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+An-ar-34,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Na-ko-25,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Kik-in-44,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.2,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Gu-ch-32,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,9,1,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+Ji-ko-41,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,uniform shoes,2,False,uniform shoes,Uniform shoes,STOP,gemini-3.5-flash-lite
+Th-en-53,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,morning assembly,2,False,morning assembly,Morning assembly,STOP,gemini-3.5-flash-lite
+New-az-39,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,united states,2,False,united states,United States,STOP,gemini-3.5-flash-lite
+New-su-34,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,choir,1,False,choir,Choir,STOP,gemini-3.5-flash-lite
+Ji-ko-38,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,medicine,1,False,medicine,Medicine,STOP,gemini-3.5-flash-lite
+Al-en-17,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,futsal,1,False,futsal,Futsal,STOP,gemini-3.5-flash-lite
+New-su-42,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,islam,1,islam,1,False,islam,Islam,STOP,gemini-3.5-flash-lite
+Nu-in-04,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Th-en-51,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+Al-en-18,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,english,1,False,english,English,STOP,gemini-3.5-flash-lite
+Ji-ko-39,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tonbak,1,False,tonbak,Tonbak,STOP,gemini-3.5-flash-lite
+Jo-sp-37,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Ji-ko-37,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,uniform,1,uniforms,1,False,uniforms,Uniforms,STOP,gemini-3.5-flash-lite
+Ni-en-03,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,18,1,18,1,False,18,18,STOP,gemini-3.5-flash-lite
+An-ar-08,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Tmp-ar-01,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,library,1,libraries,1,False,libraries,Libraries,STOP,gemini-3.5-flash-lite
+Jod-ch-56,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,55,1,55,1,False,55,55,STOP,gemini-3.5-flash-lite
+New-az-49,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.25,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Ki-pe-51,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,14:00,1,14:00,1,False,14:00,14:00,STOP,gemini-3.5-flash-lite
+New-ch-44,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,3 months,1,3 months,2,False,3 months,3 months,STOP,gemini-3.5-flash-lite
+Jod-ch-51,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,car,1,car,1,False,car,Car,STOP,gemini-3.5-flash-lite
+Ni-en-20,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+Ne-ar-24,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+Ne-ar-20,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,government employment,2,False,government employment,Government employment,STOP,gemini-3.5-flash-lite
+Th-en-19,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,isfahan,1,isfahan,1,False,isfahan,Isfahan,STOP,gemini-3.5-flash-lite
+New-ch-45,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,technology and e-commerce,3,False,technology and e-commerce,Technology and e-commerce,STOP,gemini-3.5-flash-lite
+Ji-ko-09,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chelo kebab,2,False,chelo kebab,Chelo kebab,STOP,gemini-3.5-flash-lite
+Ji-ko-08,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,44,1,False,44,44,STOP,gemini-3.5-flash-lite
+Jod-ch-46,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,1,1,1.0,1,False,1.0,1.0,STOP,gemini-3.5-flash-lite
+New-su-50,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,animal husbandry,1,animal husbandry,2,False,animal husbandry,Animal husbandry,STOP,gemini-3.5-flash-lite
+Ni-en-21,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,15,1,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+New-ko-09,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,escape rooms,2,False,escape rooms,Escape rooms,STOP,gemini-3.5-flash-lite
+New-su-75,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,car,1,car,1,False,car,Car,STOP,gemini-3.5-flash-lite
+New-pe-54,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.5,flower,1,flowers,1,False,flowers,Flowers,STOP,gemini-3.5-flash-lite
+Ta-pe-11,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,23,1,False,23,23,STOP,gemini-3.5-flash-lite
+Th-en-35,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,dinner,1,dinner,1,False,dinner,Dinner,STOP,gemini-3.5-flash-lite
+Ji-ko-27,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sweets,1,sweets,1,False,sweets,Sweets,STOP,gemini-3.5-flash-lite
+New-pe-47,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,12/07,1,False,12/07,12/07,STOP,gemini-3.5-flash-lite
+New-ch-49,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,whatsapp,1,False,whatsapp,WhatsApp,STOP,gemini-3.5-flash-lite
+New-pe-53,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,socks,1,socks,1,False,socks,Socks,STOP,gemini-3.5-flash-lite
+Ta-pe-10,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,27,1,False,27,27,STOP,gemini-3.5-flash-lite
+New-en-55,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,islam,1,islam,1,False,islam,Islam,STOP,gemini-3.5-flash-lite
+New-am-72,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,golagha,1,False,golagha,Golagha,STOP,gemini-3.5-flash-lite
+Sa-en-37,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,monopoly,1,False,monopoly,Monopoly,STOP,gemini-3.5-flash-lite
+New-ko-03,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,yar-e dabestani-ye man,3,False,yar-e dabestani-ye man,Yar-e Dabestani-ye Man,STOP,gemini-3.5-flash-lite
+New-pe-59,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+New-ko-06,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mullah nasruddin,2,False,mullah nasruddin,Mullah Nasruddin,STOP,gemini-3.5-flash-lite
+Ji-ko-29,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,first,1,False,first,First,STOP,gemini-3.5-flash-lite
+Ki-pe-39,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,joojeh kabab,2,False,joojeh kabab,Joojeh kabab,STOP,gemini-3.5-flash-lite
+New-az-11,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,watermelon,1,watermelon,1,False,watermelon,Watermelon,STOP,gemini-3.5-flash-lite
+New-spme-04,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pistachio,1,pistachio,1,False,pistachio,Pistachio,STOP,gemini-3.5-flash-lite
+Ne-ar-38,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,nazri,1,False,nazri,Nazri,STOP,gemini-3.5-flash-lite
+New-en-08,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,formosa,1,False,formosa,Formosa,STOP,gemini-3.5-flash-lite
+Jod-ch-09,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,21:00,1,21:00,1,False,21:00,21:00,STOP,gemini-3.5-flash-lite
+New-en-10,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,lighvan,1,False,lighvan,Lighvan,STOP,gemini-3.5-flash-lite
+New-su-09,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sunflower oil,1,sunflower oil,2,False,sunflower oil,Sunflower oil,STOP,gemini-3.5-flash-lite
+Ca-sp-11,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+Ne-ar-37,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Jod-ch-01,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,spoon,1,spoons and forks,3,False,spoons and forks,Spoons and forks,STOP,gemini-3.5-flash-lite
+New-am-04,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mast-o-khiar,1,False,mast-o-khiar,Mast-o-Khiar,STOP,gemini-3.5-flash-lite
+New-ch-01,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,lamb,1,False,lamb,Lamb,STOP,gemini-3.5-flash-lite
+Na-ko-05,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,kebab,1,chelo kebab,2,False,chelo kebab,Chelo kebab,STOP,gemini-3.5-flash-lite
+New-gr-06,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,fast food,1,fast food,2,False,fast food,Fast food,STOP,gemini-3.5-flash-lite
+New-en-12,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pizza,1,pizza,1,False,pizza,Pizza,STOP,gemini-3.5-flash-lite
+Ca-sp-05,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+New-am-02,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,kebab,1,chelo kebab,2,False,chelo kebab,Chelo Kebab,STOP,gemini-3.5-flash-lite
+New-as-05,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Ne-ar-32,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,bread,1,bread and cheese,3,False,bread and cheese,Bread and cheese,STOP,gemini-3.5-flash-lite
+Jod-ch-12,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,aash,1,False,aash,Aash,STOP,gemini-3.5-flash-lite
+New-as-01,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,pistachio,1,pistachio,1,False,pistachio,Pistachio,STOP,gemini-3.5-flash-lite
+Ne-ar-31,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ghormeh sabzi,1,ghormeh sabzi,2,False,ghormeh sabzi,Ghormeh Sabzi,STOP,gemini-3.5-flash-lite
+Ca-sp-08,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,rice,1,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+Sa-en-1,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mash donald's,2,False,mash donald's,Mash Donald's,STOP,gemini-3.5-flash-lite
+Kik-in-24,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,rice,1,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+Ki-pe-32,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+New-ha-09,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,rice cooker,2,False,rice cooker,Rice cooker,STOP,gemini-3.5-flash-lite
+Kik-in-16,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chai,1,False,chai,Chai,STOP,gemini-3.5-flash-lite
+New-su-10,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,khiar-e-golab,1,False,khiar-e-golab,Khiar-e-Golab,STOP,gemini-3.5-flash-lite
+Jod-ch-06,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,arak,1,False,arak,Arak,STOP,gemini-3.5-flash-lite
+Ki-pe-43,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sangak,1,sangak,1,False,sangak,Sangak,STOP,gemini-3.5-flash-lite
+Al-en-08,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bastani sonnati,2,False,bastani sonnati,Bastani Sonnati,STOP,gemini-3.5-flash-lite
+Jod-ch-13,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kabab koobideh,2,False,kabab koobideh,Kabab koobideh,STOP,gemini-3.5-flash-lite
+Ne-ar-36,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chelow kabab,2,False,chelow kabab,Chelow Kabab,STOP,gemini-3.5-flash-lite
+Ca-sp-09,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bastani sonnati,2,False,bastani sonnati,Bastani sonnati,STOP,gemini-3.5-flash-lite
+New-gr-15,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,faloodeh,1,faloodeh,1,False,faloodeh,Faloodeh,STOP,gemini-3.5-flash-lite
+Ca-sp-06,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,lunch,1,lunch,1,False,lunch,Lunch,STOP,gemini-3.5-flash-lite
+New-ch-15,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mirza ghasemi,2,False,mirza ghasemi,Mirza Ghasemi,STOP,gemini-3.5-flash-lite
+Ne-ar-33,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.25,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+New-pe-11,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.75,saffron,1,saffron,1,False,saffron,Saffron,STOP,gemini-3.5-flash-lite
+New-ch-02,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,07:00,1,07:00,1,False,07:00,07:00,STOP,gemini-3.5-flash-lite
+Sa-en-9,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,corn on the cob,8,False,corn on the cob ( بلال - balal),Corn on the cob ( بلال - Balal),STOP,gemini-3.5-flash-lite
+New-az-12,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,khuzestan,1,False,khuzestan,Khuzestan,STOP,gemini-3.5-flash-lite
+Ne-ar-44,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sugar,1,sugar,1,False,sugar,Sugar,STOP,gemini-3.5-flash-lite
+New-as-07,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,fish,0,ghorme sabzi,10,True,ghorme sabzi (with fish) / mahi sabzi / ghalyeh mahi,Ghorme Sabzi (with fish) / Mahi Sabzi / Ghalyeh Mahi,STOP,gemini-3.5-flash-lite
+New-en-05,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mirza ghasemi,2,False,mirza ghasemi,Mirza Ghasemi,STOP,gemini-3.5-flash-lite
+New-am-15,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kaçaç,1,False,kaçaç,Kaçaç,STOP,gemini-3.5-flash-lite
+New-en-07,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,ashpazi-ye man,2,False,ashpazi-ye man,Ashpazi-ye Man,STOP,gemini-3.5-flash-lite
+New-ch-14,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,soup,1,soup,1,False,soup,Soup,STOP,gemini-3.5-flash-lite
+Sa-en-6,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chelo kabab,2,False,chelo kabab,Chelo Kabab,STOP,gemini-3.5-flash-lite
+New-ha-07,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,kebab,1,kebab,1,False,kebab,Kebab,STOP,gemini-3.5-flash-lite
+Ne-ar-39,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,falafel,1,falafel,1,False,falafel,Falafel,STOP,gemini-3.5-flash-lite
+New-ch-05,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,ghalyeh mahi,2,False,ghalyeh mahi,Ghalyeh Mahi,STOP,gemini-3.5-flash-lite
+New-as-02,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,bread,0,nan,3,False,nan (or bread),Nan (or Bread),STOP,gemini-3.5-flash-lite
+New-pe-06,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ghormeh sabzi,1,ghormeh sabzi,2,False,ghormeh sabzi,Ghormeh Sabzi,STOP,gemini-3.5-flash-lite
+New-ch-04,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,soup,1,False,soup,Soup,STOP,gemini-3.5-flash-lite
+Na-ko-11,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,pistachios,1,False,pistachios,Pistachios,STOP,gemini-3.5-flash-lite
+New-su-15,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-ch-08,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,saffron,1,False,saffron,Saffron,STOP,gemini-3.5-flash-lite
+New-en-01,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bolani,1,False,bolani,Bolani,STOP,gemini-3.5-flash-lite
+New-in-03,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,persian cuisine,2,False,persian cuisine,Persian cuisine,STOP,gemini-3.5-flash-lite
+Ne-ar-34,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,rice,1,rice,1,False,rice,Rice,STOP,gemini-3.5-flash-lite
+Na-ko-07,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,lamb,1,False,lamb,Lamb,STOP,gemini-3.5-flash-lite
+Al-en-04,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+New-as-15,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,doogh,1,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+Ki-pe-36,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.5,turkish,1,turkish,1,False,turkish,Turkish,STOP,gemini-3.5-flash-lite
+New-pe-83,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,hokm,1,False,hokm,Hokm,STOP,gemini-3.5-flash-lite
+Kik-in-15,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,manteau,1,chador and manteau,3,False,chador and manteau,Chador and Manteau,STOP,gemini-3.5-flash-lite
+Na-ko-45,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,kish island,1,kish island,2,False,kish island,Kish Island,STOP,gemini-3.5-flash-lite
+Kik-in-07,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,eidi,1,eidi,1,False,eidi,Eidi,STOP,gemini-3.5-flash-lite
+New-gr-82,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,traditional,1,traditional persian music,3,False,traditional persian music,Traditional Persian music,STOP,gemini-3.5-flash-lite
+Na-ko-37,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mashhad,1,False,mashhad,Mashhad,STOP,gemini-3.5-flash-lite
+Na-ko-40,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,3,1,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+New-su-86,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,golestan palace,2,False,golestan palace,Golestan Palace,STOP,gemini-3.5-flash-lite
+New-az-69,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,arak,1,False,arak,Arak,STOP,gemini-3.5-flash-lite
+New-as-80,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,traditional iranian clothing,3,False,traditional iranian clothing,Traditional Iranian clothing,STOP,gemini-3.5-flash-lite
+New-ch-81,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,saffron,5,True,"saffron, sugar, and the quran","Saffron, sugar, and the Quran",STOP,gemini-3.5-flash-lite
+Jod-ch-30,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,haft-seen,1,haft-seen,1,False,haft-seen,Haft-Seen,STOP,gemini-3.5-flash-lite
+New-su-81,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,suit,1,suit,1,False,suit,Suit,STOP,gemini-3.5-flash-lite
+Ne-ar-11,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,nature,1,False,nature,nature,STOP,gemini-3.5-flash-lite
+Ta-pe-32,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,chaharshanbe suri,1,chaharshanbe suri,2,False,chaharshanbe suri,Chaharshanbe Suri,STOP,gemini-3.5-flash-lite
+Na-ko-44,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chaharshanbe suri,2,False,chaharshanbe suri,Chaharshanbe Suri,STOP,gemini-3.5-flash-lite
+Ne-ar-06,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,zavarreh,1,False,zavarreh,Zavarreh,STOP,gemini-3.5-flash-lite
+New-pe-78,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,fajr film festival,1,fajr international film festival,4,False,fajr international film festival,Fajr International Film Festival,STOP,gemini-3.5-flash-lite
+New-ch-79,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tea drinking with friends,4,False,tea drinking with friends,Tea drinking with friends,STOP,gemini-3.5-flash-lite
+Al-en-43,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,watching television,2,False,watching television,Watching television,STOP,gemini-3.5-flash-lite
+New-ch-82,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,20:00,1,False,20:00,20:00,STOP,gemini-3.5-flash-lite
+Na-ko-38,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mehriyeh,1,False,mehriyeh,Mehriyeh,STOP,gemini-3.5-flash-lite
+Jod-ch-28,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,bus,1,bus,1,False,bus,Bus,STOP,gemini-3.5-flash-lite
+New-ch-80,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+Ne-ar-05,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+New-en-87,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,STOP,gemini-3.5-flash-lite
+New-gr-89,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.5,doogh,1,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+Jod-ch-41,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,cafe,1,cafe dating,2,False,cafe dating,Cafe dating,STOP,gemini-3.5-flash-lite
+Jod-ch-42,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,soccer,1,False,soccer,Soccer,STOP,gemini-3.5-flash-lite
+Ne-ar-14,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,home,1,home,1,False,home,Home,STOP,gemini-3.5-flash-lite
+New-in-78,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,shaparak,1,False,shaparak,Shaparak,STOP,gemini-3.5-flash-lite
+Na-ko-42,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,halva,1,False,halva,Halva,STOP,gemini-3.5-flash-lite
+Kik-in-04,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,black flag,2,False,black flag,Black flag,STOP,gemini-3.5-flash-lite
+New-ch-84,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,colorful,1,False,colorful,Colorful,STOP,gemini-3.5-flash-lite
+New-as-76,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.5,backgammon,1,backgammon,1,False,backgammon,Backgammon,STOP,gemini-3.5-flash-lite
+Ca-sp-21,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,7,1,False,7,7,STOP,gemini-3.5-flash-lite
+New-spme-78,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tavalodet mobarak,2,False,tavalodet mobarak,Tavalodet Mobarak,STOP,gemini-3.5-flash-lite
+Al-en-40,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,park,1,laleh park,2,False,laleh park,Laleh Park,STOP,gemini-3.5-flash-lite
+New-pe-76,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,picnic,1,picnicking,1,False,picnicking,Picnicking,STOP,gemini-3.5-flash-lite
+New-am-81,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,8,1,False,8,8,STOP,gemini-3.5-flash-lite
+New-ch-83,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+Al-en-39,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,cake,1,cake,1,False,cake,Cake,STOP,gemini-3.5-flash-lite
+Na-ko-43,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,visiting family,0,iranians celebrate the persian new year,44,True,"iranians celebrate the persian new year (nowruz), which is based on the solar hijri calendar rather than the lunar calendar, by gathering around the haft-sin table, exchanging greetings (like ""eid-e shoma mobarak""), eating traditional dishes like sabzi polo mahi, and visiting family and elders","Iranians celebrate the Persian New Year (Nowruz), which is based on the solar hijri calendar rather than the lunar calendar, by gathering around the Haft-Sin table, exchanging greetings (like ""Eid-e Shoma Mobarak""), eating traditional dishes like Sabzi Polo mahi, and visiting family and elders.",STOP,gemini-3.5-flash-lite
+Kik-in-01,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+Ta-pe-45,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+New-en-76,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mashhad international airport,3,False,mashhad international airport,Mashhad International Airport,STOP,gemini-3.5-flash-lite
+New-pe-85,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,STOP,gemini-3.5-flash-lite
+New-am-83,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.5,setar,1,setar,1,False,setar,Setar,STOP,gemini-3.5-flash-lite
+Ta-pe-42,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,sabzi polo mahi,3,False,sabzi polo mahi,Sabzi Polo Mahi,STOP,gemini-3.5-flash-lite
+Ne-ar-10,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,abgoosht,1,False,abgoosht,Abgoosht,STOP,gemini-3.5-flash-lite
+New-su-77,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,eidi,1,False,eidi,Eidi,STOP,gemini-3.5-flash-lite
+New-ko-07,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,black flag,2,False,black flag,Black flag,STOP,gemini-3.5-flash-lite
+Kik-in-11,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,shah cheragh,2,False,shah cheragh,Shah Cheragh,STOP,gemini-3.5-flash-lite
+New-en-79,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,gilan,1,False,gilan,Gilan,STOP,gemini-3.5-flash-lite
+Kik-in-10,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,STOP,gemini-3.5-flash-lite
+New-in-80,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,eram park,1,eram park,2,False,eram park,Eram Park,STOP,gemini-3.5-flash-lite
+Na-ko-39,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,money,1,money,1,False,money,Money,STOP,gemini-3.5-flash-lite
+New-ch-85,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,black,1,black,1,False,black,Black,STOP,gemini-3.5-flash-lite
+New-pe-86,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,0.4,azadi tower,1,azadi tower,2,False,azadi tower,Azadi Tower,STOP,gemini-3.5-flash-lite
+New-su-82,Holidays/Celebration/Leisure,Iran,English,gemini-3.5-flash-lite,True,1,1.0,white dress,1,white dress,2,False,white dress,White dress,STOP,gemini-3.5-flash-lite
+Kik-in-45,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ball,1,football field,2,False,football field,Football field,STOP,gemini-3.5-flash-lite
+Th-en-12,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Jo-sp-14,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,chess,1,chess,1,False,chess,Chess,STOP,gemini-3.5-flash-lite
+Na-ko-16,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ali daei,1,ali daei,2,False,ali daei,Ali Daei,STOP,gemini-3.5-flash-lite
+Jod-ch-38,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Na-ko-17,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,soccer,1,False,soccer,Soccer,STOP,gemini-3.5-flash-lite
+New-ch-16,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bashu,4,True,"bashu, the little stranger","Bashu, the Little Stranger",STOP,gemini-3.5-flash-lite
+New-ch-17,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,paragliding,1,False,paragliding,Paragliding,STOP,gemini-3.5-flash-lite
+New-en-17,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,vuvuzela,1,False,vuvuzela,Vuvuzela,STOP,gemini-3.5-flash-lite
+New-as-29,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,2,False,football (soccer),Football (Soccer),STOP,gemini-3.5-flash-lite
+Na-ko-22,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,saudi arabia,2,False,saudi arabia,Saudi Arabia,STOP,gemini-3.5-flash-lite
+Jo-sp-09,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,polo,1,False,polo,Polo,STOP,gemini-3.5-flash-lite
+New-az-21,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,alborz,1,False,alborz,Alborz,STOP,gemini-3.5-flash-lite
+Th-en-09,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,persian gulf pro league,4,False,persian gulf pro league,Persian Gulf Pro League,STOP,gemini-3.5-flash-lite
+Ta-pe-30,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,naghade varzeshi,2,False,naghade varzeshi,Naghade Varzeshi,STOP,gemini-3.5-flash-lite
+Gu-ch-07,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,hamed haddadi,1,hamed haddadi,2,False,hamed haddadi,Hamed Haddadi,STOP,gemini-3.5-flash-lite
+New-en-18,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,musical instruments,2,False,musical instruments,Musical instruments,STOP,gemini-3.5-flash-lite
+Na-ko-26,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Th-en-11,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ali daei,1,ali daei,2,False,ali daei,Ali Daei,STOP,gemini-3.5-flash-lite
+Gu-ch-11,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+New-su-28,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,white,1,white,1,False,white,White,STOP,gemini-3.5-flash-lite
+Jo-sp-01,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.75,wrestling,0,football is the most popular,18,True,"football (soccer) is the most popular, and **wrestling** is widely considered the second most popular sport in iran","Football (Soccer) is the most popular, and **Wrestling** is widely considered the second most popular sport in Iran.",STOP,gemini-3.5-flash-lite
+An-ar-36,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,STOP,gemini-3.5-flash-lite
+Jo-sp-02,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Ta-pe-17,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+New-en-23,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,siamand rahman,1,siamand rahman,2,False,siamand rahman,Siamand Rahman,STOP,gemini-3.5-flash-lite
+Na-ko-18,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.5,basketball,1,basketball,1,False,basketball,Basketball,STOP,gemini-3.5-flash-lite
+New-gr-21,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.75,tennis,1,tennis,1,False,tennis,Tennis,STOP,gemini-3.5-flash-lite
+New-en-19,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,azadi stadium,1,azadi stadium,2,False,azadi stadium,Azadi Stadium,STOP,gemini-3.5-flash-lite
+Jod-ch-37,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Ta-pe-25,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,esteghlal vs persepolis,1,esteghlal vs persepolis,3,False,esteghlal vs persepolis,Esteghlal vs Persepolis,STOP,gemini-3.5-flash-lite
+Sa-en-16,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,STOP,gemini-3.5-flash-lite
+New-en-26,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mavoj,3,False,mavoj (the wave),Mavoj (The Wave),STOP,gemini-3.5-flash-lite
+New-su-21,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,walking,1,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+Gu-ch-09,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Kik-in-31,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,freestyle wrestling,2,False,freestyle wrestling,Freestyle Wrestling,STOP,gemini-3.5-flash-lite
+Na-ko-23,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football academies,2,False,football academies,Football academies,STOP,gemini-3.5-flash-lite
+New-az-26,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,hassan yazdani,2,False,hassan yazdani,Hassan Yazdani,STOP,gemini-3.5-flash-lite
+New-su-24,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Gu-ch-15,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+Na-ko-24,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mast-o-khiar,1,False,mast-o-khiar,Mast-o-Khiar,STOP,gemini-3.5-flash-lite
+Kik-in-34,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,2,False,football (soccer),Football (Soccer),STOP,gemini-3.5-flash-lite
+Kik-in-36,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,queiroz,1,carlos queiroz,2,False,carlos queiroz,Carlos Queiroz,STOP,gemini-3.5-flash-lite
+Na-ko-20,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-am-27,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kimia alizadeh,2,False,kimia alizadeh,Kimia Alizadeh,STOP,gemini-3.5-flash-lite
+New-as-30,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-pe-16,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,STOP,gemini-3.5-flash-lite
+Jo-sp-13,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,jet skiing,2,False,jet skiing,Jet skiing,STOP,gemini-3.5-flash-lite
+An-ar-35,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,adel ferdosipour,0,adolreza javadforoosh,7,False,adolreza javadforoosh (commonly known as adel ferdosipour),Adolreza Javadforoosh (commonly known as Adel Ferdosipour),STOP,gemini-3.5-flash-lite
+New-pe-20,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,STOP,gemini-3.5-flash-lite
+Ta-pe-23,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,zurkhaneh workout,2,False,zurkhaneh workout,Zurkhaneh workout,STOP,gemini-3.5-flash-lite
+Ta-pe-22,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,walking,1,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+Kik-in-37,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,persepolis vs esteghlal,3,False,persepolis vs esteghlal,Persepolis vs Esteghlal,STOP,gemini-3.5-flash-lite
+New-ha-19,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,horse,1,horse,1,False,horse,Horse,STOP,gemini-3.5-flash-lite
+Kik-in-38,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,esteghlal vs persepolis,1,esteghlal vs persepolis,3,False,esteghlal vs persepolis,Esteghlal vs Persepolis,STOP,gemini-3.5-flash-lite
+Th-en-03,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,persian gulf pro league,4,False,persian gulf pro league,Persian Gulf Pro League,STOP,gemini-3.5-flash-lite
+An-ar-43,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,cafe,1,cafes,1,False,cafes,Cafes,STOP,gemini-3.5-flash-lite
+New-su-17,Sport,Iran,English,gemini-3.5-flash-lite,True,1,1.0,fitness,0,football pitches,10,True,"football pitches, volleyball courts, basketball courts, and outdoor fitness equipment","Football pitches, volleyball courts, basketball courts, and outdoor fitness equipment",STOP,gemini-3.5-flash-lite
+New-ch-23,Sport,Iran,English,gemini-3.5-flash-lite,True,1,0.5,alamian,1,nooshad alamian,2,False,nooshad alamian,Nooshad Alamian,STOP,gemini-3.5-flash-lite
+Na-ko-30,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,counter-strike: global offensive,3,False,counter-strike: global offensive,Counter-Strike: Global Offensive,STOP,gemini-3.5-flash-lite
+Kik-in-35,Sport,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,soccer,1,False,soccer,Soccer,STOP,gemini-3.5-flash-lite
+New-en-75,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.5,16,1,16,1,False,16,16,STOP,gemini-3.5-flash-lite
+New-en-72,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,gama,1,False,gama,Gama,STOP,gemini-3.5-flash-lite
+An-ar-02,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.2,cafeteria,1,university cafeteria,3,False,university cafeteria (sلف),University cafeteria (Sلف),STOP,gemini-3.5-flash-lite
+New-ch-66,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,0,1,0,1,False,0,0,STOP,gemini-3.5-flash-lite
+Ki-pe-24,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,arabic,1,arabic,1,False,arabic,Arabic,STOP,gemini-3.5-flash-lite
+New-ch-73,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,scientific clubs,2,False,scientific clubs,Scientific clubs,STOP,gemini-3.5-flash-lite
+Ji-ko-44,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,evin,1,False,evin,Evin,STOP,gemini-3.5-flash-lite
+New-en-70,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Al-en-16,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,3,1,False,3,3,STOP,gemini-3.5-flash-lite
+New-in-62,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sharif university of technology,1,sharif university of technology,4,False,sharif university of technology,Sharif University of Technology,STOP,gemini-3.5-flash-lite
+New-su-33,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,modest clothing complying with islamic dress codes,8,False,modest clothing complying with islamic dress codes (hijab),Modest clothing complying with Islamic dress codes (Hijab),STOP,gemini-3.5-flash-lite
+Gu-ch-31,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Jo-sp-36,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Ji-ko-36,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,english,1,False,english,English,STOP,gemini-3.5-flash-lite
+Jo-sp-31,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.5,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+New-ch-71,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,25,1,25,1,False,25,25,STOP,gemini-3.5-flash-lite
+New-en-69,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,hafez,1,False,hafez,Hafez,STOP,gemini-3.5-flash-lite
+Th-en-58,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,calculus,1,False,calculus,Calculus,STOP,gemini-3.5-flash-lite
+Jo-sp-32,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,football,1,football,1,False,football,Football,STOP,gemini-3.5-flash-lite
+New-in-63,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran university of medical sciences,5,False,tehran university of medical sciences,Tehran University of Medical Sciences,STOP,gemini-3.5-flash-lite
+Nu-in-11,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+Ni-en-12,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.75,university of tehran,1,university of tehran,3,False,university of tehran,University of Tehran,STOP,gemini-3.5-flash-lite
+Ni-en-06,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Ji-ko-34,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,walking,1,False,walking,Walking,STOP,gemini-3.5-flash-lite
+New-ch-75,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,90,1,90,1,False,90,90,STOP,gemini-3.5-flash-lite
+Gu-ch-40,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,12:30,1,False,12:30,12:30,STOP,gemini-3.5-flash-lite
+Tmp-ar-04,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,homework,1,False,homework,Homework,STOP,gemini-3.5-flash-lite
+New-ch-70,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,islamic ideology,2,False,islamic ideology,Islamic Ideology,STOP,gemini-3.5-flash-lite
+Gu-ch-33,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+New-pe-74,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,free,1,free,1,False,free,Free,STOP,gemini-3.5-flash-lite
+New-ch-74,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,dormitory,1,university dormitories,2,False,university dormitories,University dormitories,STOP,gemini-3.5-flash-lite
+An-ar-03,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Ni-en-02,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.5,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Th-en-48,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,20,1,20,1,False,20,20,STOP,gemini-3.5-flash-lite
+New-pe-66,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,quran classes,2,False,quran classes,Quran classes,STOP,gemini-3.5-flash-lite
+Ji-ko-40,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,socialize,1,False,socialize,Socialize,STOP,gemini-3.5-flash-lite
+Jo-sp-43,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+New-am-41,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,ninth grade,2,False,ninth grade,Ninth grade,STOP,gemini-3.5-flash-lite
+New-ch-72,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,engineering,1,engineering,1,False,engineering,Engineering,STOP,gemini-3.5-flash-lite
+Nu-in-06,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,05/02,1,False,05/02,05/02,STOP,gemini-3.5-flash-lite
+New-spme-27,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,10.8 years,2,False,10.8 years,10.8 years,STOP,gemini-3.5-flash-lite
+Tmp-ar-02,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,bus,1,bus,1,False,bus,Bus,STOP,gemini-3.5-flash-lite
+Ni-en-15,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,12,1,12,1,False,12,12,STOP,gemini-3.5-flash-lite
+Al-en-21,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,STOP,gemini-3.5-flash-lite
+New-ch-64,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,20,1,20,1,False,20,20,STOP,gemini-3.5-flash-lite
+Ji-ko-35,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,konkoor tutoring,9,True,konkoor tutoring/cram schools (or *madrese-ye non-dolati* / non-governmental schools),Konkoor tutoring/cram schools (or *Madrese-ye Non-Dolati* / non-governmental schools),STOP,gemini-3.5-flash-lite
+Ni-en-11,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Ji-ko-42,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,general and specialized subjects,4,False,general and specialized subjects,General and specialized subjects,STOP,gemini-3.5-flash-lite
+Ki-pe-30,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+Gu-ch-38,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,4,1,4,1,False,4,4,STOP,gemini-3.5-flash-lite
+Nu-in-05,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,9,1,9,1,False,9,9,STOP,gemini-3.5-flash-lite
+An-ar-09,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.25,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+New-en-68,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,expulsion,1,expulsion,1,False,expulsion,Expulsion,STOP,gemini-3.5-flash-lite
+New-spme-37,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.5,engineering,1,engineering,1,False,engineering,Engineering,STOP,gemini-3.5-flash-lite
+New-pe-65,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.5,13,1,13,1,False,13,13,STOP,gemini-3.5-flash-lite
+Gu-ch-41,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,0,1,0,1,False,0,0,STOP,gemini-3.5-flash-lite
+Ni-en-09,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.25,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Ji-ko-31,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.25,school,1,school,1,False,school,School,STOP,gemini-3.5-flash-lite
+Ni-en-13,Education,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,22,1,22,1,False,22,22,STOP,gemini-3.5-flash-lite
+New-am-34,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,home,1,home,1,False,home,Home,STOP,gemini-3.5-flash-lite
+New-su-45,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,05/02,1,False,05/02,05/02,STOP,gemini-3.5-flash-lite
+Ki-pe-17,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,high school,1,high school,2,False,high school,High school,STOP,gemini-3.5-flash-lite
+Al-en-19,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,english,1,english,1,False,english,English,STOP,gemini-3.5-flash-lite
+Jo-sp-39,Education,Iran,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+Th-en-49,Education,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,konkur,1,False,konkur,Konkur,STOP,gemini-3.5-flash-lite
+Jo-sp-21,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,13:00,1,13:00,1,False,13:00,13:00,STOP,gemini-3.5-flash-lite
+Jo-sp-18,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,26,1,26,1,False,26,26,STOP,gemini-3.5-flash-lite
+Ne-ar-18,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,17:00,1,17:00,1,False,17:00,17:00,STOP,gemini-3.5-flash-lite
+Ji-ko-15,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Ni-en-19,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,6,1,6,1,False,6,6,STOP,gemini-3.5-flash-lite
+New-ch-38,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,bandar abbas,1,bandar abbas,2,False,bandar abbas,Bandar Abbas,STOP,gemini-3.5-flash-lite
+New-gr-58,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,teacher,1,False,teacher,Teacher,STOP,gemini-3.5-flash-lite
+New-ko-08,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tutoring,1,False,tutoring,Tutoring,STOP,gemini-3.5-flash-lite
+Ji-ko-02,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,thursday,1,thursday,1,False,thursday,Thursday,STOP,gemini-3.5-flash-lite
+Th-en-24,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+Jod-ch-60,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,8,1,8,1,False,8,8,STOP,gemini-3.5-flash-lite
+New-su-51,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,fishing,1,fishing,1,False,fishing,Fishing,STOP,gemini-3.5-flash-lite
+Ki-pe-53,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,07:00,1,07:00,1,False,07:00,07:00,STOP,gemini-3.5-flash-lite
+Th-en-27,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,oil,1,oil and gas,3,False,oil and gas,Oil and gas,STOP,gemini-3.5-flash-lite
+Ni-en-17,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,44,1,44,1,False,44,44,STOP,gemini-3.5-flash-lite
+Th-en-21,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,insurance,1,insurance,1,False,insurance,Insurance,STOP,gemini-3.5-flash-lite
+New-su-60,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,cheese and bread,1,bread and cheese,3,False,bread and cheese,Bread and cheese,STOP,gemini-3.5-flash-lite
+New-ch-32,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,office,1,microsoft office,2,False,microsoft office,Microsoft Office,STOP,gemini-3.5-flash-lite
+Ne-ar-26,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,oil company,1,national iranian oil company,4,False,national iranian oil company,National Iranian Oil Company,STOP,gemini-3.5-flash-lite
+Ji-ko-03,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+Jod-ch-50,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,43,1,False,43,43,STOP,gemini-3.5-flash-lite
+New-en-38,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,information technology and software development,5,False,information technology and software development,Information technology and software development,STOP,gemini-3.5-flash-lite
+New-in-33,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,kerman,1,kerman,1,False,kerman,Kerman,STOP,gemini-3.5-flash-lite
+New-su-57,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,sheep,1,sheep,1,False,sheep,Sheep,STOP,gemini-3.5-flash-lite
+Ne-ar-17,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,STOP,gemini-3.5-flash-lite
+New-pe-45,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,reduced hours,2,False,reduced hours,Reduced hours,STOP,gemini-3.5-flash-lite
+New-su-58,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.2,sheep,1,sheep,1,False,sheep,Sheep,STOP,gemini-3.5-flash-lite
+New-ko-10,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,snapp,0,driving for ride-hailing services,8,False,driving for ride-hailing services (like snapp or tapsi),Driving for ride-hailing services (like Snapp or Tapsi),STOP,gemini-3.5-flash-lite
+New-am-54,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,khorasan,1,False,khorasan,Khorasan,STOP,gemini-3.5-flash-lite
+Jod-ch-57,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,60,1,60,1,False,60,60,STOP,gemini-3.5-flash-lite
+New-ch-31,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,STOP,gemini-3.5-flash-lite
+Ne-ar-16,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+New-am-60,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,camel,1,False,camel,Camel,STOP,gemini-3.5-flash-lite
+New-as-58,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Jo-sp-19,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,khuzestan,1,khuzestan,1,False,khuzestan,Khuzestan,STOP,gemini-3.5-flash-lite
+Ji-ko-07,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,cafazaar,1,False,cafazaar,Cafazaar,STOP,gemini-3.5-flash-lite
+New-in-34,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,khuzestan,1,False,khuzestan,Khuzestan,STOP,gemini-3.5-flash-lite
+Jod-ch-58,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,doctor,1,doctors,1,False,doctors,Doctors,STOP,gemini-3.5-flash-lite
+Ne-ar-25,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,oil and gas,1,oil and gas,3,False,oil and gas,Oil and gas,STOP,gemini-3.5-flash-lite
+New-am-53,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,gilan,1,gilan,1,False,gilan,Gilan,STOP,gemini-3.5-flash-lite
+Jod-ch-48,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chelo kabab,2,False,chelo kabab,Chelo kabab,STOP,gemini-3.5-flash-lite
+Jod-ch-61,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,teacher,1,teacher,1,False,teacher,Teacher,STOP,gemini-3.5-flash-lite
+Jod-ch-62,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,engineering,1,engineering,1,False,engineering,Engineering,STOP,gemini-3.5-flash-lite
+Nu-in-40,Work life,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+New-su-59,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kafiyeh,1,False,kafiyeh,Kafiyeh,STOP,gemini-3.5-flash-lite
+New-gr-47,Work life,Iran,English,gemini-3.5-flash-lite,True,1,0.5,15,1,15,1,False,15,15,STOP,gemini-3.5-flash-lite
+Ji-ko-14,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,petroleum,1,False,petroleum,Petroleum,STOP,gemini-3.5-flash-lite
+Th-en-22,Work life,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,stagflation and currency collapse,5,False,stagflation and currency collapse (2018–present),Stagflation and currency collapse (2018–present),STOP,gemini-3.5-flash-lite
+New-spme-60,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,friday,1,friday,1,False,friday,Friday,STOP,gemini-3.5-flash-lite
+New-ko-04,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,video games,2,False,video games,Video games,STOP,gemini-3.5-flash-lite
+New-ha-66,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,tehran,1,False,tehran,Tehran,STOP,gemini-3.5-flash-lite
+Ji-ko-24,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,park,1,amusement parks,2,False,amusement parks,Amusement parks,STOP,gemini-3.5-flash-lite
+Ji-ko-25,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,yalda night,2,False,yalda night,Yalda Night,STOP,gemini-3.5-flash-lite
+New-ch-51,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,apartment,1,False,apartment,Apartment,STOP,gemini-3.5-flash-lite
+New-en-47,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,qanat,1,False,qanat,Qanat,STOP,gemini-3.5-flash-lite
+New-spme-68,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.5,doogh,1,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-am-74,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.5,navad,1,navad,1,False,navad,Navad,STOP,gemini-3.5-flash-lite
+New-en-49,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pahlavi,1,pahlavi,1,False,pahlavi,Pahlavi,STOP,gemini-3.5-flash-lite
+Th-en-44,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,kebab,1,chelo kebab,2,False,chelo kebab,Chelo Kebab,STOP,gemini-3.5-flash-lite
+New-en-56,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,azerbaijani,1,False,azerbaijani,Azerbaijani,STOP,gemini-3.5-flash-lite
+New-spme-65,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,iran does not have an independence day,7,False,iran does not have an independence day,Iran does not have an Independence Day.,STOP,gemini-3.5-flash-lite
+Gu-ch-16,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.2,3,1,3.3,1,False,3.3,3.3,STOP,gemini-3.5-flash-lite
+New-ch-54,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,STOP,gemini-3.5-flash-lite
+Ca-sp-43,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Ca-sp-45,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,mashhad,1,False,mashhad,Mashhad,STOP,gemini-3.5-flash-lite
+New-az-60,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,grandparents,1,False,grandparents,Grandparents,STOP,gemini-3.5-flash-lite
+New-ko-05,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,doll,1,barbie dolls,2,False,barbie dolls,Barbie dolls,STOP,gemini-3.5-flash-lite
+Ca-sp-42,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,39,1,False,39,39,STOP,gemini-3.5-flash-lite
+Ca-sp-38,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,apartment,1,apartment,1,False,apartment,Apartment,STOP,gemini-3.5-flash-lite
+New-pe-49,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,mosque,1,mosque,1,False,mosque,Mosque,STOP,gemini-3.5-flash-lite
+New-ko-01,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bob the builder,3,False,bob the builder,Bob the Builder,STOP,gemini-3.5-flash-lite
+Ji-ko-22,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,gifts,1,False,gifts,Gifts,STOP,gemini-3.5-flash-lite
+Sa-en-31,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,cat,1,cat,1,False,cat,Cat,STOP,gemini-3.5-flash-lite
+New-su-71,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.5,money,1,money,1,False,money,Money,STOP,gemini-3.5-flash-lite
+Th-en-39,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,backgammon,0,shesh-besh,2,False,shesh-besh (backgammon),Shesh-besh (Backgammon),STOP,gemini-3.5-flash-lite
+Th-en-38,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+Ca-sp-41,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.5,home,1,family homes,2,False,family homes,Family homes,STOP,gemini-3.5-flash-lite
+Nu-in-20,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,10/08,1,False,10/08,10/08,STOP,gemini-3.5-flash-lite
+New-en-59,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.6666666666666666,canada,1,canada,1,False,canada,Canada,STOP,gemini-3.5-flash-lite
+Sa-en-32,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,capital,1,False,capital,Capital,STOP,gemini-3.5-flash-lite
+Ta-pe-13,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,4,1,False,4,4,STOP,gemini-3.5-flash-lite
+Th-en-43,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1,1,False,1,1,STOP,gemini-3.5-flash-lite
+Th-en-37,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,25,1,25,1,False,25,25,STOP,gemini-3.5-flash-lite
+New-en-50,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,mohammadi,1,mohammadi,1,False,mohammadi,Mohammadi,STOP,gemini-3.5-flash-lite
+New-as-64,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,STOP,gemini-3.5-flash-lite
+Th-en-36,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,picnicing in parks,3,False,picnicing in parks,Picnicing in parks,STOP,gemini-3.5-flash-lite
+Th-en-41,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,29,1,False,29,29,STOP,gemini-3.5-flash-lite
+Ji-ko-19,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,carnation,1,False,carnation,Carnation,STOP,gemini-3.5-flash-lite
+Th-en-45,Family,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,picnic,1,picnicking,1,False,picnicking,Picnicking,STOP,gemini-3.5-flash-lite
+Gu-ch-18,Family,Iran,English,gemini-3.5-flash-lite,True,1,1.0,2,1,2,1,False,2,2,STOP,gemini-3.5-flash-lite
+Ji-ko-16,Family,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,zayandeh,1,False,zayandeh,Zayandeh,STOP,gemini-3.5-flash-lite
+New-as-14,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,ash reshteh,1,ash reshteh,2,False,ash reshteh,Ash Reshteh,STOP,gemini-3.5-flash-lite
+Ki-pe-34,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+New-su-01,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,lavashak,1,False,lavashak,Lavashak,STOP,gemini-3.5-flash-lite
+Sa-en-13,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,golmirza,1,False,golmirza,Golmirza,STOP,gemini-3.5-flash-lite
+New-gr-05,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,doogh,1,False,doogh,Doogh,STOP,gemini-3.5-flash-lite
+New-gr-13,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,tea,1,tea,1,False,tea,Tea,STOP,gemini-3.5-flash-lite
+Ki-pe-40,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,kalleh pacheh,2,False,kalleh pacheh,Kalleh Pacheh,STOP,gemini-3.5-flash-lite
+New-spme-05,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,bastani sonnati,2,False,bastani sonnati,Bastani sonnati,STOP,gemini-3.5-flash-lite
+New-pe-02,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,pistachio,1,pistachio,1,False,pistachio,Pistachio,STOP,gemini-3.5-flash-lite
+Jod-ch-07,Food,Iran,English,gemini-3.5-flash-lite,True,1,1.0,1,1,1.5,1,False,1.5,1.5,STOP,gemini-3.5-flash-lite
+New-ch-09,Food,Iran,English,gemini-3.5-flash-lite,True,1,0.3333333333333333,abgoosht,1,abgoosht,1,False,abgoosht,Abgoosht,STOP,gemini-3.5-flash-lite
+Al-en-06,Food,Iran,English,gemini-3.5-flash-lite,True,0,0.0,,0,chelo kebab,2,False,chelo kebab,Chelo Kebab,STOP,gemini-3.5-flash-lite

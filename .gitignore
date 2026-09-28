@@ -1,0 +1,13 @@
+.env
+# official BLEnD dataset (downloaded by run_all.sh). NOTE: do not write 'BLEnD/' here: on macOS git
+# ignores case, and that pattern would also ignore the code package blend/
+external/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.pytest_cache/
+.idea/
+test_report.md
+__MACOSX/
+._*

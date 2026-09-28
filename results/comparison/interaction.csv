@@ -1,0 +1,9 @@
+country,model,scoring,gee_wald_chi2,gee_df,gee_p,homog_chi2,homog_dof,homog_p_asymptotic,homog_p_permutation,homog_min_expected,homog_n_discordant
+Azerbaijan,GPT-4.1,official,11.6907,5,0.0393,11.6573,5,0.0398,0.0346,5.3103,116
+Azerbaijan,GPT-4.1,strict,6.4611,5,0.2639,5.6090,5,0.3461,0.3516,5.0611,131
+Azerbaijan,Gemini 3.5 Flash-Lite,official,14.2911,5,0.0139,12.0460,5,0.0342,0.0345,3.4202,119
+Azerbaijan,Gemini 3.5 Flash-Lite,strict,14.0384,5,0.0154,11.7188,5,0.0389,0.0360,3.1746,126
+Iran,GPT-4.1,official,6.9487,5,0.2245,6.4528,5,0.2646,0.2739,5.1290,124
+Iran,GPT-4.1,strict,6.2467,5,0.2830,6.4428,5,0.2655,0.2771,6.5034,149
+Iran,Gemini 3.5 Flash-Lite,official,25.3349,5,0.0001,23.0771,5,0.0003,0.0004,8.1522,184
+Iran,Gemini 3.5 Flash-Lite,strict,20.1172,5,0.0012,19.3702,5,0.0016,0.0016,9.4972,179

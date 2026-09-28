@@ -1,0 +1,943 @@
+model_key,id,topic,response_raw,response_language,binary_score
+gemini-3.5-flash-lite,Al-en-01,Food,Sıyıq,uncertain,0
+gemini-3.5-flash-lite,Al-en-02,Food,Bişmiş Noxud,Azerbaijani,0
+gemini-3.5-flash-lite,Al-en-04,Food,Alma,uncertain,1
+gemini-3.5-flash-lite,Al-en-06,Food,Qutab,uncertain,0
+gemini-3.5-flash-lite,Al-en-08,Food,Fast-food,English,0
+gemini-3.5-flash-lite,Al-en-09,Food,Pambıq konfet,Azerbaijani,0
+gemini-3.5-flash-lite,Al-en-16,Education,3,uncertain,1
+gemini-3.5-flash-lite,Al-en-17,Education,Şahmat,uncertain,0
+gemini-3.5-flash-lite,Al-en-18,Education,Musiqi,uncertain,0
+gemini-3.5-flash-lite,Al-en-19,Education,Rus dili,uncertain,1
+gemini-3.5-flash-lite,Al-en-21,Education,Riyaziyyat,uncertain,1
+gemini-3.5-flash-lite,Al-en-34,Holidays/Celebration/Leisure,Şam ağacı bəzəyirlər,Azerbaijani,0
+gemini-3.5-flash-lite,Al-en-38,Holidays/Celebration/Leisure,Xaş,uncertain,0
+gemini-3.5-flash-lite,Al-en-39,Holidays/Celebration/Leisure,Tort,uncertain,1
+gemini-3.5-flash-lite,Al-en-40,Holidays/Celebration/Leisure,Bakı Bulvarı,uncertain,1
+gemini-3.5-flash-lite,Al-en-43,Holidays/Celebration/Leisure,Kinoteatr,uncertain,1
+gemini-3.5-flash-lite,An-ar-02,Education,Universitet yeməkxanalarında,Azerbaijani,1
+gemini-3.5-flash-lite,An-ar-03,Education,6,uncertain,1
+gemini-3.5-flash-lite,An-ar-08,Education,6,uncertain,1
+gemini-3.5-flash-lite,An-ar-09,Education,3,uncertain,1
+gemini-3.5-flash-lite,An-ar-34,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,An-ar-35,Sport,İntiqam Şahvələdoğlu,Azerbaijani,0
+gemini-3.5-flash-lite,An-ar-36,Sport,Qarabağ FK,Azerbaijani,1
+gemini-3.5-flash-lite,An-ar-43,Sport,Kafelər və idman barları,Azerbaijani,1
+gemini-3.5-flash-lite,Ca-sp-05,Food,3,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-06,Food,Nahar,uncertain,0
+gemini-3.5-flash-lite,Ca-sp-08,Food,Duz,uncertain,0
+gemini-3.5-flash-lite,Ca-sp-09,Food,Paxlava,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-11,Food,Bazar,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-14,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-19,Holidays/Celebration/Leisure,Alkoqollu içkilər,Azerbaijani,0
+gemini-3.5-flash-lite,Ca-sp-21,Holidays/Celebration/Leisure,8,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-29,Holidays/Celebration/Leisure,"Şam ağacının bəzədilməsi, Şaxta baba və Qızılqanın gəlişi, süfrəyə paxlava və müxtəlif nemətlərin düzülməsi.",Azerbaijani,0
+gemini-3.5-flash-lite,Ca-sp-38,Family,Mənzil,Azerbaijani,1
+gemini-3.5-flash-lite,Ca-sp-42,Family,126,uncertain,0
+gemini-3.5-flash-lite,Ca-sp-43,Family,2,uncertain,1
+gemini-3.5-flash-lite,Ca-sp-45,Family,Azərbaycan,Azerbaijani,0
+gemini-3.5-flash-lite,Gu-ch-05,Sport,Şahmat,uncertain,0
+gemini-3.5-flash-lite,Gu-ch-06,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-07,Sport,Rasim Başak,uncertain,0
+gemini-3.5-flash-lite,Gu-ch-08,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-09,Sport,Gymnastics,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-11,Sport,Güləş,Azerbaijani,1
+gemini-3.5-flash-lite,Gu-ch-15,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-16,Family,"3,9",uncertain,0
+gemini-3.5-flash-lite,Gu-ch-18,Family,2,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-31,Education,4,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-32,Education,9,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-33,Education,7,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-38,Education,4,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-40,Education,13:00,uncertain,1
+gemini-3.5-flash-lite,Gu-ch-41,Education,0,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-02,Work life,Cümə,Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-03,Work life,Bakı,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-07,Work life,PAŞA Holding,uncertain,0
+gemini-3.5-flash-lite,Ji-ko-08,Work life,40,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-09,Work life,Şirniyyat,uncertain,0
+gemini-3.5-flash-lite,Ji-ko-14,Work life,Neft,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-15,Work life,1.0,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-16,Family,Çilləxana,Azerbaijani,0
+gemini-3.5-flash-lite,Ji-ko-19,Family,Qızılgül,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-22,Family,Valideynlərə hədiyyə,Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-24,Family,Naftalan,uncertain,0
+gemini-3.5-flash-lite,Ji-ko-26,Family,"Təhsil almaq, işləmək və evlənmək.",Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-27,Family,Şirniyyat,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-28,Family,Çillə,Azerbaijani,0
+gemini-3.5-flash-lite,Ji-ko-29,Family,1 yaş,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-31,Education,Kursda,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-33,Education,Evə,Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-34,Education,Piyada,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-35,Education,Repetitorluq,uncertain,0
+gemini-3.5-flash-lite,Ji-ko-36,Education,Abituriyent hazırlığı kursları,Azerbaijani,0
+gemini-3.5-flash-lite,Ji-ko-37,Education,Məktəb forması,Azerbaijani,0
+gemini-3.5-flash-lite,Ji-ko-38,Education,Tibb,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-39,Education,Piano,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-40,Education,İstirahət edirlər,Azerbaijani,0
+gemini-3.5-flash-lite,Ji-ko-41,Education,Məktəbli geyim formasının bir hissəsi olan klassik tərzi və ya səliqəli gündəlik üslubda ayaqqabılar.,Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-42,Education,"Azərbaycan dilində oxuyub-anlama, riyaziyyat və xarici dil",Azerbaijani,1
+gemini-3.5-flash-lite,Ji-ko-44,Education,Bakı,uncertain,1
+gemini-3.5-flash-lite,Ji-ko-45,Education,Konsertləri,Azerbaijani,0
+gemini-3.5-flash-lite,Jo-sp-01,Sport,Futbol,uncertain,0
+gemini-3.5-flash-lite,Jo-sp-02,Sport,Şahmat,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-09,Sport,Atçılıq,uncertain,0
+gemini-3.5-flash-lite,Jo-sp-13,Sport,Üzgüçülük,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-18,Work life,21,uncertain,0
+gemini-3.5-flash-lite,Jo-sp-19,Work life,Aran bölgəsi,Azerbaijani,0
+gemini-3.5-flash-lite,Jo-sp-21,Work life,13:00,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-31,Education,14:00,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-32,Education,Futbol,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-36,Education,12,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-37,Education,10,uncertain,0
+gemini-3.5-flash-lite,Jo-sp-39,Education,6,uncertain,1
+gemini-3.5-flash-lite,Jo-sp-43,Education,3,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-01,Food,"Çəngəl, bıçaq və qaşıq",Azerbaijani,1
+gemini-3.5-flash-lite,Jod-ch-04,Food,Coca-Cola,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-06,Food,Araq,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-07,Food,"1,5",uncertain,1
+gemini-3.5-flash-lite,Jod-ch-09,Food,13:00,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-12,Food,Dovga,uncertain,0
+gemini-3.5-flash-lite,Jod-ch-13,Food,Dönər,Azerbaijani,1
+gemini-3.5-flash-lite,Jod-ch-15,Food,Balıq,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-16,Holidays/Celebration/Leisure,"""Jara"" music festivali",uncertain,0
+gemini-3.5-flash-lite,Jod-ch-28,Holidays/Celebration/Leisure,Avtobus,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-30,Holidays/Celebration/Leisure,"""Qız Qalası"" və ""Buta"" elementləri",Azerbaijani,1
+gemini-3.5-flash-lite,Jod-ch-37,Sport,Gimnastika,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-38,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-41,Holidays/Celebration/Leisure,Sosial media və internetdən istifadə,Azerbaijani,0
+gemini-3.5-flash-lite,Jod-ch-42,Holidays/Celebration/Leisure,Sosial şəbəkələr və internet,Azerbaijani,0
+gemini-3.5-flash-lite,Jod-ch-46,Work life,1.0,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-48,Work life,Ev yeməyi,Azerbaijani,0
+gemini-3.5-flash-lite,Jod-ch-50,Work life,45,uncertain,0
+gemini-3.5-flash-lite,Jod-ch-51,Work life,Avtobus,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-54,Work life,3,uncertain,0
+gemini-3.5-flash-lite,Jod-ch-56,Work life,63,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-57,Work life,65,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-58,Work life,Müəllim,Azerbaijani,1
+gemini-3.5-flash-lite,Jod-ch-60,Work life,8,uncertain,1
+gemini-3.5-flash-lite,Jod-ch-61,Work life,Müəllimlik,Azerbaijani,1
+gemini-3.5-flash-lite,Jod-ch-62,Work life,Sürücü,uncertain,0
+gemini-3.5-flash-lite,Ki-pe-17,Education,11 il,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-24,Education,Rus dili,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-30,Education,Bazar,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-32,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-34,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-36,Food,Türkiyə,Azerbaijani,1
+gemini-3.5-flash-lite,Ki-pe-39,Food,Kabab,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-43,Food,Təndir,Azerbaijani,0
+gemini-3.5-flash-lite,Ki-pe-51,Work life,18:00,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-53,Work life,09:00,uncertain,1
+gemini-3.5-flash-lite,Kik-in-01,Holidays/Celebration/Leisure,Novruz bayramı,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-02,Holidays/Celebration/Leisure,"Abidələri və məzarları ziyarət etmək, konsertlərdə, festivallarda və paradlarda iştirak etmək, rəsmi tədbirlərə qoşulmaq və bayraqları dalğalandırmaq.",Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-06,Holidays/Celebration/Leisure,Nişan,uncertain,1
+gemini-3.5-flash-lite,Kik-in-07,Holidays/Celebration/Leisure,Şirniyyat,uncertain,1
+gemini-3.5-flash-lite,Kik-in-10,Holidays/Celebration/Leisure,Bakı (İçərişəhər),Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-11,Holidays/Celebration/Leisure,Atəşgah,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-15,Holidays/Celebration/Leisure,Milli geyimlər,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-16,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,Kik-in-17,Food,Xurma,uncertain,1
+gemini-3.5-flash-lite,Kik-in-24,Food,Kartof-fri,uncertain,1
+gemini-3.5-flash-lite,Kik-in-31,Sport,Güləş,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-34,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Kik-in-35,Sport,"Ev məşqləri, qaçış və velosiped sürüşü",Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-36,Sport,Qurban Qurbanov,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-37,Sport,Qarabağ vs Neftçi,Azerbaijani,1
+gemini-3.5-flash-lite,Kik-in-44,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Kik-in-45,Sport,Futbol meydançası,Azerbaijani,1
+gemini-3.5-flash-lite,Na-ko-02,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,Na-ko-04,Food,Kəllə-paça,Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-05,Food,Plov,uncertain,0
+gemini-3.5-flash-lite,Na-ko-07,Food,Mal əti,Azerbaijani,1
+gemini-3.5-flash-lite,Na-ko-08,Food,Nar və heyva,Azerbaijani,1
+gemini-3.5-flash-lite,Na-ko-09,Food,Düyü,uncertain,0
+gemini-3.5-flash-lite,Na-ko-15,Food,Piti,uncertain,1
+gemini-3.5-flash-lite,Na-ko-16,Sport,Mahir Emreli,uncertain,1
+gemini-3.5-flash-lite,Na-ko-17,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-18,Sport,Voleybol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-19,Sport,Polina Rahimova,uncertain,0
+gemini-3.5-flash-lite,Na-ko-20,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-22,Sport,Ermənistan,Azerbaijani,1
+gemini-3.5-flash-lite,Na-ko-23,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-24,Sport,Semicka,uncertain,0
+gemini-3.5-flash-lite,Na-ko-25,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-26,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Na-ko-28,Sport,Fuad Quliyev,Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-29,Sport,Kamran Cəfərov,Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-33,Holidays/Celebration/Leisure,Plov,uncertain,1
+gemini-3.5-flash-lite,Na-ko-37,Holidays/Celebration/Leisure,Qəbələ,Azerbaijani,1
+gemini-3.5-flash-lite,Na-ko-38,Holidays/Celebration/Leisure,Pul,uncertain,0
+gemini-3.5-flash-lite,Na-ko-39,Holidays/Celebration/Leisure,Pul,uncertain,1
+gemini-3.5-flash-lite,Na-ko-40,Holidays/Celebration/Leisure,3,uncertain,1
+gemini-3.5-flash-lite,Na-ko-41,Holidays/Celebration/Leisure,Əklil,Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-42,Holidays/Celebration/Leisure,Plov,uncertain,1
+gemini-3.5-flash-lite,Na-ko-44,Holidays/Celebration/Leisure,Dünya Azərbaycanlılarının Həmrəyliyi Günü və Yeni ilqabağı (31 dekabr),Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-45,Holidays/Celebration/Leisure,Qəbələ,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-05,Holidays/Celebration/Leisure,Novruz bayramı,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-06,Holidays/Celebration/Leisure,Xurma,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-09,Holidays/Celebration/Leisure,Şəkərbura,Azerbaijani,0
+gemini-3.5-flash-lite,Ne-ar-10,Holidays/Celebration/Leisure,Qurban əti,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-11,Holidays/Celebration/Leisure,Fəvvarələr meydanı,Azerbaijani,0
+gemini-3.5-flash-lite,Ne-ar-14,Holidays/Celebration/Leisure,Evdə,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-16,Work life,Şənbə və Bazar,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-17,Work life,09:00,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-18,Work life,18:00,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-20,Work life,İş yoxdur,Azerbaijani,0
+gemini-3.5-flash-lite,Ne-ar-24,Work life,Bakı,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-25,Work life,Neft-qaz sənayesi,Azerbaijani,0
+gemini-3.5-flash-lite,Ne-ar-26,Work life,SOCAR,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-31,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-32,Food,"Yumurta, pendir, çörək, çay və yağ",Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-33,Food,13:00,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-34,Food,Çörək,Azerbaijani,0
+gemini-3.5-flash-lite,Ne-ar-36,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-37,Food,Nar,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-38,Food,Xaşıl,uncertain,1
+gemini-3.5-flash-lite,Ne-ar-39,Food,Lahmacun,uncertain,0
+gemini-3.5-flash-lite,Ne-ar-43,Food,Şəkər,Azerbaijani,0
+gemini-3.5-flash-lite,New-am-02,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,New-am-04,Food,Ketçup,uncertain,0
+gemini-3.5-flash-lite,New-am-08,Food,Tərəvəz yeməkləri,Azerbaijani,0
+gemini-3.5-flash-lite,New-am-27,Sport,İlahə Qasımova,Azerbaijani,0
+gemini-3.5-flash-lite,New-am-34,Education,Kursda,uncertain,0
+gemini-3.5-flash-lite,New-am-41,Education,9-cu sinifdə,Azerbaijani,1
+gemini-3.5-flash-lite,New-am-53,Work life,Lənkəran,Azerbaijani,1
+gemini-3.5-flash-lite,New-am-54,Work life,Kəlbəcər,Azerbaijani,0
+gemini-3.5-flash-lite,New-am-60,Work life,At,uncertain,1
+gemini-3.5-flash-lite,New-am-72,Family,Cırtdan,uncertain,1
+gemini-3.5-flash-lite,New-am-74,Family,Bizimləsən,Azerbaijani,0
+gemini-3.5-flash-lite,New-am-77,Holidays/Celebration/Leisure,Qurban bayramı,Azerbaijani,1
+gemini-3.5-flash-lite,New-am-81,Holidays/Celebration/Leisure,9,uncertain,0
+gemini-3.5-flash-lite,New-am-83,Holidays/Celebration/Leisure,Tar,uncertain,1
+gemini-3.5-flash-lite,New-as-01,Food,Pambıq,uncertain,1
+gemini-3.5-flash-lite,New-as-02,Food,Çörək,Azerbaijani,1
+gemini-3.5-flash-lite,New-as-05,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,New-as-07,Food,Balıq levengi,uncertain,1
+gemini-3.5-flash-lite,New-as-14,Food,Xaş,uncertain,0
+gemini-3.5-flash-lite,New-as-15,Food,Ayran,uncertain,0
+gemini-3.5-flash-lite,New-as-20,Sport,Futzal,uncertain,0
+gemini-3.5-flash-lite,New-as-29,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,New-as-30,Sport,Futbol,uncertain,0
+gemini-3.5-flash-lite,New-as-58,Work life,Çay,uncertain,1
+gemini-3.5-flash-lite,New-as-64,Family,Novruz,uncertain,1
+gemini-3.5-flash-lite,New-as-76,Holidays/Celebration/Leisure,"Xurcunatdı, kəndirbaz,qayışqaçdı, gizlənqaç, aşqalaq, təkə-tək, ənzəli.",Azerbaijani,0
+gemini-3.5-flash-lite,New-az-05,Food,Qəbələ,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-11,Food,Qarpız və yemiş,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-12,Food,Lənkəran,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-21,Sport,Qusar (Şahdağ),Azerbaijani,1
+gemini-3.5-flash-lite,New-az-26,Sport,Rafael Ağayev,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-27,Sport,Şahmat,uncertain,0
+gemini-3.5-flash-lite,New-az-39,Education,Türkiyə,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-49,Work life,1,uncertain,1
+gemini-3.5-flash-lite,New-az-60,Family,Nənə və babalar,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-69,Holidays/Celebration/Leisure,Araq,uncertain,1
+gemini-3.5-flash-lite,New-az-70,Holidays/Celebration/Leisure,Şərab,Azerbaijani,1
+gemini-3.5-flash-lite,New-az-73,Holidays/Celebration/Leisure,200,uncertain,1
+gemini-3.5-flash-lite,New-ch-01,Food,Quzu əti,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-02,Food,08:00,uncertain,1
+gemini-3.5-flash-lite,New-ch-04,Food,Xaş,uncertain,0
+gemini-3.5-flash-lite,New-ch-05,Food,Xaş,uncertain,0
+gemini-3.5-flash-lite,New-ch-07,Food,Qəlyanaltı,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-08,Food,Zəfəran,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-09,Food,Piti,uncertain,0
+gemini-3.5-flash-lite,New-ch-13,Food,Xankəndi,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-14,Food,Toyuq şorbası,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-15,Food,Kabab,uncertain,0
+gemini-3.5-flash-lite,New-ch-16,Sport,Oksigen,uncertain,0
+gemini-3.5-flash-lite,New-ch-17,Sport,Paraşütdən tullanma,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-18,Sport,Marafon,uncertain,0
+gemini-3.5-flash-lite,New-ch-19,Sport,Bədii gimnastika,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-26,Sport,Fiqurlu konkisürmə,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-27,Sport,Məmməd İbrahimov,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-30,Sport,Ramil Quliyev,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-31,Work life,Həkim,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-32,Work life,Microsoft Office,uncertain,1
+gemini-3.5-flash-lite,New-ch-38,Work life,"Bakı, Gəncə, Sumqayıt, Lənkəran, Naxçıvan",Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-44,Work life,3 ay,uncertain,1
+gemini-3.5-flash-lite,New-ch-45,Work life,İT və xidmət,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-49,Family,Mobil telefonlar,uncertain,0
+gemini-3.5-flash-lite,New-ch-51,Family,Oteldənkənar yaşayış yeri,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-54,Family,Alma,uncertain,1
+gemini-3.5-flash-lite,New-ch-64,Education,30,uncertain,1
+gemini-3.5-flash-lite,New-ch-66,Education,0,uncertain,1
+gemini-3.5-flash-lite,New-ch-70,Education,Azərbaycan tarixinin və multikulturalizmin əsasları,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-71,Education,20,uncertain,0
+gemini-3.5-flash-lite,New-ch-72,Education,İnformasiya texnologiyaları (İT),Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-73,Education,İntellektual klublar,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-74,Education,Kirayə mənzillərdə,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-75,Education,45,uncertain,1
+gemini-3.5-flash-lite,New-ch-78,Holidays/Celebration/Leisure,Bağçılıq,uncertain,0
+gemini-3.5-flash-lite,New-ch-79,Holidays/Celebration/Leisure,Nərd oynamaq,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-80,Holidays/Celebration/Leisure,Qurban bayramı və Ramazan bayramı,Azerbaijani,1
+gemini-3.5-flash-lite,New-ch-81,Holidays/Celebration/Leisure,Xalça,uncertain,0
+gemini-3.5-flash-lite,New-ch-82,Holidays/Celebration/Leisure,18:00,uncertain,1
+gemini-3.5-flash-lite,New-ch-83,Holidays/Celebration/Leisure,Bakı,uncertain,1
+gemini-3.5-flash-lite,New-ch-84,Holidays/Celebration/Leisure,Rəngarəng,Azerbaijani,0
+gemini-3.5-flash-lite,New-ch-85,Holidays/Celebration/Leisure,Qara,uncertain,1
+gemini-3.5-flash-lite,New-en-01,Food,Popkorn,uncertain,1
+gemini-3.5-flash-lite,New-en-02,Food,Pendir,uncertain,0
+gemini-3.5-flash-lite,New-en-04,Food,Tahir Əmiraslanov,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-05,Food,Yumurta-pomidor,uncertain,0
+gemini-3.5-flash-lite,New-en-07,Food,MasterChef Azərbaycan,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-08,Food,Çiklatçı,uncertain,0
+gemini-3.5-flash-lite,New-en-10,Food,Şor düşbərə,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-11,Food,Badımcan,uncertain,0
+gemini-3.5-flash-lite,New-en-12,Food,"Kəsmə şorbası, qutab, plov, kabab, düşbərə",Azerbaijani,1
+gemini-3.5-flash-lite,New-en-17,Sport,Vuvuzela,uncertain,0
+gemini-3.5-flash-lite,New-en-18,Sport,"Şərf, bayraq və atributika",Azerbaijani,1
+gemini-3.5-flash-lite,New-en-19,Sport,Bakı Olimpiya Stadionu,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-23,Sport,İlham Zəkiyev,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-26,Sport,Ey Vətən,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-41,Work life,"Subyektiv bir sual olduğu üçün tək bir qəti cavab yoxdur, lakin ümumi qəbul olunan cavablardan biri:
+
+İlham Rəhimov",Azerbaijani,0
+gemini-3.5-flash-lite,New-en-47,Family,Meyvə ağacları,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-49,Family,Məmmədovlar,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-50,Family,Məmmədov,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-55,Family,İslam,uncertain,1
+gemini-3.5-flash-lite,New-en-56,Family,İngilis dili,uncertain,0
+gemini-3.5-flash-lite,New-en-59,Family,Türkiyə,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-68,Education,Tənbeh,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-69,Education,Nizami Gəncəvi,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-70,Education,4,uncertain,0
+gemini-3.5-flash-lite,New-en-72,Education,Edubirja.com,uncertain,0
+gemini-3.5-flash-lite,New-en-75,Education,15,uncertain,0
+gemini-3.5-flash-lite,New-en-76,Holidays/Celebration/Leisure,Heydər Əliyev Beynəlxalq Aeroportu,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-79,Holidays/Celebration/Leisure,Şəki,Azerbaijani,0
+gemini-3.5-flash-lite,New-en-87,Holidays/Celebration/Leisure,Qız Qalası,Azerbaijani,1
+gemini-3.5-flash-lite,New-en-90,Holidays/Celebration/Leisure,Hilton,uncertain,1
+gemini-3.5-flash-lite,New-gr-05,Food,Kutab,uncertain,0
+gemini-3.5-flash-lite,New-gr-06,Food,Fast-food,English,1
+gemini-3.5-flash-lite,New-gr-08,Food,Pivə,Azerbaijani,1
+gemini-3.5-flash-lite,New-gr-13,Food,Çay,uncertain,1
+gemini-3.5-flash-lite,New-gr-15,Food,Paxlava,uncertain,1
+gemini-3.5-flash-lite,New-gr-21,Sport,Tennis,uncertain,1
+gemini-3.5-flash-lite,New-gr-24,Sport,Qaçış,uncertain,0
+gemini-3.5-flash-lite,New-gr-29,Sport,Formula 1 Azərbaycan Qran-Prisi,Azerbaijani,1
+gemini-3.5-flash-lite,New-gr-47,Work life,15,uncertain,1
+gemini-3.5-flash-lite,New-gr-58,Work life,Təmizlikçi,Azerbaijani,0
+gemini-3.5-flash-lite,New-gr-76,Holidays/Celebration/Leisure,Yumurta,uncertain,0
+gemini-3.5-flash-lite,New-gr-82,Holidays/Celebration/Leisure,Muğam,uncertain,1
+gemini-3.5-flash-lite,New-gr-88,Holidays/Celebration/Leisure,Çay,uncertain,1
+gemini-3.5-flash-lite,New-gr-89,Holidays/Celebration/Leisure,Çay,uncertain,0
+gemini-3.5-flash-lite,New-ha-07,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,New-ha-08,Food,"Göyərti qutabından tutmuş müxtəlif tərəvəz suplarına qədər dəyişə bilər, lakin ən klassik cavab:
+
+Kələm dolması",Azerbaijani,1
+gemini-3.5-flash-lite,New-ha-13,Food,Pomidor,uncertain,1
+gemini-3.5-flash-lite,New-ha-19,Sport,Qarabağ atı,Azerbaijani,1
+gemini-3.5-flash-lite,New-ha-66,Family,Baku Crystal Hall,uncertain,0
+gemini-3.5-flash-lite,New-in-01,Food,Starbucks,uncertain,1
+gemini-3.5-flash-lite,New-in-03,Food,Kabab,uncertain,1
+gemini-3.5-flash-lite,New-in-33,Work life,Daşkəsən,Azerbaijani,0
+gemini-3.5-flash-lite,New-in-34,Work life,Abşeron,uncertain,1
+gemini-3.5-flash-lite,New-in-62,Education,Azərbaycan Texniki Universiteti,Azerbaijani,1
+gemini-3.5-flash-lite,New-in-63,Education,Azərbaycan Tibb Universiteti,Azerbaijani,1
+gemini-3.5-flash-lite,New-in-78,Holidays/Celebration/Leisure,Bank kartı,uncertain,1
+gemini-3.5-flash-lite,New-ko-01,Family,Masha və Ayı,Azerbaijani,0
+gemini-3.5-flash-lite,New-ko-02,Family,Ana məktəbi,Azerbaijani,0
+gemini-3.5-flash-lite,New-ko-03,Family,Cücələrim,Azerbaijani,1
+gemini-3.5-flash-lite,New-ko-04,Family,Maşınlar,uncertain,1
+gemini-3.5-flash-lite,New-ko-05,Family,Bərbiyə (Barbie),Azerbaijani,1
+gemini-3.5-flash-lite,New-ko-06,Family,Göyçək Fatma,Azerbaijani,0
+gemini-3.5-flash-lite,New-ko-07,Holidays/Celebration/Leisure,Qara lent,uncertain,1
+gemini-3.5-flash-lite,New-ko-08,Work life,Kafe və restoranlarda,Azerbaijani,1
+gemini-3.5-flash-lite,New-ko-09,Work life,İntellektual oyunlar (Kvizlər),Azerbaijani,0
+gemini-3.5-flash-lite,New-ko-10,Work life,Taksi xidməti,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-02,Food,Paxlava,uncertain,1
+gemini-3.5-flash-lite,New-pe-06,Food,Plov,uncertain,1
+gemini-3.5-flash-lite,New-pe-11,Food,Göyərti (və ya keşniş),Azerbaijani,0
+gemini-3.5-flash-lite,New-pe-16,Sport,Güləş,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-20,Sport,Çimərlik voleybolu,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-45,Work life,Qısalır,uncertain,1
+gemini-3.5-flash-lite,New-pe-49,Family,Evdə,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-53,Family,Azərbaycanda rəsmi olaraq Atalar Günü qeyd olunmadığı üçün ənənəvi hədiyyə növü yoxdur.,Azerbaijani,0
+gemini-3.5-flash-lite,New-pe-54,Family,Gül,uncertain,1
+gemini-3.5-flash-lite,New-pe-59,Family,3,uncertain,0
+gemini-3.5-flash-lite,New-pe-66,Education,"Şahmat, rəsm və rəqs",Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-74,Education,1000 - 3000 AZN,uncertain,1
+gemini-3.5-flash-lite,New-pe-76,Holidays/Celebration/Leisure,Gəzmək,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-83,Holidays/Celebration/Leisure,Blot,uncertain,0
+gemini-3.5-flash-lite,New-pe-85,Holidays/Celebration/Leisure,Türkiyə,Azerbaijani,1
+gemini-3.5-flash-lite,New-pe-86,Holidays/Celebration/Leisure,Qız qalası,Azerbaijani,1
+gemini-3.5-flash-lite,New-spme-04,Food,Fındıq,uncertain,0
+gemini-3.5-flash-lite,New-spme-05,Food,Paxlava,uncertain,1
+gemini-3.5-flash-lite,New-spme-15,Sport,Red Bull,uncertain,0
+gemini-3.5-flash-lite,New-spme-27,Education,Yüksək,Azerbaijani,0
+gemini-3.5-flash-lite,New-spme-37,Education,İqtisadiyyat və idarəetmə,Azerbaijani,1
+gemini-3.5-flash-lite,New-spme-60,Family,Cümə,Azerbaijani,1
+gemini-3.5-flash-lite,New-spme-68,Family,Şirə,Azerbaijani,0
+gemini-3.5-flash-lite,New-spme-76,Holidays/Celebration/Leisure,Bakı (və ya Azadlıq meydanı),Azerbaijani,0
+gemini-3.5-flash-lite,New-spme-78,Holidays/Celebration/Leisure,"""Ad günün mübarək""",Azerbaijani,1
+gemini-3.5-flash-lite,New-su-01,Food,Donut,uncertain,0
+gemini-3.5-flash-lite,New-su-09,Food,Kərə yağı,Azerbaijani,1
+gemini-3.5-flash-lite,New-su-10,Food,Mürəbbə,Azerbaijani,0
+gemini-3.5-flash-lite,New-su-15,Food,Ayran,uncertain,1
+gemini-3.5-flash-lite,New-su-17,Sport,İdman meydançaları,Azerbaijani,1
+gemini-3.5-flash-lite,New-su-21,Sport,Nərd oynamaq,Azerbaijani,1
+gemini-3.5-flash-lite,New-su-24,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,New-su-28,Sport,Qırmızı,uncertain,1
+gemini-3.5-flash-lite,New-su-33,Education,Rəsmi geyim tərzi,Azerbaijani,0
+gemini-3.5-flash-lite,New-su-34,Education,Xor,uncertain,1
+gemini-3.5-flash-lite,New-su-45,Education,10/05,uncertain,0
+gemini-3.5-flash-lite,New-su-50,Work life,Heyvandarlıq,uncertain,1
+gemini-3.5-flash-lite,New-su-51,Work life,Balıqçılıq,uncertain,1
+gemini-3.5-flash-lite,New-su-57,Work life,İribuynuzlu mal-qara,Azerbaijani,0
+gemini-3.5-flash-lite,New-su-58,Work life,İribuynuzlu və xırda buynuzlu mal-qara,Azerbaijani,0
+gemini-3.5-flash-lite,New-su-59,Work life,Papaq,uncertain,0
+gemini-3.5-flash-lite,New-su-60,Work life,Kənd xörəkləri,Azerbaijani,0
+gemini-3.5-flash-lite,New-su-71,Family,"Oyuncaq, geyim, kitab və ya elektronika əşyaları",Azerbaijani,1
+gemini-3.5-flash-lite,New-su-75,Family,Avtomobil,uncertain,1
+gemini-3.5-flash-lite,New-su-81,Holidays/Celebration/Leisure,Kostyum,uncertain,1
+gemini-3.5-flash-lite,New-su-82,Holidays/Celebration/Leisure,Gəlinlik,Azerbaijani,1
+gemini-3.5-flash-lite,New-su-83,Holidays/Celebration/Leisure,Plov,uncertain,1
+gemini-3.5-flash-lite,New-su-86,Holidays/Celebration/Leisure,Hökumət Evi,Azerbaijani,1
+gemini-3.5-flash-lite,New-su-88,Holidays/Celebration/Leisure,Pop-musiqi,Azerbaijani,1
+gemini-3.5-flash-lite,Ni-en-02,Education,14:00,uncertain,1
+gemini-3.5-flash-lite,Ni-en-03,Education,17,uncertain,1
+gemini-3.5-flash-lite,Ni-en-06,Education,6,uncertain,1
+gemini-3.5-flash-lite,Ni-en-09,Education,5,uncertain,1
+gemini-3.5-flash-lite,Ni-en-11,Education,2,uncertain,1
+gemini-3.5-flash-lite,Ni-en-12,Education,Bakı Dövlət Universiteti,Azerbaijani,0
+gemini-3.5-flash-lite,Ni-en-13,Education,22,uncertain,1
+gemini-3.5-flash-lite,Ni-en-15,Education,6,uncertain,0
+gemini-3.5-flash-lite,Ni-en-17,Work life,40,uncertain,1
+gemini-3.5-flash-lite,Ni-en-19,Work life,5,uncertain,1
+gemini-3.5-flash-lite,Ni-en-20,Work life,18,uncertain,1
+gemini-3.5-flash-lite,Ni-en-21,Work life,15,uncertain,0
+gemini-3.5-flash-lite,Ni-en-37,Holidays/Celebration/Leisure,Sevgililər Günü,Azerbaijani,1
+gemini-3.5-flash-lite,Nu-in-04,Education,2,uncertain,1
+gemini-3.5-flash-lite,Nu-in-05,Education,9,uncertain,1
+gemini-3.5-flash-lite,Nu-in-06,Education,10/05,uncertain,1
+gemini-3.5-flash-lite,Nu-in-11,Education,08:00,uncertain,1
+gemini-3.5-flash-lite,Nu-in-20,Family,06/01,uncertain,1
+gemini-3.5-flash-lite,Nu-in-40,Work life,Bakı,uncertain,1
+gemini-3.5-flash-lite,Sa-en-1,Food,McDonald's,uncertain,1
+gemini-3.5-flash-lite,Sa-en-13,Food,Kələm dolması,Azerbaijani,1
+gemini-3.5-flash-lite,Sa-en-16,Sport,Qarabağ FK,Azerbaijani,1
+gemini-3.5-flash-lite,Sa-en-31,Family,Pişik,uncertain,1
+gemini-3.5-flash-lite,Sa-en-32,Family,Atalar sözü,uncertain,0
+gemini-3.5-flash-lite,Sa-en-37,Family,Nərd,Azerbaijani,1
+gemini-3.5-flash-lite,Sa-en-6,Food,Doner,uncertain,0
+gemini-3.5-flash-lite,Sa-en-7,Food,Qutab,uncertain,1
+gemini-3.5-flash-lite,Sa-en-9,Food,Qarpız,uncertain,1
+gemini-3.5-flash-lite,Ta-pe-10,Family,28,uncertain,1
+gemini-3.5-flash-lite,Ta-pe-11,Family,24,uncertain,0
+gemini-3.5-flash-lite,Ta-pe-13,Family,4,uncertain,0
+gemini-3.5-flash-lite,Ta-pe-17,Sport,Güləş,Azerbaijani,1
+gemini-3.5-flash-lite,Ta-pe-21,Sport,Məhəllədə,Azerbaijani,1
+gemini-3.5-flash-lite,Ta-pe-23,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Ta-pe-25,Sport,Qarabağ FK və Neftçi PFK,Azerbaijani,1
+gemini-3.5-flash-lite,Ta-pe-29,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Ta-pe-30,Sport,Futbol Saatı,uncertain,0
+gemini-3.5-flash-lite,Ta-pe-32,Holidays/Celebration/Leisure,Yeni il gecəsi,Azerbaijani,1
+gemini-3.5-flash-lite,Ta-pe-37,Holidays/Celebration/Leisure,Şaxta baba,Azerbaijani,1
+gemini-3.5-flash-lite,Ta-pe-42,Holidays/Celebration/Leisure,Paytaxt salatı,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-01,Sport,Futbol,uncertain,1
+gemini-3.5-flash-lite,Th-en-03,Sport,Azərbaycan Premyer Liqası,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-05,Sport,"""Azərtእil"" Voleybol Klubu",Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-09,Sport,Azərbaycan Premyer Liqası,Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-11,Sport,Həzi Aslanov,Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-12,Sport,Güləş,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-15,Sport,Futbol,uncertain,0
+gemini-3.5-flash-lite,Th-en-19,Work life,Sumqayıt,uncertain,1
+gemini-3.5-flash-lite,Th-en-21,Work life,Tibbi sığorta,Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-22,Work life,1990-cı illərin əvvəlləri,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-24,Work life,Bakı,uncertain,1
+gemini-3.5-flash-lite,Th-en-27,Work life,Neft-qaz sənayesi,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-35,Family,Şam yeməyi,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-36,Family,Parkda gəzmək,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-37,Family,18,uncertain,1
+gemini-3.5-flash-lite,Th-en-38,Family,Novruz bayramı,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-39,Family,Monopoly,uncertain,0
+gemini-3.5-flash-lite,Th-en-41,Family,24,uncertain,1
+gemini-3.5-flash-lite,Th-en-43,Family,1,uncertain,1
+gemini-3.5-flash-lite,Th-en-44,Family,Kabab,uncertain,1
+gemini-3.5-flash-lite,Th-en-45,Family,Televiziyaya baxmaq,Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-48,Education,5,uncertain,1
+gemini-3.5-flash-lite,Th-en-49,Education,Buraxılış imtahanı,Azerbaijani,1
+gemini-3.5-flash-lite,Th-en-51,Education,İngilis dili,uncertain,0
+gemini-3.5-flash-lite,Th-en-53,Education,Şən və Hazırcavablar Klubu (ŞHK),Azerbaijani,0
+gemini-3.5-flash-lite,Th-en-58,Education,İnteqral və törəmə,Azerbaijani,1
+gemini-3.5-flash-lite,Tmp-ar-01,Education,Kitabxana,uncertain,1
+gemini-3.5-flash-lite,Tmp-ar-02,Education,Avtobus,uncertain,1
+gemini-3.5-flash-lite,Tmp-ar-04,Education,Dərslərini oxuyurlar,Azerbaijani,0
+gemini-3.5-flash-lite,Ca-sp-41,Family,Qocalar evində,Azerbaijani,0
+gemini-3.5-flash-lite,Jo-sp-14,Sport,Şahmat,uncertain,1
+gemini-3.5-flash-lite,Ki-pe-40,Food,"Bu fikir subyektivdir və elmi və ya ümumi qəbul edilmiş həqiqətə əsaslanmır, buna görə də Azərbaycanın heç bir yeməyi bütün dünya tərəfindən iyrənc hesab olunmur.",Azerbaijani,0
+gemini-3.5-flash-lite,Na-ko-11,Food,Çərəz,Azerbaijani,1
+gemini-3.5-flash-lite,Ne-ar-44,Food,Su,uncertain,0
+gemini-3.5-flash-lite,New-ch-39,Work life,Umico,uncertain,0
+gemini-3.5-flash-lite,New-en-38,Work life,İT və texnologiya,Azerbaijani,0
+gemini-3.5-flash-lite,New-ha-09,Food,Boqabaq,uncertain,0
+gemini-3.5-flash-lite,New-pe-65,Education,20,uncertain,1
+gemini-3.5-flash-lite,Ta-pe-22,Sport,Fitnes,uncertain,0
+gpt-4.1,Al-en-01,Food,Süd və peçenye,Azerbaijani,0
+gpt-4.1,Al-en-02,Food,Qızardılmış balıq,Azerbaijani,0
+gpt-4.1,Al-en-04,Food,Nar,uncertain,0
+gpt-4.1,Al-en-06,Food,Plov,uncertain,0
+gpt-4.1,Al-en-08,Food,Popkorn,uncertain,0
+gpt-4.1,Al-en-09,Food,Popkorn,uncertain,1
+gpt-4.1,Al-en-16,Education,3,uncertain,1
+gpt-4.1,Al-en-17,Education,Şahmat,uncertain,0
+gpt-4.1,Al-en-18,Education,Azərbaycan dili,Azerbaijani,1
+gpt-4.1,Al-en-19,Education,Rus dili,uncertain,1
+gpt-4.1,Al-en-21,Education,Riyaziyyat,uncertain,1
+gpt-4.1,Al-en-34,Holidays/Celebration/Leisure,"Şam ağacı bəzəyir, hədiyyələr verir, ailə və dostlarla bir araya gəlir, süfrə açır və atəşfəşanlıq izləyirlər.",Azerbaijani,0
+gpt-4.1,Al-en-38,Holidays/Celebration/Leisure,Şokolad,uncertain,1
+gpt-4.1,Al-en-39,Holidays/Celebration/Leisure,Tort.,uncertain,1
+gpt-4.1,Al-en-40,Holidays/Celebration/Leisure,Dənizkənarı Milli Park (Bulvar),Azerbaijani,1
+gpt-4.1,Al-en-43,Holidays/Celebration/Leisure,Bowling oynamaq,uncertain,0
+gpt-4.1,An-ar-02,Education,Tələbə yeməkxanasında.,Azerbaijani,0
+gpt-4.1,An-ar-03,Education,6,uncertain,1
+gpt-4.1,An-ar-08,Education,6,uncertain,1
+gpt-4.1,An-ar-09,Education,3,uncertain,1
+gpt-4.1,An-ar-34,Sport,Futbol,uncertain,1
+gpt-4.1,An-ar-35,Sport,Sənan Şəfizadə,Azerbaijani,0
+gpt-4.1,An-ar-36,Sport,Qarabağ FK,Azerbaijani,1
+gpt-4.1,An-ar-43,Sport,Kafelər və çayxanalar.,Azerbaijani,1
+gpt-4.1,Ca-sp-05,Food,3,uncertain,1
+gpt-4.1,Ca-sp-06,Food,Səhər yeməyi.,Azerbaijani,1
+gpt-4.1,Ca-sp-08,Food,Düyü,uncertain,0
+gpt-4.1,Ca-sp-09,Food,Paxlava,uncertain,1
+gpt-4.1,Ca-sp-11,Food,Bazar günü.,uncertain,1
+gpt-4.1,Ca-sp-14,Food,Çay,uncertain,1
+gpt-4.1,Ca-sp-19,Holidays/Celebration/Leisure,Enerji içkiləri və araq.,Azerbaijani,0
+gpt-4.1,Ca-sp-21,Holidays/Celebration/Leisure,7,uncertain,1
+gpt-4.1,Ca-sp-29,Holidays/Celebration/Leisure,"Şam ağacı bəzəmək, hədiyyə vermək, milli yeməklər bişirmək, ailə ilə birgə süfrə arxasında olmaq, atəşfəşanlıq etmək.",Azerbaijani,1
+gpt-4.1,Ca-sp-38,Family,Mənzil (bina evi),Azerbaijani,1
+gpt-4.1,Ca-sp-41,Family,Qocalar evində.,Azerbaijani,0
+gpt-4.1,Ca-sp-42,Family,18,uncertain,1
+gpt-4.1,Ca-sp-43,Family,1,uncertain,0
+gpt-4.1,Ca-sp-45,Family,"Dəniz kənarı istirahət zonaları (məsələn, Nabran, Lənkəran, Quba).",Azerbaijani,0
+gpt-4.1,Gu-ch-05,Sport,Şahmat,uncertain,0
+gpt-4.1,Gu-ch-06,Sport,Futbol,uncertain,1
+gpt-4.1,Gu-ch-07,Sport,Rüfət Hüseynzadə,Azerbaijani,0
+gpt-4.1,Gu-ch-08,Sport,Futbol,uncertain,1
+gpt-4.1,Gu-ch-09,Sport,Voleybol,uncertain,1
+gpt-4.1,Gu-ch-11,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Gu-ch-15,Sport,Futbol,uncertain,1
+gpt-4.1,Gu-ch-16,Family,4,uncertain,1
+gpt-4.1,Gu-ch-18,Family,2,uncertain,1
+gpt-4.1,Gu-ch-31,Education,4,uncertain,1
+gpt-4.1,Gu-ch-32,Education,9,uncertain,1
+gpt-4.1,Gu-ch-33,Education,6,uncertain,1
+gpt-4.1,Gu-ch-38,Education,4,uncertain,1
+gpt-4.1,Gu-ch-40,Education,13:00,uncertain,1
+gpt-4.1,Gu-ch-41,Education,1,uncertain,1
+gpt-4.1,Ji-ko-02,Work life,Cümə axşamı,Azerbaijani,1
+gpt-4.1,Ji-ko-03,Work life,Bakı,uncertain,1
+gpt-4.1,Ji-ko-07,Work life,Azercell,uncertain,1
+gpt-4.1,Ji-ko-08,Work life,40,uncertain,1
+gpt-4.1,Ji-ko-09,Work life,Paxlava və çay.,Azerbaijani,0
+gpt-4.1,Ji-ko-14,Work life,Neft,uncertain,1
+gpt-4.1,Ji-ko-15,Work life,1.0,uncertain,1
+gpt-4.1,Ji-ko-16,Family,Doğum evi,uncertain,1
+gpt-4.1,Ji-ko-19,Family,Qızılgül,uncertain,1
+gpt-4.1,Ji-ko-22,Family,Valideynlərinə və ya yaxınlarına hədiyyə almağa.,Azerbaijani,1
+gpt-4.1,Ji-ko-24,Family,Gənclik Parkı,Azerbaijani,0
+gpt-4.1,Ji-ko-26,Family,"Təhsil alma, işə başlama, evlənmə, ayrı evdə yaşama.",Azerbaijani,1
+gpt-4.1,Ji-ko-27,Family,Şirniyyat,uncertain,1
+gpt-4.1,Ji-ko-28,Family,Qırxı çıxan gün.,Azerbaijani,0
+gpt-4.1,Ji-ko-29,Family,1 yaş,uncertain,1
+gpt-4.1,Ji-ko-31,Education,Hazırlıq kurslarında.,Azerbaijani,1
+gpt-4.1,Ji-ko-33,Education,Evə.,Azerbaijani,1
+gpt-4.1,Ji-ko-34,Education,Piyada.,uncertain,1
+gpt-4.1,Ji-ko-35,Education,Kolleclər və repetitorluq.,Azerbaijani,0
+gpt-4.1,Ji-ko-36,Education,Riyaziyyat,uncertain,1
+gpt-4.1,Ji-ko-37,Education,Məktəbli formasında.,Azerbaijani,1
+gpt-4.1,Ji-ko-38,Education,Tibb,uncertain,1
+gpt-4.1,Ji-ko-39,Education,Qarmon,uncertain,0
+gpt-4.1,Ji-ko-40,Education,Söhbət edirlər.,Azerbaijani,0
+gpt-4.1,Ji-ko-41,Education,Qara rəngli ayaqqabılar.,Azerbaijani,0
+gpt-4.1,Ji-ko-42,Education,"Azərbaycan dili, riyaziyyat, xarici dil və ixtisas qrupuna uyğun fənlər.",Azerbaijani,1
+gpt-4.1,Ji-ko-44,Education,Bakı,uncertain,1
+gpt-4.1,Ji-ko-45,Education,Konsert proqramlarını.,Azerbaijani,0
+gpt-4.1,Jo-sp-01,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Jo-sp-02,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Jo-sp-09,Sport,"Atçılıq, qolf, tennis",Azerbaijani,1
+gpt-4.1,Jo-sp-13,Sport,Üzgüçülük,uncertain,1
+gpt-4.1,Jo-sp-14,Sport,Şahmat,uncertain,1
+gpt-4.1,Jo-sp-18,Work life,21,uncertain,0
+gpt-4.1,Jo-sp-19,Work life,Aran bölgəsi,Azerbaijani,0
+gpt-4.1,Jo-sp-21,Work life,13:00,uncertain,1
+gpt-4.1,Jo-sp-31,Education,15:00,uncertain,1
+gpt-4.1,Jo-sp-32,Education,Futbol,uncertain,1
+gpt-4.1,Jo-sp-36,Education,13,uncertain,0
+gpt-4.1,Jo-sp-37,Education,12,uncertain,1
+gpt-4.1,Jo-sp-39,Education,6,uncertain,1
+gpt-4.1,Jo-sp-43,Education,2,uncertain,1
+gpt-4.1,Jod-ch-01,Food,"Qaşıq, çəngəl, bıçaq.",Azerbaijani,1
+gpt-4.1,Jod-ch-04,Food,Coca-Cola,uncertain,1
+gpt-4.1,Jod-ch-06,Food,Araq,uncertain,1
+gpt-4.1,Jod-ch-07,Food,1.5,uncertain,1
+gpt-4.1,Jod-ch-09,Food,13:00,uncertain,1
+gpt-4.1,Jod-ch-12,Food,Düşbərə,Azerbaijani,1
+gpt-4.1,Jod-ch-13,Food,Dönər,Azerbaijani,1
+gpt-4.1,Jod-ch-15,Food,Balıq,uncertain,1
+gpt-4.1,Jod-ch-16,Holidays/Celebration/Leisure,Bakı Caz Festivalı,uncertain,0
+gpt-4.1,Jod-ch-28,Holidays/Celebration/Leisure,Avtobus,uncertain,1
+gpt-4.1,Jod-ch-30,Holidays/Celebration/Leisure,Xarı bülbül.,Azerbaijani,0
+gpt-4.1,Jod-ch-37,Sport,Voleybol,uncertain,1
+gpt-4.1,Jod-ch-38,Sport,Futbol,uncertain,1
+gpt-4.1,Jod-ch-41,Holidays/Celebration/Leisure,Sosial media istifadə edir.,Azerbaijani,0
+gpt-4.1,Jod-ch-42,Holidays/Celebration/Leisure,Dostları ilə vaxt keçirmək.,Azerbaijani,0
+gpt-4.1,Jod-ch-46,Work life,0.5,uncertain,1
+gpt-4.1,Jod-ch-48,Work life,Plov.,uncertain,1
+gpt-4.1,Jod-ch-50,Work life,31,uncertain,0
+gpt-4.1,Jod-ch-51,Work life,Avtobus,uncertain,1
+gpt-4.1,Jod-ch-54,Work life,5,uncertain,0
+gpt-4.1,Jod-ch-56,Work life,60,uncertain,0
+gpt-4.1,Jod-ch-57,Work life,65,uncertain,1
+gpt-4.1,Jod-ch-58,Work life,Həkim,Azerbaijani,1
+gpt-4.1,Jod-ch-60,Work life,8,uncertain,1
+gpt-4.1,Jod-ch-61,Work life,Müəllimlik,Azerbaijani,1
+gpt-4.1,Jod-ch-62,Work life,Mühəndis,Azerbaijani,0
+gpt-4.1,Ki-pe-17,Education,11 il,uncertain,1
+gpt-4.1,Ki-pe-24,Education,"Rus dili, fransız dili, alman dili, ərəb dili, fars dili, türk dili.",Azerbaijani,1
+gpt-4.1,Ki-pe-30,Education,Şənbə və bazar.,Azerbaijani,1
+gpt-4.1,Ki-pe-32,Food,"Plov, dolma, kabab, piti, qutab.",uncertain,1
+gpt-4.1,Ki-pe-34,Food,Çay,uncertain,1
+gpt-4.1,Ki-pe-36,Food,Türkiyə,Azerbaijani,1
+gpt-4.1,Ki-pe-39,Food,"Kabap, dolma, plov, salat, lavaş.",Azerbaijani,0
+gpt-4.1,Ki-pe-40,Food,Qara ciyər plovu.,Azerbaijani,0
+gpt-4.1,Ki-pe-43,Food,Təndir çörəyi,Azerbaijani,1
+gpt-4.1,Ki-pe-51,Work life,18:00,uncertain,1
+gpt-4.1,Ki-pe-53,Work life,09:00,uncertain,1
+gpt-4.1,Kik-in-01,Holidays/Celebration/Leisure,Novruz Bayramı,Azerbaijani,1
+gpt-4.1,Kik-in-02,Holidays/Celebration/Leisure,"Bayraqlar asmaq, yürüşlər keçirmək, konsertlər təşkil etmək, atəşfəşanlıq etmək, rəsmi tədbirlərdə iştirak etmək.",Azerbaijani,0
+gpt-4.1,Kik-in-06,Holidays/Celebration/Leisure,Nişan,uncertain,1
+gpt-4.1,Kik-in-07,Holidays/Celebration/Leisure,Şirniyyat,uncertain,1
+gpt-4.1,Kik-in-10,Holidays/Celebration/Leisure,İçərişəhər (Bakı),Azerbaijani,1
+gpt-4.1,Kik-in-11,Holidays/Celebration/Leisure,"İçərişəhər Cümə Məscidi, Təzəpir Məscidi, Qafqaz Albaniyası kilsələri (Kiş kilsəsi), Ateşgah məbədi, Alexander Nevski Kafedralı.",Azerbaijani,1
+gpt-4.1,Kik-in-15,Holidays/Celebration/Leisure,Don,uncertain,0
+gpt-4.1,Kik-in-16,Food,Çay,uncertain,1
+gpt-4.1,Kik-in-17,Food,Xurma,uncertain,1
+gpt-4.1,Kik-in-24,Food,Kartof qızartması,Azerbaijani,1
+gpt-4.1,Kik-in-31,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Kik-in-34,Sport,Futbol,uncertain,1
+gpt-4.1,Kik-in-35,Sport,Futbol,uncertain,1
+gpt-4.1,Kik-in-36,Sport,Qurban Qurbanov,Azerbaijani,1
+gpt-4.1,Kik-in-37,Sport,Neftçi vs Qarabağ,Azerbaijani,1
+gpt-4.1,Kik-in-44,Sport,Futbol,uncertain,1
+gpt-4.1,Kik-in-45,Sport,Futbol meydançası,Azerbaijani,1
+gpt-4.1,Na-ko-02,Food,Çay,uncertain,1
+gpt-4.1,Na-ko-04,Food,Xaş,uncertain,1
+gpt-4.1,Na-ko-05,Food,Dönər,Azerbaijani,1
+gpt-4.1,Na-ko-07,Food,Qoyun əti.,Azerbaijani,0
+gpt-4.1,Na-ko-08,Food,"Nar, heyva, alma, armud.",Azerbaijani,1
+gpt-4.1,Na-ko-09,Food,Düyü plov,Azerbaijani,1
+gpt-4.1,Na-ko-11,Food,Çərəz.,Azerbaijani,1
+gpt-4.1,Na-ko-15,Food,Plov,uncertain,1
+gpt-4.1,Na-ko-16,Sport,Qara Qarayev,Azerbaijani,0
+gpt-4.1,Na-ko-17,Sport,Futbol.,uncertain,1
+gpt-4.1,Na-ko-18,Sport,Voleybol,uncertain,1
+gpt-4.1,Na-ko-19,Sport,Oksana Parkhomenko,uncertain,0
+gpt-4.1,Na-ko-20,Sport,Futbol,uncertain,1
+gpt-4.1,Na-ko-22,Sport,Ermənistan,Azerbaijani,1
+gpt-4.1,Na-ko-23,Sport,Futbol akademiyalarına.,Azerbaijani,1
+gpt-4.1,Na-ko-24,Sport,Dönər,Azerbaijani,0
+gpt-4.1,Na-ko-25,Sport,"Futbol, voleybol, basketbol, şahmat, atletika.",uncertain,1
+gpt-4.1,Na-ko-26,Sport,"Futbol, voleybol, şahmat, stolüstü tennis, güləş.",Azerbaijani,1
+gpt-4.1,Na-ko-28,Sport,Fəridə Abiyeva,Azerbaijani,0
+gpt-4.1,Na-ko-29,Sport,Ramil Vəlizadə,Azerbaijani,0
+gpt-4.1,Na-ko-33,Holidays/Celebration/Leisure,Səməni,Azerbaijani,0
+gpt-4.1,Na-ko-37,Holidays/Celebration/Leisure,Nabran,uncertain,0
+gpt-4.1,Na-ko-38,Holidays/Celebration/Leisure,Qızıl.,uncertain,0
+gpt-4.1,Na-ko-39,Holidays/Celebration/Leisure,Pul,uncertain,1
+gpt-4.1,Na-ko-40,Holidays/Celebration/Leisure,3,uncertain,1
+gpt-4.1,Na-ko-41,Holidays/Celebration/Leisure,Qara yaylıq,Azerbaijani,0
+gpt-4.1,Na-ko-42,Holidays/Celebration/Leisure,Plov.,uncertain,1
+gpt-4.1,Na-ko-44,Holidays/Celebration/Leisure,Novruz bayramı günləri.,Azerbaijani,1
+gpt-4.1,Na-ko-45,Holidays/Celebration/Leisure,Qəbələ,Azerbaijani,1
+gpt-4.1,Ne-ar-05,Holidays/Celebration/Leisure,Respublika Günü,Azerbaijani,0
+gpt-4.1,Ne-ar-06,Holidays/Celebration/Leisure,Plov.,uncertain,1
+gpt-4.1,Ne-ar-09,Holidays/Celebration/Leisure,"Şirniyyatlar (paxlava, şəkərbura, qoğal)",Azerbaijani,0
+gpt-4.1,Ne-ar-10,Holidays/Celebration/Leisure,Qurban əti.,Azerbaijani,1
+gpt-4.1,Ne-ar-11,Holidays/Celebration/Leisure,Təzəpir məscidinə.,Azerbaijani,0
+gpt-4.1,Ne-ar-14,Holidays/Celebration/Leisure,Evde.,uncertain,0
+gpt-4.1,Ne-ar-16,Work life,Şənbə və Bazar,Azerbaijani,1
+gpt-4.1,Ne-ar-17,Work life,09:00,uncertain,1
+gpt-4.1,Ne-ar-18,Work life,18:00,uncertain,1
+gpt-4.1,Ne-ar-20,Work life,Ofis işi.,uncertain,0
+gpt-4.1,Ne-ar-24,Work life,Bakı,uncertain,1
+gpt-4.1,Ne-ar-25,Work life,Neft və qaz sənayesi,Azerbaijani,1
+gpt-4.1,Ne-ar-26,Work life,SOCAR,uncertain,1
+gpt-4.1,Ne-ar-31,Food,Plov,uncertain,1
+gpt-4.1,Ne-ar-32,Food,Pendirlə çörək.,Azerbaijani,1
+gpt-4.1,Ne-ar-33,Food,13:00,uncertain,1
+gpt-4.1,Ne-ar-34,Food,Duz,uncertain,1
+gpt-4.1,Ne-ar-36,Food,Plov,uncertain,1
+gpt-4.1,Ne-ar-37,Food,Nar,uncertain,1
+gpt-4.1,Ne-ar-38,Food,Plov,uncertain,0
+gpt-4.1,Ne-ar-39,Food,Dönər,Azerbaijani,1
+gpt-4.1,Ne-ar-43,Food,Şirniyyat,uncertain,1
+gpt-4.1,Ne-ar-44,Food,Süd,uncertain,0
+gpt-4.1,New-am-02,Food,Plov,uncertain,1
+gpt-4.1,New-am-04,Food,Nar sousu,uncertain,0
+gpt-4.1,New-am-08,Food,"Bitki mənşəli yeməklər, paxlalılar, tərəvəzlər, meyvələr, çörək və balıq.",Azerbaijani,0
+gpt-4.1,New-am-27,Sport,Farida Azizova,uncertain,0
+gpt-4.1,New-am-34,Education,Ev şəraitində.,Azerbaijani,1
+gpt-4.1,New-am-41,Education,IX sinifdə.,Azerbaijani,0
+gpt-4.1,New-am-53,Work life,Lənkəran,Azerbaijani,1
+gpt-4.1,New-am-54,Work life,Qarabağ,uncertain,0
+gpt-4.1,New-am-60,Work life,At,uncertain,1
+gpt-4.1,New-am-72,Family,Tıq-tıq xanım,Azerbaijani,0
+gpt-4.1,New-am-74,Family,Bizimləsən,Azerbaijani,0
+gpt-4.1,New-am-77,Holidays/Celebration/Leisure,Qurban bayramı,Azerbaijani,1
+gpt-4.1,New-am-81,Holidays/Celebration/Leisure,8,uncertain,0
+gpt-4.1,New-am-83,Holidays/Celebration/Leisure,Tar,uncertain,1
+gpt-4.1,New-as-01,Food,Pambıq,uncertain,1
+gpt-4.1,New-as-02,Food,Çörək,Azerbaijani,1
+gpt-4.1,New-as-05,Food,Çay,uncertain,1
+gpt-4.1,New-as-07,Food,Kükü balıq,Azerbaijani,0
+gpt-4.1,New-as-14,Food,Kükü.,uncertain,0
+gpt-4.1,New-as-15,Food,Ayran,uncertain,0
+gpt-4.1,New-as-20,Sport,Voleybol,uncertain,0
+gpt-4.1,New-as-29,Sport,Futbol,uncertain,1
+gpt-4.1,New-as-30,Sport,Voleybol,uncertain,1
+gpt-4.1,New-as-58,Work life,Çay,uncertain,1
+gpt-4.1,New-as-64,Family,Novruz bayramında.,Azerbaijani,1
+gpt-4.1,New-as-76,Holidays/Celebration/Leisure,Yallı,uncertain,0
+gpt-4.1,New-az-05,Food,Şəki,Azerbaijani,0
+gpt-4.1,New-az-11,Food,Qarpız və yemiş.,Azerbaijani,1
+gpt-4.1,New-az-12,Food,Lənkəran,Azerbaijani,1
+gpt-4.1,New-az-21,Sport,Qusar (Şahdağ),Azerbaijani,1
+gpt-4.1,New-az-26,Sport,Zabit Səmədov,Azerbaijani,0
+gpt-4.1,New-az-27,Sport,Cavab: Cüdo,Azerbaijani,1
+gpt-4.1,New-az-39,Education,Türkiyə,Azerbaijani,1
+gpt-4.1,New-az-49,Work life,2,uncertain,1
+gpt-4.1,New-az-60,Family,Nənə və baba.,Azerbaijani,1
+gpt-4.1,New-az-69,Holidays/Celebration/Leisure,Araq,uncertain,1
+gpt-4.1,New-az-70,Holidays/Celebration/Leisure,Şərab,Azerbaijani,1
+gpt-4.1,New-az-73,Holidays/Celebration/Leisure,200,uncertain,1
+gpt-4.1,New-ch-01,Food,Quzu əti,Azerbaijani,1
+gpt-4.1,New-ch-02,Food,08:00,uncertain,1
+gpt-4.1,New-ch-04,Food,Çörək və pendir.,Azerbaijani,0
+gpt-4.1,New-ch-05,Food,Ləvəngi.,Azerbaijani,0
+gpt-4.1,New-ch-07,Food,"Soyutma, kabab, balıq, pendir, turşu.",uncertain,0
+gpt-4.1,New-ch-08,Food,Zəfəran,Azerbaijani,0
+gpt-4.1,New-ch-09,Food,Düşbərə,Azerbaijani,1
+gpt-4.1,New-ch-13,Food,Xırdalan,uncertain,1
+gpt-4.1,New-ch-14,Food,"Düşbərə, toyuq supu, aş, xəngəl.",Azerbaijani,1
+gpt-4.1,New-ch-15,Food,"Dönər, plov, kotlet, dolma, salat, blinçik.",Azerbaijani,0
+gpt-4.1,New-ch-16,Sport,Qafqazın qartalı,Azerbaijani,0
+gpt-4.1,New-ch-17,Sport,Paraplan uçuşu,Turkish,0
+gpt-4.1,New-ch-18,Sport,100 metr qaçış,Azerbaijani,1
+gpt-4.1,New-ch-19,Sport,Bədii gimnastika,Azerbaijani,1
+gpt-4.1,New-ch-26,Sport,Fiqurlu konkisürmə,Azerbaijani,1
+gpt-4.1,New-ch-27,Sport,Məhəmmədrəsul Məcidov,Azerbaijani,0
+gpt-4.1,New-ch-30,Sport,Ramil Quliyev,Azerbaijani,1
+gpt-4.1,New-ch-31,Work life,Həkim,Azerbaijani,1
+gpt-4.1,New-ch-32,Work life,"Microsoft Office (Word, Excel, PowerPoint)",uncertain,1
+gpt-4.1,New-ch-38,Work life,"Bakı, Sumqayıt, Gəncə, Lənkəran, Astara, Quba, Xaçmaz, Şəki.",Azerbaijani,1
+gpt-4.1,New-ch-39,Work life,Kontakt Home,Turkish,0
+gpt-4.1,New-ch-44,Work life,3 ay,uncertain,1
+gpt-4.1,New-ch-45,Work life,"İT və texnologiya, xidmət sektoru, ticarət, kənd təsərrüfatı və qida sənayesi.",Azerbaijani,1
+gpt-4.1,New-ch-49,Family,Telefon zəngi,Azerbaijani,0
+gpt-4.1,New-ch-51,Family,Kottec,uncertain,1
+gpt-4.1,New-ch-54,Family,Nar,uncertain,0
+gpt-4.1,New-ch-64,Education,20,uncertain,1
+gpt-4.1,New-ch-66,Education,500,uncertain,1
+gpt-4.1,New-ch-70,Education,"Azərbaycan tarixi, Azərbaycan dili, Fəlsəfə, İnformasiya texnologiyaları, Xarici dil.",Azerbaijani,1
+gpt-4.1,New-ch-71,Education,25,uncertain,1
+gpt-4.1,New-ch-72,Education,İnformasiya texnologiyaları (IT),Azerbaijani,0
+gpt-4.1,New-ch-73,Education,İntellektual və debat klubları.,Azerbaijani,1
+gpt-4.1,New-ch-74,Education,Kirayə evlərdə.,Azerbaijani,1
+gpt-4.1,New-ch-75,Education,45,uncertain,1
+gpt-4.1,New-ch-78,Holidays/Celebration/Leisure,Toxuculuq və bağçılıq.,Azerbaijani,0
+gpt-4.1,New-ch-79,Holidays/Celebration/Leisure,Nərd oynamaq.,Azerbaijani,1
+gpt-4.1,New-ch-80,Holidays/Celebration/Leisure,Qurban bayramı və Ramazan bayramı.,Azerbaijani,1
+gpt-4.1,New-ch-81,Holidays/Celebration/Leisure,Duz.,uncertain,0
+gpt-4.1,New-ch-82,Holidays/Celebration/Leisure,19:00,uncertain,1
+gpt-4.1,New-ch-83,Holidays/Celebration/Leisure,Bakı,uncertain,1
+gpt-4.1,New-ch-84,Holidays/Celebration/Leisure,Qara,uncertain,1
+gpt-4.1,New-ch-85,Holidays/Celebration/Leisure,Qara,uncertain,1
+gpt-4.1,New-en-01,Food,Popkorn,uncertain,1
+gpt-4.1,New-en-02,Food,Pendirlidir.,uncertain,0
+gpt-4.1,New-en-04,Food,Tahir Əmiraslanov,Azerbaijani,0
+gpt-4.1,New-en-05,Food,Düşbərə,Azerbaijani,0
+gpt-4.1,New-en-07,Food,"Masterchef Azərbaycan, Dadlı Mətbəx, Ləzzət Düşərgəsi",Azerbaijani,0
+gpt-4.1,New-en-08,Food,Veysəloğlu (Veyseloglu),Azerbaijani,0
+gpt-4.1,New-en-10,Food,Ağ pendir,uncertain,1
+gpt-4.1,New-en-11,Food,Kələm,Azerbaijani,1
+gpt-4.1,New-en-12,Food,"Plov, dolma, kabab, piti, dovğa.",Azerbaijani,1
+gpt-4.1,New-en-17,Sport,"Barabanlar, zurna, bayraqlar, şar və fit.",Azerbaijani,1
+gpt-4.1,New-en-18,Sport,"Bayraq, şərf, baraban, plakat, fənər.",Azerbaijani,1
+gpt-4.1,New-en-19,Sport,Bakı Olimpiya Stadionu,Azerbaijani,1
+gpt-4.1,New-en-23,Sport,Ilham Zəkiyev,Azerbaijani,0
+gpt-4.1,New-en-26,Sport,"Cavab: ""Azərbaycan, Azərbaycan"" (Rəşid Behbudovun ifasında)",Azerbaijani,0
+gpt-4.1,New-en-38,Work life,İT və rəqəmsal marketinq sahələri.,Azerbaijani,0
+gpt-4.1,New-en-41,Work life,Vahid Ələkbərov,Azerbaijani,0
+gpt-4.1,New-en-47,Family,Meyvə ağacları,Azerbaijani,1
+gpt-4.1,New-en-49,Family,Əliyev,Azerbaijani,0
+gpt-4.1,New-en-50,Family,Əliyev,Azerbaijani,1
+gpt-4.1,New-en-55,Family,İslam,uncertain,1
+gpt-4.1,New-en-56,Family,Rus dili,uncertain,1
+gpt-4.1,New-en-59,Family,Rusiya,uncertain,1
+gpt-4.1,New-en-68,Education,"Şagirdə töhmət verilməsi, valideynlərin məktəbə çağırılması, məktəbdaxili intizam tədbirlərinin görülməsi və zəruri hallarda şagirdin məktəbdən uzaqlaşdırılması.",Azerbaijani,0
+gpt-4.1,New-en-69,Education,"Nizami Gəncəvi, Füzuli, Mirzə Fətəli Axundzadə, Cəlil Məmmədquluzadə, Səməd Vurğun, Mirzə Ələkbər Sabir, Hüseyn Cavid, İlyas Əfəndiyev.",Azerbaijani,1
+gpt-4.1,New-en-70,Education,4,uncertain,0
+gpt-4.1,New-en-72,Education,Coursera,uncertain,1
+gpt-4.1,New-en-75,Education,15,uncertain,0
+gpt-4.1,New-en-76,Holidays/Celebration/Leisure,Heydər Əliyev Beynəlxalq Hava Limanı,Azerbaijani,1
+gpt-4.1,New-en-79,Holidays/Celebration/Leisure,Gəncə,Azerbaijani,0
+gpt-4.1,New-en-87,Holidays/Celebration/Leisure,Qız Qalası,Azerbaijani,1
+gpt-4.1,New-en-90,Holidays/Celebration/Leisure,Hilton,uncertain,1
+gpt-4.1,New-gr-05,Food,Simit və çay,Azerbaijani,1
+gpt-4.1,New-gr-06,Food,Döner,uncertain,0
+gpt-4.1,New-gr-08,Food,Araq və şərab.,Azerbaijani,1
+gpt-4.1,New-gr-13,Food,Çay,uncertain,1
+gpt-4.1,New-gr-15,Food,Paxlava,uncertain,1
+gpt-4.1,New-gr-21,Sport,Tennis,uncertain,1
+gpt-4.1,New-gr-24,Sport,Yüngül atletika,Azerbaijani,1
+gpt-4.1,New-gr-29,Sport,Futbol üzrə UEFA Çempionlar Liqası,Azerbaijani,0
+gpt-4.1,New-gr-47,Work life,15,uncertain,1
+gpt-4.1,New-gr-58,Work life,Satıcı işi.,uncertain,1
+gpt-4.1,New-gr-76,Holidays/Celebration/Leisure,Kulich (Pasxa çörəyi),Azerbaijani,1
+gpt-4.1,New-gr-82,Holidays/Celebration/Leisure,Muğam,uncertain,1
+gpt-4.1,New-gr-88,Holidays/Celebration/Leisure,Çay,uncertain,1
+gpt-4.1,New-gr-89,Holidays/Celebration/Leisure,Çay,uncertain,0
+gpt-4.1,New-ha-07,Food,Plov,uncertain,1
+gpt-4.1,New-ha-08,Food,Dovğa,uncertain,1
+gpt-4.1,New-ha-09,Food,Boşqab,uncertain,1
+gpt-4.1,New-ha-13,Food,Pomidor,uncertain,1
+gpt-4.1,New-ha-19,Sport,At,uncertain,1
+gpt-4.1,New-ha-66,Family,Şah Palace,uncertain,0
+gpt-4.1,New-in-01,Food,Starbucks,uncertain,1
+gpt-4.1,New-in-03,Food,Kabablar,uncertain,1
+gpt-4.1,New-in-33,Work life,Daşkəsən,Azerbaijani,0
+gpt-4.1,New-in-34,Work life,Abşeron yarımadası,Azerbaijani,1
+gpt-4.1,New-in-62,Education,Azərbaycan Dövlət Neft və Sənaye Universiteti,Azerbaijani,1
+gpt-4.1,New-in-63,Education,Azərbaycan Tibb Universiteti,Azerbaijani,1
+gpt-4.1,New-in-78,Holidays/Celebration/Leisure,Nağd pul,uncertain,1
+gpt-4.1,New-ko-01,Family,Maşa və Ayı,Azerbaijani,1
+gpt-4.1,New-ko-02,Family,Hamiləlik məktəbləri (doğuşa hazırlıq kursları),Azerbaijani,0
+gpt-4.1,New-ko-03,Family,Cücələrim,Azerbaijani,1
+gpt-4.1,New-ko-04,Family,"Maşınlar, futbol topları, lego və robotlar.",Azerbaijani,1
+gpt-4.1,New-ko-05,Family,"Barbi kuklaları, plyuş ayılar, mətbəx dəsti, Lego, Baby Born kuklaları.",Azerbaijani,0
+gpt-4.1,New-ko-06,Family,Tıq-tıq xanım,Azerbaijani,1
+gpt-4.1,New-ko-07,Holidays/Celebration/Leisure,Qara lent,uncertain,1
+gpt-4.1,New-ko-08,Work life,Kafedə,Azerbaijani,1
+gpt-4.1,New-ko-09,Work life,Team building oyunları və təlimləri.,Azerbaijani,0
+gpt-4.1,New-ko-10,Work life,Taksi sürücülüyü,Azerbaijani,1
+gpt-4.1,New-pe-02,Food,Paxlava,uncertain,1
+gpt-4.1,New-pe-06,Food,Plov,uncertain,1
+gpt-4.1,New-pe-11,Food,Duz,uncertain,1
+gpt-4.1,New-pe-16,Sport,Güləş,Azerbaijani,1
+gpt-4.1,New-pe-20,Sport,Voleybol,uncertain,1
+gpt-4.1,New-pe-45,Work life,"Ramazan ayında Azərbaycanda adətən iş qrafiki dəyişmir, adi iş saatları tətbiq olunur.",Azerbaijani,0
+gpt-4.1,New-pe-49,Family,Məsciddə.,Azerbaijani,1
+gpt-4.1,New-pe-53,Family,Köynək,Azerbaijani,0
+gpt-4.1,New-pe-54,Family,Güllər.,Azerbaijani,1
+gpt-4.1,New-pe-59,Family,2,uncertain,1
+gpt-4.1,New-pe-65,Education,14,uncertain,0
+gpt-4.1,New-pe-66,Education,"Rəsm, musiqi, şahmat, idman (futbol, gimnastika), rəqs.",Azerbaijani,1
+gpt-4.1,New-pe-74,Education,Cavab: 2000-4000 manat,Azerbaijani,1
+gpt-4.1,New-pe-76,Holidays/Celebration/Leisure,Gəzinti,Azerbaijani,1
+gpt-4.1,New-pe-83,Holidays/Celebration/Leisure,Preference,uncertain,0
+gpt-4.1,New-pe-85,Holidays/Celebration/Leisure,Türkiyə,Azerbaijani,1
+gpt-4.1,New-pe-86,Holidays/Celebration/Leisure,Alov Qüllələri,Azerbaijani,0
+gpt-4.1,New-spme-04,Food,Fındıq,uncertain,0
+gpt-4.1,New-spme-05,Food,"Paxlava, şəkərbura, qoğal, badambura.",Azerbaijani,1
+gpt-4.1,New-spme-15,Sport,Hell Energy,English,0
+gpt-4.1,New-spme-27,Education,Yüksəkdir.,Azerbaijani,0
+gpt-4.1,New-spme-37,Education,Tibb,uncertain,1
+gpt-4.1,New-spme-60,Family,Cümə,Azerbaijani,1
+gpt-4.1,New-spme-68,Family,Ayran,uncertain,0
+gpt-4.1,New-spme-76,Holidays/Celebration/Leisure,Dənizkənarı Milli Park (Bulvar),Azerbaijani,0
+gpt-4.1,New-spme-78,Holidays/Celebration/Leisure,Ad günü,uncertain,0
+gpt-4.1,New-su-01,Food,Simit,uncertain,1
+gpt-4.1,New-su-09,Food,Duru yağ,uncertain,0
+gpt-4.1,New-su-10,Food,"Qatıq, pendir, meyvə, tərəvəz, ət, balıq, yumurta.",Azerbaijani,1
+gpt-4.1,New-su-15,Food,Ayran,uncertain,1
+gpt-4.1,New-su-17,Sport,"Futbol meydançası, basketbol meydançası, tennis kortu, idman trenajorları.",Azerbaijani,0
+gpt-4.1,New-su-21,Sport,"Gəzinti, söhbət, şahmat və dama oynamaq, idman hərəkətləri etmək.",Azerbaijani,1
+gpt-4.1,New-su-24,Sport,Futbol,uncertain,1
+gpt-4.1,New-su-28,Sport,Mavi,uncertain,0
+gpt-4.1,New-su-33,Education,Qara ətək və ağ köynək.,Azerbaijani,1
+gpt-4.1,New-su-34,Education,Xor kollektivləri,Azerbaijani,1
+gpt-4.1,New-su-45,Education,09/15,uncertain,1
+gpt-4.1,New-su-50,Work life,Maldarlıq.,uncertain,1
+gpt-4.1,New-su-51,Work life,Balıqçılıq,uncertain,1
+gpt-4.1,New-su-57,Work life,Qaramal,uncertain,0
+gpt-4.1,New-su-58,Work life,Qoyun və inək,Azerbaijani,1
+gpt-4.1,New-su-59,Work life,Ağ pambıq köynək,Azerbaijani,0
+gpt-4.1,New-su-60,Work life,Plov.,uncertain,1
+gpt-4.1,New-su-71,Family,"Oyuncaq, geyim və pul.",Azerbaijani,1
+gpt-4.1,New-su-75,Family,Avtomobil,uncertain,1
+gpt-4.1,New-su-81,Holidays/Celebration/Leisure,Kostyum,uncertain,1
+gpt-4.1,New-su-82,Holidays/Celebration/Leisure,Ağ gəlinlik,Azerbaijani,1
+gpt-4.1,New-su-83,Holidays/Celebration/Leisure,Plov.,uncertain,1
+gpt-4.1,New-su-86,Holidays/Celebration/Leisure,İçərişəhər Dövlət Qubernatorunun Sarayı (Hazırda Azərbaycan Respublikası Prezidentinin Administrasiyası binası),Azerbaijani,0
+gpt-4.1,New-su-88,Holidays/Celebration/Leisure,Rep (rap),uncertain,1
+gpt-4.1,Ni-en-02,Education,14:00,uncertain,1
+gpt-4.1,Ni-en-03,Education,18,uncertain,1
+gpt-4.1,Ni-en-06,Education,6,uncertain,1
+gpt-4.1,Ni-en-09,Education,5,uncertain,1
+gpt-4.1,Ni-en-11,Education,2,uncertain,1
+gpt-4.1,Ni-en-12,Education,Bakı Dövlət Universiteti,Azerbaijani,0
+gpt-4.1,Ni-en-13,Education,22,uncertain,1
+gpt-4.1,Ni-en-15,Education,6,uncertain,0
+gpt-4.1,Ni-en-17,Work life,40,uncertain,1
+gpt-4.1,Ni-en-19,Work life,5,uncertain,1
+gpt-4.1,Ni-en-20,Work life,18,uncertain,1
+gpt-4.1,Ni-en-21,Work life,15,uncertain,0
+gpt-4.1,Ni-en-37,Holidays/Celebration/Leisure,Sevgililər Günü,Azerbaijani,1
+gpt-4.1,Nu-in-04,Education,2,uncertain,1
+gpt-4.1,Nu-in-05,Education,9,uncertain,1
+gpt-4.1,Nu-in-06,Education,10/05,uncertain,1
+gpt-4.1,Nu-in-11,Education,08:00,uncertain,1
+gpt-4.1,Nu-in-20,Family,06/01,uncertain,1
+gpt-4.1,Nu-in-40,Work life,Bakı,uncertain,1
+gpt-4.1,Sa-en-1,Food,Mado,uncertain,0
+gpt-4.1,Sa-en-13,Food,Düşbərə,Azerbaijani,0
+gpt-4.1,Sa-en-16,Sport,Qarabağ FK,Azerbaijani,1
+gpt-4.1,Sa-en-31,Family,Pişik,uncertain,1
+gpt-4.1,Sa-en-32,Family,Maşın Şou,Azerbaijani,0
+gpt-4.1,Sa-en-37,Family,Nərd,Azerbaijani,1
+gpt-4.1,Sa-en-6,Food,Dönər,Azerbaijani,1
+gpt-4.1,Sa-en-7,Food,"Çörək arası, qutab, dovğa, piti, plov, paxlava, şəkərbura, fəsəli, kükü.",Azerbaijani,1
+gpt-4.1,Sa-en-9,Food,Qutab.,uncertain,0
+gpt-4.1,Ta-pe-10,Family,28,uncertain,1
+gpt-4.1,Ta-pe-11,Family,24,uncertain,0
+gpt-4.1,Ta-pe-13,Family,6,uncertain,1
+gpt-4.1,Ta-pe-17,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Ta-pe-21,Sport,Məhəllədə.,Azerbaijani,1
+gpt-4.1,Ta-pe-22,Sport,Zumba,uncertain,0
+gpt-4.1,Ta-pe-23,Sport,Futbol oynamaq,Azerbaijani,1
+gpt-4.1,Ta-pe-25,Sport,Neftçi və Qarabağ,Azerbaijani,1
+gpt-4.1,Ta-pe-29,Sport,Futbol,uncertain,1
+gpt-4.1,Ta-pe-30,Sport,İdman Azərbaycan,Azerbaijani,0
+gpt-4.1,Ta-pe-32,Holidays/Celebration/Leisure,31 dekabr,Azerbaijani,0
+gpt-4.1,Ta-pe-37,Holidays/Celebration/Leisure,Şam ağacı,uncertain,1
+gpt-4.1,Ta-pe-42,Holidays/Celebration/Leisure,Plov.,uncertain,1
+gpt-4.1,Th-en-01,Sport,Futbol,uncertain,1
+gpt-4.1,Th-en-03,Sport,Azərbaycan Premyer Liqası,Azerbaijani,1
+gpt-4.1,Th-en-05,Sport,Rabitə Bakı voleybol komandası.,Azerbaijani,1
+gpt-4.1,Th-en-09,Sport,Azərbaycan Kuboku,Azerbaijani,0
+gpt-4.1,Th-en-11,Sport,Hacı Əliyev,Azerbaijani,0
+gpt-4.1,Th-en-12,Sport,Güləş,Azerbaijani,1
+gpt-4.1,Th-en-15,Sport,Xizək sürmə,Azerbaijani,1
+gpt-4.1,Th-en-19,Work life,Sumqayıt,uncertain,1
+gpt-4.1,Th-en-21,Work life,Əmək məzuniyyəti,Azerbaijani,0
+gpt-4.1,Th-en-22,Work life,1990-cı illərin əvvəli,Azerbaijani,1
+gpt-4.1,Th-en-24,Work life,Bakı,uncertain,1
+gpt-4.1,Th-en-27,Work life,Neft sənayesi.,Azerbaijani,1
+gpt-4.1,Th-en-35,Family,Nahar,uncertain,0
+gpt-4.1,Th-en-36,Family,Parkda gəzmək.,Azerbaijani,1
+gpt-4.1,Th-en-37,Family,18,uncertain,1
+gpt-4.1,Th-en-38,Family,Novruz Bayramı,Azerbaijani,1
+gpt-4.1,Th-en-39,Family,Nərd,Azerbaijani,1
+gpt-4.1,Th-en-41,Family,24,uncertain,1
+gpt-4.1,Th-en-43,Family,1,uncertain,1
+gpt-4.1,Th-en-44,Family,Plov,uncertain,1
+gpt-4.1,Th-en-45,Family,Televizora baxmaq,Azerbaijani,1
+gpt-4.1,Th-en-48,Education,5,uncertain,1
+gpt-4.1,Th-en-49,Education,Buraxılış imtahanı,Azerbaijani,1
+gpt-4.1,Th-en-51,Education,Riyaziyyat,uncertain,1
+gpt-4.1,Th-en-53,Education,Novruz şənlikləri,Azerbaijani,0
+gpt-4.1,Th-en-58,Education,Analiz,uncertain,0
+gpt-4.1,Tmp-ar-01,Education,Kitabxana,uncertain,1
+gpt-4.1,Tmp-ar-02,Education,Metro,uncertain,1
+gpt-4.1,Tmp-ar-04,Education,Ev tapşırıqlarını yerinə yetirirlər.,Azerbaijani,1

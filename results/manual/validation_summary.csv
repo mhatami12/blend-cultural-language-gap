@@ -1,0 +1,5 @@
+country,comparison,n,agree_3cat,kappa_3cat,n_confident,agree_confident,kappa_confident,auto1_confirmed,auto1_n,auto0_actually_correct,auto0_n,reviewers,pending
+Azerbaijan,reviewer_A vs reviewer_B,50,46.0000,0.1346,26.0000,76.9231,0.4621,,,,,,
+Azerbaijan,automatic vs consensus,20,,,,,,14.0000,14.0000,1.0000,6.0000,reviewer_A+reviewer_B,
+Iran,reviewer_A vs reviewer_B,50,66.0000,0.3920,31.0000,90.3226,0.6109,,,,,,
+Iran,automatic vs consensus,28,,,,,,17.0000,17.0000,8.0000,11.0000,reviewer_A+reviewer_B,

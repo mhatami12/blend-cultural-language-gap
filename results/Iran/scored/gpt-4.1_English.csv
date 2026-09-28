@@ -1,0 +1,457 @@
+id,topic,country,language,model_key,valid,binary_score,weight_score,matched_answer,strict_score,first_answer,n_words,is_list,response_clean,response_raw,finish_reason,model_version
+New-in-01,Food,Iran,English,gpt-4.1,True,0,0.0,,0,starbucks,1,False,starbucks,Starbucks,stop,gpt-4.1-2025-04-14
+New-ha-08,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kashk-e bademjan,5,False,kashk-e bademjan (eggplant with whey),Kashk-e Bademjan (eggplant with whey),stop,gpt-4.1-2025-04-14
+New-gr-08,Food,Iran,English,gpt-4.1,True,0,0.0,,0,alcoholic drinks are generally prohibited and not commonly consumed at festivals in iran,13,False,alcoholic drinks are generally prohibited and not commonly consumed at festivals in iran,Alcoholic drinks are generally prohibited and not commonly consumed at festivals in Iran.,stop,gpt-4.1-2025-04-14
+Sa-en-7,Food,Iran,English,gpt-4.1,True,1,0.25,fruit leather,0,popular snacks in iran include lavashak,34,True,"popular snacks in iran include lavashak (fruit leather), nuts (especially pistachios and almonds), gaz (nougat), sohan (saffron brittle), dried fruits, noon panir sabzi (bread, cheese, and herbs), and various pastries like zoolbia and bamieh","Popular snacks in Iran include lavashak (fruit leather), nuts (especially pistachios and almonds), gaz (nougat), sohan (saffron brittle), dried fruits, noon panir sabzi (bread, cheese, and herbs), and various pastries like zoolbia and bamieh.",stop,gpt-4.1-2025-04-14
+Na-ko-15,Food,Iran,English,gpt-4.1,True,1,1.0,kebab,1,chelo kebab,2,False,chelo kebab,Chelo Kebab,stop,gpt-4.1-2025-04-14
+New-ha-13,Food,Iran,English,gpt-4.1,True,0,0.0,,0,tomato,1,False,tomato,Tomato,stop,gpt-4.1-2025-04-14
+New-en-11,Food,Iran,English,gpt-4.1,True,0,0.0,,0,eggplant,2,False,eggplant (bademjan),Eggplant (Bademjan),stop,gpt-4.1-2025-04-14
+Ne-ar-43,Food,Iran,English,gpt-4.1,True,1,1.0,sugar cube,1,sugar cubes,10,True,sugar cubes (ghand) or sweets such as dates or pastries,Sugar cubes (ghand) or sweets such as dates or pastries.,stop,gpt-4.1-2025-04-14
+Al-en-01,Food,Iran,English,gpt-4.1,True,1,1.0,fruit,0,lavashak,3,False,lavashak (fruit leather),Lavashak (fruit leather),stop,gpt-4.1-2025-04-14
+Ca-sp-14,Food,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (chai),Tea (Chai),stop,gpt-4.1-2025-04-14
+New-en-02,Food,Iran,English,gpt-4.1,True,1,1.0,salt vinegar,1,salt and vinegar,3,False,salt and vinegar,Salt and vinegar,stop,gpt-4.1-2025-04-14
+Na-ko-08,Food,Iran,English,gpt-4.1,True,1,0.2,pomegranate,1,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+Jod-ch-15,Food,Iran,English,gpt-4.1,True,1,1.0,fish,1,people from iran commonly eat fish,9,True,"people from iran commonly eat fish, shrimp, and caviar","People from Iran commonly eat fish, shrimp, and caviar.",stop,gpt-4.1-2025-04-14
+Al-en-09,Food,Iran,English,gpt-4.1,True,0,0.0,,0,lavashak,3,False,lavashak (fruit leather),Lavashak (fruit leather),stop,gpt-4.1-2025-04-14
+Na-ko-09,Food,Iran,English,gpt-4.1,True,0,0.0,,0,sabzi khordan,4,False,sabzi khordan (fresh herbs),Sabzi khordan (fresh herbs),stop,gpt-4.1-2025-04-14
+Kik-in-17,Food,Iran,English,gpt-4.1,True,1,1.0,dates,1,dates,1,False,dates,Dates,stop,gpt-4.1-2025-04-14
+Jod-ch-04,Food,Iran,English,gpt-4.1,True,1,0.5,doogh,1,doogh,1,False,doogh,Doogh,stop,gpt-4.1-2025-04-14
+New-gr-88,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,1,False,tea,Tea,stop,gpt-4.1-2025-04-14
+Na-ko-41,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,flower,1,flowers,1,False,flowers,Flowers,stop,gpt-4.1-2025-04-14
+Ni-en-37,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,sepandarmazgan,1,False,sepandarmazgan,Sepandarmazgan,stop,gpt-4.1-2025-04-14
+New-am-77,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,nowruz,1,False,nowruz,Nowruz,stop,gpt-4.1-2025-04-14
+Kik-in-06,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.3333333333333333,proposal,0,khastegari,5,False,khastegari (the marriage proposal ceremony),Khastegari (the marriage proposal ceremony),stop,gpt-4.1-2025-04-14
+Al-en-34,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,people in iran do not traditionally celebrate new year's day on january 1,35,True,"people in iran do not traditionally celebrate new year's day on january 1; instead, they celebrate nowruz, the persian new year, around march 20-21 with family gatherings, special meals, cleaning homes, and various cultural rituals","People in Iran do not traditionally celebrate New Year's Day on January 1; instead, they celebrate Nowruz, the Persian New Year, around March 20-21 with family gatherings, special meals, cleaning homes, and various cultural rituals.",stop,gpt-4.1-2025-04-14
+Kik-in-08,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,cleaning the house,14,True,"cleaning the house (khaneh tekani), shopping for food and supplies, and preparing special foods","Cleaning the house (khaneh tekani), shopping for food and supplies, and preparing special foods.",stop,gpt-4.1-2025-04-14
+New-az-70,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,aragh sagi,4,False,aragh sagi (iranian moonshine),Aragh Sagi (Iranian moonshine),stop,gpt-4.1-2025-04-14
+New-as-89,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,gold,0,people from iran traditionally wear colorful clothing,15,True,"people from iran traditionally wear colorful clothing, headscarves, and sometimes gold jewelry as festival accessories","People from Iran traditionally wear colorful clothing, headscarves, and sometimes gold jewelry as festival accessories.",stop,gpt-4.1-2025-04-14
+Ca-sp-29,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,setting the haft-seen table,0,in iran new year's eve is celebrated as part of nowruz,40,True,"in iran, new year's eve is celebrated as part of nowruz, which includes traditions such as gathering with family, cleaning the house (khaneh tekani), setting the haft-seen table, and jumping over bonfires during chaharshanbe suri, which occurs just before nowruz","In Iran, New Year's Eve is celebrated as part of Nowruz, which includes traditions such as gathering with family, cleaning the house (khaneh tekani), setting the Haft-Seen table, and jumping over bonfires during Chaharshanbe Suri, which occurs just before Nowruz.",stop,gpt-4.1-2025-04-14
+New-ch-78,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,art,0,retired women in iran typically enjoy activities such as socializing with family and friends,30,True,"retired women in iran typically enjoy activities such as socializing with family and friends, gardening, religious gatherings, handicrafts (like knitting or embroidery), reading, and participating in community or cultural events","Retired women in Iran typically enjoy activities such as socializing with family and friends, gardening, religious gatherings, handicrafts (like knitting or embroidery), reading, and participating in community or cultural events.",stop,gpt-4.1-2025-04-14
+New-en-90,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,espinas,1,espinas hotels,2,False,espinas hotels,Espinas Hotels,stop,gpt-4.1-2025-04-14
+Ta-pe-37,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+New-su-88,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,pop,1,pop music,2,False,pop music,Pop music,stop,gpt-4.1-2025-04-14
+New-su-83,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,kebab,1,chelo kebab,2,False,chelo kebab,Chelo kebab,stop,gpt-4.1-2025-04-14
+New-az-73,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,300,1,False,300,300,stop,gpt-4.1-2025-04-14
+Jod-ch-16,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,stop,gpt-4.1-2025-04-14
+New-spme-15,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,powerade,1,False,powerade,Powerade,stop,gpt-4.1-2025-04-14
+New-gr-29,Sport,Iran,English,gpt-4.1,True,1,1.0,fifa world cup,1,fifa world cup,3,False,fifa world cup,FIFA World Cup,stop,gpt-4.1-2025-04-14
+New-az-27,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Ta-pe-21,Sport,Iran,English,gpt-4.1,True,1,0.3333333333333333,schoolyard,0,children in iran usually play soccer in parks,12,True,"children in iran usually play soccer in parks, schoolyards, and open fields","Children in Iran usually play soccer in parks, schoolyards, and open fields.",stop,gpt-4.1-2025-04-14
+Gu-ch-05,Sport,Iran,English,gpt-4.1,True,1,1.0,walking,1,walking,1,False,walking,Walking,stop,gpt-4.1-2025-04-14
+Gu-ch-08,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+New-as-20,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+New-ch-27,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,mahyar monshipour,2,False,mahyar monshipour,Mahyar Monshipour,stop,gpt-4.1-2025-04-14
+Sa-en-22,Sport,Iran,English,gpt-4.1,True,1,1.0,university of tehran,1,university of tehran,3,False,university of tehran,University of Tehran,stop,gpt-4.1-2025-04-14
+Th-en-15,Sport,Iran,English,gpt-4.1,True,1,1.0,skiing,1,skiing,1,False,skiing,Skiing,stop,gpt-4.1-2025-04-14
+New-gr-24,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Gu-ch-06,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+Th-en-01,Sport,Iran,English,gpt-4.1,True,1,0.3333333333333333,football,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Ta-pe-29,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (Football),stop,gpt-4.1-2025-04-14
+An-ar-34,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+Na-ko-25,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,typical sports played in iran's school sports day include soccer,29,True,"typical sports played in iran's school sports day include soccer (football), volleyball, basketball, athletics (such as running races), tug of war, and traditional games like dodgeball and rope skipping","Typical sports played in Iran's school sports day include soccer (football), volleyball, basketball, athletics (such as running races), tug of war, and traditional games like dodgeball and rope skipping.",stop,gpt-4.1-2025-04-14
+Kik-in-44,Sport,Iran,English,gpt-4.1,True,1,0.2,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Gu-ch-32,Education,Iran,English,gpt-4.1,True,1,1.0,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+Ji-ko-41,Education,Iran,English,gpt-4.1,True,0,0.0,,0,students in iran typically wear black,12,True,students in iran typically wear black or dark-colored closed-toe shoes in schools,Students in Iran typically wear black or dark-colored closed-toe shoes in schools.,stop,gpt-4.1-2025-04-14
+Th-en-53,Education,Iran,English,gpt-4.1,True,0,0.0,,0,school camping trips,5,False,school camping trips (اردوهای دانش‌آموزی),School camping trips (اردوهای دانش‌آموزی),stop,gpt-4.1-2025-04-14
+New-az-39,Education,Iran,English,gpt-4.1,True,0,0.0,,0,united states,2,False,united states,United States,stop,gpt-4.1-2025-04-14
+New-su-34,Education,Iran,English,gpt-4.1,True,0,0.0,,0,choir,3,False,choir (singing groups),Choir (singing groups),stop,gpt-4.1-2025-04-14
+Ji-ko-38,Education,Iran,English,gpt-4.1,True,0,0.0,,0,medicine,1,False,medicine,Medicine,stop,gpt-4.1-2025-04-14
+Al-en-17,Education,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+New-su-42,Education,Iran,English,gpt-4.1,True,1,1.0,islam,1,islam,5,False,"islam (specifically, twelver shia islam)","Islam (specifically, Twelver Shia Islam)",stop,gpt-4.1-2025-04-14
+Nu-in-04,Education,Iran,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Th-en-51,Education,Iran,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Al-en-18,Education,Iran,English,gpt-4.1,True,1,0.25,english language,1,english language,2,False,english language,English language,stop,gpt-4.1-2025-04-14
+Ji-ko-39,Education,Iran,English,gpt-4.1,True,0,0.0,,0,recorder,1,False,recorder,Recorder,stop,gpt-4.1-2025-04-14
+Jo-sp-37,Education,Iran,English,gpt-4.1,True,0,0.0,,0,13,1,False,13,13,stop,gpt-4.1-2025-04-14
+Ji-ko-37,Education,Iran,English,gpt-4.1,True,1,1.0,school uniform,1,middle and high school students in iran typically wear school uniforms,28,True,"middle and high school students in iran typically wear school uniforms, with girls wearing long-sleeved tunics (manteau), trousers, and headscarves (hijab), and boys wearing long-sleeved shirts and trousers","Middle and high school students in Iran typically wear school uniforms, with girls wearing long-sleeved tunics (manteau), trousers, and headscarves (hijab), and boys wearing long-sleeved shirts and trousers.",stop,gpt-4.1-2025-04-14
+Ni-en-03,Education,Iran,English,gpt-4.1,True,1,1.0,18,1,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+An-ar-08,Education,Iran,English,gpt-4.1,True,1,0.6666666666666666,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Tmp-ar-01,Education,Iran,English,gpt-4.1,True,1,1.0,library,1,university libraries,2,False,university libraries,University libraries.,stop,gpt-4.1-2025-04-14
+Jod-ch-56,Work life,Iran,English,gpt-4.1,True,1,0.5,55,1,55,1,False,55,55,stop,gpt-4.1-2025-04-14
+New-az-49,Work life,Iran,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ki-pe-51,Work life,Iran,English,gpt-4.1,True,1,1.0,14:00,1,14:00,1,False,14:00,14:00,stop,gpt-4.1-2025-04-14
+New-ch-44,Work life,Iran,English,gpt-4.1,True,1,0.5,1 month,1,1 month,2,False,1 month,1 month,stop,gpt-4.1-2025-04-14
+Jod-ch-51,Work life,Iran,English,gpt-4.1,True,1,1.0,car,1,car,1,False,car,Car,stop,gpt-4.1-2025-04-14
+Ni-en-20,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+Ne-ar-24,Work life,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,stop,gpt-4.1-2025-04-14
+Ne-ar-20,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,government jobs are considered to be secure jobs in iran,10,False,government jobs are considered to be secure jobs in iran,Government jobs are considered to be secure jobs in Iran.,stop,gpt-4.1-2025-04-14
+Th-en-19,Work life,Iran,English,gpt-4.1,True,1,1.0,isfahan,1,isfahan,1,False,isfahan,Isfahan,stop,gpt-4.1-2025-04-14
+New-ch-45,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,technology,9,True,"technology, e-commerce, fashion, food and beverage, and digital marketing","Technology, e-commerce, fashion, food and beverage, and digital marketing.",stop,gpt-4.1-2025-04-14
+Ji-ko-09,Work life,Iran,English,gpt-4.1,True,1,0.5,rice,0,people typically eat kebabs,28,True,"people typically eat kebabs, rice dishes (such as chelo or polo), stews (like ghormeh sabzi or fesenjan), salads, and various sweets and fruits during company get-togethers in iran","People typically eat kebabs, rice dishes (such as chelo or polo), stews (like ghormeh sabzi or fesenjan), salads, and various sweets and fruits during company get-togethers in Iran.",stop,gpt-4.1-2025-04-14
+Ji-ko-08,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,44,1,False,44,44,stop,gpt-4.1-2025-04-14
+Jod-ch-46,Work life,Iran,English,gpt-4.1,True,1,1.0,1.5,1,1.5,1,False,1.5,1.5,stop,gpt-4.1-2025-04-14
+New-su-50,Work life,Iran,English,gpt-4.1,True,1,1.0,animal husbandry,1,animal husbandry,4,False,animal husbandry (livestock raising),Animal husbandry (livestock raising),stop,gpt-4.1-2025-04-14
+Ni-en-21,Work life,Iran,English,gpt-4.1,True,1,0.5,15,1,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+New-ko-09,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,the most frequently practiced team-building activities in companies based in iran include group workshops,23,True,"the most frequently practiced team-building activities in companies based in iran include group workshops, outdoor excursions, problem-solving games, and cultural or traditional events","The most frequently practiced team-building activities in companies based in Iran include group workshops, outdoor excursions, problem-solving games, and cultural or traditional events.",stop,gpt-4.1-2025-04-14
+New-su-75,Family,Iran,English,gpt-4.1,True,0,0.0,,0,sedan,1,False,sedan,Sedan,stop,gpt-4.1-2025-04-14
+New-pe-54,Family,Iran,English,gpt-4.1,True,1,0.5,flower,1,perfume,6,True,"perfume, flowers, clothes, jewelry, and sweets","Perfume, flowers, clothes, jewelry, and sweets.",stop,gpt-4.1-2025-04-14
+Ta-pe-11,Family,Iran,English,gpt-4.1,True,1,1.0,24,1,24,1,False,24,24,stop,gpt-4.1-2025-04-14
+Th-en-35,Family,Iran,English,gpt-4.1,True,1,0.2,lunch,1,lunch,1,False,lunch,Lunch,stop,gpt-4.1-2025-04-14
+Ji-ko-27,Family,Iran,English,gpt-4.1,True,1,1.0,sweets,0,fruits,8,False,fruits (especially sweets and pastries are also common),Fruits (especially sweets and pastries are also common).,stop,gpt-4.1-2025-04-14
+New-pe-47,Family,Iran,English,gpt-4.1,True,0,0.0,,0,12/07,1,False,12/07,12/07,stop,gpt-4.1-2025-04-14
+New-ch-49,Family,Iran,English,gpt-4.1,True,0,0.0,,0,mobile messaging apps,8,False,mobile messaging apps (such as whatsapp and telegram),Mobile messaging apps (such as WhatsApp and Telegram),stop,gpt-4.1-2025-04-14
+New-pe-53,Family,Iran,English,gpt-4.1,True,1,0.25,perfume,1,perfume,13,True,"perfume, clothing, watches, and sometimes religious items such as prayer beads or books","Perfume, clothing, watches, and sometimes religious items such as prayer beads or books.",stop,gpt-4.1-2025-04-14
+Ta-pe-10,Family,Iran,English,gpt-4.1,True,0,0.0,,0,27,1,False,27,27,stop,gpt-4.1-2025-04-14
+New-en-55,Family,Iran,English,gpt-4.1,True,1,1.0,islam,1,islam,1,False,islam,Islam,stop,gpt-4.1-2025-04-14
+New-am-72,Family,Iran,English,gpt-4.1,True,1,1.0,tintin,1,tintin,1,False,tintin,Tintin,stop,gpt-4.1-2025-04-14
+Sa-en-37,Family,Iran,English,gpt-4.1,True,1,1.0,backgammon,1,backgammon,6,False,"backgammon (known as ""nard"" in iran)","Backgammon (known as ""Nard"" in Iran)",stop,gpt-4.1-2025-04-14
+New-ko-03,Family,Iran,English,gpt-4.1,True,0,0.0,,0,aroosak-e khoshgel-e man,6,False,aroosak-e khoshgel-e man (my pretty doll),Aroosak-e Khoshgel-e Man (My Pretty Doll),stop,gpt-4.1-2025-04-14
+New-pe-59,Family,Iran,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+New-ko-06,Family,Iran,English,gpt-4.1,True,1,1.0,shahnameh,1,"the story of ""shahnameh""",15,True,"the story of ""shahnameh"" (the book of kings), especially the tale of rostam and sohrab","The story of ""Shahnameh"" (The Book of Kings), especially the tale of Rostam and Sohrab.",stop,gpt-4.1-2025-04-14
+Ji-ko-29,Family,Iran,English,gpt-4.1,True,1,1.0,one year,0,the first birthday,4,False,the first birthday (one-year-old),The first birthday (one-year-old).,stop,gpt-4.1-2025-04-14
+Ki-pe-39,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kabab,15,True,"kabab (grilled meat), rice, fresh herbs (sabzi), bread (lavash or sangak), cheese, fruits, and pickles","Kabab (grilled meat), rice, fresh herbs (sabzi), bread (lavash or sangak), cheese, fruits, and pickles.",stop,gpt-4.1-2025-04-14
+New-az-11,Food,Iran,English,gpt-4.1,True,1,1.0,watermelon,1,watermelon,1,False,watermelon,Watermelon,stop,gpt-4.1-2025-04-14
+New-spme-04,Food,Iran,English,gpt-4.1,True,1,1.0,pistachio,1,pistachios,1,False,pistachios,Pistachios,stop,gpt-4.1-2025-04-14
+Ne-ar-38,Food,Iran,English,gpt-4.1,True,0,0.0,,0,ash,8,False,ash (a type of thick soup or porridge),Ash (a type of thick soup or porridge),stop,gpt-4.1-2025-04-14
+New-en-08,Food,Iran,English,gpt-4.1,True,1,1.0,shirin asal,1,shirin asal,2,False,shirin asal,Shirin Asal,stop,gpt-4.1-2025-04-14
+Jod-ch-09,Food,Iran,English,gpt-4.1,True,1,1.0,20:00,1,20:00,1,False,20:00,20:00,stop,gpt-4.1-2025-04-14
+New-en-10,Food,Iran,English,gpt-4.1,True,0,0.0,,0,feta cheese,2,False,feta cheese,Feta cheese,stop,gpt-4.1-2025-04-14
+New-su-09,Food,Iran,English,gpt-4.1,True,1,1.0,sunflower oil,1,sunflower oil,2,False,sunflower oil,Sunflower oil,stop,gpt-4.1-2025-04-14
+Ca-sp-11,Food,Iran,English,gpt-4.1,True,1,1.0,friday,1,friday,1,False,friday,Friday,stop,gpt-4.1-2025-04-14
+Ne-ar-37,Food,Iran,English,gpt-4.1,True,0,0.0,,0,dates,1,False,dates,Dates,stop,gpt-4.1-2025-04-14
+Jod-ch-01,Food,Iran,English,gpt-4.1,True,1,1.0,spoon,1,spoon and fork,3,False,spoon and fork,Spoon and fork,stop,gpt-4.1-2025-04-14
+New-am-04,Food,Iran,English,gpt-4.1,True,0,0.0,,0,mast-o-khiar,5,False,mast-o-khiar (yogurt and cucumber dip),Mast-o-khiar (yogurt and cucumber dip),stop,gpt-4.1-2025-04-14
+New-ch-01,Food,Iran,English,gpt-4.1,True,0,0.0,,0,lamb,1,False,lamb,Lamb,stop,gpt-4.1-2025-04-14
+Na-ko-05,Food,Iran,English,gpt-4.1,True,1,0.5,kebab,1,kebab,1,False,kebab,Kebab,stop,gpt-4.1-2025-04-14
+New-gr-06,Food,Iran,English,gpt-4.1,True,1,1.0,pizza,1,pizza,1,False,pizza,Pizza,stop,gpt-4.1-2025-04-14
+New-en-12,Food,Iran,English,gpt-4.1,True,1,0.5,kebab,1,kebab,1,False,kebab,Kebab,stop,gpt-4.1-2025-04-14
+Ca-sp-05,Food,Iran,English,gpt-4.1,True,1,1.0,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+New-am-02,Food,Iran,English,gpt-4.1,True,1,0.5,kebab,1,chelo kebab,2,False,chelo kebab,Chelo kebab,stop,gpt-4.1-2025-04-14
+New-as-05,Food,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (chai),Tea (chai),stop,gpt-4.1-2025-04-14
+Ne-ar-32,Food,Iran,English,gpt-4.1,True,1,1.0,bread,1,bread with cheese,16,True,"bread (such as barbari or sangak) with cheese, butter, jam, honey, and sometimes eggs or tea","Bread (such as barbari or sangak) with cheese, butter, jam, honey, and sometimes eggs or tea.",stop,gpt-4.1-2025-04-14
+Jod-ch-12,Food,Iran,English,gpt-4.1,True,1,1.0,ash reshteh,0,ash,4,False,ash (or ash reshteh),Ash (or Ash Reshteh),stop,gpt-4.1-2025-04-14
+New-as-01,Food,Iran,English,gpt-4.1,True,1,1.0,wheat,1,wheat,1,False,wheat,Wheat,stop,gpt-4.1-2025-04-14
+Ne-ar-31,Food,Iran,English,gpt-4.1,True,1,0.6666666666666666,kebab,1,chelo kebab,2,False,chelo kebab,Chelo kebab,stop,gpt-4.1-2025-04-14
+Ca-sp-08,Food,Iran,English,gpt-4.1,True,1,1.0,rice,1,rice,1,False,rice,Rice,stop,gpt-4.1-2025-04-14
+Sa-en-1,Food,Iran,English,gpt-4.1,True,0,0.0,,0,super star,2,False,super star,Super Star,stop,gpt-4.1-2025-04-14
+Kik-in-24,Food,Iran,English,gpt-4.1,True,1,0.3333333333333333,rice,1,rice,1,False,rice,Rice,stop,gpt-4.1-2025-04-14
+Ki-pe-32,Food,Iran,English,gpt-4.1,True,1,1.0,kebab,0,rice with stew,5,True,rice with stew or kebab,Rice with stew or kebab.,stop,gpt-4.1-2025-04-14
+New-ha-09,Food,Iran,English,gpt-4.1,True,1,0.5,pot,1,pot,7,False,"pot (specifically, a ""deeg"" or ""ghameh"" pot)","Pot (specifically, a ""deeg"" or ""ghameh"" pot)",stop,gpt-4.1-2025-04-14
+Kik-in-16,Food,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (chai),Tea (chai),stop,gpt-4.1-2025-04-14
+New-su-10,Food,Iran,English,gpt-4.1,True,0,0.0,,0,saffron rice is commonly consumed by pregnant women in iran,15,False,saffron rice (often with barberries or zereshk) is commonly consumed by pregnant women in iran,Saffron rice (often with barberries or zereshk) is commonly consumed by pregnant women in Iran.,stop,gpt-4.1-2025-04-14
+Jod-ch-06,Food,Iran,English,gpt-4.1,True,0,0.0,,0,aragh sagi,2,False,aragh sagi,Aragh Sagi,stop,gpt-4.1-2025-04-14
+Ki-pe-43,Food,Iran,English,gpt-4.1,True,1,1.0,sangak,1,sangak,1,False,sangak,Sangak,stop,gpt-4.1-2025-04-14
+Al-en-08,Food,Iran,English,gpt-4.1,True,1,0.6666666666666666,corn,0,sausage sandwiches,9,True,"sausage sandwiches, falafel, french fries, popcorn, and ice cream","Sausage sandwiches, falafel, French fries, popcorn, and ice cream.",stop,gpt-4.1-2025-04-14
+Jod-ch-13,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kebab,1,False,kebab,Kebab,stop,gpt-4.1-2025-04-14
+Ne-ar-36,Food,Iran,English,gpt-4.1,True,1,1.0,kebab,1,a typical festive meal in iran is chelow kebab served with saffron rice,26,True,"a typical festive meal in iran is chelow kebab served with saffron rice, grilled meats, and various side dishes such as sabzi khordan, torshi, and yogurt","A typical festive meal in Iran is chelow kebab served with saffron rice, grilled meats, and various side dishes such as sabzi khordan, torshi, and yogurt.",stop,gpt-4.1-2025-04-14
+Ca-sp-09,Food,Iran,English,gpt-4.1,True,0,0.0,,0,people from iran often eat desserts such as baklava,18,True,"people from iran often eat desserts such as baklava, zoolbia bamieh, faloodeh, and saffron ice cream (bastani sonnati)","People from Iran often eat desserts such as baklava, zoolbia bamieh, faloodeh, and saffron ice cream (bastani sonnati).",stop,gpt-4.1-2025-04-14
+New-gr-15,Food,Iran,English,gpt-4.1,True,1,1.0,faloodeh,1,faloodeh,1,False,faloodeh,Faloodeh,stop,gpt-4.1-2025-04-14
+Ca-sp-06,Food,Iran,English,gpt-4.1,True,1,0.5,breakfast,1,breakfast,3,False,"breakfast (صبحانه, sobhāneh)","Breakfast (صبحانه, sobhāneh)",stop,gpt-4.1-2025-04-14
+New-ch-15,Food,Iran,English,gpt-4.1,True,0,0.0,,0,lavashak,3,False,lavashak (fruit leather),Lavashak (fruit leather),stop,gpt-4.1-2025-04-14
+Ne-ar-33,Food,Iran,English,gpt-4.1,True,1,0.25,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+New-pe-11,Food,Iran,English,gpt-4.1,True,1,1.0,turmeric,1,turmeric,1,False,turmeric,Turmeric,stop,gpt-4.1-2025-04-14
+New-ch-02,Food,Iran,English,gpt-4.1,True,1,0.5,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+Sa-en-9,Food,Iran,English,gpt-4.1,True,1,1.0,fruit,1,people from iran often eat snacks like watermelon,21,True,"people from iran often eat snacks like watermelon, nuts, seeds, lavashak (fruit leather), and sometimes kebabs or sandwiches at the beach","People from Iran often eat snacks like watermelon, nuts, seeds, lavashak (fruit leather), and sometimes kebabs or sandwiches at the beach.",stop,gpt-4.1-2025-04-14
+New-az-12,Food,Iran,English,gpt-4.1,True,1,1.0,south,1,southern iran particularly the persian gulf coast,19,True,"southern iran, particularly the persian gulf coast (including provinces like khuzestan, bushehr, and hormozgan), is known for its seafood","Southern Iran, particularly the Persian Gulf coast (including provinces like Khuzestan, Bushehr, and Hormozgan), is known for its seafood.",stop,gpt-4.1-2025-04-14
+Ne-ar-44,Food,Iran,English,gpt-4.1,True,1,0.5,dates,1,dates,1,False,dates,Dates.,stop,gpt-4.1-2025-04-14
+New-as-07,Food,Iran,English,gpt-4.1,True,0,0.0,,0,sabzi polo ba mahi,4,False,sabzi polo ba mahi,Sabzi Polo ba Mahi,stop,gpt-4.1-2025-04-14
+New-en-05,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kebab sandwich,4,False,kebab sandwich (kebab-e loghmeh),Kebab sandwich (kebab-e loghmeh),stop,gpt-4.1-2025-04-14
+New-am-15,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kachi,11,False,"kachi (a sweet porridge made with flour, butter, sugar, and rosewater)","Kachi (a sweet porridge made with flour, butter, sugar, and rosewater)",stop,gpt-4.1-2025-04-14
+New-en-07,Food,Iran,English,gpt-4.1,True,0,0.0,,0,bahooneh,13,True,"bahooneh, dastpokht, and ashpazbashi are among the most popular cooking shows in iran","Bahooneh, Dastpokht, and Ashpazbashi are among the most popular cooking shows in Iran.",stop,gpt-4.1-2025-04-14
+New-ch-14,Food,Iran,English,gpt-4.1,True,1,1.0,soup,0,ash-e reshteh,14,True,"ash-e reshteh (noodle soup), chicken soup, rice with yogurt, and soft stews like abgoosht","Ash-e reshteh (noodle soup), chicken soup, rice with yogurt, and soft stews like abgoosht.",stop,gpt-4.1-2025-04-14
+Sa-en-6,Food,Iran,English,gpt-4.1,True,1,1.0,pizza,1,pizza,1,False,pizza,Pizza,stop,gpt-4.1-2025-04-14
+New-ha-07,Food,Iran,English,gpt-4.1,True,1,1.0,kebab,1,kebab,1,False,kebab,Kebab,stop,gpt-4.1-2025-04-14
+Ne-ar-39,Food,Iran,English,gpt-4.1,True,1,1.0,falafel,1,falafel sandwiches,2,False,falafel sandwiches,Falafel sandwiches,stop,gpt-4.1-2025-04-14
+New-ch-05,Food,Iran,English,gpt-4.1,True,0,0.0,,0,ghormeh sabzi,2,False,ghormeh sabzi,Ghormeh Sabzi,stop,gpt-4.1-2025-04-14
+New-as-02,Food,Iran,English,gpt-4.1,True,1,1.0,bread,1,bread,8,False,"bread (specifically, ""naan"" such as sangak or barbari)","Bread (specifically, ""naan"" such as Sangak or Barbari)",stop,gpt-4.1-2025-04-14
+New-pe-06,Food,Iran,English,gpt-4.1,True,1,1.0,ghormeh sabzi,1,ghormeh sabzi,2,False,ghormeh sabzi,Ghormeh Sabzi,stop,gpt-4.1-2025-04-14
+New-ch-04,Food,Iran,English,gpt-4.1,True,1,1.0,fruit,0,people in iran often eat foods like nuts,22,True,"people in iran often eat foods like nuts, fruits, cheese with bread, cookies, yogurt with cucumbers, or light sandwiches as late-night snacks","People in Iran often eat foods like nuts, fruits, cheese with bread, cookies, yogurt with cucumbers, or light sandwiches as late-night snacks.",stop,gpt-4.1-2025-04-14
+Na-ko-11,Food,Iran,English,gpt-4.1,True,1,1.0,seed,1,sunflower seeds,11,True,"sunflower seeds (tokhmeh), nuts, and sometimes snacks like chips or popcorn","Sunflower seeds (tokhmeh), nuts, and sometimes snacks like chips or popcorn.",stop,gpt-4.1-2025-04-14
+New-su-15,Food,Iran,English,gpt-4.1,True,0,0.0,,0,doogh,1,False,doogh,Doogh,stop,gpt-4.1-2025-04-14
+New-ch-08,Food,Iran,English,gpt-4.1,True,0,0.0,,0,saffron,1,False,saffron,Saffron,stop,gpt-4.1-2025-04-14
+New-en-01,Food,Iran,English,gpt-4.1,True,0,0.0,,0,nokhodchi,3,False,nokhodchi (roasted chickpeas),Nokhodchi (roasted chickpeas),stop,gpt-4.1-2025-04-14
+New-in-03,Food,Iran,English,gpt-4.1,True,1,1.0,kebab,1,kebabs,1,False,kebabs,Kebabs,stop,gpt-4.1-2025-04-14
+Ne-ar-34,Food,Iran,English,gpt-4.1,True,1,1.0,rice,1,rice,2,False,rice (chelow),Rice (chelow),stop,gpt-4.1-2025-04-14
+Na-ko-07,Food,Iran,English,gpt-4.1,True,0,0.0,,0,lamb,1,False,lamb,Lamb,stop,gpt-4.1-2025-04-14
+Al-en-04,Food,Iran,English,gpt-4.1,True,0,0.0,,0,watermelon,1,False,watermelon,Watermelon,stop,gpt-4.1-2025-04-14
+New-as-15,Food,Iran,English,gpt-4.1,True,0,0.0,,0,sharbat,5,False,"sharbat (a sweet, flavored drink)","Sharbat (a sweet, flavored drink)",stop,gpt-4.1-2025-04-14
+Ki-pe-36,Food,Iran,English,gpt-4.1,True,1,1.0,italy,1,italy,1,False,italy,Italy,stop,gpt-4.1-2025-04-14
+New-pe-83,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,hokm,1,False,hokm,Hokm,stop,gpt-4.1-2025-04-14
+Kik-in-15,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,manteau,1,women usually wear a black manteau,23,True,"women usually wear a black manteau (long coat), trousers, and a headscarf (hijab), often with a graduation gown and cap over their clothes","Women usually wear a black manteau (long coat), trousers, and a headscarf (hijab), often with a graduation gown and cap over their clothes.",stop,gpt-4.1-2025-04-14
+Na-ko-45,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,kish island,1,kish island,2,False,kish island,Kish Island,stop,gpt-4.1-2025-04-14
+Kik-in-07,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,eidi,1,eidi,4,False,eidi (money or gifts),Eidi (money or gifts),stop,gpt-4.1-2025-04-14
+New-gr-82,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,traditional,1,traditional persian music,6,False,traditional persian music (classical and folk),Traditional Persian music (classical and folk),stop,gpt-4.1-2025-04-14
+Na-ko-37,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,kish island,1,the most popular domestic vacation spot for people from iran is kish island,13,False,the most popular domestic vacation spot for people from iran is kish island,The most popular domestic vacation spot for people from Iran is Kish Island.,stop,gpt-4.1-2025-04-14
+Na-ko-40,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.6666666666666666,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+New-su-86,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,golestan palace,2,False,golestan palace,Golestan Palace,stop,gpt-4.1-2025-04-14
+New-az-69,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,aragh,8,False,aragh (also known as arak or aragh sagi),Aragh (also known as Arak or Aragh Sagi),stop,gpt-4.1-2025-04-14
+New-as-80,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,people from iran wear colorful traditional garments such as long dresses for women and embroidered shirts with loose trousers for men during traditional festivals,27,False,people from iran wear colorful traditional garments such as long dresses (chadors or manteaus) for women and embroidered shirts with loose trousers for men during traditional festivals,People from Iran wear colorful traditional garments such as long dresses (chadors or manteaus) for women and embroidered shirts with loose trousers for men during traditional festivals.,stop,gpt-4.1-2025-04-14
+New-ch-81,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,sweets,8,True,"sweets, flowers, decorative items, housewares, or a quran","Sweets, flowers, decorative items, housewares, or a Quran.",stop,gpt-4.1-2025-04-14
+Jod-ch-30,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,haft-seen,1,haft-seen table,37,True,"haft-seen table (with items like sabzeh, samanu, senjed, seer, sekeh, somāq, serkeh), goldfish, painted eggs, hyacinth flowers, mirror, candles, and images of haji firuz are specific decorations and symbols associated with nowruz, the biggest festival in iran","Haft-Seen table (with items like sabzeh, samanu, senjed, seer, sekeh, somāq, serkeh), goldfish, painted eggs, hyacinth flowers, mirror, candles, and images of Haji Firuz are specific decorations and symbols associated with Nowruz, the biggest festival in Iran.",stop,gpt-4.1-2025-04-14
+New-su-81,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,suit,1,a suit,4,True,a suit or tuxedo,A suit or tuxedo.,stop,gpt-4.1-2025-04-14
+Ne-ar-11,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.5,family,0,people from iran typically celebrate new year's day,20,True,"people from iran typically celebrate new year's day, known as nowruz, at home with family or at gatherings with friends","People from Iran typically celebrate New Year's Day, known as Nowruz, at home with family or at gatherings with friends.",stop,gpt-4.1-2025-04-14
+Ta-pe-32,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,chaharshanbe suri,1,chaharshanbe suri,2,False,chaharshanbe suri,Chaharshanbe Suri,stop,gpt-4.1-2025-04-14
+Na-ko-44,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,before nowruz,1,the day before nowruz,13,True,"the day before nowruz (the persian new year), typically march 19th or 20th","The day before Nowruz (the Persian New Year), typically March 19th or 20th.",stop,gpt-4.1-2025-04-14
+Ne-ar-06,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,zoolbia bamieh,0,people from iran typically eat foods such as ash reshteh,31,True,"people from iran typically eat foods such as ash reshteh (noodle soup), dates, haleem, kuku sabzi, various kebabs, rice dishes like zereshk polo, and sweets like zoolbia and bamieh during ramadan","People from Iran typically eat foods such as ash reshteh (noodle soup), dates, haleem, kuku sabzi, various kebabs, rice dishes like zereshk polo, and sweets like zoolbia and bamieh during Ramadan.",stop,gpt-4.1-2025-04-14
+New-pe-78,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,fajr film festival,1,fajr international film festival,4,False,fajr international film festival,Fajr International Film Festival,stop,gpt-4.1-2025-04-14
+New-ch-79,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,park,0,retired men in iran typically enjoy activities such as socializing at teahouses,28,True,"retired men in iran typically enjoy activities such as socializing at teahouses, playing chess or backgammon, gardening, attending religious gatherings, walking in parks, and spending time with family","Retired men in Iran typically enjoy activities such as socializing at teahouses, playing chess or backgammon, gardening, attending religious gatherings, walking in parks, and spending time with family.",stop,gpt-4.1-2025-04-14
+Al-en-43,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,"playing board games such as ""hafte sang""",12,True,"playing board games such as ""hafte sang"" or card games like ""hokm.""","Playing board games such as ""Hafte Sang"" or card games like ""Hokm.""",stop,gpt-4.1-2025-04-14
+New-ch-82,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,19:00,1,19:00,1,False,19:00,19:00,stop,gpt-4.1-2025-04-14
+Na-ko-38,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.25,gold,1,gold jewelry,2,False,gold jewelry,Gold jewelry,stop,gpt-4.1-2025-04-14
+Jod-ch-28,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,bus,1,bus,1,False,bus,Bus,stop,gpt-4.1-2025-04-14
+New-ch-80,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,ramadan,0,nowruz,20,True,"nowruz, ramadan (especially laylat al-qadr), eid al-fitr, eid al-adha, ashura, arbaeen, and the birthday or martyrdom anniversaries of shi'a imams","Nowruz, Ramadan (especially Laylat al-Qadr), Eid al-Fitr, Eid al-Adha, Ashura, Arbaeen, and the birthday or martyrdom anniversaries of Shi'a Imams.",stop,gpt-4.1-2025-04-14
+Ne-ar-05,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,new year,1,nowruz,4,False,nowruz (persian new year),Nowruz (Persian New Year),stop,gpt-4.1-2025-04-14
+New-en-87,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,stop,gpt-4.1-2025-04-14
+New-gr-89,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,tea,1,False,tea,Tea,stop,gpt-4.1-2025-04-14
+Jod-ch-41,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,shopping,1,False,shopping,Shopping,stop,gpt-4.1-2025-04-14
+Jod-ch-42,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,playing video games,3,False,playing video games,Playing video games,stop,gpt-4.1-2025-04-14
+Ne-ar-14,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,at home,1,at home,2,False,at home,At home,stop,gpt-4.1-2025-04-14
+New-in-78,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,bank card,1,debit cards,4,False,debit cards (bank cards),Debit cards (bank cards),stop,gpt-4.1-2025-04-14
+Na-ko-42,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,halva,1,False,halva,Halva,stop,gpt-4.1-2025-04-14
+Kik-in-04,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,black banner,0,a black cloth,5,False,a black cloth (or banner),A black cloth (or banner).,stop,gpt-4.1-2025-04-14
+New-ch-84,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.5,black,0,people typically wear light,15,True,"people typically wear light or colorful clothing, often avoiding black, when attending weddings in iran","People typically wear light or colorful clothing, often avoiding black, when attending weddings in Iran.",stop,gpt-4.1-2025-04-14
+New-as-76,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.5,backgammon,0,haft sang,11,True,"haft sang (seven stones), chess, backgammon (nard), and ganjifa (card games)","Haft Sang (Seven Stones), Chess, Backgammon (Nard), and Ganjifa (card games).",stop,gpt-4.1-2025-04-14
+Ca-sp-21,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.5,3,1,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+New-spme-78,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,tavalodet mobarak,2,False,tavalodet mobarak,Tavalodet Mobarak,stop,gpt-4.1-2025-04-14
+Al-en-40,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,park,1,parks,7,False,parks (such as mellat park in tehran),Parks (such as Mellat Park in Tehran),stop,gpt-4.1-2025-04-14
+New-pe-76,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.6666666666666666,picnic,1,picnicking,1,False,picnicking,Picnicking,stop,gpt-4.1-2025-04-14
+New-am-81,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.5,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+New-ch-83,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,stop,gpt-4.1-2025-04-14
+Al-en-39,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,cake,1,cake,1,False,cake,Cake,stop,gpt-4.1-2025-04-14
+Na-ko-43,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,they visit the graves of their loved ones,8,False,they visit the graves of their loved ones,They visit the graves of their loved ones.,stop,gpt-4.1-2025-04-14
+Kik-in-01,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,stop,gpt-4.1-2025-04-14
+Ta-pe-45,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.25,watermelon,1,watermelon,1,False,watermelon,Watermelon.,stop,gpt-4.1-2025-04-14
+New-en-76,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,imam khomeini airport,1,imam khomeini international airport,5,False,imam khomeini international airport (ika),Imam Khomeini International Airport (IKA),stop,gpt-4.1-2025-04-14
+New-pe-85,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,turkey,1,turkey,1,False,turkey,Turkey,stop,gpt-4.1-2025-04-14
+New-am-83,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,santur,1,santur,1,False,santur,Santur,stop,gpt-4.1-2025-04-14
+Ta-pe-42,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,0.25,fish,0,sabzi polo ba mahi,8,False,sabzi polo ba mahi (herbed rice with fish),Sabzi Polo ba Mahi (herbed rice with fish),stop,gpt-4.1-2025-04-14
+Ne-ar-10,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,kebab,0,people from iran typically eat dishes made with lamb,37,True,"people from iran typically eat dishes made with lamb or beef, such as kebabs, stews (like khoresh), and rice dishes (like chelow or pilaf), often prepared with the meat from the sacrificial animal during eid ul adha","People from Iran typically eat dishes made with lamb or beef, such as kebabs, stews (like khoresh), and rice dishes (like chelow or pilaf), often prepared with the meat from the sacrificial animal during Eid ul Adha.",stop,gpt-4.1-2025-04-14
+New-su-77,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,money,0,eidi,4,False,eidi (money or gifts),Eidi (money or gifts),stop,gpt-4.1-2025-04-14
+New-ko-07,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,black ribbon,2,False,black ribbon,Black ribbon,stop,gpt-4.1-2025-04-14
+Kik-in-11,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,imam reza,1,imam reza shrine in mashhad,5,False,imam reza shrine in mashhad,Imam Reza Shrine in Mashhad,stop,gpt-4.1-2025-04-14
+New-en-79,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,0,0.0,,0,isfahan,1,False,isfahan,Isfahan,stop,gpt-4.1-2025-04-14
+Kik-in-10,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,persepolis,1,persepolis,1,False,persepolis,Persepolis,stop,gpt-4.1-2025-04-14
+New-in-80,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,eram park,1,eram amusement park,5,False,eram amusement park (eram park),Eram Amusement Park (Eram Park),stop,gpt-4.1-2025-04-14
+Na-ko-39,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,money,1,money,5,False,money (often in an envelope),Money (often in an envelope),stop,gpt-4.1-2025-04-14
+New-ch-85,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,black,1,black,1,False,black,Black,stop,gpt-4.1-2025-04-14
+New-pe-86,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,milad,1,milad tower,2,False,milad tower,Milad Tower,stop,gpt-4.1-2025-04-14
+New-su-82,Holidays/Celebration/Leisure,Iran,English,gpt-4.1,True,1,1.0,white dress,1,brides in iran usually wear a white wedding dress,9,False,brides in iran usually wear a white wedding dress,Brides in Iran usually wear a white wedding dress.,stop,gpt-4.1-2025-04-14
+Kik-in-45,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball court,0,soccer fields,10,True,"soccer fields, basketball courts, volleyball courts, and sometimes futsal courts","Soccer fields, basketball courts, volleyball courts, and sometimes futsal courts.",stop,gpt-4.1-2025-04-14
+Th-en-12,Sport,Iran,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Jo-sp-14,Sport,Iran,English,gpt-4.1,True,1,1.0,chess,1,chess,1,False,chess,Chess,stop,gpt-4.1-2025-04-14
+Na-ko-16,Sport,Iran,English,gpt-4.1,True,1,1.0,ali daei,1,ali daei,2,False,ali daei,Ali Daei,stop,gpt-4.1-2025-04-14
+Jod-ch-38,Sport,Iran,English,gpt-4.1,True,1,1.0,football,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+Na-ko-17,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,male students in iran often enjoy playing soccer during lunch time at school,14,False,male students in iran often enjoy playing soccer (football) during lunch time at school,Male students in Iran often enjoy playing soccer (football) during lunch time at school.,stop,gpt-4.1-2025-04-14
+New-ch-16,Sport,Iran,English,gpt-4.1,True,1,1.0,offside,1,offside,1,False,offside,Offside,stop,gpt-4.1-2025-04-14
+New-ch-17,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,skydiving,1,False,skydiving,Skydiving,stop,gpt-4.1-2025-04-14
+New-en-17,Sport,Iran,English,gpt-4.1,True,1,1.0,horn,0,vuvuzelas,4,True,"vuvuzelas, horns, and drums","Vuvuzelas, horns, and drums.",stop,gpt-4.1-2025-04-14
+New-as-29,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+Na-ko-22,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,saudi arabia,2,False,saudi arabia,Saudi Arabia,stop,gpt-4.1-2025-04-14
+Jo-sp-09,Sport,Iran,English,gpt-4.1,True,1,1.0,tennis,0,equestrian,5,True,"equestrian, polo, golf, and tennis","Equestrian, polo, golf, and tennis.",stop,gpt-4.1-2025-04-14
+New-az-21,Sport,Iran,English,gpt-4.1,True,1,1.0,dizin,1,dizin,1,False,dizin,Dizin,stop,gpt-4.1-2025-04-14
+Th-en-09,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,persian gulf pro league,4,False,persian gulf pro league,Persian Gulf Pro League,stop,gpt-4.1-2025-04-14
+Ta-pe-30,Sport,Iran,English,gpt-4.1,True,1,1.0,90,1,navad,2,False,navad (90),Navad (90),stop,gpt-4.1-2025-04-14
+Gu-ch-07,Sport,Iran,English,gpt-4.1,True,1,1.0,hamed haddadi,1,hamed haddadi,2,False,hamed haddadi,Hamed Haddadi,stop,gpt-4.1-2025-04-14
+New-en-18,Sport,Iran,English,gpt-4.1,True,1,1.0,horn,1,fans in iran often bring drums,15,True,"fans in iran often bring drums, horns, flags, and banners when attending a live game","Fans in Iran often bring drums, horns, flags, and banners when attending a live game.",stop,gpt-4.1-2025-04-14
+Na-ko-26,Sport,Iran,English,gpt-4.1,True,1,1.0,football,1,football,7,True,"football (soccer), volleyball, walking, hiking, and wrestling","Football (soccer), volleyball, walking, hiking, and wrestling.",stop,gpt-4.1-2025-04-14
+Th-en-11,Sport,Iran,English,gpt-4.1,True,1,1.0,ali daei,1,ali daei,2,False,ali daei,Ali Daei,stop,gpt-4.1-2025-04-14
+Gu-ch-11,Sport,Iran,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+New-su-28,Sport,Iran,English,gpt-4.1,True,1,1.0,white,1,white,1,False,white,White,stop,gpt-4.1-2025-04-14
+Jo-sp-01,Sport,Iran,English,gpt-4.1,True,1,0.75,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+An-ar-36,Sport,Iran,English,gpt-4.1,True,1,1.0,persepolis,1,persepolis fc,2,False,persepolis fc,Persepolis FC,stop,gpt-4.1-2025-04-14
+Jo-sp-02,Sport,Iran,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Ta-pe-17,Sport,Iran,English,gpt-4.1,True,1,0.6666666666666666,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+New-en-23,Sport,Iran,English,gpt-4.1,True,1,1.0,siamand rahman,1,siamand rahman,2,False,siamand rahman,Siamand Rahman,stop,gpt-4.1-2025-04-14
+Na-ko-18,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+New-gr-21,Sport,Iran,English,gpt-4.1,True,1,0.5,badminton,1,badminton,1,False,badminton,Badminton,stop,gpt-4.1-2025-04-14
+New-en-19,Sport,Iran,English,gpt-4.1,True,1,1.0,azadi stadium,1,azadi stadium,2,False,azadi stadium,Azadi Stadium,stop,gpt-4.1-2025-04-14
+Jod-ch-37,Sport,Iran,English,gpt-4.1,True,1,0.25,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Ta-pe-25,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,persepolis vs esteghlal,3,False,persepolis vs esteghlal,Persepolis vs Esteghlal,stop,gpt-4.1-2025-04-14
+Sa-en-16,Sport,Iran,English,gpt-4.1,True,1,1.0,persepolis,1,persepolis fc,2,False,persepolis fc,Persepolis FC,stop,gpt-4.1-2025-04-14
+New-en-26,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,iran iran iran!,3,False,"iran, iran, iran!","Iran, Iran, Iran!",stop,gpt-4.1-2025-04-14
+New-su-21,Sport,Iran,English,gpt-4.1,True,1,1.0,walking,1,walking,11,True,"walking, exercising, socializing, playing chess or backgammon, and doing tai chi","Walking, exercising, socializing, playing chess or backgammon, and doing tai chi.",stop,gpt-4.1-2025-04-14
+Gu-ch-09,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Kik-in-31,Sport,Iran,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,1,False,wrestling,Wrestling,stop,gpt-4.1-2025-04-14
+Na-ko-23,Sport,Iran,English,gpt-4.1,True,1,1.0,football,1,football academies,2,False,football academies,Football academies,stop,gpt-4.1-2025-04-14
+New-az-26,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,hossein ojaghi,2,False,hossein ojaghi,Hossein Ojaghi,stop,gpt-4.1-2025-04-14
+New-su-24,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,7,True,"soccer (football), volleyball, badminton, and table tennis","Soccer (football), volleyball, badminton, and table tennis.",stop,gpt-4.1-2025-04-14
+Gu-ch-15,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+Na-ko-24,Sport,Iran,English,gpt-4.1,True,1,1.0,sunflower seeds,1,sunflower seeds,2,False,sunflower seeds,Sunflower seeds,stop,gpt-4.1-2025-04-14
+Kik-in-34,Sport,Iran,English,gpt-4.1,True,1,1.0,football,1,football,6,True,"football (soccer), volleyball, wrestling, and basketball","Football (soccer), volleyball, wrestling, and basketball.",stop,gpt-4.1-2025-04-14
+Kik-in-36,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,ali parvin,2,False,ali parvin,Ali Parvin,stop,gpt-4.1-2025-04-14
+Na-ko-20,Sport,Iran,English,gpt-4.1,True,1,0.3333333333333333,football,1,football,2,False,football (soccer),Football (soccer),stop,gpt-4.1-2025-04-14
+New-am-27,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,kimia alizadeh,2,False,kimia alizadeh,Kimia Alizadeh,stop,gpt-4.1-2025-04-14
+New-as-30,Sport,Iran,English,gpt-4.1,True,1,0.6,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+New-pe-16,Sport,Iran,English,gpt-4.1,True,1,1.0,wrestling,1,wrestling,2,False,wrestling (koshti),Wrestling (Koshti),stop,gpt-4.1-2025-04-14
+Jo-sp-13,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,windsurfing,1,False,windsurfing,Windsurfing,stop,gpt-4.1-2025-04-14
+An-ar-35,Sport,Iran,English,gpt-4.1,True,1,1.0,adel ferdosipour,1,adel ferdosipour,2,False,adel ferdosipour,Adel Ferdosipour,stop,gpt-4.1-2025-04-14
+New-pe-20,Sport,Iran,English,gpt-4.1,True,1,1.0,volleyball,1,volleyball,1,False,volleyball,Volleyball,stop,gpt-4.1-2025-04-14
+Ta-pe-23,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,varzesh-e bastani,3,False,varzesh-e bastani (pahlevani),Varzesh-e bastani (Pahlevani),stop,gpt-4.1-2025-04-14
+Ta-pe-22,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,zumba,1,False,zumba,Zumba,stop,gpt-4.1-2025-04-14
+Kik-in-37,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,persepolis vs esteghlal,3,False,persepolis vs esteghlal,Persepolis vs Esteghlal,stop,gpt-4.1-2025-04-14
+New-ha-19,Sport,Iran,English,gpt-4.1,True,1,1.0,horse,1,horse,1,False,horse,Horse,stop,gpt-4.1-2025-04-14
+Kik-in-38,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,perspolis vs esteghlal,3,False,perspolis vs esteghlal,Perspolis vs Esteghlal,stop,gpt-4.1-2025-04-14
+Th-en-03,Sport,Iran,English,gpt-4.1,True,1,1.0,football,0,persian gulf pro league,5,False,persian gulf pro league (football/soccer),Persian Gulf Pro League (football/soccer),stop,gpt-4.1-2025-04-14
+An-ar-43,Sport,Iran,English,gpt-4.1,True,1,0.3333333333333333,restaurant,0,coffeehouses,9,True,"coffeehouses (ghahveh khaneh), sports clubs, restaurants, and private homes","Coffeehouses (ghahveh khaneh), sports clubs, restaurants, and private homes.",stop,gpt-4.1-2025-04-14
+New-su-17,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,common sports facilities in parks in iran include outdoor gyms,24,True,"common sports facilities in parks in iran include outdoor gyms, football fields, basketball courts, volleyball courts, table tennis tables, and walking or jogging tracks","Common sports facilities in parks in Iran include outdoor gyms, football fields, basketball courts, volleyball courts, table tennis tables, and walking or jogging tracks.",stop,gpt-4.1-2025-04-14
+New-ch-23,Sport,Iran,English,gpt-4.1,True,1,1.0,noshad alamiyan,1,noshad alamiyan,2,False,noshad alamiyan,Noshad Alamiyan,stop,gpt-4.1-2025-04-14
+Na-ko-30,Sport,Iran,English,gpt-4.1,True,0,0.0,,0,dota 2,2,False,dota 2,Dota 2,stop,gpt-4.1-2025-04-14
+Kik-in-35,Sport,Iran,English,gpt-4.1,True,1,1.0,football,1,football,15,True,"football (soccer), wrestling, and volleyball were popular among people from iran during the covid-19 pandemic","Football (soccer), wrestling, and volleyball were popular among people from Iran during the COVID-19 pandemic.",stop,gpt-4.1-2025-04-14
+New-en-75,Education,Iran,English,gpt-4.1,True,1,0.5,16,1,16,1,False,16,16,stop,gpt-4.1-2025-04-14
+New-en-72,Education,Iran,English,gpt-4.1,True,0,0.0,,0,gama,1,False,gama,Gama,stop,gpt-4.1-2025-04-14
+An-ar-02,Education,Iran,English,gpt-4.1,True,1,1.0,university dining hall,1,in university cafeterias,6,False,in university cafeterias (self-service dining halls),In university cafeterias (self-service dining halls).,stop,gpt-4.1-2025-04-14
+New-ch-66,Education,Iran,English,gpt-4.1,True,1,1.0,0,1,0,1,False,0,0,stop,gpt-4.1-2025-04-14
+Ki-pe-24,Education,Iran,English,gpt-4.1,True,1,1.0,arabic,1,arabic,1,False,arabic,Arabic,stop,gpt-4.1-2025-04-14
+New-ch-73,Education,Iran,English,gpt-4.1,True,0,0.0,,0,scientific and academic clubs are most popular among university students in iran,12,False,scientific and academic clubs are most popular among university students in iran,Scientific and academic clubs are most popular among university students in Iran.,stop,gpt-4.1-2025-04-14
+Ji-ko-44,Education,Iran,English,gpt-4.1,True,0,0.0,,0,elahiyeh,2,True,"elahiyeh, tehran","Elahiyeh, Tehran",stop,gpt-4.1-2025-04-14
+New-en-70,Education,Iran,English,gpt-4.1,True,0,0.0,,0,3,1,False,3,3,stop,gpt-4.1-2025-04-14
+Al-en-16,Education,Iran,English,gpt-4.1,True,1,0.25,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+New-in-62,Education,Iran,English,gpt-4.1,True,1,1.0,sharif university of technology,1,sharif university of technology,4,False,sharif university of technology,Sharif University of Technology,stop,gpt-4.1-2025-04-14
+New-su-33,Education,Iran,English,gpt-4.1,True,0,0.0,,0,modest clothing,24,True,"modest clothing, typically including long-sleeved tunics or manteaus, trousers, and a headscarf (hijab) for women; formal attire such as shirts and trousers for men","Modest clothing, typically including long-sleeved tunics or manteaus, trousers, and a headscarf (hijab) for women; formal attire such as shirts and trousers for men.",stop,gpt-4.1-2025-04-14
+Gu-ch-31,Education,Iran,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Jo-sp-36,Education,Iran,English,gpt-4.1,True,0,0.0,,0,13,1,False,13,13,stop,gpt-4.1-2025-04-14
+Ji-ko-36,Education,Iran,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+Jo-sp-31,Education,Iran,English,gpt-4.1,True,1,0.5,14:00,1,14:00,1,False,14:00,14:00,stop,gpt-4.1-2025-04-14
+New-ch-71,Education,Iran,English,gpt-4.1,True,1,1.0,30,1,30,1,False,30,30,stop,gpt-4.1-2025-04-14
+New-en-69,Education,Iran,English,gpt-4.1,True,1,1.0,jalal al-e ahmad,0,hafez,10,True,"hafez, saadi, ferdowsi, rumi, nezami, sadegh hedayat, and jalal al-e-ahmad","Hafez, Saadi, Ferdowsi, Rumi, Nezami, Sadegh Hedayat, and Jalal Al-e-Ahmad.",stop,gpt-4.1-2025-04-14
+Th-en-58,Education,Iran,English,gpt-4.1,True,0,0.0,,0,calculus,1,False,calculus,Calculus,stop,gpt-4.1-2025-04-14
+Jo-sp-32,Education,Iran,English,gpt-4.1,True,1,1.0,football,0,soccer,2,False,soccer (football),Soccer (football),stop,gpt-4.1-2025-04-14
+New-in-63,Education,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran university of medical sciences,5,False,tehran university of medical sciences,Tehran University of Medical Sciences,stop,gpt-4.1-2025-04-14
+Nu-in-11,Education,Iran,English,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+Ni-en-12,Education,Iran,English,gpt-4.1,True,1,0.75,university of tehran,1,university of tehran,3,False,university of tehran,University of Tehran,stop,gpt-4.1-2025-04-14
+Ni-en-06,Education,Iran,English,gpt-4.1,True,1,0.6666666666666666,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ji-ko-34,Education,Iran,English,gpt-4.1,True,0,0.0,,0,elementary school students in iran typically go to school on foot,23,True,"elementary school students in iran typically go to school on foot, by bicycle, by school bus, or are dropped off by their parents","Elementary school students in Iran typically go to school on foot, by bicycle, by school bus, or are dropped off by their parents.",stop,gpt-4.1-2025-04-14
+New-ch-75,Education,Iran,English,gpt-4.1,True,0,0.0,,0,45,1,False,45,45,stop,gpt-4.1-2025-04-14
+Gu-ch-40,Education,Iran,English,gpt-4.1,True,1,0.6666666666666666,13:00,1,13:00,1,False,13:00,13:00,stop,gpt-4.1-2025-04-14
+Tmp-ar-04,Education,Iran,English,gpt-4.1,True,1,1.0,doing homework,0,elementary students in iran usually go home after school,18,True,"elementary students in iran usually go home after school, do their homework, and spend time with their families","Elementary students in Iran usually go home after school, do their homework, and spend time with their families.",stop,gpt-4.1-2025-04-14
+New-ch-70,Education,Iran,English,gpt-4.1,True,0,0.0,,0,islamic studies and persian literature,5,False,islamic studies and persian literature,Islamic studies and Persian literature,stop,gpt-4.1-2025-04-14
+Gu-ch-33,Education,Iran,English,gpt-4.1,True,1,1.0,12,1,12,1,False,12,12,stop,gpt-4.1-2025-04-14
+New-pe-74,Education,Iran,English,gpt-4.1,True,1,1.0,0,1,the average annual tuition fee for public universities in iran is approximately $500 to $2,16,True,"the average annual tuition fee for public universities in iran is approximately $500 to $2,500 usd","The average annual tuition fee for public universities in Iran is approximately $500 to $2,500 USD.",stop,gpt-4.1-2025-04-14
+New-ch-74,Education,Iran,English,gpt-4.1,True,1,1.0,dormitory,1,university students in iran typically live in university dormitories,14,True,"university students in iran typically live in university dormitories, private apartments, or shared houses","University students in Iran typically live in university dormitories, private apartments, or shared houses.",stop,gpt-4.1-2025-04-14
+An-ar-03,Education,Iran,English,gpt-4.1,True,0,0.0,,0,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ni-en-02,Education,Iran,English,gpt-4.1,True,1,0.5,13:30,1,13:30,1,False,13:30,13:30,stop,gpt-4.1-2025-04-14
+Th-en-48,Education,Iran,English,gpt-4.1,True,1,1.0,20,1,20,1,False,20,20,stop,gpt-4.1-2025-04-14
+New-pe-66,Education,Iran,English,gpt-4.1,True,0,0.0,,0,english language classes,3,False,english language classes,English language classes,stop,gpt-4.1-2025-04-14
+Ji-ko-40,Education,Iran,English,gpt-4.1,True,1,1.0,game,0,high school students in iran typically socialize with friends,23,True,"high school students in iran typically socialize with friends, eat snacks, and sometimes play games or walk around the schoolyard during break time","High school students in Iran typically socialize with friends, eat snacks, and sometimes play games or walk around the schoolyard during break time.",stop,gpt-4.1-2025-04-14
+Jo-sp-43,Education,Iran,English,gpt-4.1,True,0,0.0,,0,7,1,False,7,7,stop,gpt-4.1-2025-04-14
+New-am-41,Education,Iran,English,gpt-4.1,True,0,0.0,,0,grade 6,2,False,grade 6,Grade 6,stop,gpt-4.1-2025-04-14
+New-ch-72,Education,Iran,English,gpt-4.1,True,1,1.0,engineering,1,engineering,1,False,engineering,Engineering,stop,gpt-4.1-2025-04-14
+Nu-in-06,Education,Iran,English,gpt-4.1,True,0,0.0,,0,05/02,1,False,05/02,05/02,stop,gpt-4.1-2025-04-14
+New-spme-27,Education,Iran,English,gpt-4.1,True,1,0.3333333333333333,diploma,1,high school diploma,5,False,high school diploma (secondary education),High school diploma (secondary education),stop,gpt-4.1-2025-04-14
+Tmp-ar-02,Education,Iran,English,gpt-4.1,True,1,0.75,metro,1,metro,1,False,metro,Metro,stop,gpt-4.1-2025-04-14
+Ni-en-15,Education,Iran,English,gpt-4.1,True,1,1.0,12,1,12,1,False,12,12,stop,gpt-4.1-2025-04-14
+Al-en-21,Education,Iran,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,1,False,mathematics,Mathematics,stop,gpt-4.1-2025-04-14
+New-ch-64,Education,Iran,English,gpt-4.1,True,0,0.0,,0,16,1,False,16,16,stop,gpt-4.1-2025-04-14
+Ji-ko-35,Education,Iran,English,gpt-4.1,True,1,1.0,private tutor,0,supplementary tutoring,4,False,supplementary tutoring (private tutoring),Supplementary tutoring (private tutoring),stop,gpt-4.1-2025-04-14
+Ni-en-11,Education,Iran,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ji-ko-42,Education,Iran,English,gpt-4.1,True,1,1.0,mathematics,1,mathematics,11,True,"mathematics, persian literature, islamic studies, arabic language, and a foreign language","Mathematics, Persian literature, Islamic studies, Arabic language, and a foreign language.",stop,gpt-4.1-2025-04-14
+Ki-pe-30,Education,Iran,English,gpt-4.1,True,1,1.0,friday,1,thursday and friday,3,False,thursday and friday,Thursday and Friday,stop,gpt-4.1-2025-04-14
+Gu-ch-38,Education,Iran,English,gpt-4.1,True,1,1.0,4,1,4,1,False,4,4,stop,gpt-4.1-2025-04-14
+Nu-in-05,Education,Iran,English,gpt-4.1,True,1,0.6666666666666666,9,1,9,1,False,9,9,stop,gpt-4.1-2025-04-14
+An-ar-09,Education,Iran,English,gpt-4.1,True,1,0.25,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+New-en-68,Education,Iran,English,gpt-4.1,True,1,1.0,expulsion,0,repercussions for bad behavior in schools in iran can include verbal warnings,21,True,"repercussions for bad behavior in schools in iran can include verbal warnings, parental notification, detention, suspension, or, in severe cases, expulsion","Repercussions for bad behavior in schools in Iran can include verbal warnings, parental notification, detention, suspension, or, in severe cases, expulsion.",stop,gpt-4.1-2025-04-14
+New-spme-37,Education,Iran,English,gpt-4.1,True,1,0.5,engineering,1,engineering,1,False,engineering,Engineering,stop,gpt-4.1-2025-04-14
+New-pe-65,Education,Iran,English,gpt-4.1,True,0,0.0,,0,14,1,False,14,14,stop,gpt-4.1-2025-04-14
+Gu-ch-41,Education,Iran,English,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Ni-en-09,Education,Iran,English,gpt-4.1,True,1,0.25,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Ji-ko-31,Education,Iran,English,gpt-4.1,True,1,1.0,home,1,at home in private institutes,8,False,at home or in private institutes (cram schools),At home or in private institutes (cram schools).,stop,gpt-4.1-2025-04-14
+Ni-en-13,Education,Iran,English,gpt-4.1,True,1,0.3333333333333333,22,1,22,1,False,22,22,stop,gpt-4.1-2025-04-14
+New-am-34,Education,Iran,English,gpt-4.1,True,1,1.0,home,1,at home,2,False,at home,At home.,stop,gpt-4.1-2025-04-14
+New-su-45,Education,Iran,English,gpt-4.1,True,0,0.0,,0,05/02,1,False,05/02,05/02,stop,gpt-4.1-2025-04-14
+Ki-pe-17,Education,Iran,English,gpt-4.1,True,1,1.0,high school,1,high school,2,False,high school,High school,stop,gpt-4.1-2025-04-14
+Al-en-19,Education,Iran,English,gpt-4.1,True,1,1.0,english,1,english,1,False,english,English,stop,gpt-4.1-2025-04-14
+Jo-sp-39,Education,Iran,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+Th-en-49,Education,Iran,English,gpt-4.1,True,1,1.0,university entrance exam,0,the konkur,6,False,the konkur (national university entrance exam),The Konkur (National University Entrance Exam).,stop,gpt-4.1-2025-04-14
+Jo-sp-21,Work life,Iran,English,gpt-4.1,True,1,0.6666666666666666,12:00,1,12:00,1,False,12:00,12:00,stop,gpt-4.1-2025-04-14
+Jo-sp-18,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,27,1,False,27,27,stop,gpt-4.1-2025-04-14
+Ne-ar-18,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,16:00,1,False,16:00,16:00,stop,gpt-4.1-2025-04-14
+Ji-ko-15,Work life,Iran,English,gpt-4.1,True,1,1.0,1,1,1.5,1,False,1.5,1.5,stop,gpt-4.1-2025-04-14
+Ni-en-19,Work life,Iran,English,gpt-4.1,True,1,1.0,6,1,6,1,False,6,6,stop,gpt-4.1-2025-04-14
+New-ch-38,Work life,Iran,English,gpt-4.1,True,1,1.0,chabahar,1,bandar abbas,8,True,"bandar abbas, bushehr, khorramshahr, chabahar, tehran, mashhad, tabriz","Bandar Abbas, Bushehr, Khorramshahr, Chabahar, Tehran, Mashhad, Tabriz.",stop,gpt-4.1-2025-04-14
+New-gr-58,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,teacher,1,False,teacher,Teacher,stop,gpt-4.1-2025-04-14
+New-ko-08,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,language institutes,2,False,language institutes,Language institutes.,stop,gpt-4.1-2025-04-14
+Ji-ko-02,Work life,Iran,English,gpt-4.1,True,1,1.0,thursday,1,thursday,1,False,thursday,Thursday,stop,gpt-4.1-2025-04-14
+Th-en-24,Work life,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,stop,gpt-4.1-2025-04-14
+Jod-ch-60,Work life,Iran,English,gpt-4.1,True,1,1.0,8,1,8,1,False,8,8,stop,gpt-4.1-2025-04-14
+New-su-51,Work life,Iran,English,gpt-4.1,True,1,1.0,fishing,1,fishing,1,False,fishing,Fishing,stop,gpt-4.1-2025-04-14
+Ki-pe-53,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,07:30,1,False,07:30,07:30,stop,gpt-4.1-2025-04-14
+Th-en-27,Work life,Iran,English,gpt-4.1,True,1,1.0,oil,1,oil and gas industry,4,False,oil and gas industry,Oil and gas industry,stop,gpt-4.1-2025-04-14
+Ni-en-17,Work life,Iran,English,gpt-4.1,True,1,0.5,44,1,44,1,False,44,44,stop,gpt-4.1-2025-04-14
+Th-en-21,Work life,Iran,English,gpt-4.1,True,1,1.0,insurance,1,supplementary health insurance,3,False,supplementary health insurance,Supplementary health insurance,stop,gpt-4.1-2025-04-14
+New-su-60,Work life,Iran,English,gpt-4.1,True,1,1.0,cheese and bread,0,farmers in iran usually eat bread,17,True,"farmers in iran usually eat bread, cheese, fresh herbs, yogurt, and sometimes stews or kebabs for lunch","Farmers in Iran usually eat bread, cheese, fresh herbs, yogurt, and sometimes stews or kebabs for lunch.",stop,gpt-4.1-2025-04-14
+New-ch-32,Work life,Iran,English,gpt-4.1,True,1,1.0,office,1,microsoft office,2,False,microsoft office,Microsoft Office,stop,gpt-4.1-2025-04-14
+Ne-ar-26,Work life,Iran,English,gpt-4.1,True,1,1.0,oil company,1,national iranian oil company,5,False,national iranian oil company (nioc),National Iranian Oil Company (NIOC),stop,gpt-4.1-2025-04-14
+Ji-ko-03,Work life,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,stop,gpt-4.1-2025-04-14
+Jod-ch-50,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,41,1,False,41,41,stop,gpt-4.1-2025-04-14
+New-en-38,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,technology,14,True,"technology, media, and freelance sectors are known for more flexible working hours in iran","Technology, media, and freelance sectors are known for more flexible working hours in Iran.",stop,gpt-4.1-2025-04-14
+New-in-33,Work life,Iran,English,gpt-4.1,True,1,1.0,kerman,1,kerman province,2,False,kerman province,Kerman Province,stop,gpt-4.1-2025-04-14
+New-su-57,Work life,Iran,English,gpt-4.1,True,1,1.0,sheep,1,sheep,1,False,sheep,Sheep,stop,gpt-4.1-2025-04-14
+Ne-ar-17,Work life,Iran,English,gpt-4.1,True,1,1.0,08:00,1,08:00,1,False,08:00,08:00,stop,gpt-4.1-2025-04-14
+New-pe-45,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,the usual work schedule during the month of ramadan in iran is reduced,28,True,"the usual work schedule during the month of ramadan in iran is reduced, with government offices and many businesses typically operating from around 9:00 am to 2:00 pm","The usual work schedule during the month of Ramadan in Iran is reduced, with government offices and many businesses typically operating from around 9:00 AM to 2:00 PM.",stop,gpt-4.1-2025-04-14
+New-su-58,Work life,Iran,English,gpt-4.1,True,1,0.6,donkey,0,cattle,7,True,"cattle, sheep, goats, camels, donkeys, and horses","Cattle, sheep, goats, camels, donkeys, and horses.",stop,gpt-4.1-2025-04-14
+New-ko-10,Work life,Iran,English,gpt-4.1,True,1,0.3333333333333333,snapp,0,online freelancing,12,True,"online freelancing, ride-hailing (e.g., snapp/tab30), tutoring, selling goods online, and food delivery","Online freelancing, ride-hailing (e.g., Snapp/Tab30), tutoring, selling goods online, and food delivery.",stop,gpt-4.1-2025-04-14
+New-am-54,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,khuzestan,1,False,khuzestan,Khuzestan,stop,gpt-4.1-2025-04-14
+Jod-ch-57,Work life,Iran,English,gpt-4.1,True,1,1.0,60,1,60,1,False,60,60,stop,gpt-4.1-2025-04-14
+New-ch-31,Work life,Iran,English,gpt-4.1,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,stop,gpt-4.1-2025-04-14
+Ne-ar-16,Work life,Iran,English,gpt-4.1,True,1,1.0,friday,1,friday,1,False,friday,Friday,stop,gpt-4.1-2025-04-14
+New-am-60,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,camel,1,False,camel,Camel,stop,gpt-4.1-2025-04-14
+New-as-58,Work life,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (chai),Tea (chai),stop,gpt-4.1-2025-04-14
+Jo-sp-19,Work life,Iran,English,gpt-4.1,True,1,0.3333333333333333,khuzestan,0,the iranian plateau has been traditionally associated with agriculture,17,False,"the iranian plateau (including regions such as fars, isfahan, and khuzestan) has been traditionally associated with agriculture","The Iranian Plateau (including regions such as Fars, Isfahan, and Khuzestan) has been traditionally associated with agriculture.",stop,gpt-4.1-2025-04-14
+Ji-ko-07,Work life,Iran,English,gpt-4.1,True,1,0.5,digikala,1,digikala,1,False,digikala,Digikala,stop,gpt-4.1-2025-04-14
+New-in-34,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,khuzestan,1,False,khuzestan,Khuzestan,stop,gpt-4.1-2025-04-14
+Jod-ch-58,Work life,Iran,English,gpt-4.1,True,1,1.0,doctor,1,doctor,1,False,doctor,Doctor,stop,gpt-4.1-2025-04-14
+Ne-ar-25,Work life,Iran,English,gpt-4.1,True,1,1.0,oil industry,1,oil and gas industry,4,False,oil and gas industry,Oil and gas industry,stop,gpt-4.1-2025-04-14
+New-am-53,Work life,Iran,English,gpt-4.1,True,1,1.0,gilan,1,gilan province,2,False,gilan province,Gilan Province,stop,gpt-4.1-2025-04-14
+Jod-ch-48,Work life,Iran,English,gpt-4.1,True,1,1.0,rice stew,1,people in iran commonly eat dishes such as rice with stew,27,True,"people in iran commonly eat dishes such as rice with stew (like ghormeh sabzi or gheimeh), kebabs, chicken with rice, or sandwiches for lunch during working days","People in Iran commonly eat dishes such as rice with stew (like ghormeh sabzi or gheimeh), kebabs, chicken with rice, or sandwiches for lunch during working days.",stop,gpt-4.1-2025-04-14
+Jod-ch-61,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,teaching,1,False,teaching,Teaching,stop,gpt-4.1-2025-04-14
+Jod-ch-62,Work life,Iran,English,gpt-4.1,True,1,1.0,engineering,1,engineering,1,False,engineering,Engineering,stop,gpt-4.1-2025-04-14
+Nu-in-40,Work life,Iran,English,gpt-4.1,True,1,1.0,tehran,1,tehran,1,False,tehran,Tehran,stop,gpt-4.1-2025-04-14
+New-su-59,Work life,Iran,English,gpt-4.1,True,1,1.0,hat,0,loose,8,True,"loose, light-colored clothing and wide-brimmed hats or scarves","Loose, light-colored clothing and wide-brimmed hats or scarves.",stop,gpt-4.1-2025-04-14
+New-gr-47,Work life,Iran,English,gpt-4.1,True,1,0.5,15,1,15,1,False,15,15,stop,gpt-4.1-2025-04-14
+Ji-ko-14,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,crude oil,2,False,crude oil,Crude oil,stop,gpt-4.1-2025-04-14
+Th-en-22,Work life,Iran,English,gpt-4.1,True,0,0.0,,0,the iran–iraq war,4,False,the iran–iraq war (1980–1988),The Iran–Iraq War (1980–1988),stop,gpt-4.1-2025-04-14
+New-spme-60,Family,Iran,English,gpt-4.1,True,1,1.0,friday,1,friday,1,False,friday,Friday,stop,gpt-4.1-2025-04-14
+New-ko-04,Family,Iran,English,gpt-4.1,True,1,1.0,car,1,soccer balls,19,True,"soccer balls, action figures, toy cars, and building blocks are among the most popular toys for boys in iran","Soccer balls, action figures, toy cars, and building blocks are among the most popular toys for boys in Iran.",stop,gpt-4.1-2025-04-14
+New-ha-66,Family,Iran,English,gpt-4.1,True,1,0.6,garden,1,persian gardens are the most popular wedding venues in iran,11,False,persian gardens (bagh) are the most popular wedding venues in iran,Persian gardens (Bagh) are the most popular wedding venues in Iran.,stop,gpt-4.1-2025-04-14
+Ji-ko-24,Family,Iran,English,gpt-4.1,True,1,1.0,park,1,parks and playgrounds,3,False,parks and playgrounds,Parks and playgrounds,stop,gpt-4.1-2025-04-14
+Ji-ko-25,Family,Iran,English,gpt-4.1,True,0,0.0,,0,mother's day,6,True,"mother's day, father's day, children's day","Mother's Day, Father's Day, Children's Day",stop,gpt-4.1-2025-04-14
+New-ch-51,Family,Iran,English,gpt-4.1,True,1,1.0,hotel,1,hotel suites,19,True,"hotel suites or rental villas (called ""villas"" or ""apartments"" in iran) are typically booked for family trips in iran","Hotel suites or rental villas (called ""villas"" or ""apartments"" in Iran) are typically booked for family trips in Iran.",stop,gpt-4.1-2025-04-14
+New-en-47,Family,Iran,English,gpt-4.1,True,1,1.0,fruit tree,1,fruit trees and vegetable plants,5,False,fruit trees and vegetable plants,Fruit trees and vegetable plants.,stop,gpt-4.1-2025-04-14
+New-spme-68,Family,Iran,English,gpt-4.1,True,1,0.5,doogh,1,doogh,4,False,doogh (a yogurt-based drink),Doogh (a yogurt-based drink),stop,gpt-4.1-2025-04-14
+New-am-74,Family,Iran,English,gpt-4.1,True,0,0.0,,0,khandevaneh,1,False,khandevaneh,Khandevaneh,stop,gpt-4.1-2025-04-14
+New-en-49,Family,Iran,English,gpt-4.1,True,1,1.0,pahlavi,1,pahlavi,1,False,pahlavi,Pahlavi,stop,gpt-4.1-2025-04-14
+Th-en-44,Family,Iran,English,gpt-4.1,True,1,0.3333333333333333,kebab,1,chelo kebab,2,False,chelo kebab,Chelo kebab,stop,gpt-4.1-2025-04-14
+New-en-56,Family,Iran,English,gpt-4.1,True,0,0.0,,0,azerbaijani,2,False,azerbaijani (azeri),Azerbaijani (Azeri),stop,gpt-4.1-2025-04-14
+New-spme-65,Family,Iran,English,gpt-4.1,True,0,0.0,,0,iran does not have an independence day,29,True,"iran does not have an independence day; instead, the most significant national celebration is the anniversary of the islamic revolution on february 11th, marked by rallies and public gatherings","Iran does not have an Independence Day; instead, the most significant national celebration is the anniversary of the Islamic Revolution on February 11th, marked by rallies and public gatherings.",stop,gpt-4.1-2025-04-14
+Gu-ch-16,Family,Iran,English,gpt-4.1,True,1,0.2,3,1,3.3,1,False,3.3,3.3,stop,gpt-4.1-2025-04-14
+New-ch-54,Family,Iran,English,gpt-4.1,True,0,0.0,,0,pomegranate,1,False,pomegranate,Pomegranate,stop,gpt-4.1-2025-04-14
+Ca-sp-43,Family,Iran,English,gpt-4.1,True,1,0.3333333333333333,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ca-sp-45,Family,Iran,English,gpt-4.1,True,1,1.0,north,1,the northern provinces are commonly chosen for a family vacation in iran,15,False,the northern provinces (caspian sea region) are commonly chosen for a family vacation in iran,The northern provinces (Caspian Sea region) are commonly chosen for a family vacation in Iran.,stop,gpt-4.1-2025-04-14
+New-az-60,Family,Iran,English,gpt-4.1,True,1,0.3333333333333333,relatives,0,grandparents,17,True,grandparents or other close relatives typically take care of kids when both parents are working in iran,Grandparents or other close relatives typically take care of kids when both parents are working in Iran.,stop,gpt-4.1-2025-04-14
+New-ko-05,Family,Iran,English,gpt-4.1,True,1,1.0,doll,1,dolls are most popular among girls in iran,15,False,dolls (such as barbie and traditional iranian dolls) are most popular among girls in iran,Dolls (such as Barbie and traditional Iranian dolls) are most popular among girls in Iran.,stop,gpt-4.1-2025-04-14
+Ca-sp-42,Family,Iran,English,gpt-4.1,True,1,0.3333333333333333,26,1,26,1,False,26,26,stop,gpt-4.1-2025-04-14
+Ca-sp-38,Family,Iran,English,gpt-4.1,True,1,1.0,apartment,1,apartment,1,False,apartment,Apartment,stop,gpt-4.1-2025-04-14
+New-pe-49,Family,Iran,English,gpt-4.1,True,1,1.0,mosque,1,mosques,1,False,mosques,Mosques,stop,gpt-4.1-2025-04-14
+New-ko-01,Family,Iran,English,gpt-4.1,True,0,0.0,,0,peppa pig,2,False,peppa pig,Peppa Pig,stop,gpt-4.1-2025-04-14
+Ji-ko-22,Family,Iran,English,gpt-4.1,True,0,0.0,,0,gifts for parents,6,True,gifts for parents or family members,Gifts for parents or family members.,stop,gpt-4.1-2025-04-14
+Sa-en-31,Family,Iran,English,gpt-4.1,True,1,1.0,cat,1,cat,1,False,cat,Cat,stop,gpt-4.1-2025-04-14
+New-su-71,Family,Iran,English,gpt-4.1,True,1,1.0,toy,1,parents in iran generally give their children toys,15,True,"parents in iran generally give their children toys, clothes, books, or money as birthday gifts","Parents in Iran generally give their children toys, clothes, books, or money as birthday gifts.",stop,gpt-4.1-2025-04-14
+Th-en-39,Family,Iran,English,gpt-4.1,True,1,1.0,backgammon,1,backgammon,6,False,"backgammon (known as ""nard"" in iran)","Backgammon (known as ""nard"" in Iran)",stop,gpt-4.1-2025-04-14
+Th-en-38,Family,Iran,English,gpt-4.1,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,stop,gpt-4.1-2025-04-14
+Ca-sp-41,Family,Iran,English,gpt-4.1,True,0,0.0,,0,with their families,3,False,with their families,With their families.,stop,gpt-4.1-2025-04-14
+Nu-in-20,Family,Iran,English,gpt-4.1,True,0,0.0,,0,10/08,1,False,10/08,10/08,stop,gpt-4.1-2025-04-14
+New-en-59,Family,Iran,English,gpt-4.1,True,1,0.6666666666666666,canada,1,canada,1,False,canada,Canada,stop,gpt-4.1-2025-04-14
+Sa-en-32,Family,Iran,English,gpt-4.1,True,0,0.0,,0,paytakht,2,False,paytakht (پایتخت),Paytakht (پایتخت),stop,gpt-4.1-2025-04-14
+Ta-pe-13,Family,Iran,English,gpt-4.1,True,1,1.0,5,1,5,1,False,5,5,stop,gpt-4.1-2025-04-14
+Th-en-43,Family,Iran,English,gpt-4.1,True,1,1.0,1,1,1,1,False,1,1,stop,gpt-4.1-2025-04-14
+Th-en-37,Family,Iran,English,gpt-4.1,True,0,0.0,,0,18,1,False,18,18,stop,gpt-4.1-2025-04-14
+New-en-50,Family,Iran,English,gpt-4.1,True,1,1.0,mohammadi,1,mohammadi,1,False,mohammadi,Mohammadi,stop,gpt-4.1-2025-04-14
+New-as-64,Family,Iran,English,gpt-4.1,True,1,1.0,nowruz,1,nowruz,1,False,nowruz,Nowruz,stop,gpt-4.1-2025-04-14
+Th-en-36,Family,Iran,English,gpt-4.1,True,0,0.0,,0,going on a picnic in a park,9,True,going on a picnic in a park or nature,Going on a picnic in a park or nature.,stop,gpt-4.1-2025-04-14
+Th-en-41,Family,Iran,English,gpt-4.1,True,0,0.0,,0,28,1,False,28,28,stop,gpt-4.1-2025-04-14
+Ji-ko-19,Family,Iran,English,gpt-4.1,True,0,0.0,,0,carnation,1,False,carnation,Carnation,stop,gpt-4.1-2025-04-14
+Th-en-45,Family,Iran,English,gpt-4.1,True,0,0.0,,0,watching television together,3,False,watching television together,Watching television together.,stop,gpt-4.1-2025-04-14
+Gu-ch-18,Family,Iran,English,gpt-4.1,True,1,1.0,2,1,2,1,False,2,2,stop,gpt-4.1-2025-04-14
+Ji-ko-16,Family,Iran,English,gpt-4.1,True,0,0.0,,0,zarcheh,3,False,zarcheh (or zarchaneh),Zarcheh (or Zarchaneh),stop,gpt-4.1-2025-04-14
+New-as-14,Food,Iran,English,gpt-4.1,True,1,1.0,ash reshteh,1,ash reshteh,2,False,ash reshteh,Ash Reshteh,stop,gpt-4.1-2025-04-14
+Ki-pe-34,Food,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,1,False,tea,Tea,stop,gpt-4.1-2025-04-14
+New-su-01,Food,Iran,English,gpt-4.1,True,1,0.5,ice cream,0,lavashak,18,True,"lavashak (fruit leather), puffed corn snacks, samosas, falafel sandwiches, ice cream, sour plum, sunflower seeds, and various candies","Lavashak (fruit leather), puffed corn snacks, samosas, falafel sandwiches, ice cream, sour plum, sunflower seeds, and various candies.",stop,gpt-4.1-2025-04-14
+Sa-en-13,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kalleh pacheh,2,False,kalleh pacheh,Kalleh Pacheh,stop,gpt-4.1-2025-04-14
+New-gr-05,Food,Iran,English,gpt-4.1,True,1,1.0,bread cheese,1,sangak bread with cheese and herbs,6,False,sangak bread with cheese and herbs,Sangak bread with cheese and herbs,stop,gpt-4.1-2025-04-14
+New-gr-13,Food,Iran,English,gpt-4.1,True,1,1.0,tea,1,tea,2,False,tea (chai),Tea (chai),stop,gpt-4.1-2025-04-14
+Ki-pe-40,Food,Iran,English,gpt-4.1,True,0,0.0,,0,kaleh pacheh,7,False,kaleh pacheh (sheep's head and feet stew),Kaleh Pacheh (sheep's head and feet stew),stop,gpt-4.1-2025-04-14
+New-spme-05,Food,Iran,English,gpt-4.1,True,1,0.5,baklava,1,baklava,10,True,"baklava, gaz, sohan, zoolbia-bamieh, and persian rice cookies (nan-e berenji)","Baklava, Gaz, Sohan, Zoolbia-Bamieh, and Persian rice cookies (Nan-e Berenji).",stop,gpt-4.1-2025-04-14
+New-pe-02,Food,Iran,English,gpt-4.1,True,1,1.0,saffron,1,saffron,1,False,saffron,Saffron,stop,gpt-4.1-2025-04-14
+Jod-ch-07,Food,Iran,English,gpt-4.1,True,1,1.0,2,1,2.0,1,False,2.0,2.0,stop,gpt-4.1-2025-04-14
+New-ch-09,Food,Iran,English,gpt-4.1,True,0,0.0,,0,ash reshteh,2,False,ash reshteh,Ash reshteh,stop,gpt-4.1-2025-04-14
+Al-en-06,Food,Iran,English,gpt-4.1,True,0,0.0,,0,adas polo,8,False,adas polo (lentil rice with meat or egg),Adas Polo (lentil rice with meat or egg),stop,gpt-4.1-2025-04-14
