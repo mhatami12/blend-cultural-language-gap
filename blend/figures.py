@@ -49,18 +49,20 @@ class Palette:
 class PosterFigures:
     DOMAINS = list(DOMAIN_ORDER)
 
-    def __init__(self, overall: pd.DataFrame, domains: pd.DataFrame, out_dir: Path, palette: Palette = Palette()):
+    def __init__(self, overall: pd.DataFrame, domains: pd.DataFrame, out_dir: Path, palette: Palette = Palette(),
+                 interaction: pd.DataFrame | None = None):
         self.overall = overall
         self.domains = domains
         self.out_dir = Path(out_dir)
         self.c = palette
+        self.interaction = interaction  # optional: GEE language x domain tests, printed above each domain panel
 
     # ---------------------------------------------------------------- helpers
     def apply_style(self) -> None:
         c = self.c
         plt.rcParams.update({
-            "font.family": "DejaVu Sans", "font.size": 19, "axes.titlesize": 21, "axes.titleweight": "bold",
-            "axes.labelsize": 19, "xtick.labelsize": 18, "ytick.labelsize": 19, "legend.fontsize": 18,
+            "font.family": "DejaVu Sans", "font.size": 24, "axes.titlesize": 26, "axes.titleweight": "bold",
+            "axes.labelsize": 24, "xtick.labelsize": 22, "ytick.labelsize": 24, "legend.fontsize": 23,
             "axes.spines.top": False, "axes.spines.right": False, "axes.spines.left": False,
             "axes.edgecolor": c.ink2, "axes.labelcolor": c.ink, "xtick.color": c.ink2, "ytick.color": c.ink,
             "text.color": c.ink, "axes.grid": True, "axes.grid.axis": "x", "grid.color": c.grid, "grid.linewidth": 1,
@@ -90,24 +92,25 @@ class PosterFigures:
     def overall_accuracy(self) -> Path:
         """English vs local accuracy per setting x model (dumbbell, 95% Wilson CIs)."""
         c, d = self.c, self._official(self.overall)
-        fig, ax = plt.subplots(figsize=(12, 5.2))
+        fig, ax = plt.subplots(figsize=(12, 7.2))
         y = np.arange(len(d))[::-1]
         for yi, (_, r) in zip(y, d.iterrows()):
-            ax.plot([r.acc_en, r.acc_loc], [yi, yi], color=c.grid, lw=6, solid_capstyle="round", zorder=1)
-            for acc, lo, hi, col in [(r.acc_en, r.acc_en_lo, r.acc_en_hi, c.english),
-                                     (r.acc_loc, r.acc_loc_lo, r.acc_loc_hi, c.local)]:
-                ax.errorbar(acc, yi, xerr=[[acc - lo], [hi - acc]], fmt="o", ms=13, color=col, mec="white", mew=2,
-                            elinewidth=2, capsize=0, zorder=3)
-            ax.text(83.5, yi, f"{r.gap_pp:+.1f} pp\n{format_p(r.mcnemar_p)}", va="center", ha="left", fontsize=17,
+            # English slightly above, local slightly below, so the two confidence intervals never overlap
+            for acc, lo, hi, col, dy in [(r.acc_en, r.acc_en_lo, r.acc_en_hi, c.english, 0.17),
+                                         (r.acc_loc, r.acc_loc_lo, r.acc_loc_hi, c.local, -0.17)]:
+                ax.errorbar(acc, yi + dy, xerr=[[acc - lo], [hi - acc]], fmt="o", ms=15, color=col, mec="white",
+                            mew=2, elinewidth=3, capsize=0, zorder=3)
+                ax.text(hi + 0.4, yi + dy, f"{acc:.1f}", va="center", ha="left", fontsize=21, color=c.ink)
+            ax.text(84, yi, f"{r.gap_pp:+.1f} pp\n{format_p(r.mcnemar_p)}", va="center", ha="left", fontsize=22,
                     **self._emphasis(r.mcnemar_p))
         ax.set_yticks(y, [self.row_label(r) for _, r in d.iterrows()])
         ax.set_xlim(45, 83)
-        ax.set_ylim(-0.7, len(d) - 0.3)
-        ax.set_xlabel("Accuracy (%, SEM-B, 95% CI)")
+        ax.set_ylim(-0.6, len(d) - 0.4)
+        ax.set_xlabel("Accuracy (% correct, 95% CI); bold gap = significant (p < .05)")
         ax.plot([], [], "o", color=c.english, ms=12, label="English prompt")
         ax.plot([], [], "o", color=c.local, ms=12, label="Local-language prompt")
         ax.legend(loc="lower center", bbox_to_anchor=(0.45, 1.0), ncol=2, frameon=False)
-        ax.text(83.5, len(d) - 0.35, "EN − local", fontsize=17, color=c.ink2, ha="left", va="bottom")
+        ax.text(84, len(d) - 0.45, "EN − local", fontsize=22, color=c.ink2, ha="left", va="bottom")
         return self.save(fig, "fig1_overall")
 
     # ---------------------------------------------------------------- fig 2
@@ -115,7 +118,7 @@ class PosterFigures:
         """Per-domain gap with 95% bootstrap CIs, one panel per setting; filled = Holm-significant."""
         c, d = self.c, self.domains[self.domains.scoring == "official"]
         models = list(dict.fromkeys(d.model))
-        fig, axes = plt.subplots(1, len(COUNTRIES), figsize=(14, 6.6), sharey=True, sharex=True)
+        fig, axes = plt.subplots(1, len(COUNTRIES), figsize=(13, 8.4), sharey=True, sharex=True)
         y = np.arange(len(self.DOMAINS))
         off = dict(zip(models, np.linspace(-0.17, 0.17, len(models))))
         for ax, (country, spec) in zip(np.atleast_1d(axes), COUNTRIES.items()):
@@ -129,17 +132,20 @@ class PosterFigures:
                            edgecolor=c.model(m), linewidth=2.2, zorder=3)
                 ax.scatter(s.gap_pp[sig], (y + off[m])[sig.to_numpy()], s=150, color=c.model(m),
                            edgecolor=c.model(m), linewidth=2.2, zorder=3)
-            ax.set_title(f"{country} ({spec.language})", loc="left")
-            ax.set_xlabel("Gap: English − local (pp, 95% CI)")
-            ax.text(0.02, -0.16, "← local better", transform=ax.transAxes, color=c.ink2, fontsize=16)
-            ax.text(0.98, -0.16, "English better →", transform=ax.transAxes, color=c.ink2, fontsize=16, ha="right")
+            ax.set_title(country, loc="left", pad=62 if self.interaction is not None else 6)
+            if self.interaction is not None:  # RQ2 test result, so it can be read from the figure itself
+                g = self.interaction[(self.interaction.country == country) & (self.interaction.scoring == "official")]
+                parts = [f"{m.split()[0]} {format_p(g[g.model == m].gee_p.iloc[0]).replace(' ', '')}" for m in models]
+                ax.text(0, 1.015, "Language × domain (GEE):\n" + "  ·  ".join(parts), transform=ax.transAxes,
+                        fontsize=19, color=c.ink2, va="bottom", ha="left")
         axes[0].set_yticks(y, [DOMAIN_SHORT.get(x, x) for x in self.DOMAINS])
         axes[0].invert_yaxis()
         for m in models:
             axes[0].scatter([], [], s=110, color=c.model(m), label=m)
-        axes[0].scatter([], [], s=110, facecolor="white", edgecolor=c.ink2, linewidth=2, label="not significant (Holm)")
+        axes[0].scatter([], [], s=110, facecolor="white", edgecolor=c.ink2, linewidth=2, label="open = not significant (Holm)")
         fig.legend(*axes[0].get_legend_handles_labels(), loc="lower center", bbox_to_anchor=(0.5, 1.0), ncol=3,
                    frameon=False)
+        fig.supxlabel("← local better     Gap: English − local (pp, 95% CI)     English better →", fontsize=24)
         fig.tight_layout()
         return self.save(fig, "fig2_domains")
 
@@ -174,7 +180,7 @@ class PosterFigures:
         c, d = self.c, self._official(self.overall)
         parts = [("both_correct", "Both correct", c.both_correct), ("en_only", "English only", c.english),
                  ("loc_only", "Local only", c.local), ("both_wrong", "Both wrong", c.both_wrong)]
-        fig, ax = plt.subplots(figsize=(12, 4.4))
+        fig, ax = plt.subplots(figsize=(12, 5.4))
         y = np.arange(len(d))[::-1]
         left = np.zeros(len(d))
         for col, lab, colour in parts:
@@ -182,7 +188,7 @@ class PosterFigures:
             ax.barh(y, v, left=left, color=colour, height=0.62, label=lab, edgecolor="white", linewidth=2)
             for yi, l, vv in zip(y, left, v):
                 if vv >= 6:
-                    ax.text(l + vv / 2, yi, f"{vv:.0f}%", ha="center", va="center", fontsize=17,
+                    ax.text(l + vv / 2, yi, f"{vv:.0f}%", ha="center", va="center", fontsize=22,
                             color="white" if colour != c.both_correct else c.ink, fontweight="bold")
             left += v
         ax.set_yticks(y, [self.row_label(r) for _, r in d.iterrows()])
@@ -200,7 +206,7 @@ class PosterFigures:
 def main():
     paths = Paths.from_env()
     PosterFigures(pd.read_csv(paths.comparison / "overall.csv"), pd.read_csv(paths.comparison / "domains.csv"),
-                  paths.figures).draw_all()
+                  paths.figures, interaction=pd.read_csv(paths.comparison / "interaction.csv")).draw_all()
 
 
 if __name__ == "__main__":

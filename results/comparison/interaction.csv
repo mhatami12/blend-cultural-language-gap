@@ -1,9 +1,9 @@
 country,model,scoring,gee_wald_chi2,gee_df,gee_p,homog_chi2,homog_dof,homog_p_asymptotic,homog_p_permutation,homog_min_expected,homog_n_discordant
-Azerbaijan,GPT-4.1,official,11.6907,5,0.0393,11.6573,5,0.0398,0.0346,5.3103,116
-Azerbaijan,GPT-4.1,strict,6.4611,5,0.2639,5.6090,5,0.3461,0.3516,5.0611,131
-Azerbaijan,Gemini 3.5 Flash-Lite,official,14.2911,5,0.0139,12.0460,5,0.0342,0.0345,3.4202,119
-Azerbaijan,Gemini 3.5 Flash-Lite,strict,14.0384,5,0.0154,11.7188,5,0.0389,0.0360,3.1746,126
-Iran,GPT-4.1,official,6.9487,5,0.2245,6.4528,5,0.2646,0.2739,5.1290,124
-Iran,GPT-4.1,strict,6.2467,5,0.2830,6.4428,5,0.2655,0.2771,6.5034,149
-Iran,Gemini 3.5 Flash-Lite,official,25.3349,5,0.0001,23.0771,5,0.0003,0.0004,8.1522,184
-Iran,Gemini 3.5 Flash-Lite,strict,20.1172,5,0.0012,19.3702,5,0.0016,0.0016,9.4972,179
+Azerbaijan,GPT-4.1,official,11.690717,5,0.039280,11.657269,5,0.039798,0.034597,5.310345,116
+Azerbaijan,GPT-4.1,strict,6.461056,5,0.263904,5.608976,5,0.346144,0.351565,5.061069,131
+Azerbaijan,Gemini 3.5 Flash-Lite,official,14.291051,5,0.013863,12.046038,5,0.034162,0.034497,3.420168,119
+Azerbaijan,Gemini 3.5 Flash-Lite,strict,14.038444,5,0.015367,11.718789,5,0.038851,0.035996,3.174603,126
+Iran,GPT-4.1,official,6.948704,5,0.224483,6.452813,5,0.264616,0.273873,5.129032,124
+Iran,GPT-4.1,strict,6.246684,5,0.282950,6.442845,5,0.265480,0.277072,6.503356,149
+Iran,Gemini 3.5 Flash-Lite,official,25.334912,5,0.000120,23.077126,5,0.000326,0.000400,8.152174,184
+Iran,Gemini 3.5 Flash-Lite,strict,20.117196,5,0.001188,19.370187,5,0.001640,0.001600,9.497207,179

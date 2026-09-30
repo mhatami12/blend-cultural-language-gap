@@ -229,12 +229,12 @@ def save_tables(tables: AnalysisTables, paths: Paths) -> None:
     paths.comparison.mkdir(parents=True, exist_ok=True)
     for name, df in [("overall", tables.overall), ("domains", tables.domains), ("interaction", tables.interaction),
                      ("response_style", tables.response_style), ("rq3_country_difference", tables.rq3)]:
-        df.to_csv(paths.comparison / f"{name}.csv", index=False, float_format="%.4f")
+        df.to_csv(paths.comparison / f"{name}.csv", index=False, float_format="%.6f")
     for country in COUNTRIES:  # per-country copies for convenience
         out = paths.analysis(country)
         out.mkdir(parents=True, exist_ok=True)
-        tables.overall[tables.overall.country == country].to_csv(out / "overall.csv", index=False, float_format="%.4f")
-        tables.domains[tables.domains.country == country].to_csv(out / "domains.csv", index=False, float_format="%.4f")
+        tables.overall[tables.overall.country == country].to_csv(out / "overall.csv", index=False, float_format="%.6f")
+        tables.domains[tables.domains.country == country].to_csv(out / "domains.csv", index=False, float_format="%.6f")
     (paths.comparison / "summary.md").write_text(SummaryWriter(tables).render(), encoding="utf-8")
 
 

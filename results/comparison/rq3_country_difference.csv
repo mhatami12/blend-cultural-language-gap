@@ -1,5 +1,5 @@
 model,scoring,comparison,diff_pp,ci_lo,ci_hi,p_permutation
-GPT-4.1,official,Azerbaijan - Iran,4.8002,-1.7852,11.3063,0.1559
-GPT-4.1,strict,Azerbaijan - Iran,1.4921,-5.5624,8.5528,0.7116
-Gemini 3.5 Flash-Lite,official,Azerbaijan - Iran,-2.1387,-9.5525,4.9709,0.6055
-Gemini 3.5 Flash-Lite,strict,Azerbaijan - Iran,-7.8344,-15.2603,-0.7433,0.0376
+GPT-4.1,official,Azerbaijan - Iran,4.800247,-1.785247,11.306251,0.155884
+GPT-4.1,strict,Azerbaijan - Iran,1.492070,-5.562413,8.552784,0.711629
+Gemini 3.5 Flash-Lite,official,Azerbaijan - Iran,-2.138742,-9.552484,4.970904,0.605539
+Gemini 3.5 Flash-Lite,strict,Azerbaijan - Iran,-7.834418,-15.260317,-0.743311,0.037596

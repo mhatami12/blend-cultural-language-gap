@@ -1,9 +1,9 @@
 country,model,language,median_words,pct_over_5_words,pct_list_answers,acc_official,acc_strict
-Azerbaijan,GPT-4.1,English,2.0000,21.5352,15.5650,70.5757,61.6205
-Azerbaijan,GPT-4.1,Azerbaijani,1.0000,6.3966,8.1023,69.7228,67.8038
-Azerbaijan,Gemini 3.5 Flash-Lite,English,1.0000,2.7719,2.9851,56.0768,54.5842
-Azerbaijan,Gemini 3.5 Flash-Lite,Azerbaijani,1.0000,2.9851,4.0512,65.6716,64.3923
-Iran,GPT-4.1,English,2.0000,23.9035,17.9825,69.7368,57.8947
-Iran,GPT-4.1,Persian,2.0000,28.2895,26.0965,73.6842,65.5702
-Iran,Gemini 3.5 Flash-Lite,English,1.0000,2.6316,1.5351,57.6754,55.9211
-Iran,Gemini 3.5 Flash-Lite,Persian,1.0000,16.8860,15.7895,65.1316,57.8947
+Azerbaijan,GPT-4.1,English,2.000000,21.535181,15.565032,70.575693,61.620469
+Azerbaijan,GPT-4.1,Azerbaijani,1.000000,6.396588,8.102345,69.722814,67.803838
+Azerbaijan,Gemini 3.5 Flash-Lite,English,1.000000,2.771855,2.985075,56.076759,54.584222
+Azerbaijan,Gemini 3.5 Flash-Lite,Azerbaijani,1.000000,2.985075,4.051173,65.671642,64.392324
+Iran,GPT-4.1,English,2.000000,23.903509,17.982456,69.736842,57.894737
+Iran,GPT-4.1,Persian,2.000000,28.289474,26.096491,73.684211,65.570175
+Iran,Gemini 3.5 Flash-Lite,English,1.000000,2.631579,1.535088,57.675439,55.921053
+Iran,Gemini 3.5 Flash-Lite,Persian,1.000000,16.885965,15.789474,65.131579,57.894737
