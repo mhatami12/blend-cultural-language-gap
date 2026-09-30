@@ -23,7 +23,7 @@ and scores. As adaptations of BLEnD they are released under **CC BY-SA 4.0** as 
 | `results/*/raw/*.jsonl` | prompts (BLEnD questions + `inst-4` template) and model responses |
 | `results/*/scored/*.csv` | matched BLEnD reference answers, model responses, item scores |
 | `results/*/analysis/response_language_items.csv` | model responses per question id |
-| `results/manual/*/sample.csv`, `results/manual/*/reviewers/*` | BLEnD questions and reference answers with human judgments |
+| `results/manual/*/sample.csv`, `results/manual/*/reviewers/*`, `results/manual/Azerbaijan/superseded/*` | BLEnD questions and reference answers with human judgments |
 | `results/manual/*/error_analysis_candidates.csv` | BLEnD questions and reference answers |
 
 Changes made to the BLEnD material: selection of the Azerbaijan and Iran short-answer questions,

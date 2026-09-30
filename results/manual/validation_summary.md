@@ -2,12 +2,12 @@
 
 ## Azerbaijan
 - 50 items, 2 completed reviewers: reviewer_A, reviewer_B
-  - reviewer_A: Correct 22, Incorrect 11, Uncertain 17
+  - reviewer_A: Correct 32, Incorrect 7, Uncertain 11
   - reviewer_B: Correct 30, Incorrect 10, Uncertain 10
-- reviewer_A vs reviewer_B: 3-category agreement 46.0%, kappa = 0.135 (n=50); both confident n=26: 76.9%, kappa = 0.462
-- automatic score vs human (n=20 items with a confident, unanimous judgment):
-  - automatic 'correct' confirmed by human: 14/14
-  - automatic 'incorrect' judged CORRECT by human (missed): 1/6
+- reviewer_A vs reviewer_B: 3-category agreement 58.0%, kappa = 0.228 (n=50); both confident n=33: 75.8%, kappa = 0.290
+- automatic score vs human (n=25 items with a confident, unanimous judgment):
+  - automatic 'correct' confirmed by human: 19/19
+  - automatic 'incorrect' judged CORRECT by human (missed): 3/6
 
 ## Iran
 - 50 items, 2 completed reviewers: reviewer_A, reviewer_B

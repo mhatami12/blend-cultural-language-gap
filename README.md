@@ -13,8 +13,7 @@ pytest -q             # 57 tests: unit tests per class + reproduction of every p
 ```
 
 See **TESTING.md** to test every class step by step in IPython, **ARCHITECTURE.md** for the class design (OOP/SOLID),
-**VERIFY.md** for a step-by-step check that the changes were applied correctly,
-and **CHANGES.md** for the full list of changes with diffs against the old scripts.
+and **VERIFY.md** for a step-by-step check that the changes were applied correctly.
 
 ## Layout
 
@@ -106,8 +105,10 @@ legacy/                      old scripts, unchanged (for comparison only)
    silently skipped them); items are matched on id + response text. Results:
    - Iran: κ = .392 (3 categories) / .611 (both confident); automatic "correct" confirmed 17/17;
      automatic "incorrect" judged correct 8/11 → the scorer is conservative.
-   - Azerbaijan: κ = .135 / .462; automatic "correct" confirmed 14/14; automatic "incorrect" judged
-     correct 1/6 → no clear under-counting. The single v2 annotator alone had suggested 11/13.
+   - Azerbaijan: κ = .228 / .290; automatic "correct" confirmed 19/19; automatic "incorrect" judged
+     correct 3/6. The single v2 annotator alone had suggested 11/13.
+   - Azerbaijan reviewer A was replaced on 2026-09-30 by a new independent reviewer. The replaced sheet is
+     kept in `results/manual/Azerbaijan/superseded/` for transparency and is not used in any statistic.
    Empty reviewer sheets are reported as *pending* and ignored.
 9. **Bootstrap/permutation use their own seeded RNG per call**, so results no longer depend
    on the order in which models are analysed.

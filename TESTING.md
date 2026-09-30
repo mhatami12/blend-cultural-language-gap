@@ -120,7 +120,7 @@ from blend.validation import CountryValidation
 print("\n".join(CountryValidation("Iran", paths.manual / "Iran").run().lines))
 # -> kappa = 0.392; confident 90.3%, kappa = 0.611; auto-correct 17/17; missed 8/11
 print("\n".join(CountryValidation("Azerbaijan", paths.manual / "Azerbaijan").run().lines))
-# -> 2 reviewers; kappa = 0.135 / 0.462; auto-correct 14/14; missed 1/6
+# -> 2 reviewers; kappa = 0.228 / 0.290; auto-correct 19/19; missed 3/6
 ```
 
 ## 7. Inference without an API: `InferenceRunner` with a fake client
@@ -154,7 +154,7 @@ Image(str(out / "fig3_robustness.png"))
 ## 9. All automated tests
 
 ```python
-!pytest -q                        # -> 57 passed
+!pytest -q                        # -> 58 passed
 !./test_all.sh                    # -> 43 passed, 0 failed, 1 warning (live API test skipped)
 ```
 

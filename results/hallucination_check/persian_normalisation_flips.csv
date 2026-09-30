@@ -1,0 +1,99 @@
+model,id,topic,response_clean
+gpt-4.1,New-ha-08,Food,کله‌پاچه
+gpt-4.1,Jo-sp-37,Education,۱۲
+gpt-4.1,Ni-en-03,Education,۱۸
+gpt-4.1,Jod-ch-56,Work life,۵۵
+gpt-4.1,New-az-49,Work life,۲
+gpt-4.1,New-ch-44,Work life,حداکثر ۳ ماه
+gpt-4.1,Ta-pe-11,Family,۲۳ تا ۲۷
+gpt-4.1,Ta-pe-10,Family,۲۵ تا ۳۰
+gpt-4.1,New-am-72,Family,تن‌تن و ماجراهایش
+gpt-4.1,New-pe-59,Family,۲
+gpt-4.1,Ji-ko-29,Family,۱۸ سالگی
+gpt-4.1,Ca-sp-05,Food,۳
+gpt-4.1,Kik-in-24,Food,سیب‌زمینی سرخ‌کرده
+gpt-4.1,New-pe-06,Food,قرمه‌سبزی
+gpt-4.1,New-as-80,Holidays/Celebration/Leisure,مردم ایران در جشن‌های سنتی لباس‌های محلی و سنتی مخصوص هر منطقه را می‌پوشند که معمولاً شامل لباس‌های رنگارنگ، جلیقه، شال، دامن‌های چین‌دار، پیراهن‌های بلند و روسری یا کلاه‌های سنتی است
+gpt-4.1,Jod-ch-30,Holidays/Celebration/Leisure,در ایران، بزرگترین جشن نوروز است و تزئینات یا نمادهای خاص آن شامل سفره هفت‌سین، سبزه، سمنو، سیب، سیر، سکه، سنجد، سماق، ماهی قرمز، آینه و شمع است
+gpt-4.1,Ta-pe-32,Holidays/Celebration/Leisure,چهارشنبه‌سوری
+gpt-4.1,New-ch-79,Holidays/Celebration/Leisure,مردان بازنشسته معمولاً از پیاده‌روی، باغبانی، دیدار با دوستان، بازی شطرنج یا تخته، سفرهای کوتاه، مطالعه و تماشای تلویزیون لذت می‌برند
+gpt-4.1,New-pe-76,Holidays/Celebration/Leisure,پیاده‌روی
+gpt-4.1,New-pe-16,Sport,زورخانه‌ای (یا ورزش زورخانه‌ای)
+gpt-4.1,Ta-pe-23,Sport,پیاده‌روی
+gpt-4.1,Ta-pe-22,Sport,پیاده‌روی
+gpt-4.1,New-ch-66,Education,۰
+gpt-4.1,Al-en-16,Education,۵ یا ۶
+gpt-4.1,New-ch-71,Education,۳۰
+gpt-4.1,New-pe-74,Education,میانگین شهریه سالانه دانشگاه‌های دولتی در ایران (برای دوره‌های شبانه یا نوبت دوم) حدود ۱۰ تا ۳۰ میلیون تومان است
+gpt-4.1,Th-en-48,Education,۲۰
+gpt-4.1,Ni-en-15,Education,۱۲
+gpt-4.1,New-ch-64,Education,۱۵-۲۰
+gpt-4.1,Gu-ch-38,Education,۴
+gpt-4.1,Gu-ch-41,Education,۱
+gpt-4.1,Ni-en-13,Education,۲۲
+gpt-4.1,New-ko-08,Work life,دانشجویان دانشگاه در ایران بیشتر در کافی‌شاپ‌ها، رستوران‌ها، آموزشگاه‌های خصوصی، فروشگاه‌ها، شرکت‌های استارتاپی و به عنوان معلم خصوصی به کار پاره وقت می‌پردازند
+gpt-4.1,New-gr-47,Work life,۱۵
+gpt-4.1,Ji-ko-25,Family,روز مادر، روز پدر، روز دختر، روز پسر، عید نوروز
+gpt-4.1,Th-en-39,Family,اسم‌فامیل
+gpt-4.1,Ta-pe-13,Family,۵
+gpt-4.1,Th-en-37,Family,۱۸-۲۵
+gpt-4.1,Gu-ch-18,Family,۲
+gpt-4.1,Sa-en-13,Food,کله‌پاچه
+gemini-3.5-flash-lite,Ta-pe-37,Holidays/Celebration/Leisure,سفره هفت‌سین
+gemini-3.5-flash-lite,Gu-ch-32,Education,۹
+gemini-3.5-flash-lite,Nu-in-04,Education,۲
+gemini-3.5-flash-lite,Ni-en-03,Education,۱۸ تا ۱۹
+gemini-3.5-flash-lite,Jod-ch-56,Work life,۵۵
+gemini-3.5-flash-lite,New-az-49,Work life,۱
+gemini-3.5-flash-lite,New-ch-44,Work life,۳ ماه
+gemini-3.5-flash-lite,Jod-ch-46,Work life,۱
+gemini-3.5-flash-lite,Ni-en-21,Work life,۱۵
+gemini-3.5-flash-lite,Ta-pe-10,Family,۲۷ تا ۳۰
+gemini-3.5-flash-lite,New-am-72,Family,تن‌تن و میلو
+gemini-3.5-flash-lite,New-pe-59,Family,۱ تا ۳
+gemini-3.5-flash-lite,New-ko-06,Family,کدو قلقله‌زن
+gemini-3.5-flash-lite,Ji-ko-29,Family,یک‌سالگی
+gemini-3.5-flash-lite,Ca-sp-11,Food,پنج‌شنبه
+gemini-3.5-flash-lite,Ca-sp-05,Food,۳
+gemini-3.5-flash-lite,New-am-02,Food,قورمه‌سبزی
+gemini-3.5-flash-lite,New-pe-06,Food,قورمه‌سبزی
+gemini-3.5-flash-lite,Na-ko-40,Holidays/Celebration/Leisure,۳
+gemini-3.5-flash-lite,New-as-80,Holidays/Celebration/Leisure,لباس‌های محلی و سنتی رنگارنگ
+gemini-3.5-flash-lite,Jod-ch-30,Holidays/Celebration/Leisure,سفره هفت‌سین
+gemini-3.5-flash-lite,Ta-pe-32,Holidays/Celebration/Leisure,چهارشنبه‌سوری
+gemini-3.5-flash-lite,New-pe-76,Holidays/Celebration/Leisure,پیک‌نیک
+gemini-3.5-flash-lite,New-am-81,Holidays/Celebration/Leisure,۶
+gemini-3.5-flash-lite,Th-en-12,Sport,وزنه‌برداری
+gemini-3.5-flash-lite,Ta-pe-22,Sport,پیاده‌روی
+gemini-3.5-flash-lite,New-en-75,Education,۱۶
+gemini-3.5-flash-lite,New-ch-66,Education,۰
+gemini-3.5-flash-lite,Al-en-16,Education,۵
+gemini-3.5-flash-lite,Gu-ch-31,Education,۶
+gemini-3.5-flash-lite,Jo-sp-36,Education,۱۲
+gemini-3.5-flash-lite,New-ch-71,Education,۲۵ تا ۳۰
+gemini-3.5-flash-lite,Ni-en-06,Education,۶
+gemini-3.5-flash-lite,Gu-ch-33,Education,۷
+gemini-3.5-flash-lite,Th-en-48,Education,۲۰
+gemini-3.5-flash-lite,Jo-sp-43,Education,۰
+gemini-3.5-flash-lite,Ni-en-11,Education,۲
+gemini-3.5-flash-lite,Gu-ch-38,Education,۴
+gemini-3.5-flash-lite,Nu-in-05,Education,۷
+gemini-3.5-flash-lite,New-pe-65,Education,۱۰
+gemini-3.5-flash-lite,Gu-ch-41,Education,۰
+gemini-3.5-flash-lite,Ni-en-09,Education,۵
+gemini-3.5-flash-lite,Ni-en-13,Education,۲۲
+gemini-3.5-flash-lite,Jo-sp-39,Education,۶
+gemini-3.5-flash-lite,Jo-sp-18,Work life,۲۶
+gemini-3.5-flash-lite,Ni-en-19,Work life,۵
+gemini-3.5-flash-lite,Jod-ch-60,Work life,۸
+gemini-3.5-flash-lite,Ni-en-17,Work life,۴۴
+gemini-3.5-flash-lite,Jod-ch-57,Work life,۶۰
+gemini-3.5-flash-lite,New-gr-47,Work life,۱۵
+gemini-3.5-flash-lite,Gu-ch-16,Family,۳.۳
+gemini-3.5-flash-lite,Ca-sp-43,Family,۲
+gemini-3.5-flash-lite,Ca-sp-42,Family,۳۶
+gemini-3.5-flash-lite,Ta-pe-13,Family,۵
+gemini-3.5-flash-lite,Th-en-43,Family,۱
+gemini-3.5-flash-lite,Th-en-37,Family,۱۸ تا ۲۵
+gemini-3.5-flash-lite,Gu-ch-18,Family,۲
+gemini-3.5-flash-lite,Jod-ch-07,Food,۱.۵

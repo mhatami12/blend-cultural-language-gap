@@ -36,9 +36,9 @@ def test_azerbaijan_two_independent_reviewers():
     text = "\n".join(res.lines)
     assert "2 completed reviewers: reviewer_A, reviewer_B" in text and "pending" not in text
     ab = next(r for r in res.rows if r["comparison"] == "reviewer_A vs reviewer_B")
-    assert round(ab["kappa_3cat"], 3) == 0.135 and round(ab["kappa_confident"], 3) == 0.462
+    assert round(ab["kappa_3cat"], 3) == 0.228 and round(ab["kappa_confident"], 3) == 0.290
     auto = next(r for r in res.rows if r["comparison"] == "automatic vs consensus")
-    assert (auto["auto1_confirmed"], auto["auto1_n"], auto["auto0_actually_correct"], auto["auto0_n"]) == (14, 14, 1, 6)
+    assert (auto["auto1_confirmed"], auto["auto1_n"], auto["auto0_actually_correct"], auto["auto0_n"]) == (19, 19, 3, 6)
 
 
 def test_iran_numbers_unchanged():
@@ -64,6 +64,13 @@ def test_empty_sheet_is_pending(az_copy):
     set_judgments(AZ / "reviewers" / "reviewer_B.xlsx", az_copy / "reviewers" / "reviewer_B.xlsx", [None])
     text = "\n".join(CountryValidation("Azerbaijan", az_copy).run().lines)
     assert "pending (empty, ignored): reviewer_B.xlsx" in text and "1 completed annotator" in text
+
+
+def test_superseded_reviewer_is_not_used():
+    """The replaced reviewer A is kept in superseded/ for transparency but never read."""
+    assert (AZ / "superseded" / "reviewer_A_old.xlsx").exists()
+    text = "\n".join(CountryValidation("Azerbaijan", AZ).run().lines)
+    assert "reviewer_A_old" not in text and "superseded" not in text
 
 
 def test_items_matched_without_model_column():
